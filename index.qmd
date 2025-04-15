@@ -1,0 +1,74 @@
+---
+title: "Sustainable Forest Environment (SFE)"
+subtitle: "Lecture 2: Forest Ecosystems"
+format:
+  revealjs:
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    logo: figures/cover.svg
+    css: styles.css
+    footer: 'Kyoto University | Sustainable Forest Environment (SFE) | Lecture 2: Forest Ecosystems'
+resources:
+  - demo.pdf
+---
+
+## Learning Objectives
+
+- Introduction to Forest Ecology
+- Components of Forest Ecosystem
+
+## Table of contents
+
+- Ecosystem
+- Ecology
+- Forest Ecosystem
+- Forest Stands
+- Landscape Ecosystem
+
+## Ecosystem
+
+::: {.callout-note title="Definition"}
+An ecosystem is a community of living organisms (plants, animals, and microorganisms) interacting with their physical environment (soil, water, air) in a specific area.
+:::
+
+- Ecosystems can be small (like a pond) or large (like a forest).
+- They can be natural (like a rainforest) or artificial (like a city park).
+- Ecosystems are dynamic and can change over time due to natural processes or human activities.
+- Ecosystems are characterized by their structure (the physical components) and function (the processes that occur within them).
+- Ecosystems can be classified into different types based on their characteristics, such as terrestrial (land-based) or aquatic (water-based).
+- Ecosystems are essential for the survival of all living organisms, as they provide food, shelter, and other resources.
+- Ecosystems are interconnected, meaning that changes in one ecosystem can affect other ecosystems.
+- Ecosystems are important for maintaining biodiversity, which is the variety of different species in a given area.
+- Ecosystems provide many services to humans, such as clean air and water, pollination of crops, and climate regulation.
+
+## Components of Forest-Ecosystem
+
+- The main components of a forest ecosystem include:
+
+- **Biotic components**: living organisms such as trees, shrubs, animals, fungi, and microorganisms.
+- **Abiotic components**: non-living elements such as soil, water, air, and climate.
+- **Energy flow**: the transfer of energy through the ecosystem, primarily from the sun to plants (producers) and then to consumers (herbivores and carnivores).
+- **Nutrient cycling**: the movement of nutrients through the ecosystem, including processes like decomposition and nutrient uptake by plants.
+- **Habitat**: the physical environment where organisms live and interact.
+
+## Different layers of a forest ecosystem
+
+- **Forest floor**: the ground layer, consisting of soil, leaf litter, and decomposing organic matter. It is home to many microorganisms, insects, and small mammals.
+- **Understory**: the layer of shrubs and small trees that grow beneath the canopy. It receives limited sunlight and is home to various animals and plants adapted to low light conditions.
+- **Canopy**: the upper layer formed by the tops of tall trees. It is a rich habitat for birds, insects, and other wildlife, and it plays a crucial role in photosynthesis.
+- **Emergent layer**: the highest layer, consisting of a few tall trees that rise above the canopy. These trees receive the most sunlight and are home to birds, bats, and insects.
+- **Soil**: the foundation of the forest ecosystem, providing nutrients and support for plant growth. It is composed of minerals, organic matter, water, and air.
+- **Water**: essential for all living organisms, water is found in various forms within the forest ecosystem, including rivers, streams, and groundwater.
+
+## Different layers of a forest ecosystem
+
+- **Climate**: the long-term weather patterns in a region, including temperature, precipitation, and humidity. Climate influences the types of plants and animals that can thrive in a forest ecosystem.
+- **Microclimates**: small-scale variations in climate within the forest, such as shaded areas, moist spots, or sunny clearings. These microclimates can support different plant and animal species.
+- **Biodiversity**: the variety of species present in a forest ecosystem, including plants, animals, fungi, and microorganisms. High biodiversity contributes to ecosystem stability and resilience.
+- **Food webs**: the complex interconnections between different species in a forest ecosystem, illustrating how energy and nutrients flow through the system. Food webs include producers (plants), consumers (herbivores and carnivores), and decomposers (fungi and bacteria).
+
+## Ecological Succession
+
+- **Succession**: the process of change in the species composition of a forest over time, often following disturbances such as fire or logging. Succession can lead to the establishment of new plant communities and changes in habitat for animals.

@@ -1,0 +1,7 @@
+_book
+.quarto
+.DS_Store
+index_files/
+index.html
+
+/.quarto/
