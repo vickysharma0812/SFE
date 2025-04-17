@@ -3,9 +3,6 @@ _book
 /.quarto/
 /_site/
 .DS_Store
-index_files/
 lecture-2_files/
-index.html
-lecture-2.html
 
 /.quarto/
