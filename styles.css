@@ -5,3 +5,13 @@
 .border-thick {
   border-width: 3px;
 }
+
+.small-caption {
+  font-size: 0.6em;
+}
+
+.reveal .slide aside, .reveal .slide div.aside {
+    font-size: 0.4em;
+    color: #6f6f6f;
+}
+

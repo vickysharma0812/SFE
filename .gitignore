@@ -2,6 +2,8 @@ _book
 .quarto
 .DS_Store
 index_files/
+lecture-2_files/
 index.html
+lecture-2.html
 
 /.quarto/

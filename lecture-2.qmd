@@ -1,0 +1,412 @@
+---
+title: "Sustainable Forest Environment (SFE)"
+subtitle: "Lecture 2: Forest Ecosystems"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    logo: figures/cover.svg
+    footer: 'Kyoto University | Sustainable Forest Environment (SFE) | Lecture 2: Forest Ecosystems'
+    css: styles.css
+    #width: 960       # default is 960
+    #height: 700       # default is 700
+    #margin: 0.1       # optional, controls slide margins (default: 0.1)
+    #minScale: 0.2     # minimum zoom scale
+    #maxScale: 2.0     # maximum zoom scale
+---
+
+## Learning Objectives
+
+- Introduction to ecosystems
+- Forest ecology
+- Components of forest ecosystem
+- The nature of forests
+
+## Table of contents
+
+- Ecosystem
+- Ecology
+- Forest Ecosystem
+- Forest Stands
+- Landscape Ecosystem
+
+## Ecosystem
+
+::: {.callout-note title="Definition"}
+An ecosystem is a community of living organisms (plants, animals, and microorganisms) interacting with their physical environment (soil, water, air) in a specific area.
+:::
+
+::: {.callout-tip title="Biotic components"}
+The living organisms in an ecosystem are called biotic components. They can include: Plants, animals, fungi, and microorganisms. 
+:::
+
+::: {.notes}
+Living organisms interact with each other and their environment in various ways, such as through food chains, symbiotic relationships, and competition for resources.
+:::
+
+::: {.callout-tip title="Abiotic components"}
+The non-living elements in an ecosystem are called abiotic components. They include: Soil, water, air, sunlight, and climate. These components provide the necessary conditions for living organisms to thrive and interact with each other.
+:::
+
+## Ecosystem
+
+::: {.callout-note appearance="simple"}
+Ecosystems can be small (like a pond) or large (like a forest).
+:::
+
+:::: {.columns .small-caption}
+
+::: {.column width="50%"}
+![Small ecosystem: Pond ecosystem consists of fresh water system, lotus, algae, lilly, birds, frogs, toads, etc.](./figures/pond-1.jpg){fig-align="left"}
+
+:::
+
+:::{.notes}
+A pond ecosystem is a freshwater ecosystem on which different living organisms depend for their survival and nutritional needs. Ponds, due to their light penetration, are capable of supporting a diverse range of water plants.
+:::
+
+::: {.column width="50%"}
+![Big ecosystem: Forest ecosystem](./figures/forest-1.jpg){width=80% fig-align="left"}
+:::
+
+::::
+
+## Ecosystem
+
+::: {.callout-note appearance="simple"}
+An ecosystem can be natural (like a rainforest) or artificial (like a city park).
+:::
+
+:::: {.columns .small-caption}
+
+::: {.column width="50%"}
+![A rainforest is an area of tall trees that receives a high amount of rainfall [^1]](./figures/rainforest-1.jpg){fig-align="left"}
+
+[^1]: https://education.nationalgeographic.org/resource/rain-forest/
+
+:::
+
+::: {.column width="50%"}
+![City park ecosystem (source: https://www.archdaily.com/1006353/6-successful-city-park-projects-that-are-hotspots-for-biodiversity)](./figures/citypark-1.jpg){width=80%, fig-align="left"}
+:::
+
+::::
+
+## Ecosystem
+
+::: {.callout-note appearance="simple"}
+Ecosystems are dynamic and can change over time due to natural processes, disturbances, or human activities. 
+Ecosystems are interconnected, meaning that changes in one ecosystem can affect other ecosystems.
+:::
+
+:::: {.columns .small-caption}
+
+::: {.column width="50%"}
+
+![Reintroduction of Gray wolves into Yellowstone National Park in 1995[^2]](./figures/yellow-stone-1.webp){width=50% fig-align="left"}
+
+[^2]: https://earthjustice.org/feature/infographic-wolves-keep-yellowstone-in-the-balance
+
+:::
+
+:::{.notes}
+Gray wolves were reintroduced into Yellowstone National Park in 1995, resulting in a trophic cascade through the entire ecosystem. This example offers a well-documented case of how the reintroduction of a single species can trigger a chain reaction of ecological changes, demonstrating the interconnected and dynamic nature of ecosystems. 
+:::
+
+::: {.column width="50%"}
+{{< video https://youtu.be/CFHmtVNu97E?si=S5Oxa5hxJw0eid84 >}}
+
+![Gray wolves[^3]](./figures/yellow-stone-2.jpg){width=50% fig-align="left"}
+
+[^3]: https://www.nationalparks.org/news-and-updates/updates/reintroducing-wolves-to-yellowstone-national-park
+:::
+
+::::
+
+
+## Ecosystem
+
+::: {.callout-note}
+Ecosystems are characterized by their structure (the physical components) and function (the processes that occur within them).
+:::
+
+:::: {.columns .small-caption}
+
+::: {.column width="50%"}
+
+**Structure**
+
+- Biotic components: 
+  - Producers: Algae, aquatic plants
+  - Consumers: Insects, fish, frogs
+  - Decomposers: Bacteria, fungi
+- Abiotic components:
+  - Water, sunlight, dissolved oxygen, nutrients, temperature
+
+:::
+
+::: {.column width="50%"}
+
+**Functions**
+
+- Photosynthesis by algae and aquatic plants
+- Nutrient cycling, as decomposers break down dead organisms and release nutrients back into the water
+- Energy flow, from sunlight to producers, and through various levels of consumers (e.g., fish eating insects)
+- Oxygen production and consumption, through photosynthesis and respiration
+
+:::
+
+::::
+
+## Ecosystem
+
+::: {.callout-note title="Tansely's Ecosystem"}
+
+The British botanist-ecologist Arthur Tansely (1935) introduced the term "ecosystem". He emphasis on combining both the organism and their environment to describe the complex interactions between living organisms and their physical environment.
+:::
+
+:::: {.columns .small-caption}
+
+::: {.column width="30%"}
+![Arthur Tansely](./figures/arthur-tansley.jpg){width=50% fig-align="left"}
+:::
+
+::: {.column width="70%"}
+- Tansely's idea of the ecosystem was centered on the organism, species or community rather than geographic or landscape entities
+- In his approach every organism defines its own ecosystem. In this way, there are nearly infinite numbers of ecosystems. And it is difficult to study such systems.
+- On the other hand, Rowe(1961), Troll (1968), view ecosystem centered on geographic or landscape unit. Organisms are important components oof landscape ecosystem. In this waay, when we study landscape ecosystem, it is implied that organisms, species, and communities are part of such system.
+:::
+
+::::
+
+## Ecology
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+::: {.callout-note title="Definition"}
+
+Ecology is the scientific study of "ecosystems" and their interacting biotic and abiotic components, that is, the interactions between living organisms and their environment, including the relationships among organisms and their physical surroundings.
+
+:::
+
+::: {.small-caption}
+In ecology, the terms organism, species, population, and community represent hierarchical levels of biological organization, each reflecting a different scale of interaction within the natural world.
+:::
+
+:::
+
+::: {.column width="30%" .small-caption}
+
+
+![Organism, species, population, community](./figures/ecology-1.png){width=80% fig-align="left"}
+
+:::
+
+::::
+
+## Organism
+
+::: {.callout-note title="Definition"}
+An organism is an individual living entity that carries out all basic life functions, such as metabolism, reproduction, growth, and response to stimuli.
+:::
+
+::: {.small-caption}
+
+- Characteristics:
+  - All organisms are made up of one (unicellular) or more cells (multicellular).
+  - They can carry out chemical reactions to obtain energy and nutrients from their environment.
+  - They can grow and develop over time, following specific patterns and stages.
+  - They can reproduce to create new individuals, either sexually or asexually.
+  - They can respond to changes in their environment, such as light and temperature.
+
+- Examples:
+  - A single tree, such as a red maple, is an organism.
+  - A deer, a bird, or a mushroom is also an organism.
+  - Unicelluar : A bacterium
+
+:::
+
+## Species {.smaller}
+
+::: {.callout-note title="Definition"}
+A species is **a group of organisms** that are genetically similar and are capable of interbreeding under natural conditions to produce fertile offspring.
+:::
+
+:::: {.columns .small-caption}
+
+::: {.column width="50%"}
+
+Examples of species include:
+
+- **Red maple (Acer rubrum)**: A common tree species found in North America, known for its vibrant red leaves in the fall.
+- **White oak (Quercus alba)** 白樫の木 (Shirakashi no ki): A large deciduous tree species native to eastern and central North America, valued for its strong wood and acorns.
+- **Red oak (Quercus rubra)** 赤い樫の木 (Akai kashi no ki or Akagashi): A fast-growing tree species native to North America, known for its distinctive red leaves in the fall and valuable timber.
+- There are more than 500 species of oak trees across the world  [source](https://www.nashvilletreeconservationcorps.org/treenews/how-many-oak-tree-varieties).
+
+:::
+
+::: {.column width="50%"}
+
+![White oak tree](./figures/white-oak-1.jpg){width=80% fig-align="left"}
+
+:::
+
+::::
+
+## Population
+
+::: {.callout-note title="Definition"}
+A population is a group of individuals of the same species that live in a specific area and interact with each other. For example, all the white oak trees in a forest make up a population.
+:::
+
+::: {layout-ncol=2 .small-caption}
+![White oak tree population](./figures/white-oak-2.jpg){width=80% fig-align="left"}
+
+![Red oak tree population](./figures/red-oak-2.jpg){width=80% fig-align="left"}
+:::
+
+## Community
+
+::: {.callout-note title="Definition"}
+A community is a group of different populations of organisms that live together in a specific area and interact with each other. For example, a forest community may include red maple trees, oak trees, deer, squirrels, and various fungi and microorganisms.
+:::
+
+## Forest
+
+::: {.callout-note title="Definition"}
+A forest is a three-dimensional ecological system mainly dominated by trees, woody vegetation, and herbaceous plants that exist in dynamic interaction with the air-earth matrix of the landscape. It is a complex ecosystem characterized by a layered structure of functional parts.
+:::
+
+::: {layout-ncol=2 .small-caption}
+![Forest ecosystem](./figures/forest-2.jpg){width=80% fig-align="left"}
+
+![Layered structure of a forest ecosystem](./figures/forest-3.jpg){width=100% fig-align="left"}
+:::
+
+## Forest Ecosystem
+
+::: {.callout-note title="Definition"}
+A forest ecosystem is a complex network of living organisms (plants, animals, fungi, and microorganisms) and their physical environment (soil, water, air) that interact with each other in a specific forested area. Forest ecosystems can vary widely in terms of species composition, structure, and function.
+:::
+
+
+::: {layout-ncol=2 .small-caption}
+
+![Layered structure of a forest ecosystem](./figures/forest-3.jpg){width=100% fig-align="left"}
+
+![](./figures/forest-ecosystem-layers.png){width=100% fig-align="left"}
+
+:::
+
+::: {.notes}
+Our definition of forest ecosystem emphasis its structurally layered and volumetric nature. According to this definition, we should emphasize the importance of geography and physiography within a regional climatic setting to understand the vegetation type, ecosystem structure and function. The forest ecosystem is spatial in nature and is not just the extension of the biotic community.
+:::
+
+
+## Components of Forest-Ecosystem
+
+- The main components of a forest ecosystem include:
+
+- **Biotic components**: living organisms such as trees, shrubs, animals, fungi, and microorganisms.
+- **Abiotic components**: non-living elements such as soil, water, air, and climate.
+- **Energy flow**: the transfer of energy through the ecosystem, primarily from the sun to plants (producers) and then to consumers (herbivores and carnivores).
+
+## Emergent Layer
+
+:::: {.columns .small-caption}
+
+::: {.column width="60%"}
+
+- **Emergent layer**: the highest layer, consisting of a few tall trees that rise above the canopy. 
+- Exposed to full sunlight, high winds, and temperature fluctuations.
+- Trees have thick trunks, buttressed roots, and small, waxy leaves to reduce water loss.
+- These trees play a role in modulating the forest’s microclimate and act as habitats for species that require direct sunlight or high nesting sites.
+
+:::
+
+::: {.column width="40%"}
+
+![Layers of a forest ecosystem [^4] ](./figures/forest-4.jpg){width=70% fig-align="left"}
+
+
+[^4]: https://www.bioexplorer.net/images/rainforest-layers-700-696x1044.jpg
+
+:::
+
+::::
+
+## Canopy Layer
+
+:::: {.columns .small-caption}
+
+::: {.column width="60%"}
+
+- The uppermost continuous layer formed by the crowns of the majority of mature trees.
+- This is the primary layer of the forest where the majority of photosynthesis occurs.
+- It has dense, interlocking tree crowns.
+- Regulates light penetration to lower layers.
+- Serves as a shield from heavy rainfall and direct sunlight.
+
+:::
+
+::: {.column width="40%"}
+
+![Layers of a forest ecosystem [^5] ](./figures/forest-4.jpg){width=70% fig-align="left"}
+
+
+[^5]: https://www.bioexplorer.net/images/rainforest-layers-700-696x1044.jpg
+
+:::
+
+::::
+
+## Understory Layer
+
+:::: {.columns .small-caption}
+
+::: {.column width="60%"}
+
+- Beneath the canopy and above the forest floor.
+- Composed of smaller trees, shrubs, and young saplings.
+- Plants here often have large leaves to capture scarce light.
+- Insects, snakes, small mammals, amphibians, and shade-tolerant plants.
+- Serves as a nursery for juvenile trees and provides habitat for a range of fauna adapted to low-light conditions.
+
+:::
+
+::: {.column width="40%"}
+
+![Layers of a forest ecosystem [^5] ](./figures/forest-4.jpg){width=70% fig-align="left"}
+
+
+[^5]: https://www.bioexplorer.net/images/rainforest-layers-700-696x1044.jpg
+
+:::
+
+::::
+
+
+
+
+## Different layers of a forest ecosystem
+
+- **Forest floor**: the ground layer, consisting of soil, leaf litter, and decomposing organic matter. It is home to many microorganisms, insects, and small mammals.
+- **Understory**: the layer of shrubs and small trees that grow beneath the canopy. It receives limited sunlight and is home to various animals and plants adapted to low light conditions.
+- **Soil**: the foundation of the forest ecosystem, providing nutrients and support for plant growth. It is composed of minerals, organic matter, water, and air.
+- **Water**: essential for all living organisms, water is found in various forms within the forest ecosystem, including rivers, streams, and groundwater.
+
+## Different layers of a forest ecosystem
+
+- **Climate**: the long-term weather patterns in a region, including temperature, precipitation, and humidity. Climate influences the types of plants and animals that can thrive in a forest ecosystem.
+- **Microclimates**: small-scale variations in climate within the forest, such as shaded areas, moist spots, or sunny clearings. These microclimates can support different plant and animal species.
+- **Biodiversity**: the variety of species present in a forest ecosystem, including plants, animals, fungi, and microorganisms. High biodiversity contributes to ecosystem stability and resilience.
+- **Food webs**: the complex interconnections between different species in a forest ecosystem, illustrating how energy and nutrients flow through the system. Food webs include producers (plants), consumers (herbivores and carnivores), and decomposers (fungi and bacteria).
+
+## Ecological Succession
+
+- **Succession**: the process of change in the species composition of a forest over time, often following disturbances such as fire or logging. Succession can lead to the establishment of new plant communities and changes in habitat for animals.
