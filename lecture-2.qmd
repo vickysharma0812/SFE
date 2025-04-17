@@ -6,7 +6,8 @@ format:
     theme: simple
     slide-number: true
     chalkboard:
-      buttons: false
+      buttons: true
+    # self-contained: true
     preview-links: auto
     logo: figures/cover.svg
     footer: 'Kyoto University | Sustainable Forest Environment (SFE) | Lecture 2: Forest Ecosystems'
@@ -381,10 +382,10 @@ Our definition of forest ecosystem emphasis its structurally layered and volumet
 
 ::: {.column width="40%"}
 
-![Layers of a forest ecosystem [^5] ](./figures/forest-4.jpg){width=70% fig-align="left"}
+![Layers of a forest ecosystem [^6] ](./figures/forest-4.jpg){width=70% fig-align="left"}
 
 
-[^5]: https://www.bioexplorer.net/images/rainforest-layers-700-696x1044.jpg
+[^6]: https://www.bioexplorer.net/images/rainforest-layers-700-696x1044.jpg
 
 :::
 
