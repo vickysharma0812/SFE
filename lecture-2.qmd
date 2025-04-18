@@ -21,18 +21,35 @@ format:
 
 ## Learning Objectives
 
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
 - Introduction to ecosystems
-- Forest ecology
-- Components of forest ecosystem
+- Introduction to Forest ecosystems and their components
+- Introduction to Forest ecology
 - The nature of forests
+
+:::
+
+::: {.column width="40%"}
+
+![vickysharma0812.github.io/SFE](./figures/website-qr-code.png){width=100% fig-align="left"}
+
+:::
+
+::::
+
 
 ## Table of contents
 
 - Ecosystem
 - Ecology
 - Forest Ecosystem
-- Forest Stands
-- Landscape Ecosystem
+- Components of Forest Ecosystem
+- Forest ecology
+- Nature of forests
 
 ## Ecosystem
 
@@ -300,7 +317,7 @@ A forest ecosystem is a complex network of living organisms (plants, animals, fu
 
 ![Layered structure of a forest ecosystem](./figures/forest-3.jpg){width=100% fig-align="left"}
 
-![](./figures/forest-ecosystem-layers.png){width=100% fig-align="left"}
+![Vertical Layers of forest](./figures/forest-4.png){width=70% fig-align="left"}
 
 :::
 
@@ -332,10 +349,7 @@ Our definition of forest ecosystem emphasis its structurally layered and volumet
 
 ::: {.column width="40%"}
 
-![Layers of a forest ecosystem [^4] ](./figures/forest-4.jpg){width=70% fig-align="left"}
-
-
-[^4]: https://www.bioexplorer.net/images/rainforest-layers-700-696x1044.jpg
+![Layers of a forest ecosystem](./figures/forest-4.png){width=100% fig-align="left"}
 
 :::
 
@@ -357,10 +371,7 @@ Our definition of forest ecosystem emphasis its structurally layered and volumet
 
 ::: {.column width="40%"}
 
-![Layers of a forest ecosystem [^5] ](./figures/forest-4.jpg){width=70% fig-align="left"}
-
-
-[^5]: https://www.bioexplorer.net/images/rainforest-layers-700-696x1044.jpg
+![Layers of a forest ecosystem](./figures/forest-4.png){width=100% fig-align="left"}
 
 :::
 
@@ -382,31 +393,201 @@ Our definition of forest ecosystem emphasis its structurally layered and volumet
 
 ::: {.column width="40%"}
 
-![Layers of a forest ecosystem [^6] ](./figures/forest-4.jpg){width=70% fig-align="left"}
+![Layers of a forest ecosystem](./figures/forest-4.png){width=100% fig-align="left"}
+
+:::
+
+::::
+
+## Forest Floor Layer
+
+:::: {.columns .small-caption}
+
+::: {.column width="60%"}
+
+- Location: The bottom layer of vegetation, lying directly above the soil.
+- Description: Receives less than 2% of sunlight and is dominated by decaying organic matter.
+- Characteristics:
+    - Dark, humid, and nutrient-rich.
+    - Rapid decomposition due to warm and moist conditions.
+- Examples of Life:
+    - Fungi, bacteria, decomposers, insects, and ground-dwelling animals like tapirs or wild boars.
+- Ecological Role: Critical for nutrient cycling, decomposition, and seed germination.
+:::
+
+::: {.column width="40%"}
+
+![Layers of a forest ecosystem](./figures/forest-4.png){width=100% fig-align="left"}
 
 
-[^6]: https://www.bioexplorer.net/images/rainforest-layers-700-696x1044.jpg
+:::
+
+::::
+
+## Soil Layer
+
+
+:::: {.columns .small-caption}
+
+::: {.column width="60%"}
+
+- Soil is the foundation of the forest ecosystem, providing nutrients and support for plant growth.
+- Location: Beneath the forest floor.
+- Description: Consists of organic, inorganic materials (minerals), water and air.
+- Characteristics:
+    - Contains roots of plants, microorganisms, minerals, and decaying matter.
+    - Influences water retention, nutrient availability, and root penetration.
+- Ecological Role: Serves as the foundation of plant life, supporting root systems and microbial ecosystems essential for forest health.
+
+:::
+
+::: {.column width="40%"}
+
+![Layers of a forest ecosystem](./figures/forest-4.png){width=100% fig-align="left"}
 
 :::
 
 ::::
 
 
+## Water Components {.smaller}
+
+- **Water** is essential for all living organisms including plants, .
+- Location: Water is found in various forms within the forest ecosystem, including rivers, streams, and groundwater
+- Description: May occur at or below the surface depending on topography and hydrology.
+- Characteristics:
+    - Supports aquatic and semi-aquatic species.
+    - Interacts with soil and vegetation layers through moisture transfer.
+- Ecological Role: Maintains humidity, supports biodiversity, and regulates nutrient transport.
 
 
-## Different layers of a forest ecosystem
-
-- **Forest floor**: the ground layer, consisting of soil, leaf litter, and decomposing organic matter. It is home to many microorganisms, insects, and small mammals.
-- **Understory**: the layer of shrubs and small trees that grow beneath the canopy. It receives limited sunlight and is home to various animals and plants adapted to low light conditions.
-- **Soil**: the foundation of the forest ecosystem, providing nutrients and support for plant growth. It is composed of minerals, organic matter, water, and air.
-- **Water**: essential for all living organisms, water is found in various forms within the forest ecosystem, including rivers, streams, and groundwater.
-
-## Different layers of a forest ecosystem
+## Other components (layers) of a forest ecosystem {.smaller}
 
 - **Climate**: the long-term weather patterns in a region, including temperature, precipitation, and humidity. Climate influences the types of plants and animals that can thrive in a forest ecosystem.
 - **Microclimates**: small-scale variations in climate within the forest, such as shaded areas, moist spots, or sunny clearings. These microclimates can support different plant and animal species.
 - **Biodiversity**: the variety of species present in a forest ecosystem, including plants, animals, fungi, and microorganisms. High biodiversity contributes to ecosystem stability and resilience.
-- **Food webs**: the complex interconnections between different species in a forest ecosystem, illustrating how energy and nutrients flow through the system. Food webs include producers (plants), consumers (herbivores and carnivores), and decomposers (fungi and bacteria).
+
+## Keypoints about the forest ecosystem {.smaller}
+
+- Our definition of forest ecosystem emphasizes its structurally layered and volumetric nature.
+- According to this definition, we should emphasize the importance of geography and physiography within a regional climatic setting to understand the vegetation type, ecosystem structure, and function.
+- The forest ecosystem is spatial in nature; they have both the horizontal and vertical structures. 
+- The forests are not just the extension of the biotic community.
+
+::: {.callout-note title="Rowe (1989, p.229)"}
+
+Organisms do not stand on their own: they evolve and exist in the context of ecological systems that confer those properties called life. The panda is part of the mountain bamboo-forest ecosystem and can only be preserved as such. The polar bear is a vital part of the Artic marine ecosystem and will not survive without it. Ducks are creatures born of marshes. Biology without its ecological context is dead.
+
+:::
+
+## Major types of forests
+
+Forests are broadly categorized into different types depending on climatic conditions, latitude, and dominant vegetation. The three primary types are 
+
+::: {layout-ncol=3}
+
+![Tropical forests](./figures/tropical-forest-1.jpg){width=100% fig-align="left"}
+
+![Temperate](./figures/temperate-forest-1.jpg){width=100% fig-align="left"}
+
+![Boreal forests](./figures/boreal-forest-1.jpg){width=100% fig-align="left"}
+:::
+
+## Tropical forests {.smaller}
+
+- Location: Near the equator, primarily in regions of Central and South America, Central Africa, Southeast Asia, and Oceania. 10°N to 10°S latitude.
+- Climate: Hot and humid throughout the year with high rainfall.
+
+:::: {.columns .small-caption}
+
+::: {.column width="50%"}
+
+![Distribution of Tropical Rainforests (source: UN FRA2000 report)](./figures/tropical-forest-2.jpg){width=200% fig-align="left"}
+
+:::
+
+::: {.column width="50%"}
+
+- They are a subset of the tropical forest biome that occurs roughly within the 28° latitudes (between the Tropic of Cancer, 23°N, and Tropic of Capricorn, 23°S )
+- Tropical rainforests ecosystems are distinguished by their consistent, high temperatures, exceeding 18 °C monthly, and substantial annual rainfall.
+- Vegetation: Dense, multi-layered with broadleaf evergreen trees.
+- Biodiversity: Highest species richness of all forest types, including numerous endemic species.
+- Ecological Importance: Crucial for global carbon sequestration, climate regulation, and genetic resources.
+- Structure: Emergent layer, canopy layer, understory layer, and forest floor layer. Soil is nutrient-poor and acidic due to rapid decomposition and leaching.
+:::
+
+::::
+
+
+## Temperate forests {.smaller}
+
+- Location: Mid-latitudes of North America, Europe, East Asia, and parts of the Southern Hemisphere. These forests cover both hemispheres at latitudes ranging from 25 to 50 degrees. These forests are found between the tropical and boreal regions.
+- Climate: The climate of a temperate forest is highly variable depending on the location of the forest. Moderate temperatures with distinct seasons, including cold winters and warm summers. Rainfall is well-distributed.
+
+:::: {.columns .small-caption}
+
+::: {.column width="50%"}
+
+![Distribution of temperate forests(source: UN FRA2000 report)](./figures/temperate-forest-2.png){width=100% fig-align="left"}
+
+:::
+
+::: {.column width="50%"}
+- Vegetation:
+  - Deciduous forests: Trees shed leaves in autumn (e.g., oak, maple).
+  - Evergreen forests: Include conifers like pine and fir.
+- Biodiversity: Moderate; includes a mix of herbivores, carnivores, and migratory birds.
+- Ecological Importance: Support important watersheds and timber production.
+:::
+
+::::
+
+
+## Deciduous temperate forests {.smaller}
+
+
+- Deciduous temperate forests: Trees shed leaves in autumn (e.g., oak, maple).
+- They are found in Europe, East Asia, North America, and in some parts of South America.
+- Deciduous forests are composed mainly of broadleaf trees.
+
+:::: {.columns .small-caption}
+
+::: {.column width="50%"}
+
+![Red oak tree](./figures/red-oak-1.jpg){width=100% fig-align="left"}
+
+:::
+
+::: {.column width="50%"}
+
+![Red maple tree](./figures/red-maple-1.jpg){width=60% fig-align="left"}
+
+:::
+
+::::
+
+## Coniferous temperate forests {.smaller}
+
+- Coniferous forests are composed of needle-leaved evergreen trees, such as pine or fir.
+- Evergreen forests are typically found in regions with moderate climates.
+- They often have an advantage over broadleaf trees in harsher environments. Their leaves are typically hardier and longer lived but require more energy to grow.
+
+:::: {.columns .small-caption}
+
+::: {.column width="50%"}
+
+![Western Himalayan subalpine conifer forests](./figures/coniferous-1.jpg){width=60% fig-align="left"}
+
+:::
+
+::: {.column width="50%"}
+
+![Leaves of coniferous tree](./figures/coniferous-2.jpg){width=100% fig-align="left"}
+
+:::
+
+::::
+
 
 ## Ecological Succession
 
