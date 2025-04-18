@@ -588,7 +588,25 @@ Forests are broadly categorized into different types depending on climatic condi
 
 ::::
 
+## Boreal forests {.smaller}
 
-## Ecological Succession
+- Boreal forests, also known as taiga, are found in the northern regions (high latitudes) of North America, Europe, and Asia.
+- Climate: Long, cold winters and short, mild summers; relatively low precipitation.
+- Dominated by coniferous trees such as spruce, pine, and fir.
+- Lower species diversity; adapted to cold environments.
 
-- **Succession**: the process of change in the species composition of a forest over time, often following disturbances such as fire or logging. Succession can lead to the establishment of new plant communities and changes in habitat for animals.
+:::: {.columns .small-caption}
+
+::: {.column width="50%"}
+
+![Distribution of Boreal forests](./figures/boreal-1.png){width=100% fig-align="left"}
+
+:::
+
+::: {.column width="50%"}
+
+![White spruce taiga in Alaska Range, USA](./figures/taiga-2.jpg){width=100% fig-align="left"}
+
+:::
+
+::::
