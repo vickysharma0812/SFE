@@ -1,6 +1,6 @@
 ---
 title: "Sustainable Forest Environment (SFE)"
-subtitle: "Lecture 2: Forest Ecosystems"
+subtitle: "Lecture 2: Forest Ecosystems (Last update: 19 April 2025)"
 format:
   revealjs:
     theme: simple
@@ -328,11 +328,53 @@ Our definition of forest ecosystem emphasis its structurally layered and volumet
 
 ## Components of Forest-Ecosystem
 
-- The main components of a forest ecosystem include:
+- The main components of a forest ecosystem include biotic and abiotic components.
 
-- **Biotic components**: living organisms such as trees, shrubs, animals, fungi, and microorganisms.
-- **Abiotic components**: non-living elements such as soil, water, air, and climate.
-- **Energy flow**: the transfer of energy through the ecosystem, primarily from the sun to plants (producers) and then to consumers (herbivores and carnivores).
+::: {.callout-note appearance="simple"}
+
+**Biotic components**: living organisms such as trees, shrubs, animals, fungi, and microorganisms.
+
+:::
+
+::: {layout="[[0.5,1,1,1,1]]" .small-caption}
+
+![Tree](./figures/tree-1.jpg)
+
+![Shrubs](./figures/shrubs-1.jpg)
+
+![Animals](./figures/animal-1.jpg)
+
+![Fungi](./figures/fungi-1.jpg)
+
+![Bacteria](./figures/bacteria-1.jpg)
+
+:::
+
+## Components of Forest-Ecosystem
+
+
+- **Abiotic components**: non-living elements such as soil, water, air, climate, and fire.
+
+
+::: {layout="[[1,1,0.5,1,1]]" .small-caption}
+
+![Soil](./figures/soil-1.jpg)
+
+![Water](./figures/water-1.jpg)
+
+![Air (Kaze no mori)](./figures/air-1.jpg)
+
+![Climate](./figures/climate-1.jpg)
+
+![Fire](./figures/fire-1.jpg)
+
+:::
+
+::: {.callout-tip appearance="simple"}
+
+**Energy flow**: the transfer of energy through the ecosystem, primarily from the sun to plants (producers) and then to consumers (herbivores and carnivores).
+
+:::
 
 ## Emergent Layer
 
