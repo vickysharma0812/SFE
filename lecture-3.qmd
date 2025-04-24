@@ -294,6 +294,15 @@ It is surprising that air could provide the materials that comprise very solid p
 
 {{< video https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5b/Travel_Deep_Inside_a_Leaf_-_Annotated_Version_-_California_Academy_of_Sciences.webm/Travel_Deep_Inside_a_Leaf_-_Annotated_Version_-_California_Academy_of_Sciences.webm.720p.vp9.webm >}}
 
+## Plant leaf structure
+
+![Medium-scale features: Leaves are normally extensively vascularized and typically have networks of vascular bundles containing xylem, which supplies water for photosynthesis, and phloem, which transports the sugars produced by photosynthesis. Many leaves are covered in trichomes (small hairs) which have diverse structures and functions.](https://upload.wikimedia.org/wikipedia/commons/6/60/Leaf_Structure.svg){width=70%}
+
+![Small-scale features: (a) The epidermis, which covers the upper and lower surfaces, (b) The mesophyll tissue, which consists of photosynthetic cells rich in chloroplasts. (also called chlorenchyma), (c) The arrangement of veins (the vascular tissue)](https://upload.wikimedia.org/wikipedia/commons/0/06/Leaf_Tissue_Structure.svg){width=70%}
+
+![SEM image of a leaf epidermis](https://upload.wikimedia.org/wikipedia/commons/c/cd/Leaf_epidermis_w_scale.jpg){width=50%}
+
+
 ## Colors of leaves
 
 :::{.callout-note title="Pigments"}
@@ -342,16 +351,28 @@ The sunlight has a spectrum of colors that combine to make white light, and leav
 
 ## Chlorophyll
 
-- Molecules of chlorophyll do not absorb much of the green light, but other molecules in leaves absorb quite a lot.
+- Molecules of chlorophyll do not absorb much of the green light
 - Our eyes interpret leaves as being green because green leaves absorb about 95% of the other visible wavelengths, but a bit less of the green light, so our eyes perceive more photons with a green wavelength than any others.
-
-- Chlorophyll is the green pigment in plants that absorbs light energy for photosynthesis. It is found in the chloroplasts of plant cells.
 
 ::: {layout-ncol=2}
 
-![Seen through a microscope, chlorophyll is concentrated within organisms in structures called chloroplasts; shown here grouped inside plant cells](https://upload.wikimedia.org/wikipedia/commons/4/49/Plagiomnium_affine_laminazellen.jpeg)
+![Seen through a microscope, chlorophyll is concentrated within organisms in structures called chloroplasts; shown here grouped inside plant cells](https://upload.wikimedia.org/wikipedia/commons/4/49/Plagiomnium_affine_laminazellen.jpeg){width=70%}
 
-![Molecular structure of chlorophyll d](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Chlorophyll_d_structure.svg/1920px-Chlorophyll_d_structure.svg.png)
+![Molecular structure of chlorophyll d. Note that it contains Mg ion.](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Chlorophyll_d_structure.svg/1920px-Chlorophyll_d_structure.svg.png)
+:::
+
+## Carotenoids
+
+- These pigments are responsible for the yellow, orange, and red colors of many fruits and vegetables.
+- Carotenoids give the color to carrots, pumpkins, corn, and tomatoes.
+
+::: {layout-ncol=3}
+
+![Apricots, rich in carotenoids](https://upload.wikimedia.org/wikipedia/commons/9/9d/Prunus_armeniaca_Nubra_Valley.jpg){width=70%}
+
+![Yellow and orange leaf colors in autumn are due to carotenoids, which are visible after chlorophyll degrades for the season.](https://upload.wikimedia.org/wikipedia/commons/d/d4/Acer_japonicum_Vitifolium_JPG1fu.jpg)
+
+![The orange ring surrounding Grand Prismatic Spring is due to carotenoids produced by cyanobacteria and other bacteria.](https://upload.wikimedia.org/wikipedia/commons/0/0b/Aerial_image_of_Grand_Prismatic_Spring_%28view_from_the_south%29.jpg)
 :::
 
 
@@ -360,11 +381,82 @@ The sunlight has a spectrum of colors that combine to make white light, and leav
 - Anthocyanins are pigments that can appear red, purple, or blue depending on the pH. 
 - They are produced in the leaves of some plants in response to stress, such as high light intensity or low temperatures.
 
-## Carbon uptake is the second half of Photosynthesis
+::: {layout-ncol=3}
 
-- TODO
-- Structure of leaves
-- Mechanism of stomatal opening and closing
+![Purple cauliflower contains anthocyanins](https://upload.wikimedia.org/wikipedia/commons/1/18/Purplec.png){width=70%}
+
+![Anthocyanins give these pansies their dark purple pigmentation](https://upload.wikimedia.org/wikipedia/commons/9/9e/Orange_violet_pansies.jpg){width=70%}
+
+![Superposition of spectra of chlorophyll a and b with oenin (malvidin 3O glucoside), a typical anthocyanin, showing that, while chlorophylls absorb in the blue and yellow/red parts of the visible spectrum, oenin absorbs mainly in the green part of the spectrum, where chlorophylls don't absorb at all.](https://upload.wikimedia.org/wikipedia/commons/f/f0/Spectra_Chlorophyll_ab_oenin_%281%29.PNG)
+
+:::
+
+## Photosynthesis
+
+- The growth of forests relates in part to the supply of water, because the uptake of carbon dioxide (CO2) from the atmosphere can be accomplished only by exposing the moist interiors of leaves to the dry air.
+- For each CO2 molecule that diffuses from dry air into the moist interior of a leaf, something like 200–500 molecules of water escape into the atmosphere.
+
+
+::: {.callout-tip appearance="minimal"}
+
+- When water supplies are low, trees close the pores (stoma = mouth, stomata or stomates for plural) on leaves, minimizing water loss and unfortunately preventing uptake of CO2.
+
+::: {layout-ncol=2}
+
+![Stomata in tomato plant](https://upload.wikimedia.org/wikipedia/commons/0/09/Tomato_leaf_stomate_1-color.jpg){width=50%}
+
+![Tomato stoma observed through immersion oil](https://upload.wikimedia.org/wikipedia/commons/3/3c/Tomato_stoma_observed_through_immersion_oil.gif)
+
+:::
+
+:::
+
+## Photosynthesis
+
+- Plants transpire water at high rates when the supply of water is abundant, and when the atmosphere is not too dry
+
+![Rates of transpiration from leaves depends on the density and openness of leaf stomata (pores). Stomatal opening is indexed as stomatal conductance (how many molecules could slip through the stomata present on 1 m2 of total leaf area), and stomatal openings shrink as the air becomes drier. White pine needles and red oak leaves both have stomata that are sensitive to vapor pressure deficits, but the pine needles sustain more open stomata at all humidities (left). The amount of water lost from a leaf depends on stomatal conductance, the water status of the leaf (water potential, Figure 4.3), and the dryness of the air (right). With very dry air, the loss of water can go up even as stomata close down. The pine leaves transpire much more water at any given level of vapor pressure deficit than the oak leaves.](./figures/c04f002.png)
+
+## Photosynthesis
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+- The story of potentials also explains how water moves against gravity, ascending tens of meters (or even one hundred of meters) upward in trees against the pull of gravity 
+- Dry air has a tremendously negative potential compared to the insides of leaves, so water is sucked from leaves into the air.
+- The potential of water inside leaves is lower than in twigs, so the evaporated water is replaced in the leaf with water sucked from the twigs. 
+- The twig's water potential is lower than the stem, and the stem is lower than the root, and the root is lower than the water potential of the soil.
+:::
+
+::: {.column width="30%"}
+
+![Water flows “down” gradients of potential, from high potentials in soils (which are high, even though the sign on the value is negative) to lower potentials in trees (more negative values)](./figures/c04f003.jpg)
+
+:::
+
+::::
+
+## Photosynthesis
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+- This chain of potentials moves water from the soil to the atmosphere, by virtue of the very strong ability of water molecules to stick to surfaces and to each other.
+- The potentials in soils and plants are typically negative, which means the potential is lower than in a free‐standing puddle of water on the soil surface (at a potential of 0 MPa).
+- Going from a higher potential to a lower potential means that water will flow down the potential gradient from −0.2 MPa in soils, to −1 or −2 MPa in trees, to −60 MPa (or lower) in dry air.
+
+:::
+
+::: {.column width="30%"}
+
+![Water flows “down” gradients of potential, from high potentials in soils (which are high, even though the sign on the value is negative) to lower potentials in trees (more negative values)](./figures/c04f003.jpg)
+
+:::
+
+::::
+
 
 ## Growth and Photosynthesis
 
@@ -382,9 +474,11 @@ Respiration in trees refers to a metabolic process in which organic compounds (m
 $C6H12O6+6O2 \rightarrow 6CO2+6H2O+energy (ATP)$
 :::
 
+- Sugar is the immediate product of photosynthesis, and sugars may be used quickly for respiration needs to maintain leaf cells.
+
+
 ## Growth and Photosynthesis
 
-- Sugar is the immediate product of photosynthesis, and sugars may be used quickly for respiration needs to maintain leaf cells.
 - Most sugars are converted to starches for short-term storage during the day, and starches are converted back to soluble sugars at night for transport through the plant.
 - In general, the timing of photosynthesis and growth is the same when the climate conditions are favorable.
 - These two processes, however, are not strongly coupled. Because plants have vast storage pools of carbohydrates, that are used over long periods of time to support thye growth of new cells and tissues.
@@ -410,31 +504,117 @@ Leaf morphology is a result of the interaction between genetic and environmental
 - Therefore, leaf shapes range from cylindrical needles of some conifers to broad, thin leaves on many broadleaved tree species.
 - It is common to find a range of leaf shapes within the crowns of a single trees and canopies of a forest.
 
-## Why is Understory of a Forest a Tough Place for Small Trees to Thrive?
+## Leaf morphology study 1
 
-- Trees need sunlight for photosynthesis, and the light is usually dim under the canopies of large trees.
+![The structure of leaves in the canopy of a rain forest in Costa Rica showed a clear pattern between the light environment of leaves and the how much mass was necessary to form 1 m2 of leaves (left). Leaves receiving full sun had a mass of about 120 g/m2, whereas leaves receiving 10% of full sunlight had a mass of about 90 g/m2. The correlation between leaf thickness and light does not mean that the light environment is the key factor determining leaf thickness. Indeed, the variation in leaf thickness related much better to simply how high leaves were off the ground (right, with observations from 45 profiles grouped into 7 height classes source: @cavaleri2010](./figures/c04f004.png)
+
+## Leaf morphology study 2
+
+![Left: Eucalyptus plantations in Hawaii also show a clear pattern between leaf mass and area as trees get taller with age, even though the light environment at the tops of the crowns remains the same @coble2014, Right: Needles on tall redwood trees in California also fit the pattern of increasing leaf mass area with height above the ground. Height above the ground influences leaf water potentials (right), both before dawn (after the tree's water content has recovered overnight) and at mid‐day, leading to very large changes in needle morphology with height @koch2004](./figures/c04f005.jpg)
+
+## Leaf morphology study 3
+
+![The photosynthetic capacity of needles (with full sunlight) in a Norway spruce trees in Estonia declined with increasing height above the ground, because of interacting effects of structural differences (resulting in part from differences in water potential) and ecophysiological functioning @raim2012](./figures/c04f006.jpg)
+
+- The ability of leaves to carry out photosynthesis is strongly affected by the influence of height on leaf structures and ecophysiological function.  
+- Of course the amount of sunlight intercepted by a leaf may be lower in the lower canopy, so actual rates of photosynthesis would depend on both light supply and the photosynthetic capacity of leaves.
+
+## Take home Question: Why is Understory of a Forest a Tough Place for Small Trees to Thrive?
+
+Hints:
+
+::: {.callout-note appearance="minimal"}
+Trees need sunlight and nutrients for photosynthesis, and the light is usually dim under the canopies of large trees.
+:::
 
 :::{.callout-note appearance="minimal"}
 The light passing through the canopy of a forest may amount to only 5% or less of the light that strikes the top of the canopy.
 :::
 
-## Root morphology
+## Root system
 
-- Large trees depend on the large root system
+![Primary and secondary roots in a cotton plant](https://upload.wikimedia.org/wikipedia/commons/a/ab/Primary_and_secondary_cotton_roots.jpg)
 
-## Fine roots
+:::{.callout-note title="Definition"}
+In vascular plants, the roots are the organs of a plant that are modified to provide anchorage for the plant and take in water and nutrients into the plant body, which allows plants to grow taller and faster
+:::
+
+## Functions of roots system
+
+- anchoring the plant to the ground (by whole root system)
+- absorbing water and nutrients from the soil (mainly by fine none woody roots smaller than 1 mm in diameter)
+- storing carbohydrates and other nutrients (mainly by larger woody roots)
+- transporting water and nutrients to the rest of the plant
+
+::: {.callout-note title="Root system"}
+The root system is characterized by a framework of relatively large, woody, long-lived roots (coarse roots) and a network of small, non-woody, short-lived roots (fine roots).
+:::
+
+## Large trees depend on large roots
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+- The large roots of trees (called coarse roots) typically account for about 20% of the total mass of the trees.
+- When strong winds blow, the crowns of trees act as sails that intercept the force of the wind and transfer it to the stems
+- Trees can only transfer that force down the stem and into the ground. 
+- In this way, well‐rooted trees can withstand very high winds, though severe storms can break or topple even strong trees.
+
+:::
+
+::: {.column width="30%"}
+
+![This onyina (or kapok) tree in Ghana has large buttresses which dissipate the wind force that might topple an unbuttressed tree.](./figures/c04f008.jpg)
+:::
+
+::::
+
+## Network of fine roots permeate soils
+
+- On an annual basis, the percentage increase in the size of a tree is usually not very large, ranging from less than 1% in large old trees to perhaps 20% (or even more) in the fast‐growing smaller trees. 
+- If the mass of coarse roots needed to support a tree would be a constant 20%, then only small‐to‐moderate increases would be needed each year, with the growth of coarse roots each year accounting for a small part of the total production of a tree.
+- However, about 30% to 50% of the total photosynthates produced by trees flows to the belowground system, not for the formation of new coarse roots, but for the production and maintenance of small (fine) roots and their mycorrhizal symbionts. This will be discussed in next lectures.
+- The mass of fine roots may amount to 5–10% of the mass of a tree, but the fine roots typically live for one or a few years and so the cost of replacement accounts for a substantial proportion of a tree's production.
 
 - @kucbel2011
 - @christina2011
 - Roots in desert trees @kirschner2021
 
-## Root-Mycorrhizae symbiosis
+## Root system
+
+There are two main types of root systems:
+
+- Taproot system: A single, thick primary root (the taproot) that grows deep into the soil, with smaller secondary roots branching off from it. This type of root system is common in dicotyledonous plants (e.g., carrots, dandelions).
+- Fibrous root system: A network of thin, branching roots that spread out horizontally near the soil surface. This type of root system is common in monocotyledonous plants (e.g., grasses, wheat).
+
+::: {layout-ncol=2}
+
+![Taproot system](https://upload.wikimedia.org/wikipedia/commons/7/7a/Plant_taproots.jpg){width=10%}
+
+![Fibrous root system](./figures/fibrous-root-1.jpg)
+
+:::
+
+## Morphology of roots
+
+![Modification of root systems of forest trees by site. (a) and (b) Taproots with reduced upper
+laterals: patterns found in coarse sandy soils underlain by fine-­textured substrata. (c) Taproot with long
+tassels, a structure induced by extended capillary fringe. (d) Superficial laterals and deep network of fibrous
+roots outlining an interlayer of porous materials. (e) Flattened heart-­root formed in lacustrine clay over a
+sand bed. (f) Plate-shaped root developed in a soil with a reasonably deep groundwater table. (g) Plate-­
+shaped root formed in organic soils with shallow groundwater table. (h) Bimorphic system of platelike
+crown and taproot, found in leached soils with a surface rich in organic matter. (i) Flat root of angiosperms
+in strongly leached soils with raw humus at surface and hardpan below. (j) Two parallel plate roots
+connected by vertical sinkers in a hardpan spodosol. (k) Pneumatophores of mangrove trees in tidal lands.](./figures/root-system-1.png)
+
+## Next lecture: Root-Mycorrhizae symbiosis
 
 - @genre2020
 - @bonfante2010
 
-## Mechanisms of Root-Mycorrhizae symbiosis
+## Next lecture: Mechanisms of Root-Mycorrhizae symbiosis
 
-- @mcmurtrie20177
+- @mcmurtrie2018
 
 
