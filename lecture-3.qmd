@@ -25,7 +25,7 @@ format:
 ## Learning Objectives
 
 - Forest tree variation, source of variation, and genetic diversity
-- Life history of forest trees: regeneration in woody plant, environmental factors that influence the process from reprduction to establishment
+- Life history of forest trees
 - The structure and functions of shoots, crown, and roots
 - The process that occur in cells and organs of individual plants affect the growth and form of the whole plant.
 
@@ -62,16 +62,129 @@ The stories of forests assemble from the stories of the life cycles of individua
 
 ## Forest tree variation
 
-- A forest tree cannot exist without a governing biochemical control mechanism that can be passed on from generation to generation to 
+- A forest tree, or any other organism, cannot exist independently of its environment in which it lives.
+- Both genetic and environmental factors influence the growth and form of trees.
 
-## Tree Seeds Range in Mass
+::: {.callout-note title="Adaptedness"}
+Adaptedness is the ability of organisms to live and reproduce in a given range of environments.
+:::
+
+- Example of adaptedness in a forest ecosystem is the thick bark of the cork oak (Quercus suber), which is a clear adaptation to frequent forest fires in Mediterranean-type environments.
+
+::: {.notes}
+The cork oak develops an exceptionally thick, spongy bark composed primarily of suberin, a hydrophobic, fire-resistant substance. This thick bark serves as an insulating layer, protecting the tree's cambium and inner tissues from the intense heat of wildfires. The cork oak's ability to regenerate its bark after fire damage is a key factor in its survival in fire-prone environments.
+:::
+
+::: {layout-ncol=2}
+
+![Cork characteristics @molina2018](./figures/cork-oak-fire-1.jpg)
+
+![Fire in Cork oak tree](./figures/cork-oak-fire-2.jpg)
+
+:::
+
+## Genotype and Phenotype
+
+::: {.callout-tip title="Genotype"}
+Genotype is the genetic constitution of an organism, which is determined by the alleles inherited from its parents.
+:::
+
+- We can never see a genotype because from the moment of fertilization the genotype is influenced by the plant's environment; its internal environment of cells and biochemical reactions  and its external environment of light, temperature, and moisure.
+
+::: {.callout-tip title="Phenotype"}
+Phenotype is the observable characteristics of an organism, which are influenced by both genetic and environmental factors.
+:::
+
+$$
+P = G + E + GE
+$$
+
+- P = phenotype, G = genotype, E = environment, GE = genotype-environment interaction
+
+## Components of phenotypic variation
+
+- To what degree a phenotypic trait is influenced by genetic factors (G) and environmental factors (E)
+- For example, consider a dominant tree exhibiting excellent growth in a forest plantation and an adjacent dying tree of the same species.
+- In this case, we know that dominant tree has a superior phenotype, but we do not know if the tree is genetically superior or if it is simply growing in a more favorable environment. Basically,
+  - To what degree is its genotype resonsible
+  - Too what degree does a favorable microenvironment or the random factor of better handling in the nursery acccount for its superior growth?
+- The important point is the relative degree of genetic and nongenetic influence on a given character.
+
+## Plasticity of the Phenotype
+
+A given genotype may assume one set of characters (exhibit one phenotype) in one environment and exhibit a different phenotype in another environment.
+
+::: {.callout-note title="Plasticity of the Phenotype"}
+It is the degree to which a character of a given genotype can be modified by environmental factors.
+:::
+
+An example of plasticity of adaptive significance is the rooting habit of individual trees such as Norway spruce, white spruce, and balsam fir. Roots develop either shallow or deep, depending on the soil environment, for example, shallow in a poorly-drained swamp versus deeply in a sandy loam upland soil.
+
+## Source of variation
+
+- As we have seen, the variation among phenotypes is attributed partially to genetic differences and partially to environmental differences.
+- The major sources of genetic variation are mutations and recombination.
+
+::: {.callout-note title="Mutations"}
+Mutations are changes in the DNA sequence of an organism's genome, which can lead to new traits or characteristics.
+:::
+
+::: {.callout-tip title="Recombination"}
+Recombination occurs during sexual reproduction when genetic material from two parents is combined to produce offspring with a unique combination of traits.
+:::
+
+- Altough mutations are the ultimate source of genetic variation, recombination is the most important source of genetic variation in sexually reproducing organisms.
+
+::: {.callout-note title="Gene flow"}
+The exchange of genes between different populations is called gene flow, and it can also contribute to genetic variation within a population.
+:::
+
+- For example, migrants in the form of pollen and seeds bring to a population new genetic material from other populations.
+- When the population involved are significantly different genetically, the introduction of new genes can have a significant impact on the genetic variation of the population. This is termed as hybridization.
+
+## Seeds of tree
+
+- Tree Seeds Range in Mass from Smaller than a Flea to Larger than a Mouse
+
+![Variety of seeds [Source: Alexander Klepnev Wikimedia](https://en.wikipedia.org/wiki/Seed)](./figures/various-seed-1.jpg)
+
+## Seeds of tree
+
+- Seedlings that develop from large seeds (such as walnuts and acorns) have a great advantage over seedlings endowed with very, very tiny seeds (such as cottonwoods and willows).
+
+::: {layout-ncol=4}
+![Wallnut seeds, [source](https://en.wikipedia.org/wiki/Walnut)](./figures/wallnut-1.jpg)
+
+![Acorn seeds](./figures/acorn-1.jpg)
+
+![Stone pine- note two nuts under each cone scale](./figures/pine-seed-1.jpg)
+
+![Cottonwood seeds](./figures/cottonwood-seed-1.jpg)
+:::
+
+- Successful establishment of tiny‐seed species tends to happen only under ideal conditions of high light, high water, and high nutrient supply.
+- For example, cottonwood seeds are so small that it takes about 5000 to add up to a single gram of mass! Successful germinants occur on recent flood deposits that have the requisite light, water and nutrients. Recent flood deposits dry out as the water table recedes, and first‐year growth and survival depend on whether seedling roots can descend into the soil quickly enough to tap receding water and nutrient supplies.
+
+![source: @adair2002](./figures/figure-4-10.jpg){width=70%}
+
+- Big seeds contain large supplies of carbohydrates in it which might be beneficial for new germinants. So it might seem that all tree species should produce large seeds.
+- New germinants of pines benefit from seeds that are much larger than cottonwoods seeds (25 seeds per gram), and oak and walnut germinants have far larger seeds than pines (5–10 g for each seed).
+-  However, big seeds fall only in the vicinity near the mother tree, which is a difficult place for successful regeneration.
+- Large seeds may be eaten by birds and mammals, with chance of being destroyed (by digestion) or dispersed to favorable sites.
+-  Tiny seeds allow for dispersion by wind with the potential that some seeds will land in favorable sites.
+
 
 ## Flow of energy in a tree
 
 - A tree uses photosynthesis to convert the solar energy into chemical energy which is stored inside the tree.
-- The chemical energy is stored inside the tree in the organic compounds
-- The chemical energy is used for various physiological processes of plants, animals, and microbes.
+
+![Photosynthesis [source Wikimedia](https://en.wikipedia.org/wiki/File:Photosynthesis_en.svg)](./figures/photosynthesis-1.png)
+
+- The chemical energy is stored inside the tree in the organic compounds, which is used for various physiological processes of plants, animals, and microbes.
 - Through photosynthesis plant convert carbon dioxide and water into carbohydrates, which are then used to build the tree's structure and fuel its growth.
+
+![The growth of the tree [source YouTube](https://youtu.be/RqCqUEu9nY4?list=PLybg94GvOJ9FzGNgCH4PP8EX8ZyJPa6sE&t=127)](./figures/professor-dav-figure-1.png){width=80%}
+
 - In this way, the biological processes of forest ecology are driven by chemical energy.
 
 ## Chemical reactions and energy
@@ -103,13 +216,19 @@ $$
 Zn(s)+Cu^{2+}(aq)\rightarrow Zn^{2+}(aq)+Cu(s)
 $$
 
-## Redox reactions
-
 - A redox reaction is composed of two processes occuring at the same time:
-  - Oxidation: The process in which a substance is losing the electrons. This process increases the oxidation state of the substance.
-  - Reduction: The process in which a substance is gaining the electrons. This process decreases the oxidation state of the substance.
 
-## Redox reactions
+:::{.callout-note title="Oxidation"}
+ Oxidation: The process in which a substance is losing the electrons. This process increases the oxidation state of the substance.
+:::
+
+:::{.callout-tip title="Reduction"}
+Reduction: The process in which a substance is gaining the electrons. This process decreases the oxidation state of the substance.
+:::
+
+$$
+Zn(s)+Cu^{2+}(aq)\rightarrow Zn^{2+}(aq)+Cu(s)T
+$$
 
 :::{.callout-note title="Reducing agent"}
 The substance that loses electrons is called the reducing agent, because it will promote the reduction of other substance.
@@ -125,7 +244,7 @@ The substance that gains electron is called the oxidizing agent, because it will
 - Where do redox reactions in forests obtain high energy electrons for transfer to oxygen?
 - Organic molecules store energy in chemical bonds, and the energy is released as electrons flow from organic molecules to oxygen. This reaction forms low energy products water and carbon dioxide. This process is called respiration, and it is the same process that occurs in our bodies and in fires.
 
-## Forest energy comes from sunlight
+## Photosynthesis: forest energy comes from sunlight
 
 ::: {.callout-note title="Photosynthesis"}
 
@@ -145,10 +264,101 @@ flowchart LR
 The products of photosynthesis  contain only carbon, oxygen and hydrogen. The mass of these three elements accounts for more than 90% of the dry mass of trees and other plants.
 :::
 
+:::{.callout-note title="Where does most of the material in this piece of wood come from?"}
+
+- molecules dissolved in water
+- large soil molecules (humus)
+- inorganic molecules from the soil
+- small molecules in the air <--
+
+It is surprising that air could provide the materials that comprise very solid pieces of wood. The carbon that comprises about half the mass of organic molecules (such as wood) does come from carbon dioxide molecules floating around in the air. (For an excellent documentary about how students learn but fail to understand, see: www.learner.org/series/minds‐of‐our‐own/2‐lessons‐from‐thin‐air/.)
+
+:::
+
+
+## Plant cell
+
+<div> <iframe title="Eukaryotic Plant Cell" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/f258c65762e5435c9d58c1aa136b557a/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/eukaryotic-plant-cell-f258c65762e5435c9d58c1aa136b557a?utm_medium=embed&utm_campaign=share-popup&utm_content=f258c65762e5435c9d58c1aa136b557a" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Eukaryotic Plant Cell </a> by <a href="https://sketchfab.com/jlf_illustration?utm_medium=embed&utm_campaign=share-popup&utm_content=f258c65762e5435c9d58c1aa136b557a" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> jlf_illustration </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=f258c65762e5435c9d58c1aa136b557a" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+
+![Plant cell](./figures/plant-cell-1.png)
+
+
+## Plant leaf
+
+- A leaf is a principal appendage of the stem of a vascular plant.
+- Leaves are part of the shoot system.
+
+![Leaves showing various morphologies (clockwise from upper left): tripartite lobation, elliptic with serrulate margin, palmate venation, acuminate odd-pinnate (center), pinnatisect, lobed, elliptic with entire margin](./figures/leaves-2.jpg)
+
+## Plant leaf structure
+
+{{< video https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5b/Travel_Deep_Inside_a_Leaf_-_Annotated_Version_-_California_Academy_of_Sciences.webm/Travel_Deep_Inside_a_Leaf_-_Annotated_Version_-_California_Academy_of_Sciences.webm.720p.vp9.webm >}}
+
 ## Colors of leaves
 
+:::{.callout-note title="Pigments"}
+Pigments are organic compounds that absorb light at specific wavelengths and reflect or transmit light at other wavelengths. The color of a pigment is determined by the wavelengths of light it absorbs and reflects.
+:::
+
+:::{.callout-note title="Why are leaves green?"}
+The sunlight has a spectrum of colors that combine to make white light, and leaves absorb red, yellow, and blue light with green light reflecting from the leaves.
+
+![Visible light spectrum](https://upload.wikimedia.org/wikipedia/commons/d/d9/Linear_visible_spectrum.svg)
+:::
+
+
+## Colors of leaves
+
+
+| Color | Wavelength Range (nm) | Approximate Frequency (THz) | Energy per Photon (eV) | 
+| --- | --- | --- | --- |
+| Violet | 380 – 450 | 668 – 789 | 2.75 – 3.26 |
+| Blue | 450 – 495 | 606 – 668 | 2.50 – 2.75 |
+| Green | 495 – 570 | 526 – 606 | 2.17 – 2.50 |
+| Yellow | 570 – 590 | 508 – 526 | 2.10 – 2.17 |
+| Orange | 590 – 620 | 484 – 508 | 2.00 – 2.10 |
+| Red | 620 – 750 | 400 – 484 | 1.65 – 2.00 |
+
+## Colors of leaves
+
+:::{.callout-tip title="Sunlight"}
+
+- The sunlight has a spectrum of colors that combine to make white light.
+- Actually, light doesn't really come in colors. 
+- Light (and other electromagnetic radiation) has wavelengths (or the inverse, frequencies) of oscillations. 
+- Some chemicals effectively absorb only certain wavelengths, and that's the case for receptors in our eyes. 
+- We have receptors that are activated strongly by light with wavelengths near 440, 540, and 580 nm. 
+- The electrical signals sent from our eyes are interpreted as colors in our brains, with millions of variations created by combining the intensities sensed in these bands of wavelengths. 
+- The wavelengths themselves possess no property of color. Without eyes, the world has no color.
+
+![Visible light spectrum](https://upload.wikimedia.org/wikipedia/commons/d/d9/Linear_visible_spectrum.svg)
+:::
+
+## Colors of leaves
+
+- The green leaves actually absorb more than 80% of the green light from sunlight, reflecting only 10–15% of the green light.
+
+![The apparent color of leaves changes in the autumn as changing chemistry within the leaves reduces the absorption of some wavelengths, leading to higher reflectance. Yellow leaves still absorb green and blue wavelengths, and brown leaves absorb most wavelengths.](./figures/figure-4-1.png){width=60%}
+
+## Chlorophyll
+
+- Molecules of chlorophyll do not absorb much of the green light, but other molecules in leaves absorb quite a lot.
+- Our eyes interpret leaves as being green because green leaves absorb about 95% of the other visible wavelengths, but a bit less of the green light, so our eyes perceive more photons with a green wavelength than any others.
+
 - Chlorophyll is the green pigment in plants that absorbs light energy for photosynthesis. It is found in the chloroplasts of plant cells.
-- Anthocyanins are pigments that can appear red, purple, or blue depending on the pH. They are produced in the leaves of some plants in response to stress, such as high light intensity or low temperatures.
+
+::: {layout-ncol=2}
+
+![Seen through a microscope, chlorophyll is concentrated within organisms in structures called chloroplasts; shown here grouped inside plant cells](https://upload.wikimedia.org/wikipedia/commons/4/49/Plagiomnium_affine_laminazellen.jpeg)
+
+![Molecular structure of chlorophyll d](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Chlorophyll_d_structure.svg/1920px-Chlorophyll_d_structure.svg.png)
+:::
+
+
+## Anthocyanins
+
+- Anthocyanins are pigments that can appear red, purple, or blue depending on the pH. 
+- They are produced in the leaves of some plants in response to stress, such as high light intensity or low temperatures.
 
 ## Carbon uptake is the second half of Photosynthesis
 
