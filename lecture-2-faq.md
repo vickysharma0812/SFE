@@ -19,7 +19,6 @@ In my opinion, both ecosystem and landscape ecosystem are essentially the same. 
 - In summary, in  landscape ecosystem, and forest ecosystem, the landscape comes first, and then we study the components of that landscape. Whereas in general, many people are interested in studying an organism or species, or population. But if use such approach for a forest we have so many species and their ecosystem. Finding how these ecosystem (infinitely many) interacts with each other will be a challenging task if not impossible task.
 
 
-
 ## Different layers of a forest ecosystem
 
 To understand the different layers of a forest ecosystem, we need to follow the following steps.
@@ -42,7 +41,7 @@ Now, Let us focus on a SINGLE tree at a given location. What type of layers do w
 3. Crown area: Branch area (this is like head area) above the ground.
 4. Canopy area: This is the area above the crown area. This is the area where the leaves are present.
 
-Now let us combine many trees at a given location. Let say we planted them together. Over the time they will grow at the different rate. Some trees will be taller and thicker. Some trees will be shorter. This the first generation of tree. They have same age, but their characteristics are different. After some years lets plant another generation of trees. Now in the forest we will have younger and older trees. Every individual tree has vertical structure. 
+Now let us combine many trees at a given location. Let say we planted them together. Over the time they will grow at the different rate. Some trees will be taller and thicker. Some trees will be shorter. This the first generation of tree. They have same age, but their characteristics are different. After some years lets plant another generation of trees. Now in the forest we will have younger and older trees. Every individual tree has vertical structure.
 
 The combination of these trees is what make the forest. So the forest also have several vertical layers. These layers were discussed in the lecture.
 

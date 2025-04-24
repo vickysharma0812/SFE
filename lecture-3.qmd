@@ -1,0 +1,206 @@
+---
+title: "Sustainable Forest Environment (SFE)"
+subtitle: "Lecture 3: Forest Ecosystems (Last update: 22 April 2025)"
+bibliography: references.bib
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    chalkboard:
+      buttons: true
+    preview-links: auto
+    logo: figures/cover.svg
+    footer: 'Kyoto University | Sustainable Forest Environment (SFE) | Lecture 2: Forest Ecosystems'
+    css: styles.css
+    smaller: true
+    scrollable: true
+    # self-contained: true
+    #width: 960       # default is 960
+    #height: 700       # default is 700
+    #margin: 0.1       # optional, controls slide margins (default: 0.1)
+    #minScale: 0.2     # minimum zoom scale
+    #maxScale: 2.0     # maximum zoom scale
+---
+
+## Learning Objectives
+
+- Forest tree variation, source of variation, and genetic diversity (how various factors bring changes in tree populations)
+- Life history of forest trees: regeneration in woody plant, environmental factors that influence the process from reprduction to establishment
+- The structure and functions of shoots, crown, and roots
+- The process that occur in cells and organs of individual plants affect the growth and form of the whole plant.
+
+## Table of contents
+
+
+## Introduction
+
+- The development of a single tree progresses from formation of a seed, through germination, successful transition into a seedling, growth into a mature tree, with eventual production of flowers and seeds.
+
+## Introduction
+
+The stories of forests assemble from the stories of the life cycles of individual trees, along with the stories of understory vegetation, animals, and microbes.
+
+## Tree Seeds Range in Mass
+
+
+## Why is Understory of a Forest a Tough Place for Small Trees to Thrive?
+
+- Trees need sunlight for photosynthesis, and the light is usually dim under the canopies of large trees.
+
+:::{.callout-note appearance="minimal"}
+The light passing through the canopy of a forest may amount to only 5% or less of the light that strikes the top of the canopy.
+:::
+
+## Flow of energy in a tree
+
+- A tree uses photosynthesis to convert the solar energy into chemical energy which is stored inside the tree.
+- The chemical energy is stored inside the tree in the organic compounds
+- The chemical energy is used for various physiological processes of plants, animals, and microbes.
+- Through photosynthesis plant convert carbon dioxide and water into carbohydrates, which are then used to build the tree's structure and fuel its growth.
+- In this way, the biological processes of forest ecology are driven by chemical energy.
+
+## Chemical reactions and energy
+
+- Chemical reactions can be classfied into two categories:
+  - Exothermic reactions: release energy (e.g., combustion of wood)
+  - Endothermic reactions: absorb energy (e.g., photosynthesis)
+
+- In Exothermic reactions, the energy of the products is lower than that of the reactants, and the difference in energy is released as heat.
+- In Endothermic reactions, the energy of the products is higher than that of the reactants, and the difference in energy is absorbed as heat.
+
+::: {.callout-note appearance="minimal"}
+Chemical reactions can be viewed as the flow of energy and electrons. In exothermic reactions electron moves to lower energy products while in endothermic reactions electrons move to higher energy compounds.
+:::
+
+::: {.notes}
+The electrons cannot be created or destroyed, but they can be transferred from one atom to another. So the flow of electrons can only occur from a source connected to a sink.
+:::
+
+## Redox reactions
+
+- The electron flow is called reduction-oxidation (redox) reaction.
+
+:::{.callout-note appearance="minimal"}
+A redox reaction, short for reduction–oxidation reaction, is a type of chemical reaction that involves the transfer of electrons between two substances
+:::
+
+$$
+Zn(s)+Cu^{2+}(aq)\rightarrow Zn^{2+}(aq)+Cu(s)
+$$
+
+## Redox reactions
+
+- A redox reaction is composed of two processes occuring at the same time:
+  - Oxidation: The process in which a substance is losing the electrons. This process increases the oxidation state of the substance.
+  - Reduction: The process in which a substance is gaining the electrons. This process decreases the oxidation state of the substance.
+
+## Redox reactions
+
+:::{.callout-note title="Reducing agent"}
+The substance that loses electrons is called the reducing agent, because it will promote the reduction of other substance.
+:::
+
+::: {.callout-note title="Oxidizing agent"}
+The substance that gains electron is called the oxidizing agent, because it will promote the oxidation of other substance.
+:::
+
+## Redox reactions in forests
+
+- Most redox reactions in forests use oxygen to accept the electrons. This means that the oxygen is the oxidizing agent.
+- Where do redox reactions in forests obtain high energy electrons for transfer to oxygen?
+- Organic molecules store energy in chemical bonds, and the energy is released as electrons flow from organic molecules to oxygen. This reaction forms low energy products water and carbon dioxide. This process is called respiration, and it is the same process that occurs in our bodies and in fires.
+
+## Forest energy comes from sunlight
+
+::: {.callout-note title="Photosynthesis"}
+
+The cornerstone of biological energy in plants is photosynthesis, a biochemical process that occurs in the chloroplasts of plant cells, particularly in the leaves. During photosynthesis, plants capture light energy from the sun and convert it into chemical energy stored in glucose and other organic molecules.
+
+:::
+
+```{mermaid}
+flowchart LR
+  A[Sunlight] --> C{Photosynthesis, Chlorophyll}
+  D[Carbon dioxide 6CO2] --> C
+  W[Water 6H20] --> C
+  C --> B[Sugar C6H12O6 + Oxygen 6O2]
+```
+
+::: {.callout-note appearance="minimal"}
+The products of photosynthesis  contain only carbon, oxygen and hydrogen. The mass of these three elements accounts for more than 90% of the dry mass of trees and other plants.
+:::
+
+## Colors of leaves
+
+- Chlorophyll is the green pigment in plants that absorbs light energy for photosynthesis. It is found in the chloroplasts of plant cells.
+- Anthocyanins are pigments that can appear red, purple, or blue depending on the pH. They are produced in the leaves of some plants in response to stress, such as high light intensity or low temperatures.
+
+## Carbon uptake is the second half of Photosynthesis
+
+- TODO
+- Structure of leaves
+- Mechanism of stomatal opening and closing
+
+## Growth and Photosynthesis
+
+::: {.callout-note appearance="minimal"}
+Plant growth depends on photosynthesis, but not necessarily on the recent photosynthesis.
+:::
+
+::: {.callout-note title="Growth of plant"}
+Growth refers to the irreversible increase in size, mass, and volume of a tree, involving both cell division (mitosis) and cell enlargement, and ultimately the formation of new tissues (e.g., roots, leaves, stems, xylem, phloem).
+:::
+
+::: {.callout-note title="Respiration"}
+Respiration in trees refers to a metabolic process in which organic compounds (mainly glucose) are broken down to release energy in the form of adenosine triphosphate (ATP). This process occurs in all living cells of the tree (leaves, stems, roots).
+
+$C6H12O6+6O2 \rightarrow 6CO2+6H2O+energy (ATP)$
+:::
+
+## Growth and Photosynthesis
+
+- Sugar is the immediate product of photosynthesis, and sugars may be used quickly for respiration needs to maintain leaf cells.
+- Most sugars are converted to starches for short-term storage during the day, and starches are converted back to soluble sugars at night for transport through the plant.
+- In general, the timing of photosynthesis and growth is the same when the climate conditions are favorable.
+- These two processes, however, are not strongly coupled. Because plants have vast storage pools of carbohydrates, that are used over long periods of time to support thye growth of new cells and tissues.
+- The term \emph{non-structural carbohydrates} (NSC) is used to describe these storage pools. They can add up to about 10% of the mass of plants.
+- Most of the C used in leaves and twigs is young, coming from recent photosynthesis. But the C in roots and woody tissues is older, coming from photosynthesis that occurred weeks or months earlier. Some pools of carbohydrates in roots are several years old, or even decades old @hartmann2016.
+
+## Growth and Photosynthesis
+
+::: {.callout-note appearance="minimal"}
+Plants use stored carbohydrates and nutrients to grow new leaves. It takes leaves about a week or two of photosynthesis to recover the cost of growing them, and then leaves support the plant.
+:::
+
+- The cost  of sustaining leaves can be higher than the gains through photosynthesis if a leaf is too shaded.
+- The capture of light by leaves depends strongly on the amount of leaf area for a tree or forest, along with the orientation of leaves to the sun.
+
+## Leaf morphology
+
+::: {.callout-note appearance="simple"}
+Leaf morphology is a result of the interaction between genetic and environmental factors.
+:::
+
+- No single design of a leaf would be optimal for photosynthesis in all situations
+- Therefore, leaf shapes range from cylindrical needles of some conifers to broad, thin leaves on many broadleaved tree species.
+- It is common to find a range of leaf shapes within the crowns of a single trees and canopies of a forest.
+
+## Root morphology
+
+- Large trees depend on the large root system
+
+## Fine roots
+
+- @kucbel2011
+- @christina2011
+- Roots in desert trees @kirschner2021
+
+## Root-Mycorrhizae symbiosis
+
+- @genre2020
+- @bonfante2010
+
+## Mechanisms of Root-Mycorrhizae symbiosis
+
+- @mcmurtrie20177
+
