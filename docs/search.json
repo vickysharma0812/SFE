@@ -88,21 +88,21 @@
     "href": "lecture-3.html#chemical-reactions-and-energy",
     "title": "Sustainable Forest Environment (SFE)",
     "section": "Chemical reactions and energy",
-    "text": "Chemical reactions and energy\n\nChemical reactions can be classfied into two categories:\n\nExothermic reactions: release energy (e.g., combustion of wood)\nEndothermic reactions: absorb energy (e.g., photosynthesis)\n\nIn Exothermic reactions, the energy of the products is lower than that of the reactants, and the difference in energy is released as heat.\nIn Endothermic reactions, the energy of the products is higher than that of the reactants, and the difference in energy is absorbed as heat.\n\n\n\n\nChemical reactions can be viewed as the flow of energy and electrons. In exothermic reactions electron moves to lower energy products while in endothermic reactions electrons move to higher energy compounds.\n\n\n\n\nThe electrons cannot be created or destroyed, but they can be transferred from one atom to another. So the flow of electrons can only occur from a source connected to a sink."
+    "text": "Chemical reactions and energy\n\nChemical reactions can be classfied into two categories:\n\nExothermic reactions: release energy (e.g., combustion of wood)\nEndothermic reactions: absorb energy (e.g., photosynthesis)\n\nIn Exothermic reactions, the energy of the products is lower than that of the reactants, and the difference in energy is released as heat. Respiration in plants is an exothermic reaction.\nIn Endothermic reactions, the energy of the products is higher than that of the reactants, and the difference in energy is absorbed as heat. Photosynthesis in plants is an endothermic reaction.\n\n\n\n\nChemical reactions can be viewed as the flow of energy and electrons. In exothermic reactions electron moves to lower energy products while in endothermic reactions electrons move to higher energy compounds.\n\n\n\n\nThe electrons cannot be created or destroyed, but they can be transferred from one atom to another. So the flow of electrons can only occur from a source connected to a sink."
   },
   {
     "objectID": "lecture-3.html#redox-reactions",
     "href": "lecture-3.html#redox-reactions",
     "title": "Sustainable Forest Environment (SFE)",
     "section": "Redox reactions",
-    "text": "Redox reactions\n\nThe electron flow is called reduction-oxidation (redox) reaction.\n\n\n\n\nA redox reaction, short for reduction–oxidation reaction, is a type of chemical reaction that involves the transfer of electrons between two substances\n\n\n\n\\[\nZn(s)+Cu^{2+}(aq)\\rightarrow Zn^{2+}(aq)+Cu(s)\n\\]\n\nA redox reaction is composed of two processes occuring at the same time:\n\n\n\n\n\n\n\n\nOxidation\n\n\nOxidation: The process in which a substance is losing the electrons. This process increases the oxidation state of the substance.\n\n\n\n\n\n\n\n\n\n\n\nReduction\n\n\nReduction: The process in which a substance is gaining the electrons. This process decreases the oxidation state of the substance.\n\n\n\n\n\\[\nZn(s)+Cu^{2+}(aq)\\rightarrow Zn^{2+}(aq)+Cu(s)T\n\\]\n\n\n\n\n\n\n\nReducing agent\n\n\nThe substance that loses electrons is called the reducing agent, because it will promote the reduction of other substance.\n\n\n\n\n\n\n\n\n\n\n\nOxidizing agent\n\n\nThe substance that gains electron is called the oxidizing agent, because it will promote the oxidation of other substance."
+    "text": "Redox reactions\n\nThe electron flow is called reduction-oxidation (redox) reaction.\n\n\n\n\nA redox reaction, short for reduction–oxidation reaction, is a type of chemical reaction that involves the transfer of electrons between two substances\n\n\n\n\\[\nZn(s)+Cu^{2+}(aq)\\rightarrow Zn^{2+}(aq)+Cu(s)\n\\]\nIn the above reaction, \\(Zn(s) \\rightarrow Zn^{+2} + 2e\\) is giving up the electron, whereas \\(Cu^{+2} + 2e \\rightarrow Cu\\) is accepting the electrons."
   },
   {
     "objectID": "lecture-3.html#redox-reactions-in-forests",
     "href": "lecture-3.html#redox-reactions-in-forests",
     "title": "Sustainable Forest Environment (SFE)",
     "section": "Redox reactions in forests",
-    "text": "Redox reactions in forests\n\nMost redox reactions in forests use oxygen to accept the electrons. This means that the oxygen is the oxidizing agent.\nWhere do redox reactions in forests obtain high energy electrons for transfer to oxygen?\nOrganic molecules store energy in chemical bonds, and the energy is released as electrons flow from organic molecules to oxygen. This reaction forms low energy products water and carbon dioxide. This process is called respiration, and it is the same process that occurs in our bodies and in fires."
+    "text": "Redox reactions in forests"
   },
   {
     "objectID": "lecture-3.html#photosynthesis-forest-energy-comes-from-sunlight",
@@ -193,28 +193,28 @@
     "href": "lecture-3.html#photosynthesis",
     "title": "Sustainable Forest Environment (SFE)",
     "section": "Photosynthesis",
-    "text": "Photosynthesis\n\nThe growth of forests relates in part to the supply of water, because the uptake of carbon dioxide (CO2) from the atmosphere can be accomplished only by exposing the moist interiors of leaves to the dry air.\nFor each CO2 molecule that diffuses from dry air into the moist interior of a leaf, something like 200–500 molecules of water escape into the atmosphere.\n\n\n\n\n\nWhen water supplies are low, trees close the pores (stoma = mouth, stomata or stomates for plural) on leaves, minimizing water loss and unfortunately preventing uptake of CO2.\n\n\n\n\n\n\n\n\n\n\nStomata in tomato plant\n\n\n\n\n\n\n\nTomato stoma observed through immersion oil"
+    "text": "Photosynthesis\n\n\n\n\n\n\n\nWhere does most of the material in this piece of wood come from?\n\n\n\nMolecules dissolved in water\nLarge soil molecules (humus)\nInorganic molecules from the soil\nSmall molecules in the air\n\nIt is surprising that air could provide the materials that make very solid pieces of wood. The carbon that comprises about half the mass of organic molecules (such as wood) does come from carbon dioxide molecules floating around in the air. (For an excellent documentary about how students learn but fail to understand, see: the documentary.)"
   },
   {
     "objectID": "lecture-3.html#photosynthesis-1",
     "href": "lecture-3.html#photosynthesis-1",
     "title": "Sustainable Forest Environment (SFE)",
     "section": "Photosynthesis",
-    "text": "Photosynthesis\n\nPlants transpire water at high rates when the supply of water is abundant, and when the atmosphere is not too dry\n\n\nRates of transpiration from leaves depends on the density and openness of leaf stomata (pores). Stomatal opening is indexed as stomatal conductance (how many molecules could slip through the stomata present on 1 m2 of total leaf area), and stomatal openings shrink as the air becomes drier. White pine needles and red oak leaves both have stomata that are sensitive to vapor pressure deficits, but the pine needles sustain more open stomata at all humidities (left). The amount of water lost from a leaf depends on stomatal conductance, the water status of the leaf (water potential, Figure 4.3), and the dryness of the air (right). With very dry air, the loss of water can go up even as stomata close down. The pine leaves transpire much more water at any given level of vapor pressure deficit than the oak leaves."
+    "text": "Photosynthesis\n\nThe growth of forests relates in part to the supply of water, because the uptake of carbon dioxide (CO2) from the atmosphere can be accomplished only by exposing the moist interiors of leaves to the dry air.\nFor each CO2 molecule that diffuses from dry air into the moist interior of a leaf, something like 200–500 molecules of water escape into the atmosphere.\n\n\n\n\n\nWhen water supplies are low, trees close the pores (stoma = mouth, stomata or stomates for plural) on leaves, minimizing water loss and unfortunately preventing uptake of CO2.\n\n\n\n\n\n\n\n\n\n\nStomata in tomato plant\n\n\n\n\n\n\n\nTomato stoma observed through immersion oil"
   },
   {
     "objectID": "lecture-3.html#photosynthesis-2",
     "href": "lecture-3.html#photosynthesis-2",
     "title": "Sustainable Forest Environment (SFE)",
     "section": "Photosynthesis",
-    "text": "Photosynthesis\n\n\n\nThe story of potentials also explains how water moves against gravity, ascending tens of meters (or even one hundred of meters) upward in trees against the pull of gravity\nDry air has a tremendously negative potential compared to the insides of leaves, so water is sucked from leaves into the air.\nThe potential of water inside leaves is lower than in twigs, so the evaporated water is replaced in the leaf with water sucked from the twigs.\nThe twig’s water potential is lower than the stem, and the stem is lower than the root, and the root is lower than the water potential of the soil.\n\n\n\n\n\nWater flows “down” gradients of potential, from high potentials in soils (which are high, even though the sign on the value is negative) to lower potentials in trees (more negative values)"
+    "text": "Photosynthesis\n\nPlants transpire water at high rates when the supply of water is abundant, and when the atmosphere is not too dry\n\n\nRates of transpiration from leaves depends on the density and openness of leaf stomata (pores). Stomatal opening is indexed as stomatal conductance (how many molecules could slip through the stomata present on 1 m2 of total leaf area), and stomatal openings shrink as the air becomes drier. White pine needles and red oak leaves both have stomata that are sensitive to vapor pressure deficits, but the pine needles sustain more open stomata at all humidities (left). The amount of water lost from a leaf depends on stomatal conductance, the water status of the leaf (water potential, Figure 4.3), and the dryness of the air (right). With very dry air, the loss of water can go up even as stomata close down. The pine leaves transpire much more water at any given level of vapor pressure deficit than the oak leaves."
   },
   {
     "objectID": "lecture-3.html#photosynthesis-3",
     "href": "lecture-3.html#photosynthesis-3",
     "title": "Sustainable Forest Environment (SFE)",
     "section": "Photosynthesis",
-    "text": "Photosynthesis\n\n\n\nThis chain of potentials moves water from the soil to the atmosphere, by virtue of the very strong ability of water molecules to stick to surfaces and to each other.\nThe potentials in soils and plants are typically negative, which means the potential is lower than in a free‐standing puddle of water on the soil surface (at a potential of 0 MPa).\nGoing from a higher potential to a lower potential means that water will flow down the potential gradient from −0.2 MPa in soils, to −1 or −2 MPa in trees, to −60 MPa (or lower) in dry air.\n\n\n\n\n\nWater flows “down” gradients of potential, from high potentials in soils (which are high, even though the sign on the value is negative) to lower potentials in trees (more negative values)"
+    "text": "Photosynthesis\n\n\n\nThe story of potentials also explains how water moves against gravity, ascending tens of meters (or even one hundred of meters) upward in trees against the pull of gravity\nDry air has a tremendously negative potential compared to the insides of leaves, so water is sucked from leaves into the air.\nThe potential of water inside leaves is lower than in twigs, so the evaporated water is replaced in the leaf with water sucked from the twigs.\nThe twig’s water potential is lower than the stem, and the stem is lower than the root, and the root is lower than the water potential of the soil.\n\n\n\n\n\nWater flows “down” gradients of potential, from high potentials in soils (which are high, even though the sign on the value is negative) to lower potentials in trees (more negative values)"
   },
   {
     "objectID": "lecture-3.html#growth-and-photosynthesis",
@@ -593,5 +593,68 @@
     "title": "Sustainable Forest Environment (SFE)",
     "section": "Boreal forests",
     "text": "Boreal forests\n\nBoreal forests, also known as taiga, are found in the northern regions (high latitudes) of North America, Europe, and Asia.\nClimate: Long, cold winters and short, mild summers; relatively low precipitation.\nDominated by coniferous trees such as spruce, pine, and fir.\nLower species diversity; adapted to cold environments.\n\n\n\n\n\n\nDistribution of Boreal forests\n\n\n\n\n\n\nWhite spruce taiga in Alaska Range, USA"
+  },
+  {
+    "objectID": "lecture-3.html#redox-reaction",
+    "href": "lecture-3.html#redox-reaction",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Redox reaction",
+    "text": "Redox reaction\n\nA redox reaction is composed of two processes occuring at the same time:\n\n\n\n\n\n\n\n\nOxidation\n\n\nOxidation: The process in which a substance is losing the electrons. This process increases the oxidation state of the substance.\n\\[\nZn \\rightarrow Zn^{+2} + 2e\n\\]\n\n\n\n\n\n\n\n\n\n\n\nReduction\n\n\nReduction: The process in which a substance is gaining the electrons. This process decreases the oxidation state of the substance.\n\\[\nCu^{+2} + 2e \\rightarrow Cu\n\\]"
+  },
+  {
+    "objectID": "lecture-3.html#redox-reactions-1",
+    "href": "lecture-3.html#redox-reactions-1",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Redox reactions",
+    "text": "Redox reactions\n\n\n\n\n\n\n\nReducing agent\n\n\nThe substance that loses electrons is called the reducing agent, because it will promote the reduction of other substance. In \\(Zn(s)+Cu^{2+}(aq)\\rightarrow Zn^{2+}(aq)+Cu(s)\\), Zn is acting as the reducing agent.\n\n\n\n\n\n\n\n\n\n\n\nOxidizing agent\n\n\nThe substance that gains electron is called the oxidizing agent, because it will promote the oxidation of other substance. In \\(Zn(s)+Cu^{2+}(aq)\\rightarrow Zn^{2+}(aq)+Cu(s)\\), Cu is acting as the oxidizing agent."
+  },
+  {
+    "objectID": "lecture-3.html#respiration",
+    "href": "lecture-3.html#respiration",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Respiration",
+    "text": "Respiration\n\nRespiration in plants is an exothermic reaction. The chemical energy stored inside the organic molecules such as carbohydrates like glucose (\\(C_{6}H_{12}O_{6}\\)) is released by breaking down of molecules.\nThe primary form of respiration in plants is aerobic respiration (using oxygen), although anaerobic respiration can occur under low-oxygen conditions.\n\n\n\n\n\n\n\n\naerobic respiration\n\n\nThe overall chemical reaction for aerobic respiration in plants is:\n\\[\nC_{6}H_{12}O_{6}+6O_{2}\\rightarrow 6CO_{2}+6H_{2}O+Energy (ATP)\n\\]\nIn the above reaction oxygen is taking the electron, hence it is an oxidizing agent. Sugar is oxidizing into \\(CO_{2}\\) and \\(H_{2}O\\)."
+  },
+  {
+    "objectID": "lecture-3.html#redox-reactions-in-forests-respiration",
+    "href": "lecture-3.html#redox-reactions-in-forests-respiration",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Redox reactions in forests: Respiration",
+    "text": "Redox reactions in forests: Respiration\n\nRespiration in plants is an exothermic reaction. The chemical energy stored inside the organic molecules such as carbohydrates like glucose (\\(C_{6}H_{12}O_{6}\\)) is released by breaking down of molecules.\nThe primary form of respiration in plants is aerobic respiration (using oxygen), although anaerobic respiration can occur under low-oxygen conditions.\n\n\n\n\n\n\n\n\naerobic respiration\n\n\nThe overall chemical reaction for aerobic respiration in plants is:\n\\[\nC_{6}H_{12}O_{6}+6O_{2}\\rightarrow 6CO_{2}+6H_{2}O+Energy (ATP)\n\\]\n\nIn the above reaction oxygen is taking the electron, hence it is an oxidizing agent. Sugar is oxidizing into \\(CO_{2}\\) and \\(H_{2}O\\).\nOrganic molecules store energy in chemical bonds, and the energy is released as electrons flow from organic molecules to oxygen.\nThis reaction forms low energy products water and carbon dioxide.\nThe energy produced is utilized by plants to perform various vital functions, including growth, reproduction, and defense against pathogens.\n\n\n\n\n\n\nThe aerobic respiration mainly occur in cytoplasm and mitocondria. It contains three major steps.\n\n\n\n\n\n\n\n\nStage\nLocation (in cell)\nMain Process\n\n\n\n\n1. Glycolysis\nCytoplasm\nGlucose split into two molecules of pyruvate; small ATP yield\n\n\n2. Krebs Cycle (Citric Acid Cycle)\nMitochondrial matrix\nPyruvate broken down; CO₂ released; electron carriers formed\n\n\n3. Electron Transport Chain (ETC)\nInner mitochondrial membrane\nElectrons transferred; large amount of ATP generated; O₂ consumed"
+  },
+  {
+    "objectID": "lecture-3.html#redox-reactions-in-forests-photosynthesis",
+    "href": "lecture-3.html#redox-reactions-in-forests-photosynthesis",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Redox reactions in forests: Photosynthesis",
+    "text": "Redox reactions in forests: Photosynthesis\n\n\n\n\n\n\n\nPhotosynthesis\n\n\nPhotosynthesis is a biochemical reaction that occurs in the chloroplasts of plant cells. During photosynthesis, plants capture light energy from the sun and convert it into chemical energy stored in glucose and other organic molecules.\n\\[\nATP + \\text{H}_{2}O + \\text{CO}_{2} \\rightarrow \\text{Sugar} + \\text{O}_{2}\n\\]\nThe products of photosynthesis contain only carbon, oxygen and hydrogen. The mass of these three elements accounts for more than 90% of the dry mass of trees and other plants.\n\n\n\n\n\n\n\n\n\nflowchart LR\n  A[Sunlight] --&gt; C{Photosynthesis, Chlorophyll}\n  D[Carbon dioxide 6CO2] --&gt; C\n  W[Water 6H20] --&gt; C\n  C --&gt; B[Sugar C6H12O6 + Oxygen 6O2]"
+  },
+  {
+    "objectID": "lecture-3.html#plant-leaf-structure-medium-scale-features",
+    "href": "lecture-3.html#plant-leaf-structure-medium-scale-features",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Plant leaf structure (medium scale features)",
+    "text": "Plant leaf structure (medium scale features)\n\nMedium-scale features: Leaves are normally extensively vascularized and typically have networks of vascular bundles containing xylem, which supplies water for photosynthesis, and phloem, which transports the sugars produced by photosynthesis. Many leaves are covered in trichomes (small hairs) which have diverse structures and functions."
+  },
+  {
+    "objectID": "lecture-3.html#plant-leaf-structure-small-scale-features",
+    "href": "lecture-3.html#plant-leaf-structure-small-scale-features",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Plant leaf structure (small scale features)",
+    "text": "Plant leaf structure (small scale features)\n\nSmall-scale features: (a) The epidermis, which covers the upper and lower surfaces, (b) The mesophyll tissue, which consists of photosynthetic cells rich in chloroplasts. (also called chlorenchyma), (c) The arrangement of veins (the vascular tissue)"
+  },
+  {
+    "objectID": "lecture-3.html#leaf-epidermis",
+    "href": "lecture-3.html#leaf-epidermis",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Leaf epidermis",
+    "text": "Leaf epidermis\n\nSEM image of a leaf epidermis"
+  },
+  {
+    "objectID": "lecture-3.html#photosynthesis-4",
+    "href": "lecture-3.html#photosynthesis-4",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Photosynthesis",
+    "text": "Photosynthesis\n\n\n\nThis chain of potentials moves water from the soil to the atmosphere, by virtue of the very strong ability of water molecules to stick to surfaces and to each other.\nThe potentials in soils and plants are typically negative, which means the potential is lower than in a free‐standing puddle of water on the soil surface (at a potential of 0 MPa).\nGoing from a higher potential to a lower potential means that water will flow down the potential gradient from −0.2 MPa in soils, to −1 or −2 MPa in trees, to −60 MPa (or lower) in dry air.\n\n\n\n\n\nWater flows “down” gradients of potential, from high potentials in soils (which are high, even though the sign on the value is negative) to lower potentials in trees (more negative values)"
   }
 ]
