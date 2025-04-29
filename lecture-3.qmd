@@ -1,6 +1,6 @@
 ---
 title: "Sustainable Forest Environment (SFE)"
-subtitle: "Lecture 3: Forest Ecosystems (Last update: 22 April 2025)"
+subtitle: "Lecture 3: Forest Ecosystems (Last update: 29 April 2025)"
 bibliography: references.bib
 format:
   revealjs:
@@ -69,7 +69,9 @@ The stories of forests assemble from the stories of the life cycles of individua
 Adaptedness is the ability of organisms to live and reproduce in a given range of environments.
 :::
 
-- Example of adaptedness in a forest ecosystem is the thick bark of the cork oak (Quercus suber), which is a clear adaptation to frequent forest fires in Mediterranean-type environments.
+## Adaptedness in a forest ecosystem
+
+- Example: The thick bark of the cork oak (Quercus suber), which is a clear adaptation to frequent forest fires in Mediterranean-type environments.
 
 ::: {.notes}
 The cork oak develops an exceptionally thick, spongy bark composed primarily of suberin, a hydrophobic, fire-resistant substance. This thick bark serves as an insulating layer, protecting the tree's cambium and inner tissues from the intense heat of wildfires. The cork oak's ability to regenerate its bark after fire damage is a key factor in its survival in fire-prone environments.
@@ -118,7 +120,11 @@ A given genotype may assume one set of characters (exhibit one phenotype) in one
 It is the degree to which a character of a given genotype can be modified by environmental factors.
 :::
 
+::: {.callout-tip appearance="simple"}
+
 An example of plasticity of adaptive significance is the rooting habit of individual trees such as Norway spruce, white spruce, and balsam fir. Roots develop either shallow or deep, depending on the soil environment, for example, shallow in a poorly-drained swamp versus deeply in a sandy loam upland soil.
+
+:::
 
 ## Source of variation
 
@@ -133,6 +139,8 @@ Mutations are changes in the DNA sequence of an organism's genome, which can lea
 Recombination occurs during sexual reproduction when genetic material from two parents is combined to produce offspring with a unique combination of traits.
 :::
 
+## Source of variation
+
 - Altough mutations are the ultimate source of genetic variation, recombination is the most important source of genetic variation in sexually reproducing organisms.
 
 ::: {.callout-note title="Gene flow"}
@@ -144,26 +152,73 @@ The exchange of genes between different populations is called gene flow, and it 
 
 ## Seeds of tree
 
-- Tree Seeds Range in Mass from Smaller than a Flea to Larger than a Mouse
+:::{.callout-note title="Definition"}
+
+A seed is a plant structure containing an embryo and stored nutrients in a protective coat called a testa.
+
+:::
+
+:::: {.columns}
+
+::: {.column width=60%}
+
+- In seed plants (spermatophytes), seed formation is the part of the process of reproduction.
+- Other plants such as ferns, mosses and liverworts, do not have seeds and use water-dependent means to propagate themselves.
+- The size of seeds varies significantly.
+
+:::
+
+::: {.column width=40%}
 
 ![Variety of seeds [Source: Alexander Klepnev Wikimedia](https://en.wikipedia.org/wiki/Seed)](./figures/various-seed-1.jpg)
 
+:::
+
+::::
+
+
 ## Seeds of tree
 
-- Seedlings that develop from large seeds (such as walnuts and acorns) have a great advantage over seedlings endowed with very, very tiny seeds (such as cottonwoods and willows).
+:::{.callout-note appearance="simple"}
+
+Seedlings that develop from large seeds (such as walnuts and acorns) have a great advantage over seedlings endowed with very, very tiny seeds (such as cottonwoods and willows).
+
+:::
 
 ::: {layout-ncol=4}
-![Wallnut seeds, [source](https://en.wikipedia.org/wiki/Walnut)](./figures/wallnut-1.jpg)
+![Wallnut seeds, [^1]](https://upload.wikimedia.org/wikipedia/commons/b/b2/Walnuts_-_whole_and_open_with_halved_kernel.jpg)
 
-![Acorn seeds](./figures/acorn-1.jpg)
+![Acorn of the willow oak [^2]](https://upload.wikimedia.org/wikipedia/commons/d/d8/Acorns_small_to_large.jpg)
 
-![Stone pine- note two nuts under each cone scale](./figures/pine-seed-1.jpg)
+![Stone pine [^3]](https://upload.wikimedia.org/wikipedia/commons/d/d9/StonePine.jpg){width=60%}
 
-![Cottonwood seeds](./figures/cottonwood-seed-1.jpg)
+![Cottonwood seeds [^4]](https://upload.wikimedia.org/wikipedia/commons/c/c5/Cottonwood_20090521_083459_1.jpg)
 :::
+
+[^1]: https://en.wikipedia.org/wiki/Walnut
+[^2]: https://en.wikipedia.org/wiki/Acorn
+[^3]: https://upload.wikimedia.org/wikipedia/commons/d/d9/StonePine.jpg
+[^4]: https://upload.wikimedia.org/wikipedia/commons/c/c5/Cottonwood_20090521_083459_1.jpg
+
+
+## Big vs Small seeds
+
+:::: {.columns}
+
+::: {.column width=50%}
+
 
 - Successful establishment of tiny‐seed species tends to happen only under ideal conditions of high light, high water, and high nutrient supply.
 - For example, cottonwood seeds are so small that it takes about 5000 to add up to a single gram of mass! Successful germinants occur on recent flood deposits that have the requisite light, water and nutrients. Recent flood deposits dry out as the water table recedes, and first‐year growth and survival depend on whether seedling roots can descend into the soil quickly enough to tap receding water and nutrient supplies.
+
+:::
+
+::: {.column width=50%}
+
+:::
+
+::::
+
 
 ![source: @adair2002](./figures/figure-4-10.jpg){width=70%}
 
