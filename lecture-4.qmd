@@ -1,0 +1,251 @@
+---
+title: "Sustainable Forest Environment (SFE)"
+subtitle: "Lecture 4: Forest Environment(Last update: 1 May 2025)"
+bibliography: references.bib
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    chalkboard:
+      buttons: true
+    preview-links: auto
+    logo: figures/cover.svg
+    footer: 'Kyoto University | Sustainable Forest Environment (SFE)'
+    css: styles.css
+    smaller: false
+    scrollable: false
+    # self-contained: true
+    #width: 960       # default is 960
+    #height: 700       # default is 700
+    #margin: 0.1       # optional, controls slide margins (default: 0.1)
+    #minScale: 0.2     # minimum zoom scale
+    #maxScale: 2.0     # maximum zoom scale
+---
+
+## Learning objectives
+
+- Effect of physical environment on the forest development
+- Temperature, water regime, and solar radiation
+
+## Forest environment
+
+:::{.callout-note title="What we know about forest so far?"}
+
+- Forest site is a place where plants live and grow.
+- Forest site is defined by its physical environment such as
+  - specfic geographic location
+  - physigraphy
+  - hydrology
+  - global and micro climate
+- To greater or lesser extent, these abiotic factors are affected by the plants and animals that live there.
+:::
+
+## Physical processes in forests
+
+- All the chemical and biological processes within a forest are driven by physical processes: environmental temperatures, water regimes, and solar radiation.
+- Trees grows with its crown in the atmosphere and roots in the soil.
+
+## Physical processes in forests
+
+- The crown of tree intercepts the sunlight for the photosynthesis.
+- The solar energy also causes evoparation of water in the leaves which in turn cools the leaves.
+- The evoparation of water from leaves increases the humidity of surrounding air
+- Evaporation of water from leaves also becomes "a driving force" to lift the water and nutrients from the root zone to canopy. 
+
+## The big picture of forest environment
+
+![Relationship between site factors directly and indirectly responsible for plant distribution and growth (Modified from @kashian2022](./figures/forest-environment-relation.svg)
+
+## Weather and climate
+
+- Climate and weather are related to each other, but they are not the same.
+
+::: {.callout-note title="Weather"}
+Weather is the state of the atmosphere at given time and place. It is the mix of events that happen each day in our atmosphere. Altough, the earth has single atmosphere the weather is not the same at all places on earth.
+:::
+
+::: {.callout-tip title="Climate"}
+Climate is the average weather over a LONG period of time (for example several decades) in a specific area. Different regions of the world have different climates.
+:::
+
+::: {.callout-note appearance="simple"}
+
+Climate is what you expect, weather is what you get. [NOAA](https://www.noaa.gov/news/weather-vs-climate)
+
+:::
+
+## Effect of climate on forest
+
+![Climate affects where the forest occur, and how they develop. The distributions of major types of forests across the world @pan2013](./figures/c02f002.png)
+
+::: {.notes}
+In the above figure, forests are more widely distributed in the Northern Hemisphere, where larger land masses occur. The length of the growing season decreases from the full year in the wet tropics to only 7 to 10 weeks in the boreal region. Forests with different life forms and growth forms, such as deciduous, evergreen, needle-leaved, and broad-leaved trees, are adapted to the seasonality of temperature and rainfall in their geographic region
+:::
+
+## Effect of climate on forest (NPP) {.smaller}
+
+![Estimated Global net primary production (NPP) @pan2013. Net primary productivity (NPP) is the rate at which energy is stored in plant biomass over a given period, typically a year. Over the whole year, **the tropics have the highest biomass accumulation**, followed by temperate and then boreal zones, although boreal forests appear to have very high NPP in their short growing seasons](./figures/es440593.f5.png)
+
+
+## Taller and denser forests {.smaller}
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+- Trees tend to be taller for moderate to warm temperatures and high rainfall; tropical regions and in some temperate coastal regions and remote mountain areas.
+- The densest forests occur in the high northern latitudes of Eurasia and North America, the tropical latitudes of the Amazon Basin of South America, the Congo Basin of West Central Africa, and insular Southeast Asia. 
+
+:::
+
+::: {.column width="60%"}
+
+![The structure of global forests (a) tree canopy cover (b) forest height @pan2013.](./figures/es440593.f2.gif){ width=80%}
+
+:::
+
+::::
+
+## Effect of climate on forest {.smaller}
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+- Most productive forests tend to occur in warmer locations where precipitation is close to (or higher than) the water that could be evaporated by available energy.
+- Is it possible to be too warm for high growth rates, even where plenty of water is available? This is not clear from this Figure, but the hottest tropical forests do appear to have lower growth rates than somewhat cooler forests 
+
+:::
+
+::: {.column width="60%"}
+
+![The positive y axis denotes wetter and negative y axis denotes drier environment @running2004](./figures/i0006-3568-54-6-547-f02.jpeg)
+
+:::
+
+::::
+
+
+## Diversity of trees in forests
+
+::: {.callout-note}
+Warmer forests have more species of trees
+:::
+
+- Temperature decreases with increase in elevation
+- @veintimilla2019 found that in a tropical forest in Costa Rica, the number of species found in forests decreases with increase in elevations
+- @wang2009 found that in the forests of estern China and North America the number of species of trees in the forest increaess with increase in temperature
+
+## Effect of temperature on biological processes in trees
+
+- Extreme temperatures tend to stop biological processes
+- Little biological activity occurs below the freezing point of water, and at very high temperatures organs fail and organisms die. 
+- Between these extremes, most biological processes respond strongly to temperature, often changing by a factor of two or more for a 10 °C change in temperature
+
+## Effect of temperature on biological processes in trees
+
+- Respiration is the oxidation of carbon compounds to release energy and CO2.
+- The rate of respiration may increase exponentially with temperature.
+
+::: {.callout-note appearance="simple"}
+Plant respiration is an enzyme-mediated process. As temperature increases, the kinetic energy of molecules also increases, enhancing enzyme activity and thus accelerating respiration rates.
+:::
+
+## Effect of temperature on photosynthesis {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- Photosynthesis has long been recognized as one of the most temperature-sensitive processes in plants @slot2017
+- Photosynthesis typically increases with increasing leaf temperature until it reaches an optimum ($P_{opt}$ at $T_{opt}$), beyond which rates decrease, reaching zero at the high-temperature carboncompensation point
+
+:::
+
+::: {.column width="50%"}
+
+![Photosynthesis vs temperature @slot2017](./figures/nph14469-fig-0001-m.jpg)
+
+:::
+
+::::
+
+## Effect of temperature on photosynthesis {.smaller}
+
+- The decrease above the optimum temperature ($T_{opt}$) is caused by three major factors: 
+    - stomatal closure in response to increased leaf-to-air vapor pressure deficit (VPD)
+    - changes in photosynthetic biochemistry
+    - increasing rates of respiration in the light
+- Stomatal conductance generally has a large control over photosynthesis and often declines in response to high vapour pressure deficit (VPD) associated with higher temperatures (@crous2022)
+
+## Effect of temperature on photosynthesis {.smaller}
+
+- In general, photosynthesis can function without harm between 0 and 30 °C in cold-adapted plants that are active in winter and early spring, or grow at high altitude and latitude (@sage2007)
+- In plants from equitable habitats (e.g. warm season crops), photosynthesis operates safely between 7 and 40 °C,
+- In plants from hot environments, such as tropical species and summer species in the Mojave Desert, photosynthesis operates between 15 and 45 °C with no apparent problem
+
+## Heat gain in leaves {.smaller}
+
+![Heat transfer in leaves](./figures/leaf-sun-wind.svg)
+
+- When solar energy from the sun strikes the leaf, some part of it is absorbed and some part is reflected. This absorbtion of thermal radiation increases the thermal energy of the leaves.
+- The thermal energy of the leaves also increases when the leaves are in contact with hot air.
+- Due to the increase in thermal energy, the temperature of the leaves increases
+
+## Heat loss in leaves {.smaller}
+
+The leaf can also lose its thermal energy by following mechanisms.
+
+- When the leaves are exposed to cooler air.
+- The leaf can lose thermal energy by evaporating water (controlled through stomata). This is because evaporation of water is an endothermic process. The leaves use their thermal energy to heat water and convert them liquid into vapour.
+- The leaves can also lose energy by emitting radiant energy.
+
+## Heat loss in leaves due to cooler air {.smaller}
+
+- When cool air pass over the leaves, the thermal energy is transferred to the air trough conduction and convection mechanisms.
+- The rate of energy transfer (by conduction) into the air depends on the gradient of temperature between the leaf and the air.
+- The rate of heat transfer also depends upon the surface area of the leaves which are in contact with the air.
+
+
+::: {layout="[[1,1]]"}
+
+![Beech leaf](https://upload.wikimedia.org/wikipedia/commons/3/3f/Fagus_sylvatica_leaf_001.jpg){width=80%}
+
+![Norway spruce](https://upload.wikimedia.org/wikipedia/commons/3/39/Picea_abies_Nadelkissen.jpg){width=80%}
+
+:::
+
+
+## Heat loss in leaves due to cooler air {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- @leuzinger2007 showed that forest canopies play a major role in biosphere-atmosphere interactions.
+
+- Large surfaces, such as beech leaves, have stable layers of air moleculs comprising a thick boundary layer. This thick boundary layer slow down the energy transfer from leaves to air at large.
+
+- Small surfaces have thinner boundary layers. They allow fater transfer of thermal energy between leaves and air.
+
+- The thickness of boundary layer decreases with increase in wind speed.
+
+:::
+
+::: {.column width="50%"}
+
+![@leuzinger2007](./figures/1-s2.0-S0168192307001396-gr4.jpg)
+
+:::
+
+::::
+
+
+## Heat loss in leaves due to evaporation {.smaller}
+
+
+
+
+
+
+
