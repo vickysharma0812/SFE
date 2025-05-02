@@ -243,6 +243,76 @@ The leaf can also lose its thermal energy by following mechanisms.
 
 ## Heat loss in leaves due to evaporation {.smaller}
 
+- The evaporation of water requiresa huge amount of energy; to evaporate 1 liter of water we need to supply 2.4 MJ of energy.
+- The faster the rate of evaporation faster will be the rate of energy loss (i.e., cooling)
+- The rate of evaporation, however, depends upon several factors such as:
+    - amount of water available in the tree
+    - dryness of air (temperatue and humidity of air)
+    - wind pressure, speed, and thickness of boundary layer
+
+
+## Heat loss due to radiation
+
+- Earlier it was mentioned that the leaves can loose energy by emitting radiation.
+- Thermal radiation is the emission of electromagnetic waves from all matter that has non zero absolute temperature.
+- The energy is emitted in the form of photons and does not require a medium for propagation.
+
+::: {layout="[[1,1]]"}
+
+![Natural image](https://upload.wikimedia.org/wikipedia/commons/9/9b/Human-Visible.jpg)
+
+![Infrared image](https://upload.wikimedia.org/wikipedia/commons/4/44/Human-Infrared.jpg)
+
+:::
+
+## Heat loss due to radiation {.smaller}
+
+- The instensity of thermal radiation emitted by an object is given by Stefan-Boltzmann law:
+
+$$
+j = \varepsilon \sigma T^{4}
+$$
+
+where,
+
+- $j$ is the intensity of the thermal radiation (energy per unit area per unit time)
+- $\varepsilon$ is the emissivity, which is a material property
+- $\sigma$ is the Stefan-Boltzmann constant
+- T is absolute temperatue in Kelvin.
+
+## Heat loss due to radiation {.smaller}
+
+- So Stefan-Boltzmann law states that a body which has non zero absolute temperature emits thermal radiation. Hotter bodies emit more energy than the cooler ones.
+- Thermal radiation emitted by a body at any temperature consists of a wide range of frequencies.
+- The energy is emitted in the form of photons, which has following expression for its energy.
+
+$$
+E = h \nu = h \frac{c}{\lambda}
+$$
+
+- $h$ is the Planck's constant
+- $c$ is the speed of light
+- $\lambda$ and $\nu$ are the wavelength and frequency of the wave.
+
+The dominant frequency (or color) range of the emitted radiation shifts to higher frequencies as the temperature of the emitter increases. 
+
+## Heat loss due to radiation {.smaller}
+
+- The sun is very hot, so the thermal radiation emitted by the sun contains very high frequencies or very short wavelengths ("shortwave radiation")
+- UV spectrum: 10 to 400 nm
+- Visible spectrum: 380 - 780 nm
+- Infrared spectrum: 780 - 1 mm
+
+- The cooler bodies emits radiation of larger wavelengths. If these wavelengths belong to visible spectrum then we can see those bodies.
+- However, if the wavelengths are larger than the visible spectrum then we cannot see those bodies, and we need Infrared camera (imaging)
+
+- An object at room temperature (20 degree celcius) shines out 420 W/m2 energy .
+- If we increase the temperature to 37 degree celcius then it will emit 520 W/m2 energy. 
+
+
+
+
+
 
 
 
