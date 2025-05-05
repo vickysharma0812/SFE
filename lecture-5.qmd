@@ -1,0 +1,217 @@
+---
+title: "Sustainable Forest Environment (SFE)"
+subtitle: "Lecture 5: Forest Environment(Last update: 5 May 2025)"
+bibliography: references.bib
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    chalkboard:
+      buttons: true
+    preview-links: auto
+    logo: figures/cover.svg
+    footer: 'Kyoto University | Sustainable Forest Environment (SFE)'
+    css: styles.css
+    smaller: false
+    scrollable: false
+    # self-contained: true
+    #width: 960       # default is 960
+    #height: 700       # default is 700
+    #margin: 0.1       # optional, controls slide margins (default: 0.1)
+    #minScale: 0.2     # minimum zoom scale
+    #maxScale: 2.0     # maximum zoom scale
+---
+
+## Learning objectives
+
+- Effect of physical environment on the forest development
+- Temperature, water regime, and solar radiation
+
+## Heat loss in leaves {.smaller}
+
+The leaf can also lose its thermal energy by following mechanisms.
+
+- When the leaves are exposed to cooler air.
+- The leaf can lose thermal energy by evaporating water (controlled through stomata). This is because evaporation of water is an endothermic process. The leaves use their thermal energy to heat water and convert them liquid into vapour.
+- The leaves can also lose energy by emitting radiant energy.
+
+## Heat loss in leaves due to cooler air {.smaller}
+
+- When cool air pass over the leaves, the thermal energy is transferred to the air trough conduction and convection mechanisms.
+- The rate of energy transfer (by conduction) into the air depends on the gradient of temperature between the leaf and the air.
+- The rate of heat transfer also depends upon the surface area of the leaves which are in contact with the air.
+
+
+::: {layout="[[1,1]]"}
+
+![Beech leaf](https://upload.wikimedia.org/wikipedia/commons/3/3f/Fagus_sylvatica_leaf_001.jpg){width=80%}
+
+![Norway spruce](https://upload.wikimedia.org/wikipedia/commons/3/39/Picea_abies_Nadelkissen.jpg){width=80%}
+
+:::
+
+
+## Heat loss in leaves due to cooler air {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- @leuzinger2007 showed that forest canopies play a major role in biosphere-atmosphere interactions.
+
+- Large surfaces, such as beech leaves, have stable layers of air moleculs comprising a thick boundary layer. This thick boundary layer slow down the energy transfer from leaves to air at large.
+
+- Small surfaces have thinner boundary layers. They allow fater transfer of thermal energy between leaves and air.
+
+- The thickness of boundary layer decreases with increase in wind speed.
+
+:::
+
+::: {.column width="50%"}
+
+![@leuzinger2007](./figures/1-s2.0-S0168192307001396-gr4.jpg)
+
+:::
+
+::::
+
+
+## Heat loss in leaves due to evaporation {.smaller}
+
+- The evaporation of water requiresa huge amount of energy; to evaporate 1 liter of water we need to supply 2.4 MJ of energy.
+- The faster the rate of evaporation faster will be the rate of energy loss (i.e., cooling)
+- The rate of evaporation, however, depends upon several factors such as:
+    - amount of water available in the tree
+    - dryness of air (temperatue and humidity of air)
+    - wind pressure, speed, and thickness of boundary layer
+
+
+## Heat loss due to radiation {.smaller}
+
+- Earlier, it was mentioned that the leaves can loose energy by emitting radiation.
+
+::: {.callout-note title="Thermal radiation"}
+- Thermal radiation is the emission of electromagnetic waves from all matter that has non zero absolute temperature.
+- The energy is emitted in the form of photons and does not require a medium for propagation.
+:::
+
+::: {layout="[[1,1]]"}
+
+![Natural image](https://upload.wikimedia.org/wikipedia/commons/9/9b/Human-Visible.jpg)
+
+![Infrared image](https://upload.wikimedia.org/wikipedia/commons/4/44/Human-Infrared.jpg)
+
+:::
+
+## Heat loss due to radiation {.smaller}
+
+- The instensity of thermal radiation emitted by an object is given by Stefan-Boltzmann law:
+
+$$
+j = \varepsilon \sigma T^{4}
+$$
+
+where,
+
+- $j$ is the intensity of the thermal radiation (energy per unit area per unit time)
+- $\varepsilon$ is the emissivity, which is a material property
+- $\sigma$ is the Stefan-Boltzmann constant
+- T is absolute temperatue in Kelvin.
+
+## Heat loss due to radiation {.smaller}
+
+- So Stefan-Boltzmann law states that a body which has non zero absolute temperature emits thermal radiation. Hotter bodies emit more energy than the cooler ones.
+- Thermal radiation emitted by a body at any temperature consists of a wide range of frequencies.
+
+::: {.callout-note appearance="simple"}
+The dominant frequency (or color) range of the emitted radiation shifts to higher frequencies as the temperature of the emitter increases. 
+:::
+
+- The energy is emitted in the form of photons, which has following expression for its energy.
+
+$$
+E = h \nu = h \frac{c}{\lambda}
+$$
+
+- $h$ is the Planck's constant, $c$ is the speed of light, and $\lambda$ and $\nu$ are the wavelength and frequency of the wave.
+
+
+## Heat loss due to radiation {.smaller}
+
+- The sun is very hot (surface temperature about 5770 K),  so the thermal radiation emitted by the sun contains very high frequencies or very short wavelengths ("shortwave radiation")
+
+:::: {.columns}
+
+::: {.column width="30%"}
+
+- UV: 10 to 400 nm
+- Visible: 380 - 780 nm
+- Infrared : 780 nm - 1 mm
+
+:::
+
+::: {.column width="70%"}
+
+![Spectrum of electromagnetic radiation](https://upload.wikimedia.org/wikipedia/commons/c/cf/EM_Spectrum_Properties_edit.svg)
+
+:::
+
+::::
+
+
+## Heat loss due to radiation {.smaller}
+
+- The cooler bodies emits radiation of larger wavelengths. If these wavelengths belong to visible spectrum then we can see those bodies.
+
+:::: {.columns}
+
+::: {.column width="30%"}
+
+| Color | Wavelength Range (nm) | 
+| --- | --- |
+| Violet | 380 – 450 |
+| Blue | 450 – 495 |
+| Green | 495 – 570 |
+| Yellow | 570 – 590 |
+| Orange | 590 – 620 |
+| Red | 620 – 750 |
+
+[Interesting article on spectrum of various light source](https://micro.magnet.fsu.edu/primer/lightandcolor/lightsourcesintro.html)
+
+:::
+
+::: {.column width="70%"}
+
+![Visible light spectrum](https://upload.wikimedia.org/wikipedia/commons/d/d9/Linear_visible_spectrum.svg)
+
+![Visible spectrum of various light source](https://micro.magnet.fsu.edu/primer/lightandcolor/images/lightsourcesfigure3.jpg)
+
+:::
+
+::::
+
+
+## Heat loss due to radiation {.smaller}
+
+- However, if the wavelengths are larger than the visible spectrum then we cannot see those bodies, and we need Infrared imaging (Thermography).
+
+![Visible image of the forest canopy, source: @still2021](./figures/nph17321-fig-0002-m.jpg)
+
+[See the video on using Thermography to study forest canopy](https://www.youtube.com/watch?v=9HLdiJAZNTM)
+
+
+## Heat loss due to radiation {.smaller}
+
+::: {.callout-tip}
+- An object at room temperature (20 degree celcius) shines out 420 W/m2 energy .
+- If we increase the temperature to 37 degree celcius then it will emit 520 W/m2 energy.
+:::
+
+- The loss of energy due to radiation cools the objects, which in turn, lowers the rate of further radiation. The energy loss may be counteracted by any energy being added to the surface from the environment, and temperature stabilize when the energy gains from the environment matches the energy losses.
+
+## Forest receive shortwave sunlight and emit longwave radiation
+
+![Source @still2021](./figures/nph17321-fig-0001-m.jpg)
+
+## References
+
