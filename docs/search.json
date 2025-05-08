@@ -900,14 +900,14 @@
     "href": "lecture-5.html#heat-loss-due-to-radiation",
     "title": "Sustainable Forest Environment (SFE)",
     "section": "Heat loss due to radiation",
-    "text": "Heat loss due to radiation\n\nEarlier, it was mentioned that the leaves can loose energy by emitting radiation.\n\n\n\n\n\n\n\n\nThermal radiation\n\n\n\nThermal radiation is the emission of electromagnetic waves from all matter that has non zero absolute temperature.\nThe energy is emitted in the form of photons and does not require a medium for propagation.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNatural image\n\n\n\n\n\n\n\nInfrared image"
+    "text": "Heat loss due to radiation\n\nEarlier, it was mentioned that the leaves can loose energy by emitting radiation.\n\n\n\n\n\n\n\n\nThermal radiation\n\n\n\nThermal radiation is the emission of electromagnetic waves from all matter that has non zero absolute temperature.\nThe energy is emitted in the form of photons and does not require a medium for propagation.\nThermal radiation is also called as black body radiation.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNatural image\n\n\n\n\n\n\n\nInfrared image"
   },
   {
     "objectID": "lecture-5.html#heat-loss-due-to-radiation-1",
     "href": "lecture-5.html#heat-loss-due-to-radiation-1",
     "title": "Sustainable Forest Environment (SFE)",
     "section": "Heat loss due to radiation",
-    "text": "Heat loss due to radiation\n\nThe instensity of thermal radiation emitted by an object is given by Stefan-Boltzmann law:\n\n\\[\nj = \\varepsilon \\sigma T^{4}\n\\]\nwhere,\n\n\\(j\\) is the intensity of the thermal radiation (energy per unit area per unit time)\n\\(\\varepsilon\\) is the emissivity, which is a material property\n\\(\\sigma\\) is the Stefan-Boltzmann constant\nT is absolute temperatue in Kelvin."
+    "text": "Heat loss due to radiation\n\nThe instensity of thermal radiation emitted by an object is given by Stefan-Boltzmann law:\n\n\\[\nj = \\varepsilon \\sigma T^{4}\n\\]\nwhere,\n\n\\(j\\) is the intensity of the thermal radiation (energy per unit area per unit time)\n\\(\\varepsilon\\) is the emissivity, which is a material property\n\\(\\sigma\\) is the Stefan-Boltzmann constant (\\(5.67 \\times 10^{-8} W m^{-2} K^{-4}\\))\nT is absolute temperatue in Kelvin."
   },
   {
     "objectID": "lecture-5.html#heat-loss-due-to-radiation-2",
@@ -957,5 +957,89 @@
     "title": "Sustainable Forest Environment (SFE)",
     "section": "References",
     "text": "References\n\n\n\n\nLeuzinger, Sebastian, and Christian Körner. 2007. “Tree Species Diversity Affects Canopy Leaf Temperatures in a Mature Temperate Forest.” Agricultural and Forest Meteorology 146 (1): 29–37. https://doi.org/10.1016/j.agrformet.2007.05.007.\n\n\nStill, Christopher J., Bharat Rastogi, Gerald F. M. Page, Dan M. Griffith, Adam Sibley, Mark Schulze, Linnia Hawkins, Stephanie Pau, Matteo Detto, and Brent R. Helliker. 2021. “Imaging Canopy Temperature: Shedding (Thermal) Light on Ecosystem Processes.” New Phytologist 230 (5): 1746–53. https://doi.org/10.1111/nph.17321."
+  },
+  {
+    "objectID": "lecture-5.html#effect-of-slope-on-solar-radiation",
+    "href": "lecture-5.html#effect-of-slope-on-solar-radiation",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Effect of slope on solar radiation",
+    "text": "Effect of slope on solar radiation"
+  },
+  {
+    "objectID": "lecture-5.html#solar-spectrum",
+    "href": "lecture-5.html#solar-spectrum",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Solar Spectrum",
+    "text": "Solar Spectrum\n\nThe solar spectrum is the range of electromagnetic radiation emitted by the sun, extending from the ultraviolet to the infrared region.\nIt is composed of photons with various wavelengths, which define the spectrum’s shape and intensity.\nIt can be defined in terms of solar radiation or solar irradiance.\nSolar radiation is the direct emission of energy from the sun while solar irradiance is the amount of energy that reaches the Earth’s surface.\nThe solar spectrum can be divided into three main regions: the ultraviolet (UV), visible, and infrared (IR).\nThe UV includes light with a wavelength shorter than 400 nanometers (nm). UV photons have energies ranging from approximately 3 to 5 electron Volts (eV). The visible region extends from 400 to 700 nm. This region contains photons with energies of 1.8 to 3 eV. Finally, the IR region comprises of light of wavelengths longer than 1000 nm, and its photons have energies between approximately 0.35 eV and 1.8 eV.\nThe intensity of the solar spectrum received on Earth is strongly dependent on the Earth-Sun distance, the angle at which the sun’s rays reach the Earth’s atmosphere, the weather, and the amount of air pollution.\nSolar cells, which use photovoltaic technology to convert solar radiation into electricity, are highly sensitive to the shape of the solar spectrum and the intensity of the radiation.\nTherefore, researchers and engineers working on solar cells must be knowledgeable about the solar spectrum in order to achieve optimal performance and efficiency. Therefore, the solar spectrum is an important phenomenon to consider when designing and working with solar cells."
+  },
+  {
+    "objectID": "lecture-5.html#black-body-radiation",
+    "href": "lecture-5.html#black-body-radiation",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Black body radiation",
+    "text": "Black body radiation\n\nA ‘black-body’ is a theoretical object in thermal equilibrium that absorbs all light that is incident upon it.\nBlack-bodies have a single, well-defined temperature.\nThe surface of the sun is a good approximation of these requirements.\nBlack-body objects emit electromagnetic radiation. The spectrum of this radiation depends solely on the temperature of the object, as described by Planck’s Law:"
+  },
+  {
+    "objectID": "lecture-5.html#solar-radiation",
+    "href": "lecture-5.html#solar-radiation",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Solar radiation",
+    "text": "Solar radiation\n\nThe average distance between the Earth and the Sun is approximately 150 million kilometres.\nThis means that rays of sunlight are approximately parallel when they arrive at Earth.\nHowever, the amount of solar radiation which reaches Earth varies based on the time of year.\nThis is due to variations in the Earth-Sun distance, which varies between approximately 147 million km at perihelion in January to 152 million km at aphelion in July."
+  },
+  {
+    "objectID": "lecture-5.html#tilt-of-the-earth",
+    "href": "lecture-5.html#tilt-of-the-earth",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Tilt of the earth",
+    "text": "Tilt of the earth\n\nThe Earth is tilted at an angle of 23.5 degrees relative to the plane of its orbit around the Sun.\nThe angle at which the light intercepts the atmosphere is the governing factor in the irradiance at the top of the atmosphere. This angle is called the solar zenith angle, \\(\\theta_{s}\\) and is the angle between the sun’s rays and local vertical.\nDue to the spherical shape of the Earth, the greater \\(\\theta_{s}\\), the larger the area that the sun’s rays are spread over."
+  },
+  {
+    "objectID": "lecture-5.html#solar-irradiance",
+    "href": "lecture-5.html#solar-irradiance",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Solar Irradiance",
+    "text": "Solar Irradiance\n\nThe atmosphere is a particularly important factor in determining local terrestrial solar irradiance as it causes significant changes between the radiation at the top of the atmosphere and what reaches the ground.\nCertain wavelengths are preferentially absorbed or scattered by atoms/molecules in the air.\nAbsorption is the process whereby a photon of light transfers all its energy to an atom/molecule. It does this by promoting an electron to a higher energy level, such that the photon no longer exists. Consequently, its energy is effectively converted to heating the absorber (sometimes a photon can be remitted in a process called fluorescence, but this is rare in the atmosphere).\nAt ultraviolet wavelengths below 400 nm, O3 (ozone) is the primary absorber of radiation. Molecules in the atmosphere scatter incoming solar radiation into random directions. This is known as Rayleigh scattering and is responsible for the reduction in irradiance throughout the visible part of the spectrum.\nMolecular oxygen (O2) is responsible for some absorption of light in the red and near infrared region (600 nm – 800 nm), as is water vapour (H2O), which also has strong absorption bands for light in the mid-infrared region up to 3000 nm.\nCarbon dioxide (CO2) begins to contribute to absorption of light above approximately 2500 nm.\nAtmospheric constituents can also scatter sunlight. Here, the photons are deflected from their original trajectory by molecules/particles rather than being absorbed. The two types of scattering that are most prevalent in the atmosphere are Mie scattering and Rayleigh scattering. Both are types of elastic scattering, so the wavelength (λ) of light is unchanged by the scattering process.\nRayleigh scattering occurs when the diameter (d) of the scatterer is much smaller than the wavelength of the light it is scattering. The intensity of Rayleigh scattering is proportional to λ-4, so it is far more efficient for short wavelengths (blue light) than long wavelengths (red/IR light). Rayleigh scattering can scatter light in all directions, with a slight prevalence to the forward and backward directions relative to the incoming light.\nGas molecules such as oxygen and nitrogen along with very small dust particles are largely responsible for Rayleigh scattering. This occurs mostly in the upper atmosphere. The preferential scattering of blue light by Rayleigh scattering is why the sky appears blue during the day and red at sunrise/sunset. Rayleigh scattering is also largely responsible for diffuse horizontal irradiance.\nMie scattering occurs when the diameter of the scatterer is equal to or larger than the wavelength of light. It preferentially scatters light in the forward direction, with larger particles scattering more heavily in favour of the forward direction. The intensity of Mie scattering is not heavily wavelength dependent. It occurs mostly in the lower atmosphere from water vapour and large dust particles/pollutants. Mie scattering is why clouds and fog appear white."
+  },
+  {
+    "objectID": "lecture-5.html#black-body-radiation-thermal-radiation",
+    "href": "lecture-5.html#black-body-radiation-thermal-radiation",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Black body radiation (thermal radiation)",
+    "text": "Black body radiation (thermal radiation)\n\n\n\n\n\n\nNote\n\n\nThermal radiation is also called as black body radiation.\n\n\n\n\nA ‘black-body’ is a theoretical object in thermal equilibrium that absorbs all light that is incident upon it.\nBlack-bodies have a single, well-defined temperature.\nThe surface of the sun is a good approximation of these requirements.\nBlack-body objects emit electromagnetic radiation. The spectrum of this radiation depends solely on the temperature of the object, as described by Planck’s Law.\n\n\n\n\n\n\n\nNote\n\n\nWhat is the meaning of spectrum?"
+  },
+  {
+    "objectID": "lecture-5.html#spectra-of-black-body-radiation",
+    "href": "lecture-5.html#spectra-of-black-body-radiation",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Spectra of black body radiation",
+    "text": "Spectra of black body radiation\n\nAs the temperature of a black body decreases, the emitted thermal radiation decreases in intensity and its maximum moves to longer wavelengths."
+  },
+  {
+    "objectID": "lecture-5.html#spectra-of-electromagnetic-radiation",
+    "href": "lecture-5.html#spectra-of-electromagnetic-radiation",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Spectra of Electromagnetic radiation",
+    "text": "Spectra of Electromagnetic radiation\n\nSpectrum of electromagnetic radiation, UV: 10 nm to 400 nm; Visible: 380 nm to 780 nm; Infrared: 780 nm to 1 mm"
+  },
+  {
+    "objectID": "lecture-5.html#spectra-of-visible-light",
+    "href": "lecture-5.html#spectra-of-visible-light",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Spectra of Visible light",
+    "text": "Spectra of Visible light\n\n\n\n\n\nColor\nWavelength Range (nm)\n\n\n\n\nViolet\n380 – 450\n\n\nBlue\n450 – 495\n\n\nGreen\n495 – 570\n\n\nYellow\n570 – 590\n\n\nOrange\n590 – 620\n\n\nRed\n620 – 750\n\n\n\n\n\n\n\nVisible light spectrum\n\n\n\n\n\nVisible spectrum of various light source"
+  },
+  {
+    "objectID": "lecture-5.html#spectra-of-black-body-radiation-1",
+    "href": "lecture-5.html#spectra-of-black-body-radiation-1",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Spectra of black body radiation",
+    "text": "Spectra of black body radiation\n\nAs the temperature of a black body decreases, the emitted thermal radiation decreases in intensity and its maximum moves to longer wavelengths."
+  },
+  {
+    "objectID": "lecture-5.html#spectra-of-solar-radiation",
+    "href": "lecture-5.html#spectra-of-solar-radiation",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Spectra of solar radiation",
+    "text": "Spectra of solar radiation\n\nSolar irradiance spectral distribution vs. black-body spectral distribution at 5800 K"
   }
 ]

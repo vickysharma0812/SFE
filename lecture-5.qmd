@@ -1,6 +1,6 @@
 ---
 title: "Sustainable Forest Environment (SFE)"
-subtitle: "Lecture 5: Forest Environment(Last update: 5 May 2025)"
+subtitle: "Lecture 5: Forest Environment(Last update: 8 May 2025)"
 bibliography: references.bib
 format:
   revealjs:
@@ -93,6 +93,7 @@ The leaf can also lose its thermal energy by following mechanisms.
 ::: {.callout-note title="Thermal radiation"}
 - Thermal radiation is the emission of electromagnetic waves from all matter that has non zero absolute temperature.
 - The energy is emitted in the form of photons and does not require a medium for propagation.
+- Thermal radiation is also called as black body radiation.
 :::
 
 ::: {layout="[[1,1]]"}
@@ -102,6 +103,60 @@ The leaf can also lose its thermal energy by following mechanisms.
 ![Infrared image](https://upload.wikimedia.org/wikipedia/commons/4/44/Human-Infrared.jpg)
 
 :::
+
+## Black body radiation (thermal radiation) {.smaller}
+
+::: {.callout-note}
+Thermal radiation is also called as black body radiation.
+:::
+
+- A 'black-body' is a theoretical object in thermal equilibrium that absorbs all light that is incident upon it.
+- Black-bodies have a single, well-defined temperature.
+- The surface of the sun is a good approximation of these requirements.
+- Black-body objects emit electromagnetic radiation. The spectrum of this radiation depends solely on the temperature of the object, as described by [Planck's Law](https://en.wikipedia.org/wiki/Planck%27s_law).
+
+::: {.callout-note}
+What is the meaning of spectrum?
+:::
+
+## Spectra of Electromagnetic radiation {.smaller}
+
+![Spectrum of electromagnetic radiation, UV: 10 nm to 400 nm; Visible: 380 nm to 780 nm; Infrared: 780 nm to 1 mm](https://upload.wikimedia.org/wikipedia/commons/c/cf/EM_Spectrum_Properties_edit.svg)
+
+## Spectra of Visible light {.smaller}
+
+:::: {.columns}
+
+::: {.column width="30%"}
+
+| Color | Wavelength Range (nm) | 
+| --- | --- |
+| Violet | 380 – 450 |
+| Blue | 450 – 495 |
+| Green | 495 – 570 |
+| Yellow | 570 – 590 |
+| Orange | 590 – 620 |
+| Red | 620 – 750 |
+
+:::
+
+::: {.column width="70%"}
+
+![Visible light spectrum](https://upload.wikimedia.org/wikipedia/commons/d/d9/Linear_visible_spectrum.svg)
+
+![Visible spectrum of various light source](https://micro.magnet.fsu.edu/primer/lightandcolor/images/lightsourcesfigure3.jpg)
+
+:::
+
+::::
+
+## Spectra of black body radiation {.smaller}
+
+![As the temperature of a black body decreases, the emitted thermal radiation decreases in intensity and its maximum moves to longer wavelengths.](https://www.ossila.com/cdn/shop/files/blackbody-spectrum-various-temperatures.svg?v=1670335899&width=848&height=452)
+
+## Spectra of solar radiation {.smaller}
+
+![Solar irradiance spectral distribution vs. black-body spectral distribution at 5800 K](https://www.ossila.com/cdn/shop/files/black-body-vs-solar-irradiance.svg?v=1670335975&width=848&height=452)
 
 ## Heat loss due to radiation {.smaller}
 
@@ -115,7 +170,7 @@ where,
 
 - $j$ is the intensity of the thermal radiation (energy per unit area per unit time)
 - $\varepsilon$ is the emissivity, which is a material property
-- $\sigma$ is the Stefan-Boltzmann constant
+- $\sigma$ is the Stefan-Boltzmann constant ($5.67 \times 10^{-8} W m^{-2} K^{-4}$)
 - T is absolute temperatue in Kelvin.
 
 ## Heat loss due to radiation {.smaller}
@@ -212,6 +267,48 @@ $$
 ## Forest receive shortwave sunlight and emit longwave radiation
 
 ![Source @still2021](./figures/nph17321-fig-0001-m.jpg)
+
+## Solar Spectrum
+
+- The solar spectrum is the range of electromagnetic radiation emitted by the sun, extending from the ultraviolet to the infrared region. 
+- It is composed of photons with various wavelengths, which define the spectrum’s shape and intensity. 
+- It can be defined in terms of solar radiation or solar irradiance. 
+- Solar radiation is the direct emission of energy from the sun while solar irradiance is the amount of energy that reaches the Earth’s surface.
+- The solar spectrum can be divided into three main regions: the ultraviolet (UV), visible, and infrared (IR).
+- The UV includes light with a wavelength shorter than 400 nanometers (nm). UV photons have energies ranging from approximately 3 to 5 electron Volts (eV). The visible region extends from 400 to 700 nm. This region contains photons with energies of 1.8 to 3 eV. Finally, the IR region comprises of light of wavelengths longer than 1000 nm, and its photons have energies between approximately 0.35 eV and 1.8 eV.
+- The intensity of the solar spectrum received on Earth is strongly dependent on the Earth-Sun distance, the angle at which the sun’s rays reach the Earth’s atmosphere, the weather, and the amount of air pollution.
+- Solar cells, which use photovoltaic technology to convert solar radiation into electricity, are highly sensitive to the shape of the solar spectrum and the intensity of the radiation.
+- Therefore, researchers and engineers working on solar cells must be knowledgeable about the solar spectrum in order to achieve optimal performance and efficiency. Therefore, the solar spectrum is an important phenomenon to consider when designing and working with solar cells.
+
+## Solar radiation
+
+- The average distance between the Earth and the Sun is approximately 150 million kilometres. 
+- This means that rays of sunlight are approximately parallel when they arrive at Earth.
+- However, the amount of solar radiation which reaches Earth varies based on the time of year. 
+- This is due to variations in the Earth-Sun distance, which varies between approximately 147 million km at perihelion in January to 152 million km at aphelion in July.
+
+## Tilt of the earth
+
+- The Earth is tilted at an angle of 23.5 degrees relative to the plane of its orbit around the Sun.
+- The angle at which the light intercepts the atmosphere is the governing factor in the irradiance at the top of the atmosphere. This angle is called the solar zenith angle, $\theta_{s}$ and is the angle between the sun's rays and local vertical.
+- Due to the spherical shape of the Earth, the greater $\theta_{s}$, the larger the area that the sun's rays are spread over.
+
+## Solar Irradiance
+
+- The atmosphere is a particularly important factor in determining local terrestrial solar irradiance as it causes significant changes between the radiation at the top of the atmosphere and what reaches the ground.
+- Certain wavelengths are preferentially absorbed or scattered by atoms/molecules in the air. 
+- Absorption is the process whereby a photon of light transfers all its energy to an atom/molecule. It does this by promoting an electron to a higher energy level, such that the photon no longer exists. Consequently, its energy is effectively converted to heating the absorber (sometimes a photon can be remitted in a process called fluorescence, but this is rare in the atmosphere).
+- At ultraviolet wavelengths below 400 nm, O3 (ozone) is the primary absorber of radiation. Molecules in the atmosphere scatter incoming solar radiation into random directions. This is known as Rayleigh scattering and is responsible for the reduction in irradiance throughout the visible part of the spectrum.
+- Molecular oxygen (O2) is responsible for some absorption of light in the red and near infrared region (600 nm – 800 nm), as is water vapour (H2O), which also has strong absorption bands for light in the mid-infrared region up to 3000 nm. 
+- Carbon dioxide (CO2) begins to contribute to absorption of light above approximately 2500 nm.
+- Atmospheric constituents can also scatter sunlight. Here, the photons are deflected from their original trajectory by molecules/particles rather than being absorbed. The two types of scattering that are most prevalent in the atmosphere are Mie scattering and Rayleigh scattering. Both are types of elastic scattering, so the wavelength (λ) of light is unchanged by the scattering process.
+- Rayleigh scattering occurs when the diameter (d) of the scatterer is much smaller than the wavelength of the light it is scattering. The intensity of Rayleigh scattering is proportional to λ-4, so it is far more efficient for short wavelengths (blue light) than long wavelengths (red/IR light). Rayleigh scattering can scatter light in all directions, with a slight prevalence to the forward and backward directions relative to the incoming light.
+- Gas molecules such as oxygen and nitrogen along with very small dust particles are largely responsible for Rayleigh scattering. This occurs mostly in the upper atmosphere. The preferential scattering of blue light by Rayleigh scattering is why the sky appears blue during the day and red at sunrise/sunset. Rayleigh scattering is also largely responsible for diffuse horizontal irradiance.
+- Mie scattering occurs when the diameter of the scatterer is equal to or larger than the wavelength of light. It preferentially scatters light in the forward direction, with larger particles scattering more heavily in favour of the forward direction. The intensity of Mie scattering is not heavily wavelength dependent. It occurs mostly in the lower atmosphere from water vapour and large dust particles/pollutants. Mie scattering is why clouds and fog appear white.
+
+
+
+## Effect of slope on solar radiation
 
 ## References
 
