@@ -1033,7 +1033,7 @@
     "href": "lecture-5.html#spectra-of-black-body-radiation-1",
     "title": "Sustainable Forest Environment (SFE)",
     "section": "Spectra of black body radiation",
-    "text": "Spectra of black body radiation\n\nAs the temperature of a black body decreases, the emitted thermal radiation decreases in intensity and its maximum moves to longer wavelengths."
+    "text": "Spectra of black body radiation\nBlack-body radiation has a continuous frequency spectrum that depends only on the body’s temperature (Planck’s law).\n\nBlack-body radiation has a continuous frequency spectrum that depends only on the body’s temperature (Planck’s law)."
   },
   {
     "objectID": "lecture-5.html#spectra-of-solar-radiation",
@@ -1041,5 +1041,47 @@
     "title": "Sustainable Forest Environment (SFE)",
     "section": "Spectra of solar radiation",
     "text": "Spectra of solar radiation\n\nSolar irradiance spectral distribution vs. black-body spectral distribution at 5800 K"
+  },
+  {
+    "objectID": "lecture-5.html#spectra-of-black-body-radiation-2",
+    "href": "lecture-5.html#spectra-of-black-body-radiation-2",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Spectra of black body radiation",
+    "text": "Spectra of black body radiation\nThe spectrum has a peak at a characteristic frequency that shifts to higher frequencies with increasing temperature.\n\nThe spectrum has a peak at a characteristic frequency that shifts to higher frequencies with increasing temperature"
+  },
+  {
+    "objectID": "lecture-5.html#spectra-of-black-body-radiation-3",
+    "href": "lecture-5.html#spectra-of-black-body-radiation-3",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Spectra of black body radiation",
+    "text": "Spectra of black body radiation\n\n\n\nAt room temperature most of the emission is in the infrared region.\nAs the temperature increases past about 500 degrees Celsius, black bodies start to emit significant amounts of visible light.\nWith rising temperature, the glow becomes visible: first as a dull red, then yellow, and eventually a “dazzling bluish-white” as the temperature rises.\nWhen the body appears white, it is emitting a substantial fraction of its energy as ultraviolet radiation.\n\n\n\n\n\nBlacksmiths judge workpiece temperatures by the colour of the glow\n\n\n\n\n\nBlacksmiths chart"
+  },
+  {
+    "objectID": "lecture-5.html#spectra-of-black-body-radiation-4",
+    "href": "lecture-5.html#spectra-of-black-body-radiation-4",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Spectra of black body radiation",
+    "text": "Spectra of black body radiation"
+  },
+  {
+    "objectID": "lecture-5.html#gray-bodies",
+    "href": "lecture-5.html#gray-bodies",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Gray bodies",
+    "text": "Gray bodies\n\nMatter that does not absorb all incident radiation emits less total energy than a black body.\nEmissions are reduced by a factor \\(\\varepsilon \\in (0,1)\\)"
+  },
+  {
+    "objectID": "lecture-5.html#grey-bodies",
+    "href": "lecture-5.html#grey-bodies",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Grey bodies",
+    "text": "Grey bodies\n\nMatter that does not absorb all incident radiation emits less total energy than a black body.\nEmissions are reduced by a factor \\(\\varepsilon \\in (0,1)\\)\nIn general emissivity depends on wavelength\nFor grey body, emissivity is constant and does not depend upon the wave length."
+  },
+  {
+    "objectID": "lecture-5.html#solar-radiation-1",
+    "href": "lecture-5.html#solar-radiation-1",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Solar radiation",
+    "text": "Solar radiation\n\nThe average distance between the Earth and the Sun is approximately 150 million kilometres.\nThis means that rays of sunlight are approximately parallel when they arrive at Earth.\nHowever, the amount of solar radiation which reaches Earth varies based on the time of year.\nThis is due to variations in the Earth-Sun distance, which varies between approximately 147 million km at perihelion in January to 152 million km at aphelion in July."
   }
 ]

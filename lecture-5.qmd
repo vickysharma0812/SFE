@@ -152,13 +152,58 @@ What is the meaning of spectrum?
 
 ## Spectra of black body radiation {.smaller}
 
+As the temperature of a black body decreases, the emitted thermal radiation decreases in intensity and its maximum moves to longer wavelengths.
+
 ![As the temperature of a black body decreases, the emitted thermal radiation decreases in intensity and its maximum moves to longer wavelengths.](https://www.ossila.com/cdn/shop/files/blackbody-spectrum-various-temperatures.svg?v=1670335899&width=848&height=452)
+
+## Spectra of black body radiation {.smaller}
+
+Black-body radiation has a continuous frequency spectrum that depends only on the body's temperature (Planck's law).
+
+![Black-body radiation has a continuous frequency spectrum that depends only on the body's temperature (Planck's law).](https://www.ossila.com/cdn/shop/files/blackbody-spectrum-various-temperatures.svg?v=1670335899&width=848&height=452)
+
+## Spectra of black body radiation {.smaller}
+
+The spectrum has a peak at a characteristic frequency that shifts to higher frequencies with increasing temperature.
+
+![The spectrum has a peak at a characteristic frequency that shifts to higher frequencies with increasing temperature](https://www.ossila.com/cdn/shop/files/blackbody-spectrum-various-temperatures.svg?v=1670335899&width=848&height=452)
+
+## Spectra of black body radiation {.smaller}
+
+
+:::: {.columns}
+
+:::{.column width=50%}
+
+- At room temperature most of the emission is in the infrared region.
+-  As the temperature increases past about 500 degrees Celsius, black bodies start to emit significant amounts of visible light.
+- With rising temperature, the glow becomes visible: first as a dull red, then yellow, and eventually a "dazzling bluish-white" as the temperature rises.
+- When the body appears white, it is emitting a substantial fraction of its energy as ultraviolet radiation.
+
+:::
+
+:::{.column width=50%}
+
+![Blacksmiths judge workpiece temperatures by the colour of the glow](https://upload.wikimedia.org/wikipedia/commons/3/3e/Blacksmith_at_work.jpg)
+
+![Blacksmiths chart](https://upload.wikimedia.org/wikipedia/commons/b/bd/Gluehfarben_no_language_horizontal.svg)
+
+:::
+
+::::
+
 
 ## Spectra of solar radiation {.smaller}
 
-![Solar irradiance spectral distribution vs. black-body spectral distribution at 5800 K](https://www.ossila.com/cdn/shop/files/black-body-vs-solar-irradiance.svg?v=1670335975&width=848&height=452)
+![Solar irradiance spectral distribution vs. black-body spectral distribution at 5800 K. The solar spectrum is the range of electromagnetic radiation emitted by the sun, extending from the ultraviolet to the infrared region.](https://www.ossila.com/cdn/shop/files/black-body-vs-solar-irradiance.svg?v=1670335975&width=848&height=452)
+
+The Sun, with an effective temperature of approximately 5800 K, is an approximate black body with an emission spectrum peaked in the central, yellow-green part of the visible spectrum, but with significant power in the ultraviolet as well.
 
 ## Heat loss due to radiation {.smaller}
+
+:::: {.columns}
+
+::: {.column width=70%}
 
 - The instensity of thermal radiation emitted by an object is given by Stefan-Boltzmann law:
 
@@ -173,27 +218,50 @@ where,
 - $\sigma$ is the Stefan-Boltzmann constant ($5.67 \times 10^{-8} W m^{-2} K^{-4}$)
 - T is absolute temperatue in Kelvin.
 
+:::
+
+::: {.column width=30%}
+
+::: {.callout-note}
+
+- For a perfect black body, emissivity is 1. Many bodies in real life are grey bodies with $\varepsilon \in (0,1)$.
+- A good absorber is also a good emitter.
+
+:::
+
+:::
+
+::::
+
+## Grey bodies
+
+- Matter that does not absorb all incident radiation emits less total energy than a black body. 
+- Emissions are reduced by a factor $\varepsilon \in (0,1)$
+- In general emissivity depends on wavelength
+- For grey body, emissivity is constant and does not depend upon the wave length.
+
 ## Heat loss due to radiation {.smaller}
 
-- So Stefan-Boltzmann law states that a body which has non zero absolute temperature emits thermal radiation. Hotter bodies emit more energy than the cooler ones.
+- So Stefan-Boltzmann law states that a body which has non zero absolute temperature emits thermal radiation.
 - Thermal radiation emitted by a body at any temperature consists of a wide range of frequencies.
+- When hotter body (temperature $T$) is kept in a cooler environment (temperature $T_{0}$), then the hotter body will emit energy, and it will also absorb energy from cooler environment. The net power per unit area emitted by the hotter body is given by following expression.
+
+$$
+j = \varepsilon \sigma (T^{4} - T_{0}^{4})
+$$
 
 ::: {.callout-note appearance="simple"}
 The dominant frequency (or color) range of the emitted radiation shifts to higher frequencies as the temperature of the emitter increases. 
 :::
 
-- The energy is emitted in the form of photons, which has following expression for its energy.
 
-$$
-E = h \nu = h \frac{c}{\lambda}
-$$
+## Solar radiation {.smaller}
 
-- $h$ is the Planck's constant, $c$ is the speed of light, and $\lambda$ and $\nu$ are the wavelength and frequency of the wave.
-
-
-## Heat loss due to radiation {.smaller}
-
+::: {.callout-note}
+- Solar radiation is the direct emission of energy from the sun
+- Solar irradiance is the amount of energy that reaches the Earth’s surface.
 - The sun is very hot (surface temperature about 5770 K),  so the thermal radiation emitted by the sun contains very high frequencies or very short wavelengths ("shortwave radiation")
+:::
 
 :::: {.columns}
 
@@ -207,7 +275,7 @@ $$
 
 ::: {.column width="70%"}
 
-![Spectrum of electromagnetic radiation](https://upload.wikimedia.org/wikipedia/commons/c/cf/EM_Spectrum_Properties_edit.svg)
+![Solar irradiance spectral distribution](https://www.ossila.com/cdn/shop/files/black-body-vs-solar-irradiance.svg?v=1670335975&width=848&height=452)
 
 :::
 
@@ -270,8 +338,6 @@ $$
 
 ## Solar Spectrum
 
-- The solar spectrum is the range of electromagnetic radiation emitted by the sun, extending from the ultraviolet to the infrared region. 
-- It is composed of photons with various wavelengths, which define the spectrum’s shape and intensity. 
 - It can be defined in terms of solar radiation or solar irradiance. 
 - Solar radiation is the direct emission of energy from the sun while solar irradiance is the amount of energy that reaches the Earth’s surface.
 - The solar spectrum can be divided into three main regions: the ultraviolet (UV), visible, and infrared (IR).
