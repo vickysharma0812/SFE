@@ -260,16 +260,14 @@ The dominant frequency (or color) range of the emitted radiation shifts to highe
 ::: {.callout-note}
 - Solar radiation is the direct emission of energy from the sun
 - Solar irradiance is the amount of energy that reaches the Earth’s surface.
-- The sun is very hot (surface temperature about 5770 K),  so the thermal radiation emitted by the sun contains very high frequencies or very short wavelengths ("shortwave radiation")
 :::
 
 :::: {.columns}
 
 ::: {.column width="30%"}
 
-- UV: 10 to 400 nm
-- Visible: 380 - 780 nm
-- Infrared : 780 nm - 1 mm
+- The thermal radiation emitted by the sun is called "shortwave" radiation, because of the short wavelengths (visible portion of the specturm).
+- UV: 10 to 400 nm; Visible: 380 - 780 nm;  Infrared : 780 nm - 1 mm
 
 :::
 
@@ -284,82 +282,150 @@ The dominant frequency (or color) range of the emitted radiation shifts to highe
 
 ## Heat loss due to radiation {.smaller}
 
-- The cooler bodies emits radiation of larger wavelengths. If these wavelengths belong to visible spectrum then we can see those bodies.
+![Visible image of the forest canopy, source: @still2021](./figures/nph17321-fig-0002-m.jpg)
+
+- The cooler bodies emits radiation of larger wavelengths. If these wavelengths belong to visible spectrum then we can see those bodies. [Interesting article on spectrum of various light source](https://micro.magnet.fsu.edu/primer/lightandcolor/lightsourcesintro.html)
+- However, if the wavelengths are larger than the visible spectrum then we cannot see those bodies, and we need Infrared imaging (Thermography). [See the video on using Thermography to study forest canopy](https://www.youtube.com/watch?v=9HLdiJAZNTM)
+- Objects at temperature commonly found in forest emit radiation at longer wavelengths (on order of 10 micrometers) which is in the infrared region of the spectrum. This is called Longwave radiation which can be sensed by skin as warmth.
+
+## Heat loss due to radiation {.smaller}
+
+- An object at room temperature (20 degree celcius) emits about 420 W/m2 energy .
+- If we increase the temperature to 37 degree celcius then it will emit 520 W/m2 energy.
+- The loss of energy due to radiation cools the objects, which in turn, lowers the rate of further radiation. The energy loss may be counteracted by any energy being added to the surface from the environment, and temperature stabilize when the energy gains from the environment matches the energy losses.
+
+## Earth's energy balance
+
+![Earth's energy balance [Source NOAA](https://www.noaa.gov/jetstream/atmosphere/energy)](./figures/energy_balance.jpg)
+
+## Earth's energy balance
+
+![Earth's energy balance](https://upload.wikimedia.org/wikipedia/commons/b/bb/The-NASA-Earth%27s-Energy-Budget-Poster-Radiant-Energy-System-satellite-infrared-radiation-fluxes.jpg)
+
+## Energy balance in forest ecosystem {.smaller}
+
+![Source @still2021](./figures/nph17321-fig-0001-m.jpg)
+
+Forest receive shortwave sunlight and emit longwave radiation
+
+## Energy balance in forest ecosystem {.smaller}
+
+![Radiation patterns for a clearcut forest in Oregon, USA on a summer day; Source: Forest Ecology, An evidence based approach](./figures/c02f010.jpg)
+
+## Energy balance in forest ecosystem {.smaller}
 
 :::: {.columns}
 
-::: {.column width="30%"}
+::: {.column width="50%"}
 
-| Color | Wavelength Range (nm) | 
-| --- | --- |
-| Violet | 380 – 450 |
-| Blue | 450 – 495 |
-| Green | 495 – 570 |
-| Yellow | 570 – 590 |
-| Orange | 590 – 620 |
-| Red | 620 – 750 |
-
-[Interesting article on spectrum of various light source](https://micro.magnet.fsu.edu/primer/lightandcolor/lightsourcesintro.html)
+- The energy budget for a forest clearcut on a summer day is driven by incoming solar (shortwave) radiation.
+- About 13% of the light is reflected, with no effect on the forest.
+- The rest of the solar energy is either absorbed by the forest (warming it), or evaporating water.
 
 :::
 
-::: {.column width="70%"}
+::: {.column width="50%"}
 
-![Visible light spectrum](https://upload.wikimedia.org/wikipedia/commons/d/d9/Linear_visible_spectrum.svg)
-
-![Visible spectrum of various light source](https://micro.magnet.fsu.edu/primer/lightandcolor/images/lightsourcesfigure3.jpg)
+![Radiation patterns for a clearcut forest in Oregon, USA on a summer day; Source: Forest Ecology, An evidence based approach](./figures/c02f010.jpg)
 
 :::
 
 ::::
 
 
-## Heat loss due to radiation {.smaller}
 
-- However, if the wavelengths are larger than the visible spectrum then we cannot see those bodies, and we need Infrared imaging (Thermography).
+## Energy balance in forest ecosystem {.smaller}
 
-![Visible image of the forest canopy, source: @still2021](./figures/nph17321-fig-0002-m.jpg)
+:::: {.columns}
 
-[See the video on using Thermography to study forest canopy](https://www.youtube.com/watch?v=9HLdiJAZNTM)
+::: {.column width="50%"}
 
+- The forest itself emits at long wavelengths, and the intensity of the emission depends on the daily trends in temperature.
+- The warm air also emits longwave radiation to the forest, about 300 W/m2 through the day and night.
+- The emission of longwave radiation from the forest increased by about 50% through the day, as absorption of shortwave solar radiation increased the thermal energy stored in the forest.
 
-## Heat loss due to radiation {.smaller}
-
-::: {.callout-tip}
-- An object at room temperature (20 degree celcius) shines out 420 W/m2 energy .
-- If we increase the temperature to 37 degree celcius then it will emit 520 W/m2 energy.
 :::
 
-- The loss of energy due to radiation cools the objects, which in turn, lowers the rate of further radiation. The energy loss may be counteracted by any energy being added to the surface from the environment, and temperature stabilize when the energy gains from the environment matches the energy losses.
+::: {.column width="50%"}
 
-## Forest receive shortwave sunlight and emit longwave radiation
+![Radiation patterns for a clearcut forest in Oregon, USA on a summer day; Source: Forest Ecology, An evidence based approach](./figures/c02f010.jpg)
 
-![Source @still2021](./figures/nph17321-fig-0001-m.jpg)
+:::
 
-## Solar Spectrum
+::::
 
-- It can be defined in terms of solar radiation or solar irradiance. 
+## Energy balance in forest ecosystem {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- The balance between incoming and outgoing fluxes of shortwave and longwave radiation determines how much energy is available to evaporate water or change the thermal energy storage. 
+- In a day, the soil gains about 14 MJ/m2 of energy. This energy can move deep into the soil, or be used to evaporate water (14 MJ/m2 of energy can evaporate about 5 liters of water).
+
+:::
+
+::: {.column width="50%"}
+
+![Radiation patterns for a clearcut forest in Oregon, USA on a summer day; Source: Forest Ecology, An evidence based approach](./figures/c02f010.jpg)
+
+:::
+
+::::
+
+## Forest help in maintaining soil temperature {.smaller}
+
+![The temperature of the air in the forest in nothern Arizona, USA on a winter night](./figures/c02f011.jpg)
+
+:::{.callout-note}
+The temperature of the air in the forest remained above −15 °C on a winter's night, compared with −30 °C in the meadow.  WHY?
+:::
+
+## Forest help in maintaining soil temperature {.smaller}
+
+- If we keep two black bodies at the same temperature, then the radiation emitted by both bodies will be same.
+- However, most real objects are not perfect black bodies. They emit lesser radiation than they absorb.
+- Soils and plants are almost perfect black bodies, they can emit 90% of the maximum radiation.
+- Air is poor emitter, especially if humidity is high, emitting only 70% of the maximum radiation.
+- This means that, at the same temperature, the soil will emit more radiation to air than the air will emit to the soil. This phenomena will lead to chilling of the soil.
+- The presence of trees can increase the turbulence in the air. This will prevent the formation of a very cool layer of air in contact with the soil.
+
+## Solar Spectrum {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
 - Solar radiation is the direct emission of energy from the sun while solar irradiance is the amount of energy that reaches the Earth’s surface.
-- The solar spectrum can be divided into three main regions: the ultraviolet (UV), visible, and infrared (IR).
-- The UV includes light with a wavelength shorter than 400 nanometers (nm). UV photons have energies ranging from approximately 3 to 5 electron Volts (eV). The visible region extends from 400 to 700 nm. This region contains photons with energies of 1.8 to 3 eV. Finally, the IR region comprises of light of wavelengths longer than 1000 nm, and its photons have energies between approximately 0.35 eV and 1.8 eV.
 - The intensity of the solar spectrum received on Earth is strongly dependent on the Earth-Sun distance, the angle at which the sun’s rays reach the Earth’s atmosphere, the weather, and the amount of air pollution.
-- Solar cells, which use photovoltaic technology to convert solar radiation into electricity, are highly sensitive to the shape of the solar spectrum and the intensity of the radiation.
-- Therefore, researchers and engineers working on solar cells must be knowledgeable about the solar spectrum in order to achieve optimal performance and efficiency. Therefore, the solar spectrum is an important phenomenon to consider when designing and working with solar cells.
 
-## Solar radiation
+:::
 
-- The average distance between the Earth and the Sun is approximately 150 million kilometres. 
+:::{.column width="50%"}
+
+![Earth's energy balance [Source NOAA](https://www.noaa.gov/jetstream/atmosphere/energy)](./figures/energy_balance.jpg)
+
+:::
+
+::::
+
+
+## Solar radiation {.smaller}
+
+![The sunlight are approximately parallel when they arrive at Earth](./figures/the-solar-spectrum-zenith-angle.svg)
+
+- The average distance between the Earth and the Sun is approximately 150 million kilometres.
 - This means that rays of sunlight are approximately parallel when they arrive at Earth.
-- However, the amount of solar radiation which reaches Earth varies based on the time of year. 
+- However, the amount of solar radiation which reaches Earth varies based on the time of year.
 - This is due to variations in the Earth-Sun distance, which varies between approximately 147 million km at perihelion in January to 152 million km at aphelion in July.
 
-## Tilt of the earth
+## Tilt of the earth {.smaller}
 
 - The Earth is tilted at an angle of 23.5 degrees relative to the plane of its orbit around the Sun.
 - The angle at which the light intercepts the atmosphere is the governing factor in the irradiance at the top of the atmosphere. This angle is called the solar zenith angle, $\theta_{s}$ and is the angle between the sun's rays and local vertical.
 - Due to the spherical shape of the Earth, the greater $\theta_{s}$, the larger the area that the sun's rays are spread over.
 
-## Solar Irradiance
+## Solar Irradiance {.smaller}
 
 - The atmosphere is a particularly important factor in determining local terrestrial solar irradiance as it causes significant changes between the radiation at the top of the atmosphere and what reaches the ground.
 - Certain wavelengths are preferentially absorbed or scattered by atoms/molecules in the air. 
@@ -372,9 +438,22 @@ The dominant frequency (or color) range of the emitted radiation shifts to highe
 - Gas molecules such as oxygen and nitrogen along with very small dust particles are largely responsible for Rayleigh scattering. This occurs mostly in the upper atmosphere. The preferential scattering of blue light by Rayleigh scattering is why the sky appears blue during the day and red at sunrise/sunset. Rayleigh scattering is also largely responsible for diffuse horizontal irradiance.
 - Mie scattering occurs when the diameter of the scatterer is equal to or larger than the wavelength of light. It preferentially scatters light in the forward direction, with larger particles scattering more heavily in favour of the forward direction. The intensity of Mie scattering is not heavily wavelength dependent. It occurs mostly in the lower atmosphere from water vapour and large dust particles/pollutants. Mie scattering is why clouds and fog appear white.
 
+## Effect of slope on solar radiation {.smaller}
+
+![The daily amount of incoming sunlight depends on the aspect of a site. In the Northern Hemisphere at a latitude of 43°, a hillside that faces toward the north at an angle of 25° receives almost no direct‐beam sunlight in winter, when a 25° hillside facing to the south receives 9 MJ m−2. The effect of aspect is small in mid‐summer.](./figures/c02f008.png)
+
+## {.smaller}
+
+![The amount of incoming radiation received by a site depends not only on latitude, slope angle and aspect, but also on whether nearby hillsides block sunlight (left). The shading effects in a mountainous landscape in northern Idaho reduces incoming sunlight by only a few percent on south‐facing slopes, but by an average of 30% on north‐facing slopes. The effect of slope combined with shading from surrounding hills resulted in a fourfold range of incoming solar radiation annually](./figures/c02f009.png)
+
+## {.smaller}
+
+![Daily comparisons of high and low temperatures at locations that differ by 1500 m in elevation showed a general pattern that also included specific days that were higher or lower than the trend. Some of the variation related to the moisture content of the air, especially on colder days, and other variation relates to cloudiness and shifting weather systems.](./figures/c02f014.jpg)
+
+## {.smaller}
 
 
-## Effect of slope on solar radiation
+![The temperatures of the soil (10 cm below the O horizon) differed between north‐ and south‐facing aspects in this glacial valley in Colorado, USA (2750 m elevation), in part because of the effect of aspect on snow accumulation, retention, and time of melting.](./figures/c02f015.jpg)
 
 ## References
 
