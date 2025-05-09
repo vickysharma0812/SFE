@@ -1,0 +1,98 @@
+<svg viewBox="0 0 1133 655" xmlns="http://www.w3.org/2000/svg" data-sanitized-data-name="Tropic of cancer" data-name="Tropic of cancer" id="Tropic_of_cancer">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-dasharray: 0 6;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #54565a;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-6 {
+        fill: #ccd4ec;
+      }
+
+      .cls-3 {
+        stroke: #0c9748;
+      }
+
+      .cls-4 {
+        stroke: #ccd4ec;
+      }
+
+      .cls-7 {
+        font-family: OpenSans, 'Open Sans';
+        font-size: 15px;
+      }
+
+      .cls-5 {
+        stroke: #418fde;
+      }
+
+      .cls-8 {
+        fill: #384a9c;
+      }
+
+      .cls-9 {
+        fill: #949fd0;
+      }
+    </style>
+  </defs>
+  <ellipse ry="156" rx="411" cy="308.5" cx="589.5" class="cls-1"></ellipse>
+  <g>
+    <line y2="293.18" x2="900.79" y1="293.18" x1="282.76" class="cls-4"></line>
+    <polygon points="288.74 298.26 283.65 293.18 288.74 288.09 284.42 288.09 279.33 293.18 284.42 298.26 288.74 298.26" class="cls-6"></polygon>
+    <polygon points="894.82 298.26 899.91 293.18 894.82 288.09 899.14 288.09 904.22 293.18 899.14 298.26 894.82 298.26" class="cls-6"></polygon>
+  </g>
+  <g>
+    <line y2="313.98" x2="589.45" y1="146.03" x1="565.35" class="cls-4"></line>
+    <polygon points="561.17 152.67 565.48 146.91 571.24 151.22 570.62 146.95 564.87 142.63 560.56 148.39 561.17 152.67" class="cls-6"></polygon>
+    <polygon points="583.57 308.79 589.33 313.11 593.64 307.35 594.25 311.62 589.94 317.38 584.18 313.07 583.57 308.79" class="cls-6"></polygon>
+  </g>
+  <circle r="85.5" cy="293.5" cx="583.5" class="cls-8"></circle>
+  <circle r="105.95" cy="458.8" cx="609.71" class="cls-9"></circle>
+  <path d="m609.25,564.3c2.92,0,5.8-.15,8.65-.38-54.21-4.41-96.85-49.77-96.85-105.12s42.63-100.71,96.85-105.12c-2.86-.23-5.74-.38-8.65-.38-58.27,0-105.5,47.23-105.5,105.5s47.23,105.5,105.5,105.5Z" class="cls-6"></path>
+  <circle r="48.75" cy="146.75" cx="569.58" class="cls-6"></circle>
+  <path d="m569.79,98.21c-1.34,0-2.67.07-3.98.18,24.95,2.03,44.56,22.9,44.56,48.37,0,25.47-19.62,46.34-44.56,48.37,1.31.11,2.64.18,3.98.18,26.81,0,48.55-21.73,48.55-48.55s-21.73-48.55-48.55-48.55Z" class="cls-9"></path>
+  <circle r="79.24" cy="305.56" cx="987.78" class="cls-6"></circle>
+  <g>
+    <path d="m986.98,226.31c-4.07,0-8.07.31-11.98.9.02.05,36.14,87.89,7.41,157.45,1.51.09,3.03.14,4.57.14,43.76,0,79.24-35.48,79.24-79.24s-35.48-79.24-79.24-79.24Z" class="cls-9"></path>
+    <polygon points="982.41 384.66 982.41 384.66 982.41 384.66 982.41 384.66" class="cls-9"></polygon>
+    <polygon points="975 227.21 975 227.21 975 227.21 975 227.21" class="cls-9"></polygon>
+  </g>
+  <circle r="79.24" cy="293.56" cx="183.78" class="cls-9"></circle>
+  <g>
+    <path d="m182.98,214.31c-4.07,0-8.07.31-11.98.9.02.05,36.14,87.89,7.41,157.45,1.51.09,3.03.14,4.57.14,43.76,0,79.24-35.48,79.24-79.24s-35.48-79.24-79.24-79.24Z" class="cls-6"></path>
+    <polygon points="178.41 372.66 178.41 372.66 178.41 372.66 178.41 372.66" class="cls-6"></polygon>
+    <polygon points="171 215.21 171 215.21 171 215.21 171 215.21" class="cls-6"></polygon>
+  </g>
+  <line y2="527.69" x2="144.33" y1="527.69" x1="47.5" class="cls-2"></line>
+  <line y2="581.39" x2="144.31" y1="581.39" x1="47.47" class="cls-3"></line>
+  <line y2="555.89" x2="144.31" y1="555.89" x1="47.47" class="cls-5"></line>
+  <line y2="504.49" x2="750.98" y1="388.07" x1="486.99" class="cls-2"></line>
+  <line y2="537.75" x2="736.23" y1="421.33" x1="472.23" class="cls-3"></line>
+  <line y2="521.28" x2="743.49" y1="404.86" x1="479.5" class="cls-5"></line>
+  <line y2="329.51" x2="1102.27" y1="238.83" x1="896.64" class="cls-2"></line>
+  <line y2="362.78" x2="1087.53" y1="272.1" x1="881.9" class="cls-3"></line>
+  <line y2="346.31" x2="1094.79" y1="255.63" x1="889.16" class="cls-5"></line>
+  <line y2="321.93" x2="301.07" y1="231.25" x1="95.45" class="cls-2"></line>
+  <line y2="355.2" x2="286.33" y1="264.52" x1="80.7" class="cls-3"></line>
+  <line y2="338.73" x2="293.6" y1="248.05" x1="87.97" class="cls-5"></line>
+  <line y2="168.16" x2="640.84" y1="107.84" x1="504.07" class="cls-2"></line>
+  <line y2="187.54" x2="634.08" y1="126.52" x1="495.7" class="cls-3"></line>
+  <line y2="177.04" x2="637.01" y1="117.05" x1="500.97" class="cls-5"></line>
+  <text transform="translate(510.44 60.78)" class="cls-7"><tspan y="0" x="0">March equinox</tspan></text>
+  <text transform="translate(534.72 600.84)" class="cls-7"><tspan y="0" x="0">September equinox</tspan></text>
+  <text transform="translate(132.5 181.84)" class="cls-7"><tspan y="0" x="0">June solstice</tspan></text>
+  <text transform="translate(934.75 185.84)" class="cls-7"><tspan y="0" x="0">December solstice</tspan></text>
+  <text transform="translate(171.41 532.09)" class="cls-7"><tspan y="0" x="0">Tropic of cancer</tspan></text>
+  <text transform="translate(171.14 560.28)" class="cls-7"><tspan y="0" x="0">Equator</tspan></text>
+  <text transform="translate(171.32 585.78)" class="cls-7"><tspan y="0" x="0">Tropic of Capricorn</tspan></text>
+</svg>

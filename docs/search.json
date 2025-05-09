@@ -1015,6 +1015,41 @@
     "text": "Earth’s energy balance\n\nEarth’s energy balance"
   },
   {
+    "objectID": "lecture-5.html#solar-irradiance",
+    "href": "lecture-5.html#solar-irradiance",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Solar Irradiance",
+    "text": "Solar Irradiance\n\nThe atmosphere is a particularly important factor in determining local terrestrial solar irradiance as it causes significant changes between the radiation at the top of the atmosphere and what reaches the ground.\nCertain wavelengths are preferentially absorbed or scattered by atoms/molecules in the air.\nAbsorption is the process whereby a photon of light transfers all its energy to an atom/molecule. It does this by promoting an electron to a higher energy level, such that the photon no longer exists. Consequently, its energy is effectively converted to heating the absorber (sometimes a photon can be remitted in a process called fluorescence, but this is rare in the atmosphere)."
+  },
+  {
+    "objectID": "lecture-5.html#solar-irradiance-1",
+    "href": "lecture-5.html#solar-irradiance-1",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Solar Irradiance",
+    "text": "Solar Irradiance\n\nAt ultraviolet wavelengths below 400 nm, O3 (ozone) is the primary absorber of radiation. Molecules in the atmosphere scatter incoming solar radiation into random directions. This is known as Rayleigh scattering and is responsible for the reduction in irradiance throughout the visible part of the spectrum.\nMolecular oxygen (O2) is responsible for some absorption of light in the red and near infrared region (600 nm – 800 nm), as is water vapour (H2O), which also has strong absorption bands for light in the mid-infrared region up to 3000 nm.\nCarbon dioxide (CO2) begins to contribute to absorption of light above approximately 2500 nm."
+  },
+  {
+    "objectID": "lecture-5.html#solar-irradiance-2",
+    "href": "lecture-5.html#solar-irradiance-2",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Solar Irradiance",
+    "text": "Solar Irradiance\n\nScattering of light\nAtmospheric constituents can also scatter sunlight. Here, the photons are deflected from their original trajectory by molecules/particles rather than being absorbed. The two types of scattering that are most prevalent in the atmosphere are Mie scattering and Rayleigh scattering. Both are types of elastic scattering, so the wavelength (λ) of light is unchanged by the scattering process."
+  },
+  {
+    "objectID": "lecture-5.html#solar-irradiance-3",
+    "href": "lecture-5.html#solar-irradiance-3",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Solar Irradiance",
+    "text": "Solar Irradiance\n\nScattering of light\nRayleigh scattering occurs when the diameter (d) of the scatterer is much smaller than the wavelength of the light it is scattering. The intensity of Rayleigh scattering is proportional to λ-4, so it is far more efficient for short wavelengths (blue light) than long wavelengths (red/IR light). Rayleigh scattering can scatter light in all directions, with a slight prevalence to the forward and backward directions relative to the incoming light.\nGas molecules such as oxygen and nitrogen along with very small dust particles are largely responsible for Rayleigh scattering. This occurs mostly in the upper atmosphere. The preferential scattering of blue light by Rayleigh scattering is why the sky appears blue during the day and red at sunrise/sunset. Rayleigh scattering is also largely responsible for diffuse horizontal irradiance."
+  },
+  {
+    "objectID": "lecture-5.html#solar-irradiance-4",
+    "href": "lecture-5.html#solar-irradiance-4",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Solar Irradiance",
+    "text": "Solar Irradiance\n\nScattering of light\nMie scattering occurs when the diameter of the scatterer is equal to or larger than the wavelength of light. It preferentially scatters light in the forward direction, with larger particles scattering more heavily in favour of the forward direction. The intensity of Mie scattering is not heavily wavelength dependent. It occurs mostly in the lower atmosphere from water vapour and large dust particles/pollutants. Mie scattering is why clouds and fog appear white."
+  },
+  {
     "objectID": "lecture-5.html#energy-balance-in-forest-ecosystem",
     "href": "lecture-5.html#energy-balance-in-forest-ecosystem",
     "title": "Sustainable Forest Environment (SFE)",
@@ -1075,21 +1110,21 @@
     "href": "lecture-5.html#solar-radiation-1",
     "title": "Sustainable Forest Environment (SFE)",
     "section": "Solar radiation",
-    "text": "Solar radiation\n\nThe sunlight are approximately parallel when they arrive at Earth\nThe average distance between the Earth and the Sun is approximately 150 million kilometres.\nThis means that rays of sunlight are approximately parallel when they arrive at Earth.\nHowever, the amount of solar radiation which reaches Earth varies based on the time of year.\nThis is due to variations in the Earth-Sun distance, which varies between approximately 147 million km at perihelion in January to 152 million km at aphelion in July."
+    "text": "Solar radiation\n\n\n\nThe average distance between the Earth and the Sun is approximately 150 million kilometres.\nThis means that rays of sunlight are approximately parallel when they arrive at Earth.\nHowever, the amount of solar radiation which reaches Earth varies based on the time of year.\nThis is due to variations in the Earth-Sun distance, which varies between approximately 147 million km at perihelion in January to 152 million km at aphelion in July.\n\n\n\n\n\nThe sunlight are approximately parallel when they arrive at Earth"
   },
   {
     "objectID": "lecture-5.html#tilt-of-the-earth",
     "href": "lecture-5.html#tilt-of-the-earth",
     "title": "Sustainable Forest Environment (SFE)",
     "section": "Tilt of the earth",
-    "text": "Tilt of the earth\n\nThe Earth is tilted at an angle of 23.5 degrees relative to the plane of its orbit around the Sun.\nThe angle at which the light intercepts the atmosphere is the governing factor in the irradiance at the top of the atmosphere. This angle is called the solar zenith angle, \\(\\theta_{s}\\) and is the angle between the sun’s rays and local vertical.\nDue to the spherical shape of the Earth, the greater \\(\\theta_{s}\\), the larger the area that the sun’s rays are spread over."
+    "text": "Tilt of the earth\n\nTilt of the earth\nThe Earth is tilted at an angle of 23.5 degrees relative to the plane of its orbit around the Sun.\nThe angle at which the light intercepts the atmosphere is the governing factor in the irradiance at the top of the atmosphere. This angle is called the solar zenith angle, \\(\\theta_{s}\\) and is the angle between the sun’s rays and local vertical.\nDue to the spherical shape of the Earth, the greater \\(\\theta_{s}\\), the larger the area that the sun’s rays are spread over."
   },
   {
-    "objectID": "lecture-5.html#solar-irradiance",
-    "href": "lecture-5.html#solar-irradiance",
+    "objectID": "lecture-5.html#tilt-of-the-earth-1",
+    "href": "lecture-5.html#tilt-of-the-earth-1",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Solar Irradiance",
-    "text": "Solar Irradiance\n\nThe atmosphere is a particularly important factor in determining local terrestrial solar irradiance as it causes significant changes between the radiation at the top of the atmosphere and what reaches the ground.\nCertain wavelengths are preferentially absorbed or scattered by atoms/molecules in the air.\nAbsorption is the process whereby a photon of light transfers all its energy to an atom/molecule. It does this by promoting an electron to a higher energy level, such that the photon no longer exists. Consequently, its energy is effectively converted to heating the absorber (sometimes a photon can be remitted in a process called fluorescence, but this is rare in the atmosphere).\nAt ultraviolet wavelengths below 400 nm, O3 (ozone) is the primary absorber of radiation. Molecules in the atmosphere scatter incoming solar radiation into random directions. This is known as Rayleigh scattering and is responsible for the reduction in irradiance throughout the visible part of the spectrum.\nMolecular oxygen (O2) is responsible for some absorption of light in the red and near infrared region (600 nm – 800 nm), as is water vapour (H2O), which also has strong absorption bands for light in the mid-infrared region up to 3000 nm.\nCarbon dioxide (CO2) begins to contribute to absorption of light above approximately 2500 nm.\nAtmospheric constituents can also scatter sunlight. Here, the photons are deflected from their original trajectory by molecules/particles rather than being absorbed. The two types of scattering that are most prevalent in the atmosphere are Mie scattering and Rayleigh scattering. Both are types of elastic scattering, so the wavelength (λ) of light is unchanged by the scattering process.\nRayleigh scattering occurs when the diameter (d) of the scatterer is much smaller than the wavelength of the light it is scattering. The intensity of Rayleigh scattering is proportional to λ-4, so it is far more efficient for short wavelengths (blue light) than long wavelengths (red/IR light). Rayleigh scattering can scatter light in all directions, with a slight prevalence to the forward and backward directions relative to the incoming light.\nGas molecules such as oxygen and nitrogen along with very small dust particles are largely responsible for Rayleigh scattering. This occurs mostly in the upper atmosphere. The preferential scattering of blue light by Rayleigh scattering is why the sky appears blue during the day and red at sunrise/sunset. Rayleigh scattering is also largely responsible for diffuse horizontal irradiance.\nMie scattering occurs when the diameter of the scatterer is equal to or larger than the wavelength of light. It preferentially scatters light in the forward direction, with larger particles scattering more heavily in favour of the forward direction. The intensity of Mie scattering is not heavily wavelength dependent. It occurs mostly in the lower atmosphere from water vapour and large dust particles/pollutants. Mie scattering is why clouds and fog appear white."
+    "section": "Tilt of the earth",
+    "text": "Tilt of the earth\n\nThe latitude, which receives sunlight at normal incidence, and hence the greatest intensity, varies depending on the time of year"
   },
   {
     "objectID": "lecture-5.html#effect-of-slope-on-solar-radiation",
