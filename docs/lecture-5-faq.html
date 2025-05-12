@@ -1,0 +1,722 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.7.6">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>lecture-5-faq</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-6c21014d9765ba549c6ebad95917e4d7.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-e2df11ca897dca2d338c17a8463f2e75.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+</head>
+
+<body class="fullcontent">
+
+<div id="quarto-search-results"></div>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+
+
+
+
+<section id="questions-asked-in-lecture-5" class="level1">
+<h1>Questions asked in Lecture 5</h1>
+<section id="spectra" class="level2">
+<h2 class="anchored" data-anchor-id="spectra">Spectra</h2>
+<p>In general the term Spectra or Spectrum means the range of some values (for example, wavelength, frequency, energy).</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Spectra aren’t just for light. Any kind of wave or energy — like sound, heat, or even chemicals — can have a spectrum.</p>
+<ul>
+<li>Sound spectrum: low to high pitches.</li>
+<li>Light spectrum: red to violet colors, or even invisible light like infrared and ultraviolet.</li>
+<li>Chemical spectra: patterns that help scientists identify what an object is made of, like a fingerprint for materials.</li>
+</ul>
+</div>
+</div>
+<p>For example, you must have seen rainbow (see figure below). What you see is a range of colors from red to violet. The question is how do we define the rainbow. Well to tackle this question we use the term spectrum. So a rainbow is a collection (or spectra) of different colors. But what is a color? I mean is color a material property? How to I measure the value of color? Because, their can be several shades of red or blue. How do we associated a unique to each color?</p>
+<p>To tackle the above issue we can use the concept of wave. Each wave have its wavelength, frequency, and speed (we will not go into the detail of each terms, lets focus only on the wavelength). So each color has a unique value of wavelength which is measured in meters. Now we can say that “a rainbow is a collection of different wavelength).</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Double-alaskan-rainbow.jpg" class="img-fluid figure-img"></p>
+<figcaption>Rainbow</figcaption>
+</figure>
+</div>
+<p>Now lets expand the concept of spectrum to visible light. The visible light is a spectrum of electromagnetic waves of wavelengths ranging from 400 to 700 nm. What it means is that the visible light contains wavelengths from 400 nm to 700 nm.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Linear_visible_spectrum.svg" class="img-fluid figure-img"></p>
+<figcaption>Visible light spectrum</figcaption>
+</figure>
+</div>
+<p>But please note that we have not mentioned anything about the how much percentage of each wavelength is contain in the spectrum of visible light. However, this information is important as it characterizes the visible light. Because, if we have two sources of visible light; White LED and tungsten lamp. Then both of these source will emit visible light. But the percentage of each wavelength in the spectrum of these two sources will be different. We say that these two light sources have different VISIBLE spectrum.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://micro.magnet.fsu.edu/primer/lightandcolor/images/lightsourcesfigure3.jpg" class="img-fluid figure-img"></p>
+<figcaption>Visible spectrum of various light source</figcaption>
+</figure>
+</div>
+<p>Now let us focus on the spectrum of sunlight. It contains Visible light. But sunlight also contains other wavelengths such as ultraviolet(UV) and infrared (IR). The UV light has wavelength less than 400 nm and IR light has wavelength greater than 700 nm. The UV and Visible light are called shortwave radiation. The IR light is called longwave radiation. The IR light can be sensed as heat. We also have infrared cameras or night vision cameras which can detect the IR light.</p>
+<p>The solar spectrum is given below.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/EM_Spectrum_Properties_edit.svg" class="img-fluid figure-img"></p>
+<figcaption>Spectrum of electromagnetic radiation, UV: 10 nm to 400 nm; Visible: 380 nm to 780 nm; Infrared: 780 nm to 1 mm</figcaption>
+</figure>
+</div>
+</section>
+<section id="black-body-radiation" class="level2">
+<h2 class="anchored" data-anchor-id="black-body-radiation">Black body radiation</h2>
+<p>In the above section we have discussed the concept of spectrum. We saw that the sunlight contains a range of wavelengths including UV, visible light and IR. Humans, animals, plants, and building also emit IR radiation, which is why we can see them in the dark using infrared cameras.</p>
+<p>The question is why every object emits these radiations? This phenomenon is called the thermal radiation or black body radiation. According to this theory, every object which has a non-zero temperature (on absolute scale) emits radiation. In other words, thermal radiation is represented by the spectrum of electromagnetic waves of different wavelengths.</p>
+<p>Hotter objects like sun emits shorwave radiation. Cooler objects like humans, animals, and plants emit longwave radiation. The amount of radiation emitted by an object is a function of its temperature. The higher the temperature, the more radiation is emitted.</p>
+<div class="callout callout-style-default callout-note callout-titled" title="Simple definition of black body">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Simple definition of black body
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>A black body is something that’s really good at absorbing and giving off heat — it’s like the perfect heater. It absorbs all light (or energy) that hits it — it doesn’t reflect or transmit any. It also gives off heat (in the form of light) more efficiently than anything else.</p>
+</div>
+</div>
+<p>A black body is a perfect absorber and emitter.</p>
+<ul>
+<li>Perfect Absorber: A black body absorbs all incoming electromagnetic radiation, regardless of frequency or angle of incidence.</li>
+<li>Perfect Emitter: It emits radiation at all wavelengths, with an intensity distribution that depends solely on its temperature.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://www.ossila.com/cdn/shop/files/blackbody-spectrum-various-temperatures.svg?v=1670335899&amp;width=848&amp;height=452" class="img-fluid figure-img"></p>
+<figcaption>Spectra of black body radiation</figcaption>
+</figure>
+</div>
+<div class="callout callout-style-default callout-note callout-titled" title="Key features of black body radiation">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Key features of black body radiation
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>Temperature Dependence: As the temperature of a black body increases, the peak of its emission curve shifts to shorter wavelengths (higher frequencies). This is described by Wien’s Displacement Law.</li>
+<li>Intensity Increase: The total emitted radiation increases rapidly with temperature, following the Stefan–Boltzmann Law, which states that the total energy emitted per unit surface area is proportional to the fourth power of the black body’s absolute temperature.</li>
+<li>Continuous Spectrum: Unlike discrete spectral lines emitted by gases, a black body emits a continuous spectrum of radiation.</li>
+</ul>
+</div>
+</div>
+<p><a href="https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/blackbody-spectrum_all.html">Black body simulator</a></p>
+</section>
+<section id="how-black-body-emit-radiation" class="level2">
+<h2 class="anchored" data-anchor-id="how-black-body-emit-radiation">How black body emit radiation</h2>
+<p>Black body radiation can occur in the absence of any medium. Due to thermal energy the electrons or atoms emits electromagnetic radiation. This is the source of black body radiation.</p>
+<p>Black bodies are ideal emitters of radiation. They absorb all incident radiation and emit radiation at all wavelengths. The amount of radiation emitted by a black body is given by Planck’s law.</p>
+</section>
+<section id="grey-body-radiation" class="level2">
+<h2 class="anchored" data-anchor-id="grey-body-radiation">Grey body radiation</h2>
+<p>A grey body is like a black body, but not perfect — it only emits a portion of the thermal radiation it could. In fact, most everyday objects are grey bodies. A grey body absorbs and emits less radiation than a black body at the same temperature.</p>
+<p>Imagine two stoves that are equally hot. One is brand new and super efficient (the black body), and the other is older and less efficient (the grey body). The old one gives off less heat — even though it’s at the same temperature. The black body gives off 100% of what’s possible. The grey body gives off less than 100% — maybe 70%, 50%, or 90%, depending on the material.</p>
+<p>The amount of radiation a grey body gives off is described by something called emissivity (<span class="math inline">\(\varepsilon\)</span>) — a number between 0 and 1. A perfect black body has an emissivity of 1, while a perfect reflector has an emissivity of 0. Most materials fall somewhere in between. Human skin has an emissivity of about 0.98 (almost a black body). Aluminum foil has a low emissivity (~0.05), which is why it’s used to reflect heat.</p>
+</section>
+<section id="north-and-south-facing-slopes" class="level2">
+<h2 class="anchored" data-anchor-id="north-and-south-facing-slopes">North and South facing slopes</h2>
+<p>North-facing slopes in the Northern Hemisphere receive less sunlight than south-facing slopes primarily due to the angle of the Sun’s path in the sky, which is a consequence of the Earth’s axial tilt.</p>
+<div class="callout callout-style-default callout-note callout-titled" title="Tilt of the earth">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tilt of the earth
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>The Earth is tilted at an angle of approximately 23.5° relative to its orbital plane around the Sun. As a result:</p>
+<ul>
+<li>In the Northern Hemisphere, the Sun is always positioned to the south of the zenith (the point directly overhead) for most of the year.</li>
+<li>This means sunlight approaches the Earth’s surface from a southerly direction.</li>
+</ul>
+</div>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>A south-facing slope in the Northern Hemisphere is oriented toward the Sun, thereby receiving more direct solar radiation.</li>
+<li>A north-facing slope, in contrast, faces away from the Sun and thus receives less direct sunlight, especially during the cooler half of the year.</li>
+</ul>
+</div>
+</div>
+<p>I think the following video is very helpful in understanding the concept of north and south facing slopes.</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/qMXU-vENJOc?si=ZgAIE1Gszksb4240" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/QrJPlY5s5uw?si=G5iv_1KgCdT3g4Jc" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="how-much-water-can-be-evaporated" class="level2">
+<h2 class="anchored" data-anchor-id="how-much-water-can-be-evaporated">How much water can be evaporated</h2>
+<ul>
+<li>One liter of water weighs 1 kg.</li>
+<li>One liter of water evaporated requires <span class="math inline">\(2,260 kJ\)</span> of energy.</li>
+<li>Let us say <span class="math inline">\(20 M/m^{2}\)</span> of energy is available for evaporation. Note that, this is not the total energy available for evaporation. This is the energy available for evaporation per square meter of surface.</li>
+<li>Let us consider the area of <span class="math inline">\(1 m^{2}\)</span>. So this area will receive <span class="math inline">\(20 MJ\)</span> of energy.</li>
+<li><span class="math inline">\(20 MJ\)</span> of energy will evaporate about 8.85 kg of water, which is about 8.85 liters.</li>
+<li>1 liter is equal to <span class="math inline">\(0.001 m^3\)</span>, therefore, 8.85 liters is equal to <span class="math inline">\(0.00885 m^3\)</span>.</li>
+<li>Volume (V) of a cube is area (A) * height (H).</li>
+</ul>
+<p><span class="math display">\[
+V = A * H
+\]</span></p>
+<p>Therefore, the height of a cube with <span class="math inline">\(1 m^2\)</span> area and <span class="math inline">\(0.00885 m^3\)</span> volume is equal to <span class="math inline">\(0.00885 m\)</span>. This is equal to <span class="math inline">\(8.85 cm\)</span>.</p>
+<ul>
+<li>Therefore <span class="math inline">\(20 MJ\)</span> of energy can evaporate <span class="math inline">\(8.85 cm\)</span> of water from a <span class="math inline">\(1 m^2\)</span> area.</li>
+</ul>
+</section>
+<section id="shortwave-and-longwave-radiation-from-trees" class="level2">
+<h2 class="anchored" data-anchor-id="shortwave-and-longwave-radiation-from-trees">Shortwave and longwave radiation from trees</h2>
+<ul>
+<li>Trees receives shortwave radiation from the sunlight. Trees are not perfect black bodies so they will reflect some part of short radiation.</li>
+<li>Trees also have non-zero temperature. Therefore, they will emit thermal radiation. The question is what type of thermal radiation they emit? The temperature of tree is not so high. Therefore, like humans and animals, tree will emit longwave radiation.</li>
+</ul>
+<p>The source of longwave radiation is the thermal energy of tree. The source of shortwave radiation from trees is the reflection of sunlight.</p>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>
