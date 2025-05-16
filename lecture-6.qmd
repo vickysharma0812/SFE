@@ -1,6 +1,6 @@
 ---
 title: "Sustainable Forest Environment (SFE)"
-subtitle: "Lecture 6: Forest Soils and Water Cycle(Last update: 16 May 2025)"
+subtitle: "Lecture 6: Forest Soils(Last update: 16 May 2025)"
 bibliography: references.bib
 format:
   revealjs:
@@ -25,7 +25,6 @@ format:
 ## Learning objectives
 
 - Soil of forest ecosystems
-- Water cycle in forest ecosystems
 
 
 ## Rocks
