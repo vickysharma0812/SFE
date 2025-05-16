@@ -1,0 +1,541 @@
+---
+title: "Sustainable Forest Environment (SFE)"
+subtitle: "Lecture 6: Forest Soils and Water Cycle(Last update: 16 May 2025)"
+bibliography: references.bib
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    chalkboard:
+      buttons: true
+    preview-links: auto
+    logo: figures/cover.svg
+    footer: 'Kyoto University | Sustainable Forest Environment (SFE)'
+    css: styles.css
+    smaller: true
+    scrollable: false
+    # self-contained: true
+    #width: 960       # default is 960
+    #height: 700       # default is 700
+    #margin: 0.1       # optional, controls slide margins (default: 0.1)
+    #minScale: 0.2     # minimum zoom scale
+    #maxScale: 2.0     # maximum zoom scale
+---
+
+## Learning objectives
+
+- Soil of forest ecosystems
+- Water cycle in forest ecosystems
+
+
+## Rocks
+
+::: {.callout-note appearance="simple"}
+A rock is a naturally occurring solid aggregate of one or more minerals.
+:::
+
+Rocks are categorized by their mineral composition and the way in which they are formed. The three main types of rocks are igneous, sedimentary, and metamorphic.
+
+::: {.callout-note title="Igneous rocks"}
+These rocks are formed from the cooling and solidification of magma or lava.
+:::
+
+::: {.callout-tip title="Sedimentary rocks"}
+These rocks are formed from the accumulation of sediment, which can be composed of minerals, organic matter, or other materials.
+:::
+
+::: {.callout-caution title="Metamorphic rocks"}
+These rocks are formed from the transformation of existing rocks due to heat, pressure, or chemically active fluids.
+:::
+
+## Igneous rocks
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- Igneous rocks are formed through the cooling and solidification of magma or lava (molten rocks). There are two categories of igneous rocks.
+
+::: {.callout-note title="Magma and Lava"}
+- Magma is molten rocks which is one of the important liquid material on earth. Magma forms deep inside the earth. It reaches the surface of earth while passing through a vent or crack. \
+- The magma flowing over the surface of the Earth is called lava, and the vent through which it emerges is called a volcano.
+:::
+
+:::
+
+::: {.column width="50%"}
+
+![Volcanic eruptions of lava are major sources of igneous rocks. (Mayon volcano in the Philippines, erupting in 2009)](https://upload.wikimedia.org/wikipedia/commons/d/d7/Mayon_0021.jpg)
+
+:::
+
+::::
+
+## Igneous rocks
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- Intrusive type: These igneous rocks are formed beneath the Earth’s surface
+- Extrusive type: These rocks are formed at the surface of the Earth 
+
+::: {.callout-tip appearance="simple"} 
+- Granite is an intrusive rock
+- Basalt is an extrusive rock
+:::
+
+:::
+
+::: {.column width="50%"}
+
+![Intrusive and Extrusive rocks (formation of Igneous rocks)](https://upload.wikimedia.org/wikipedia/commons/c/c4/Igneous_rock_eng_modified.jpg)
+
+:::
+
+::::
+
+
+## Sedimentary rocks
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- Sedimentary rocks are formed from the accumulation and compaction of mineral and organic particles over time. 
+- These particles, or sediments, are often transported by water, wind, or ice and deposited in layers. 
+- Sedimentary rocks are also formed due to chemical precipitation of material carried in solution in sea, lake, or river water. 
+- Over long periods, the layers are compacted and cemented together to form solid rock. 
+- Common examples of sedimentary rocks include sandstone, limestone, and shale.
+
+:::
+
+::: {.column width="50%"}
+
+![Middle Triassic marginal marine sequence of siltstones (reddish layers at the cliff base) and limestones (brown rocks above), Virgin Formation, southwestern Utah, U.S.](https://upload.wikimedia.org/wikipedia/commons/0/08/Triassic_Utah.JPG)
+
+::: {.callout-note appearance="simple"}
+Sedimentary rocks often contain fossils, which are the preserved remains of ancient organisms. These fossils provide valuable information about the Earth’s history and past environments.
+:::
+
+:::
+
+::::
+
+
+
+## Metamorphic rocks
+
+- Metamorphic rocks are formed from existing rocks (igneous, sedimentary, or other metamorphic rocks) that undergo a transformation due to high heat, pressure, or chemically active fluids.
+- This process, called metamorphism, alters the mineral composition and structure of the original rock without melting it. 
+- Metamorphic rocks can be foliated (having a layered or banded appearance) or non-foliated (lacking distinct layers).
+
+::: {.callout-note appearance="simple"}
+Metamorphic rocks provide insights into the conditions deep within the Earth’s crust and the processes that shape our planet over geological time.
+:::
+
+::: {.callout-tip title="Common metamorphic rocks"}
+Slate, Schist, Marble, Gneiss
+:::
+
+
+## Rock cycle
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+::: {.callout-note appearance="simple"}
+The rock cycle is a continuous process by which rocks are created, transformed, and recycled over geological time. It describes the transitions between the three main types of rocks: igneous, sedimentary, and metamorphic. The cycle outlines how each rock type can be converted into another through various geological processes such as melting, cooling, erosion, sedimentation, and metamorphism.
+:::
+
+- Formation of Igneous rocks
+- Weathering and Erosion
+- Formation of Sedimentary rocks
+- Metamorphism
+- Melting
+
+:::
+
+::: {.column width="50%"}
+
+![Schematic diagram of Rock cycle [source: Wikimedia](https://en.wikipedia.org/wiki/Rock_cycle#/media/File:Rock_cycle_diagram.png)](./figures/rock-cycle.png){ width=100%}
+
+:::
+
+::::
+
+## Regolith and soil
+
+:::{.callout-note title="Regolith"}
+Regolith is a layer of loose, unconsolidated material that covers solid bedrock. It includes soil, sediment, and weathered rock fragments.
+:::
+
+:::{.callout-note title="Soil"}
+
+Soil: Regolith + organic materials. It is the Medium that supports plant growth. Components of soil are:
+
+- Mineral particles
+- Humus (organic matter in soil that is formed by the decomposition of plant and animal matter)
+- Water
+- Air
+
+:::
+
+
+## Soil formation
+
+- Soil formation occurs through weathering, erosion and deposition of rock fragments (parent material) along with the accumulation of organic material over time
+- Parent material (rock) minerals: Feldspar, Quartz, Mica, Calcite
+
+::: {layout-ncol=4}
+
+![Feldspar](https://upload.wikimedia.org/wikipedia/commons/8/84/Feldspar-Group-Moonstone-36971.jpg)
+
+![Quartz](https://upload.wikimedia.org/wikipedia/commons/a/ac/Am%C3%A9thyste%2C_quartz_300-3-7640.JPG)
+
+![Mica](https://upload.wikimedia.org/wikipedia/commons/5/50/MicaSheetUSGOV.jpg)
+
+![Calcite](https://upload.wikimedia.org/wikipedia/commons/5/5a/Estonian_Museum_of_Natural_History_Specimen_No_182279_photo_%28g28_g28-218_1_jpg%29.jpg)
+
+:::
+
+## Weathering
+
+:::{.callout-note title="definition"}
+The process of wearing or being worn by long exposure to the atmosphere, leading to decomposition and disintegration of rocks.
+:::
+
+- Weathering is the process of breaking down rocks into smaller particles through physical, chemical, and biological processes. 
+- It is a key component of the rock cycle and plays a crucial role in shaping the Earth's surface.
+- Physical (or Mechanical) weathering
+- Chemical weathering
+- Biological weathering
+
+## Mechanism of soil formation: Mechanical weathering
+
+:::{.callout-note appearance="simple"}
+In mechanical weathering rocks are broken down into smaller pieces **without changing their chemical composition**.
+:::
+
+- [You can read more about the physical weathering here https://opengeology.org/textbook/5-weathering-erosion-and-sedimentary-rocks/](https://opengeology.org/textbook/5-weathering-erosion-and-sedimentary-rocks/)
+- [You can read more about the weathering process here https://education.nationalgeographic.org/resource/weathering/](https://education.nationalgeographic.org/resource/weathering/)
+
+## Mechanical weathering due to thermal stress
+
+- In natural environment, rocks are often subjected to a prolonged cyclic thermal loading of heating and cooling stages. Such thermal loading results in cyclic mechanical loading due the thermal expansion and contraction of the rock. Due to cyclic mechanical  loading the rocks eventually fails into pieces.
+
+::::{.columns}
+
+::: {.column width="80%"}
+
+- Rock exposed to sun $\Rightarrow$ part of rock exposed to sun in the day expands $\Rightarrow$ same part cools at night $\Rightarrow$ repeated expansion and contraction $\Rightarrow$ tension cracks develop $\Rightarrow$ also called onion weathering (rock weathers like peeling of layers of an onion)
+
+:::
+
+::: {.column width="20%"}
+![Thermal stresses in rocks](https://upload.wikimedia.org/wikipedia/commons/0/05/Abiskorock.JPG)
+
+:::
+
+::::
+
+## Meachnical weathering due to Frost weathering/ cryofracturing
+
+:::: {.columns}
+
+::: {.column width="100%"}
+
+- Rocks which have cracks and spaces between them allows water to seep into them. During winter the water in the pores may freeze and expand. The volumetric expansion of ice exterts additional pressure on the walls of the rock which in some cases can break the rock into small pieces.
+- Water enters small cracks in rock mass $\Rightarrow$ freezes in cold weather $\Rightarrow$ density of ice < density of water $\Rightarrow$ volume of frozen water increases (expansion of approximately 9 %) $\Rightarrow$ exerts further tensile stress $\Rightarrow$ extends cracks
+
+:::
+
+::::
+
+![Frost weathering](https://opengeology.org/textbook/wp-content/uploads/2017/02/Mechanical_weathering.png)
+
+## Mechanical Weathering due to pressure release due to erosion of overlying layers
+
+- Occurs inside rock mass $\Rightarrow$ Erosion of overlying layers $\Rightarrow$ Reduces overburden pressure $\Rightarrow$ soil mass decompresses $\Rightarrow$ can get compressed again with further deposition of soil and decompressed again with erosion $\Rightarrow$ this cycle can cause internal weathering
+
+![The outer layer of this granite is fractured and eroding away, known as exfoliation](https://opengeology.org/textbook/wp-content/uploads/2017/02/GeologicalExfoliationOfGraniteRock.jpg)
+
+## Mechanical weathering due to Salt-crystal growth
+
+Rocks near the sea $\Rightarrow$ Concentration of salt in cracks on rock surface increases with time $\Rightarrow$ Crystals of salt form in cracks $\Rightarrow$ crystals grow with time $\Rightarrow$ exert tensile force on the rock $\Rightarrow$ deepens/ widens crack
+
+![Tafoni: Rounded cavities within rocks that form in various ways, including mineral growth, mainly salt. Tafoni from Salt Point, California.](https://opengeology.org/textbook/wp-content/uploads/2017/02/640px-Tafoni_03.jpg)
+
+## Summary of mechanical weathering
+
+- **Thermal stress**: Rock exposed to sun $\rightarrow$ part of rock exposed to sun in the day expands $\rightarrow$ same part cools at night $\rightarrow$ repeated expansion and contraction $\rightarrow$ tension cracks develop $\rightarrow$ also called onion weathering (rock weathers like peeling of layers of an onion)
+- **Frost weathering/ cryofracturing**: Water enters small cracks in rock mass $\rightarrow$ freezes in cold weather $\rightarrow$ density of ice < density of water $\rightarrow$ volume of frozen water increases $\rightarrow$ exerts further tensile stress $\rightarrow$ extends cracks
+- **Pressure release due to erosion of overlying layers**: Occurs inside rock mass $\rightarrow$ Erosion of overlying layers $\rightarrow$ Reduces overburden pressure $\rightarrow$ soil mass decompresses $\rightarrow$ can get compressed again with further deposition of soil and decompressed again with erosion $\rightarrow$ this cycle can cause internal weathering
+- **Salt-crystal growth**: Rocks near the sea $\rightarrow$ Concentration of salt in cracks on rock surface increases with time $\rightarrow$ Crystals of salt form in cracks $\rightarrow$ crystals grow with time $\rightarrow$ exert tensile force on the rock $\rightarrow$ deepens/ widens crack
+
+## Chemical weathering
+
+- In chemical weathering, the original rock minerals aare transformed into new minerals through chemical reactions.
+- Clay minerals are the most common products of chemical weathering.
+- Chemical weathering is the dominate weathering process in warm, humid environments. It happens when water, oxygen, and other reactants chemically degrade the mineral components of bedrock and turn them into water-soluble ions which can then be transported by water. 
+- Higher temperatures accelerate chemical weathering rates.
+
+## Chemical weathering due to Carbonation
+
+- Rain water is slightly acidic: CO2 + H2O $\rightarrow$ H2CO3 (Carbonic acid has two ions: H+ and (HCO3)-)
+- Weathering of Potassium Feldspars (KAlSi3O8) due to Carbonic acid
+  - H+ replaces the K+ ions in the feldspar mineral and the K+ ions enter into solution and are washed away.
+  - Water then reacts with the aluminosilicates molecule to create the clay mineral kaolinite (Al2Si2O5[OH]4).
+- Weathering of limestone due to Carbonic acid
+  - CaCO3 + H2CO3 $\rightarrow$ Ca(HCO3)2 (dissolves in water)
+  - CaCO3 (Calcite mineral) present in limestone gets dissolved when carbonic acid falls on rocks leaving sites open for mechanical and biological weathering.
+- The quartz mineral is generally resistant to chemical weathering  and remains unaltered.
+
+## Chemical weathering of Potassium Feldspar
+
+Weathering of Potassium Feldspars (KAlSi3O8) due to Carbonic acid to produce Kaolinite clay.
+
+![Weathering of Potassium Feldspar](./figures/weathering-k-feldspar.png)
+
+## Example of chemical weathering
+
+![Eroded karst topography in Minevre, France. Dissolution is also noteworthy for the special geological features it creates. In places with abundant carbonate bedrock, dissolution weathering can produce a karst topography characterized by sinkholes or caves](https://opengeology.org/textbook/wp-content/uploads/2017/02/Karst_minerve.jpg)
+
+## Biological weathering
+
+- Biological weathering can be a combination of both physical and chemical methods
+- Physical: Plant root enters crack in rock $\rightarrow$ pushes against rock causing weathering  
+- Chemical: Plant root in rock dies $\rightarrow$ Microorganisms decompose roots $\rightarrow$ can lead to formation of organic acids $\rightarrow$ decompose rock
+
+![Biological weathering due to plant roots](https://www.bioexplorer.net/images/plant-roots-rocks.jpg)
+
+[You can read more about the biological weathering here](https://www.bioexplorer.net/biological-weathering.html/)
+
+## Summary of weathering
+
+- Weathering takes place through a combination of physical, chemical and biological factors
+- Physical and biological factors help increase the exposed surface area of rock, thereby increasing surface area available for more chemical weathering to take place
+
+![Each of these three groups of cubes has an equal volume. However, their surface areas are vastly different](./figures/breaking-down-soils.png)
+
+## Transportation of weathered products
+
+- Erosion is a mechanical process, usually driven by water, gravity, wind, or ice that removes (or transport) sediment from the place of weathering. 
+- Liquid water is the main agent of erosion.
+
+![Grand Canyon, Arizona, USA. The Colorado River has eroded the canyon over millions of years](https://opengeology.org/textbook/wp-content/uploads/2016/07/Grand_Canyon-Mather_point.jpg)
+
+## Transportation of weathered products
+
+- The size of clastic sediment (pieces of broken rock and minerals) transported is directly proportional to the velocity of the speed of the transporting agent.
+
+![Sediment transportation processes](./figures/erosion-transport-sediments.png)
+
+## Soil
+
+- Uncemented aggregates of small grains (product of weathering) are called soils.
+- Soil is a combination of air, water, minerals, and organic matter that forms at the transition between biosphere and geosphere. 
+- Soil is an important reservoir for organic components necessary for plants, animals, and microorganisms to live. The organic component of soil, called humus.
+
+## Residual and transported soils
+
+#### Residual Soils
+
+- The soil formed by the weathered products at their place of origin are called residual soils.
+
+#### Transported Soils
+- The products of weathering may stay in the same place or may be moved to other places by transport agencies like wind, water, and ice. The soils formed by the transported products are called transported soils.
+
+## Transported soils
+
+- **Glacial soils** are formed by transportation and deposition of soil by glaciers.
+- **Alluvial soils** are formed by transportation and deposition of soil by rivers and streams.
+- **Aeolian soils** are formed by the deposition of soil by wind.
+- **Lacustrine soils** are formed by the deposition of soil in lakes.
+- **Marine soils** are formed by the deposition of soil in oceans and seas.
+
+## Soil-Particle Size
+
+::: {.callout-note appearance="simple"}
+The size of the particles is an important factor in determining the engineering properties of the soil.
+:::
+
+- Soils contains particles of different sizes. Based on the particle size, soils can be classified into gravel, sand, silt, and clay.
+
+::: {.callout-tip appearance="simple"}
+Several world organisations have developed their own classification systems for soils. The most widely used system is the Unified Soil Classification System (USCS).
+:::
+
+## Soil-Particle Size
+
+| Organization / Standard | Clay | Silt | Sand | Gravel |
+| --- | --- | --- | --- | --- |
+| USDA | < 0.002 mm | 0.002 – 0.05 mm | 0.05 – 2.0 mm | Not defined |
+| USCS | < 0.002 mm | 0.002 – 0.075 mm | 0.075 – 4.75 mm | 4.75 – 76 mm |
+| AASHTO | < 0.002 mm | 0.002 – 0.075 mm | 0.075 – 2.0 mm | 2.0 – 75 mm |
+
+- USDA: United States Department of Agriculture
+- USCS: Unified Soil Classification System
+- AASHTO: American Association of State Highway and Transportation Officials
+
+## USDA soil classification
+
+![USDA soil classification](./figures/usda.png)
+
+
+## Soil and soil profile: Soil texture
+
+- [Soil Texture](https://www.fao.org/fishery/static/FAO_Training/FAO_Training/General/x6706e/x6706e06.htm) refers to relative proportion of silt, sand and clay particles in soil.
+- Influences soil porosity, permeability, shrink-swell rate, water retention capacity and susceptibility to erosion.
+
+![Soil texture triangle](./figures/soil-texture-triangle.jpg)
+
+
+## Learn how to read soil texture triangle
+
+{{< video https://youtu.be/MX-l6epLrMs?si=iWmWMt88gLjiz2Q2 width="800" height="600" >}}
+
+## Soil profile
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+- **O Horizon**: The top horizon is a thin layer of predominantly organic material, such as leaves, twigs, and other plant parts that are actively decaying into humus.
+- **A Horizon**: The next layer, called topsoil, consists of humus mixed with mineral sediment. As precipitation soaks down through this layer, it leaches out soluble chemicals. In wet climates with heavy precipitation this leaching out produces a separate layer called horizon E, the leaching or eluviation zone.
+
+:::
+
+::: {.column width="40%"}
+
+![Soil profile](https://opengeology.org/textbook/wp-content/uploads/2017/02/SoilHorizons.gif)
+
+:::
+
+::::
+
+## Soil profile
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+- **B Horizon**: Also called subsoil, this layer consists of sediment mixed with humus removed from the upper layers. The subsoil is where mineral sediment is chemically weathered. The amount of organic material and degree of weathering decrease with depth. The upper subsoil zone, called regolith, is a porous mixture of humus and highly weathered sediment. In the lower zone, saprolite, scant organic material is mixed with largely unaltered parent rock.
+- **C Horizon**: This is substratum and is a zone of mechanical weathering. Here, bedrock fragments are physically broken but not chemically altered. This layer contains no organic material.
+- **R Horizon**: The final layer consists of unweathered, parent bedrock and fragments.
+
+:::
+
+::: {.column width="30%"}
+
+![Soil profile](https://opengeology.org/textbook/wp-content/uploads/2017/02/SoilHorizons.gif)
+
+:::
+
+::::
+
+## Sand and silt
+
+- Sand and silt sized particles are chemically identical to parent material (rock minerals) from which they originate (they are also called primary minerals)
+- Round or irregular in shape, composed primarily of quartz (SiO<sub>2</sub>) or other silicate minerals like orthoclase (KAlSiO3) or plagioclase $([Ca,Na][Al,Si]AlSi_{2}O_{8})$.
+- Due to their size and shape, sand has low surface areas (1-2 m<sup>2</sup>/gm)and large pores.
+- Good aeration and permeability characteristics, but poor water holding capacity.
+- Silt-sized particles have higher surface areas (45 m<sup>2</sup>/gm) and can hold relatively larger quantities of water as compared to sand. 
+
+## Clay
+
+- Clay is comprised of secondary minerals which result from physical and chemical weathering of primary minerals
+- Minerals form plate-like structures or micelles.
+- Very high surface area (80-800 m2/gm)
+- Very high water retention capacity.
+
+::::{.columns}
+
+::: {.column width="80%"}
+
+- Based on crystalline arrangement, they can be divided into three main groups, all containing hydrous aluminosilicates with other metallic ions
+  - Kaolinite – (OH)<sub>4</sub>.Al<sub>2</sub>Si<sub>2</sub>O<sub>5</sub>
+  - Montmorillonite – (OH)<sub>4</sub>.Al<sub>4</sub>SigO<sub>2</sub>0.nH<sub>2</sub>O
+  - Illite – (OH)<sub>4</sub>K<sub>y</sub>(Si<sub>g-y</sub>Al<sub>y</sub>)(Al<sub>4</sub>.Mg<sub>6</sub>.Fe<sub>4</sub>.Fe<sub>6</sub>) O<sub>20</sub>
+- Clay minerals have many crystal sheets which have a repeating atomic structure.
+
+:::
+
+::: {.column width="20%"}
+
+![Kaolinite](https://www.researchgate.net/profile/L-Wilson/publication/262582095/figure/fig2/AS:392458824372226@1470580883320/SEM-image-of-well-crystallized-crystallized-kaolinite-from-sandstone-Note-hexagonal_W640.jpg)
+
+:::
+
+::::
+
+## Diffused double layer
+
+::::{.columns}
+
+::: {.column width="50%"}
+
+- Surface of clay mineral is negatively charged.
+- Water is attracted to clay surface through: Dipole attraction, Hydrogen bond, Cation attraction
+- Water forms a layer of strongly adsorbed water on clay mineral surface and an outer layer attracted to a lesser degree that is more mobile.
+- All water attracted to clay particles in these two layers is known as diffuse double layer.
+
+:::
+
+:::{.column width="50%"}
+
+![Illustration of double diffused layer](https://upload.wikimedia.org/wikipedia/commons/9/95/Double_Layer.png)
+
+:::
+
+::::
+
+## Soil organic matter
+
+- Soil organic matter: undecomposed, partially decomposed or highly decomposed litter (leaves, twigs, dead roots etc.).
+- Functions as cementing agents, binding soil particles together to form aggregates.
+- Aggregate formation impacts available pore space and can increase the water holding capacity of sandy soils.
+- Humus (highly decomposed organic matter) can have a net negative charge on the surface and has a high cation exchange capacity thereby influencing nutrient availability.
+- Home of microbial populations in soil.
+
+## Cation exchange capacity (CEC)
+
+- CEC represents the total amount of cations that can be adsorbed by a kilogram of soil.
+- Cations in soil solution exist in equilibrium with cations adsorbed at cation exchange sites on clay micelles or sandy soil + organic matter.
+- Plants assimilate cations from soil solution $\rightarrow$ cations adsorbed to clay are released to soil solution.
+- Adsorbed cations are a “reservoir” of soil nutrients.
+- In general, cations with a larger positive charge are more strongly held.
+- Cations in order of decreasing affinity for exchange sites: Al<sup>3+</sup> > Ca<sup>2+</sup> > Mg<sup>2+</sup> > NH<sup>+</sup><sub>4</sub> > K<sup>+</sup> > H<sup>+</sup> > Na<sup>+</sup>
+- Weakly held ions like K+ and NH4+ are more available for plant growth.
+- CEC General measure of plant nutrient availability.
+
+## Soil acidity
+
+- Sources of acidity: i.e. H+ ions
+  - Respiration by roots and microorganisms producing CO2, which dissolves in water to form H2CO3.
+  - Decomposition of organic matter: fluvic acids and humic acids.
+  - Human activities: acid rain (HNO3 and H2SO4)
+- When soil becomes acidic $\rightarrow$ 
+  - weathering of soil minerals $\rightarrow$ 
+  - releases base cations $\rightarrow$ 
+  - replace H$^{+}$ ions at the cation exchange sites (base exchange) $\rightarrow$ 
+  - H$^{+}$ ions enter soil solution and are easily leached away, reducing acidity.
+
+## Soil acidity
+
+- After long periods of time $\rightarrow$ 
+  - soil can no longer provide base cations $\rightarrow$ 
+  - H$^{+}$ ions accumulate $\rightarrow$ 
+  - soil pH decreases $\rightarrow$ 
+  - At pH < 4, Al<sup>3+</sup> + H<sub>2</sub>O ⇌ AlOH<sup>2-</sup> + H<sup>+</sup> $\rightarrow$ 
+  - More H<sup>+</sup> ions are produced, making soil more acidic $\rightarrow$ adsorbed Al enters soil solution.
+- High Al$^{3+}$ concentrations can kill roots, reduce root growth and interfere in the functioning of cell membrane of plants.
+- Percent base saturation: Proportion of cation exchange sites occupied by Ca$^{2+}$, Mg$^{2+}$, K$^{+}$ and Na$^{+}$ ions.
+
+
+
+
+
+
+
