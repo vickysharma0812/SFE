@@ -357,396 +357,375 @@
     "text": "References\n\n\n\n\nLeuzinger, Sebastian, and Christian Körner. 2007. “Tree Species Diversity Affects Canopy Leaf Temperatures in a Mature Temperate Forest.” Agricultural and Forest Meteorology 146 (1): 29–37. https://doi.org/10.1016/j.agrformet.2007.05.007.\n\n\nStill, Christopher J., Bharat Rastogi, Gerald F. M. Page, Dan M. Griffith, Adam Sibley, Mark Schulze, Linnia Hawkins, Stephanie Pau, Matteo Detto, and Brent R. Helliker. 2021. “Imaging Canopy Temperature: Shedding (Thermal) Light on Ecosystem Processes.” New Phytologist 230 (5): 1746–53. https://doi.org/10.1111/nph.17321."
   },
   {
-    "objectID": "lecture-3-faq.html",
-    "href": "lecture-3-faq.html",
-    "title": "Questions asked in Lecture 3",
+    "objectID": "lecture-6-faq.html",
+    "href": "lecture-6-faq.html",
+    "title": "Questions asked in Lecture 6",
     "section": "",
-    "text": "Consider the following chemical reaction:\n\\[\nA + B \\rightarrow C + D\n\\]\nwhere \\(A\\) and \\(B\\) are reactants, and \\(C\\) and \\(D\\) are products.\n\n\n\nExothermic reaction: A chemical reaction that releases energy, usually in the form of heat. The products have lower energy than the reactants.\nEndothermic reaction: A chemical reaction that absorbs energy from its surroundings. The products have higher energy than the reactants.\n\nWhy energy is released or absorbed in a chemical reaction?\nIn any chemical reaction, some bonds are broken and new bonds are formed. Energy is required to break the bonds which we will call as bond dissociation energy. Also, energy is released when new bonds are formed, which will be referred to as the bond formation energy.\n\nA reaction is exotermic if the bond formation energy is greater than the bond dissociation energy.\nA reaction is endothermic if the bond dissociation energy is greater than the bond formation energy.\n\n\n\n\nIn a chemical reaction the electrons cannot be created or destroyed, but they can be transferred from one atom to another. So the flow of electrons can only occur from a source connected to a sink. So what it means is that if in a chemical reaction electrons are flowing then someone should provide the electrons and someone should accept the electrons.\nA redox reaction can be defined as a chemical reaction in which electrons are transferred between two reactants participating in it.\nI have updated the lecture notes to improve the description of redox reactions in the context of forest ecology. Please refer to the updated notes for a more detailed explanation.\n\n\n\n\n\nPhotons are discrete packets of light energy. Visible light, X-rays, ultraviolet, infrared, microwaves, and radio waves all consist of photons differing in energy (frequency).\nA photon’s energy is proportional to the frequency of the electromagnetic wave:\n\n\\[\nE = h \\nu\n\\]\nwhere \\(E\\) is the energy of the photon, \\(h\\) is Planck’s constant (\\(6.626 \\times 10^{-34} \\text{J s}\\)), and \\(\\nu\\) is the frequency of the electromagnetic wave.\n\n\n\n\n\n\nwave-particle duality\n\n\n\nDuring the 19th and early 20th centuries, light was found to behave as a wave then later was discovered to have a particle-like behavior, whereas electrons behaved like particles in early experiments then were later discovered to have wave-like behavior. The concept of duality arose to name these seeming contradictions.\n\n\nPlease see the following video to understand the concept of wave-particle duality:\n\nAfter watching the above video, please watch the following video.\n\n\n\n\n\n\n\n\n\n\nColor perception\n\n\n\nLight is a form of electromagnetic wave. It contains several frequencies (or wavelengths). We often call it spectrum. The visible spectrum contains wavelength from 380 to 780 nano meters. The red color has the biggest wavelength in the visible spectrum.\n\n\nEvery object smaller or bigger absorbs and reflects light. What it means is that the object absorbs certain wavelengths and reflects certain wavelength. The wavelength that object absorbs never reaches to our eyes, but the reflected wave lengths are received by our eyes. Therefore, we see the color corresponding to the wavelengths that have been reflected from the object."
+    "text": "There are three types of rocks: igneous, sedimentary, and metamorphic. The rock cycle describes how these rocks can change from one type to another over time.\n\nYou can find more information about the rock cycle here\nI have also made a document on the rock cycle, which you can find here\n\n\n\n\nThe double diffuse layer (DDL) is a two-layer structure that forms at the interface between a clay particle and the surrounding solution, primarily due to the clay’s negative charge. This layer plays a crucial role in understanding clay’s behavior in various soil and water systems.\n\nThe clay particle are very small (less than 2 micrometers) and have a large surface area.\nThe behavior of a single clay particle or assembly of several clay particles is many governed by the electrostatic forces between the clay particles and the surrounding solution.\nThe negative charge of the clay particle attracts hydrogen ions (H+) and cations (positively charged ions) from the surrounding solution, forming a double diffuse layer.\nThe first layer, known as the Stern layer, is tightly bound to the clay particle and consists of cations and water molecules.\nThe second layer, known as the diffuse layer, is more loosely bound and contains a mix of cations and anions (negatively charged ions).\n\n\n\n\nEven though rocks look hard and solid, some of them can react to acid. That is why we often perform acid tests on rocks to identify them. Pleas see the following video which explains the procedure of acid test on rocks.\n\n\nIn nature, the rocks can come into contact with the acid in several ways. For example, the rain water contains CO2 dissolved in water which makes it slightly acidic. This is called carbonic acid. Some organic acids are also produced by the decomposition of organic matter. These acids can react with the minerals in the rocks, leading to chemical weathering.\nUsually the product of acid reaction dissolved in water at one place, and they get transported to another place with water. There, these products can precipitate out of the solution and form new minerals. This process is called precipitation. For example, when calcium carbonate (CaCO3) dissolves in water, it can form calcium ions (Ca2+) and bicarbonate ions (HCO3-). When the concentration of these ions becomes high enough, they can precipitate out of the solution and form new minerals, such as calcite or aragonite.\n\nI find the following video very useful to understand the chemical weathering process and formation of Karst caves.\n\n\n\n\nBiological weathering is the process by which living organisms, such as plants, animals, and microorganisms, break down rocks and minerals. This process can occur through physical or chemical means and is an essential part of the rock cycle.\n\n\n\nBiological weathering leads to chemical weathering because biological processes, like those of plants and microorganisms, can produce acidic substances and chelating agents that chemically alter rock minerals.\n\n\n\nConsider you have a cube of size 10 cm. The volume of the cube denotes how big the particle of cube is. In this case it will be 1000 cm^3. A cube contains 6 faces, front, back, top, bottom, left, and right. Each face has an area of 10 cm x 10 cm = 100 cm^2. The total surface area of the cube is 6 x 100 cm^2 = 600 cm^2.\nNow let us divide this cube into two smaller parts. Then each piece will have 6 faces. So there are 12 faces in total. This will have more surface area than the original cube. This is because by cuttting the cude we have generated another face which was not there before (It was inside the cube and not exposed to the outside). This experiment tells us that as we cut the cube into smaller pieces, the mass of the cubes (collection of new smaller cubes) remain the same but the surface area increases. Therefore if we take one kg of sand (big particle) and grind it into smaller pieces (small particles), the mass will remain the same but the surface area will increase. We can use this concept to explain that one kg of clay will have more surface area than the one kg of sand. This is one of the reason why clay are more reactive than sand.\nClass question:\nLet us say that the size of the original cube is a, and the size of the smaller cube is b.\n\nBig cude calculation\n\nVolume = \\(a^3\\)\nSurface area = \\(6a^2\\)\n\nSmall cube calculation\n\nVolume = \\(b^3\\)\nSurface area = \\(6b^2\\)\nThere are 8 cubes of size b, therefore total surface area is \\(6b^2 x 8 = 48b^2\\)\n\nRelation between a and b is found by knowing that the volume of the big cube is equal to the volume of the small cubes. Therefore, \\(a^3 = 8b^3\\) or \\(a = 2b\\).\nRation of surface area of smaller cubes to the surface area of the big cube is \\(48b^2 / 6a^2 = 48b^2 / 6(2b)^2 = 48b^2 / 24b^2 = 2\\)."
   },
   {
-    "objectID": "lecture-3-faq.html#chemical-reactions-redox-exothermic-and-endothermic-reactions",
-    "href": "lecture-3-faq.html#chemical-reactions-redox-exothermic-and-endothermic-reactions",
-    "title": "Questions asked in Lecture 3",
+    "objectID": "lecture-6-faq.html#rock-cycle",
+    "href": "lecture-6-faq.html#rock-cycle",
+    "title": "Questions asked in Lecture 6",
     "section": "",
-    "text": "Consider the following chemical reaction:\n\\[\nA + B \\rightarrow C + D\n\\]\nwhere \\(A\\) and \\(B\\) are reactants, and \\(C\\) and \\(D\\) are products.\n\n\n\nExothermic reaction: A chemical reaction that releases energy, usually in the form of heat. The products have lower energy than the reactants.\nEndothermic reaction: A chemical reaction that absorbs energy from its surroundings. The products have higher energy than the reactants.\n\nWhy energy is released or absorbed in a chemical reaction?\nIn any chemical reaction, some bonds are broken and new bonds are formed. Energy is required to break the bonds which we will call as bond dissociation energy. Also, energy is released when new bonds are formed, which will be referred to as the bond formation energy.\n\nA reaction is exotermic if the bond formation energy is greater than the bond dissociation energy.\nA reaction is endothermic if the bond dissociation energy is greater than the bond formation energy.\n\n\n\n\nIn a chemical reaction the electrons cannot be created or destroyed, but they can be transferred from one atom to another. So the flow of electrons can only occur from a source connected to a sink. So what it means is that if in a chemical reaction electrons are flowing then someone should provide the electrons and someone should accept the electrons.\nA redox reaction can be defined as a chemical reaction in which electrons are transferred between two reactants participating in it.\nI have updated the lecture notes to improve the description of redox reactions in the context of forest ecology. Please refer to the updated notes for a more detailed explanation."
+    "text": "There are three types of rocks: igneous, sedimentary, and metamorphic. The rock cycle describes how these rocks can change from one type to another over time.\n\nYou can find more information about the rock cycle here\nI have also made a document on the rock cycle, which you can find here"
   },
   {
-    "objectID": "lecture-3-faq.html#photon-energy-ehnu",
-    "href": "lecture-3-faq.html#photon-energy-ehnu",
-    "title": "Questions asked in Lecture 3",
+    "objectID": "lecture-6-faq.html#double-diffusion-layer",
+    "href": "lecture-6-faq.html#double-diffusion-layer",
+    "title": "Questions asked in Lecture 6",
     "section": "",
-    "text": "Photons are discrete packets of light energy. Visible light, X-rays, ultraviolet, infrared, microwaves, and radio waves all consist of photons differing in energy (frequency).\nA photon’s energy is proportional to the frequency of the electromagnetic wave:\n\n\\[\nE = h \\nu\n\\]\nwhere \\(E\\) is the energy of the photon, \\(h\\) is Planck’s constant (\\(6.626 \\times 10^{-34} \\text{J s}\\)), and \\(\\nu\\) is the frequency of the electromagnetic wave.\n\n\n\n\n\n\nwave-particle duality\n\n\n\nDuring the 19th and early 20th centuries, light was found to behave as a wave then later was discovered to have a particle-like behavior, whereas electrons behaved like particles in early experiments then were later discovered to have wave-like behavior. The concept of duality arose to name these seeming contradictions.\n\n\nPlease see the following video to understand the concept of wave-particle duality:\n\nAfter watching the above video, please watch the following video."
+    "text": "The double diffuse layer (DDL) is a two-layer structure that forms at the interface between a clay particle and the surrounding solution, primarily due to the clay’s negative charge. This layer plays a crucial role in understanding clay’s behavior in various soil and water systems.\n\nThe clay particle are very small (less than 2 micrometers) and have a large surface area.\nThe behavior of a single clay particle or assembly of several clay particles is many governed by the electrostatic forces between the clay particles and the surrounding solution.\nThe negative charge of the clay particle attracts hydrogen ions (H+) and cations (positively charged ions) from the surrounding solution, forming a double diffuse layer.\nThe first layer, known as the Stern layer, is tightly bound to the clay particle and consists of cations and water molecules.\nThe second layer, known as the diffuse layer, is more loosely bound and contains a mix of cations and anions (negatively charged ions)."
   },
   {
-    "objectID": "lecture-3-faq.html#why-do-we-see-colors",
-    "href": "lecture-3-faq.html#why-do-we-see-colors",
-    "title": "Questions asked in Lecture 3",
+    "objectID": "lecture-6-faq.html#chemical-weathering",
+    "href": "lecture-6-faq.html#chemical-weathering",
+    "title": "Questions asked in Lecture 6",
     "section": "",
-    "text": "Color perception\n\n\n\nLight is a form of electromagnetic wave. It contains several frequencies (or wavelengths). We often call it spectrum. The visible spectrum contains wavelength from 380 to 780 nano meters. The red color has the biggest wavelength in the visible spectrum.\n\n\nEvery object smaller or bigger absorbs and reflects light. What it means is that the object absorbs certain wavelengths and reflects certain wavelength. The wavelength that object absorbs never reaches to our eyes, but the reflected wave lengths are received by our eyes. Therefore, we see the color corresponding to the wavelengths that have been reflected from the object."
+    "text": "Even though rocks look hard and solid, some of them can react to acid. That is why we often perform acid tests on rocks to identify them. Pleas see the following video which explains the procedure of acid test on rocks.\n\n\nIn nature, the rocks can come into contact with the acid in several ways. For example, the rain water contains CO2 dissolved in water which makes it slightly acidic. This is called carbonic acid. Some organic acids are also produced by the decomposition of organic matter. These acids can react with the minerals in the rocks, leading to chemical weathering.\nUsually the product of acid reaction dissolved in water at one place, and they get transported to another place with water. There, these products can precipitate out of the solution and form new minerals. This process is called precipitation. For example, when calcium carbonate (CaCO3) dissolves in water, it can form calcium ions (Ca2+) and bicarbonate ions (HCO3-). When the concentration of these ions becomes high enough, they can precipitate out of the solution and form new minerals, such as calcite or aragonite.\n\nI find the following video very useful to understand the chemical weathering process and formation of Karst caves."
   },
   {
-    "objectID": "lecture-4.html#learning-objectives",
-    "href": "lecture-4.html#learning-objectives",
+    "objectID": "lecture-6-faq.html#biological-weathering",
+    "href": "lecture-6-faq.html#biological-weathering",
+    "title": "Questions asked in Lecture 6",
+    "section": "",
+    "text": "Biological weathering is the process by which living organisms, such as plants, animals, and microorganisms, break down rocks and minerals. This process can occur through physical or chemical means and is an essential part of the rock cycle."
+  },
+  {
+    "objectID": "lecture-6-faq.html#why-biological-weathering-entails-chemical-weathering",
+    "href": "lecture-6-faq.html#why-biological-weathering-entails-chemical-weathering",
+    "title": "Questions asked in Lecture 6",
+    "section": "",
+    "text": "Biological weathering leads to chemical weathering because biological processes, like those of plants and microorganisms, can produce acidic substances and chelating agents that chemically alter rock minerals."
+  },
+  {
+    "objectID": "lecture-6-faq.html#big-particles-and-small-particles",
+    "href": "lecture-6-faq.html#big-particles-and-small-particles",
+    "title": "Questions asked in Lecture 6",
+    "section": "",
+    "text": "Consider you have a cube of size 10 cm. The volume of the cube denotes how big the particle of cube is. In this case it will be 1000 cm^3. A cube contains 6 faces, front, back, top, bottom, left, and right. Each face has an area of 10 cm x 10 cm = 100 cm^2. The total surface area of the cube is 6 x 100 cm^2 = 600 cm^2.\nNow let us divide this cube into two smaller parts. Then each piece will have 6 faces. So there are 12 faces in total. This will have more surface area than the original cube. This is because by cuttting the cude we have generated another face which was not there before (It was inside the cube and not exposed to the outside). This experiment tells us that as we cut the cube into smaller pieces, the mass of the cubes (collection of new smaller cubes) remain the same but the surface area increases. Therefore if we take one kg of sand (big particle) and grind it into smaller pieces (small particles), the mass will remain the same but the surface area will increase. We can use this concept to explain that one kg of clay will have more surface area than the one kg of sand. This is one of the reason why clay are more reactive than sand.\nClass question:\nLet us say that the size of the original cube is a, and the size of the smaller cube is b.\n\nBig cude calculation\n\nVolume = \\(a^3\\)\nSurface area = \\(6a^2\\)\n\nSmall cube calculation\n\nVolume = \\(b^3\\)\nSurface area = \\(6b^2\\)\nThere are 8 cubes of size b, therefore total surface area is \\(6b^2 x 8 = 48b^2\\)\n\nRelation between a and b is found by knowing that the volume of the big cube is equal to the volume of the small cubes. Therefore, \\(a^3 = 8b^3\\) or \\(a = 2b\\).\nRation of surface area of smaller cubes to the surface area of the big cube is \\(48b^2 / 6a^2 = 48b^2 / 6(2b)^2 = 48b^2 / 24b^2 = 2\\)."
+  },
+  {
+    "objectID": "lecture-2-faq.html",
+    "href": "lecture-2-faq.html",
+    "title": "Questions asked in Lecture 2",
+    "section": "",
+    "text": "The following points were discussed in the lecture.\n\nAn ecosystem is a community of living organisms (plants, animals, and microorganisms) interacting with their physical environment (soil, water, and air).\nForest is a type of landscape ecosystem.\n\n\n\n\n\n\n\nWhat do we have two terms landscape-ecosystem and ecosystem?\n\n\n\nIn my opinion, both ecosystem and landscape ecosystem are essentially the same. The term ecosystem is very general. However, from landscape ecosystem we want to emphasis that we are interested in studying the ecosystem which have finite volume such as forest. So such ecosystem are located on the specific parts of the earth. They have their own environment, and in this environment their can be so population of many types of species.\n\n\n\nI think to study the forest ecosystem, the first question that we should ask is where is that forest located on the earth?\nIs it is a tropical forest, or temperate forest, or boreal forest?\nThen we decide our are of interest by fixing the spatial scale of the forest ecosystem. This will fix the volume of the forest in the horizontal direction. Imagine a box which contains a part of very large forest.\nAfter fixing the volume of the forest, we see what types of living organisms are present in that volume.\nThen we see what is the geography in that volume, For example, what is the soil type, what is the water type, what is the air type, what is the temperature, what is the humidity, what is the light intensity, etc. We also check the topography.\nIn summary, in landscape ecosystem, and forest ecosystem, the landscape comes first, and then we study the components of that landscape. Whereas in general, many people are interested in studying an organism or species, or population. But if use such approach for a forest we have so many species and their ecosystem. Finding how these ecosystem (infinitely many) interacts with each other will be a challenging task if not impossible task.\n\n\n\n\nTo understand the different layers of a forest ecosystem, we need to follow the following steps.\n\nThe forest ecosystem occupy a finite volume (small or larger) on the earth’s surface.\nThe conditions, such as temperature, humidity, light, soil type, nutrients, rainfall (amount and frequency) will change across the earth surface. In this way, different types of plants (species) will grow at different location on the earth. Even if we focus on same species, their growth will be different at different location. This is because the conditions are different at different locations. This gives a horizontal structure to forest. All it means that the growth, species of plants and trees changes as the location changes.\nNow let us focus on the vertical structure of a forest. The vertical structure of the forest is divided in the terms of layers. For example, our body has differnt layers:\n\nLeg area: This is the area below the hip\nHip area: This is the area around the hip\nStomach area: This is the area around the stomach\nHead area: This is the area around the head\n\n\nSimilarly, in the forest at given location on the earth, we have different layers in the vertical direction. Now why in the vertical direction? Because at given location the trees are growing in the vertical direction (both up and down (roots)).\nNow, Let us focus on a SINGLE tree at a given location. What type of layers do we observe? 1. Root area (this is like leg area) below the ground 2. Trunk area (this is like hip and stomach area) above the ground 3. Crown area: Branch area (this is like head area) above the ground. 4. Canopy area: This is the area above the crown area. This is the area where the leaves are present.\nNow let us combine many trees at a given location. Let say we planted them together. Over the time they will grow at the different rate. Some trees will be taller and thicker. Some trees will be shorter. This the first generation of tree. They have same age, but their characteristics are different. After some years lets plant another generation of trees. Now in the forest we will have younger and older trees. Every individual tree has vertical structure.\nThe combination of these trees is what make the forest. So the forest also have several vertical layers. These layers were discussed in the lecture.\n\n\n\nOne student found it difficult to understand the tropical ecosystem.\n\nThe tropical ecosystem is a type of forest ecosystem.\nIt is a forest ecosystem that is located in the tropics.\nThe tropics are the regions of the earth that are located between the Tropic of Cancer (23 degree North) and the Tropic of Capricorn (23 degree South).\nThese regions are characterized by warm temperatures and high levels of rainfall. In general, as the latitude increases, the temperature decreases. Arctic and Antartica both have largest latitude in North and Sourth, respectively. They are also the cold region of the earth.\nFind the latitude of you location. For example, Kyoto’s latitude is 35.0116° N. So it is not in the tropics. The latitude of Mumbai, India is 19.0760° N. So it is in the tropics.\nYou can learn about the latitude of earth from this YouTube Video\nThe tropical ecosystem is home to a wide variety of plant and animal species, many of which are not found in other types of ecosystems.\nThe tropical ecosystem is also characterized by its high levels of biodiversity, which means that it has a large number of different species living in it.\nI also recommend students to see this YouTube Video to understand the tropical ecosystem.\n\n\n\n\n\nThe population is a group of individuals of the same species that live in the same area at the same time.\nA population is defined as a group of individuals of the same species living and interbreeding within a given area.\nMembers of a population often rely on the same resources, are subject to similar environmental constraints, and depend on the availability of other members to persist over time.\nWe study a population by examining how individuals in that population interact with each other and how the population as a whole interacts with its environment.\nAs a tool for objectively studying populations, population ecologists rely on a series of statistical measures, known as demographic parameters, to describe that population.\nThe field of science interested in collecting and analyzing these numbers is termed population demographics, also known as demography.\n\nI strongly recommend students to watch the following YouTube Video to understand the concept of population.\n\nPopulation dynamics is an very intriguing subject. I can recommend the following article to understand the concept of population in an ecosystem.\n\nhttps://www.nature.com/scitable/knowledge/library/introduction-to-population-demographics-83032908/"
+  },
+  {
+    "objectID": "lecture-2-faq.html#landscape-ecosystem",
+    "href": "lecture-2-faq.html#landscape-ecosystem",
+    "title": "Questions asked in Lecture 2",
+    "section": "",
+    "text": "The following points were discussed in the lecture.\n\nAn ecosystem is a community of living organisms (plants, animals, and microorganisms) interacting with their physical environment (soil, water, and air).\nForest is a type of landscape ecosystem.\n\n\n\n\n\n\n\nWhat do we have two terms landscape-ecosystem and ecosystem?\n\n\n\nIn my opinion, both ecosystem and landscape ecosystem are essentially the same. The term ecosystem is very general. However, from landscape ecosystem we want to emphasis that we are interested in studying the ecosystem which have finite volume such as forest. So such ecosystem are located on the specific parts of the earth. They have their own environment, and in this environment their can be so population of many types of species.\n\n\n\nI think to study the forest ecosystem, the first question that we should ask is where is that forest located on the earth?\nIs it is a tropical forest, or temperate forest, or boreal forest?\nThen we decide our are of interest by fixing the spatial scale of the forest ecosystem. This will fix the volume of the forest in the horizontal direction. Imagine a box which contains a part of very large forest.\nAfter fixing the volume of the forest, we see what types of living organisms are present in that volume.\nThen we see what is the geography in that volume, For example, what is the soil type, what is the water type, what is the air type, what is the temperature, what is the humidity, what is the light intensity, etc. We also check the topography.\nIn summary, in landscape ecosystem, and forest ecosystem, the landscape comes first, and then we study the components of that landscape. Whereas in general, many people are interested in studying an organism or species, or population. But if use such approach for a forest we have so many species and their ecosystem. Finding how these ecosystem (infinitely many) interacts with each other will be a challenging task if not impossible task."
+  },
+  {
+    "objectID": "lecture-2-faq.html#different-layers-of-a-forest-ecosystem",
+    "href": "lecture-2-faq.html#different-layers-of-a-forest-ecosystem",
+    "title": "Questions asked in Lecture 2",
+    "section": "",
+    "text": "To understand the different layers of a forest ecosystem, we need to follow the following steps.\n\nThe forest ecosystem occupy a finite volume (small or larger) on the earth’s surface.\nThe conditions, such as temperature, humidity, light, soil type, nutrients, rainfall (amount and frequency) will change across the earth surface. In this way, different types of plants (species) will grow at different location on the earth. Even if we focus on same species, their growth will be different at different location. This is because the conditions are different at different locations. This gives a horizontal structure to forest. All it means that the growth, species of plants and trees changes as the location changes.\nNow let us focus on the vertical structure of a forest. The vertical structure of the forest is divided in the terms of layers. For example, our body has differnt layers:\n\nLeg area: This is the area below the hip\nHip area: This is the area around the hip\nStomach area: This is the area around the stomach\nHead area: This is the area around the head\n\n\nSimilarly, in the forest at given location on the earth, we have different layers in the vertical direction. Now why in the vertical direction? Because at given location the trees are growing in the vertical direction (both up and down (roots)).\nNow, Let us focus on a SINGLE tree at a given location. What type of layers do we observe? 1. Root area (this is like leg area) below the ground 2. Trunk area (this is like hip and stomach area) above the ground 3. Crown area: Branch area (this is like head area) above the ground. 4. Canopy area: This is the area above the crown area. This is the area where the leaves are present.\nNow let us combine many trees at a given location. Let say we planted them together. Over the time they will grow at the different rate. Some trees will be taller and thicker. Some trees will be shorter. This the first generation of tree. They have same age, but their characteristics are different. After some years lets plant another generation of trees. Now in the forest we will have younger and older trees. Every individual tree has vertical structure.\nThe combination of these trees is what make the forest. So the forest also have several vertical layers. These layers were discussed in the lecture."
+  },
+  {
+    "objectID": "lecture-2-faq.html#tropical-ecosystem",
+    "href": "lecture-2-faq.html#tropical-ecosystem",
+    "title": "Questions asked in Lecture 2",
+    "section": "",
+    "text": "One student found it difficult to understand the tropical ecosystem.\n\nThe tropical ecosystem is a type of forest ecosystem.\nIt is a forest ecosystem that is located in the tropics.\nThe tropics are the regions of the earth that are located between the Tropic of Cancer (23 degree North) and the Tropic of Capricorn (23 degree South).\nThese regions are characterized by warm temperatures and high levels of rainfall. In general, as the latitude increases, the temperature decreases. Arctic and Antartica both have largest latitude in North and Sourth, respectively. They are also the cold region of the earth.\nFind the latitude of you location. For example, Kyoto’s latitude is 35.0116° N. So it is not in the tropics. The latitude of Mumbai, India is 19.0760° N. So it is in the tropics.\nYou can learn about the latitude of earth from this YouTube Video\nThe tropical ecosystem is home to a wide variety of plant and animal species, many of which are not found in other types of ecosystems.\nThe tropical ecosystem is also characterized by its high levels of biodiversity, which means that it has a large number of different species living in it.\nI also recommend students to see this YouTube Video to understand the tropical ecosystem."
+  },
+  {
+    "objectID": "lecture-2-faq.html#population",
+    "href": "lecture-2-faq.html#population",
+    "title": "Questions asked in Lecture 2",
+    "section": "",
+    "text": "The population is a group of individuals of the same species that live in the same area at the same time.\nA population is defined as a group of individuals of the same species living and interbreeding within a given area.\nMembers of a population often rely on the same resources, are subject to similar environmental constraints, and depend on the availability of other members to persist over time.\nWe study a population by examining how individuals in that population interact with each other and how the population as a whole interacts with its environment.\nAs a tool for objectively studying populations, population ecologists rely on a series of statistical measures, known as demographic parameters, to describe that population.\nThe field of science interested in collecting and analyzing these numbers is termed population demographics, also known as demography.\n\nI strongly recommend students to watch the following YouTube Video to understand the concept of population.\n\nPopulation dynamics is an very intriguing subject. I can recommend the following article to understand the concept of population in an ecosystem.\n\nhttps://www.nature.com/scitable/knowledge/library/introduction-to-population-demographics-83032908/"
+  },
+  {
+    "objectID": "lecture-6.html#learning-objectives",
+    "href": "lecture-6.html#learning-objectives",
     "title": "Sustainable Forest Environment (SFE)",
     "section": "Learning objectives",
-    "text": "Learning objectives\n\nEffect of physical environment on the forest development\nTemperature, water regime, and solar radiation"
+    "text": "Learning objectives\n\nSoil of forest ecosystems"
   },
   {
-    "objectID": "lecture-4.html#forest-environment",
-    "href": "lecture-4.html#forest-environment",
+    "objectID": "lecture-6.html#rocks",
+    "href": "lecture-6.html#rocks",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Forest environment",
-    "text": "Forest environment\n\n\n\n\n\n\n\nWhat we know about forest so far?\n\n\n\nForest site is a place where plants live and grow.\nForest site is defined by its physical environment such as\n\nspecfic geographic location\nphysigraphy\nhydrology\nglobal and micro climate\n\nTo greater or lesser extent, these abiotic factors are affected by the plants and animals that live there."
+    "section": "Rocks",
+    "text": "Rocks\n\n\n\n\n\n\nA rock is a naturally occurring solid aggregate of one or more minerals.\n\n\n\nRocks are categorized by their mineral composition and the way in which they are formed. The three main types of rocks are igneous, sedimentary, and metamorphic.\n\n\n\n\n\n\n\nIgneous rocks\n\n\nThese rocks are formed from the cooling and solidification of magma or lava.\n\n\n\n\n\n\n\n\n\n\n\nSedimentary rocks\n\n\nThese rocks are formed from the accumulation of sediment, which can be composed of minerals, organic matter, or other materials.\n\n\n\n\n\n\n\n\n\n\n\nMetamorphic rocks\n\n\nThese rocks are formed from the transformation of existing rocks due to heat, pressure, or chemically active fluids."
   },
   {
-    "objectID": "lecture-4.html#physical-processes-in-forests",
-    "href": "lecture-4.html#physical-processes-in-forests",
+    "objectID": "lecture-6.html#igneous-rocks",
+    "href": "lecture-6.html#igneous-rocks",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Physical processes in forests",
-    "text": "Physical processes in forests\n\nAll the chemical and biological processes within a forest are driven by physical processes: environmental temperatures, water regimes, and solar radiation.\nTrees grows with its crown in the atmosphere and roots in the soil."
+    "section": "Igneous rocks",
+    "text": "Igneous rocks\n\n\n\nIgneous rocks are formed through the cooling and solidification of magma or lava (molten rocks). There are two categories of igneous rocks.\n\n\n\n\n\n\n\n\nMagma and Lava\n\n\n\nMagma is molten rocks which is one of the important liquid material on earth. Magma forms deep inside the earth. It reaches the surface of earth while passing through a vent or crack.\n\nThe magma flowing over the surface of the Earth is called lava, and the vent through which it emerges is called a volcano.\n\n\n\n\n\n\n\n\n\nVolcanic eruptions of lava are major sources of igneous rocks. (Mayon volcano in the Philippines, erupting in 2009)"
   },
   {
-    "objectID": "lecture-4.html#physical-processes-in-forests-1",
-    "href": "lecture-4.html#physical-processes-in-forests-1",
+    "objectID": "lecture-6.html#igneous-rocks-1",
+    "href": "lecture-6.html#igneous-rocks-1",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Physical processes in forests",
-    "text": "Physical processes in forests\n\nThe crown of tree intercepts the sunlight for the photosynthesis.\nThe solar energy also causes evoparation of water in the leaves which in turn cools the leaves.\nThe evoparation of water from leaves increases the humidity of surrounding air\nEvaporation of water from leaves also becomes “a driving force” to lift the water and nutrients from the root zone to canopy."
+    "section": "Igneous rocks",
+    "text": "Igneous rocks\n\n\n\nIntrusive type: These igneous rocks are formed beneath the Earth’s surface\nExtrusive type: These rocks are formed at the surface of the Earth\n\n\n\n\n\n\n\n\nGranite is an intrusive rock\nBasalt is an extrusive rock\n\n\n\n\n\n\n\n\nIntrusive and Extrusive rocks (formation of Igneous rocks)"
   },
   {
-    "objectID": "lecture-4.html#the-big-picture-of-forest-environment",
-    "href": "lecture-4.html#the-big-picture-of-forest-environment",
+    "objectID": "lecture-6.html#sedimentary-rocks",
+    "href": "lecture-6.html#sedimentary-rocks",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "The big picture of forest environment",
-    "text": "The big picture of forest environment\n\nRelationship between site factors directly and indirectly responsible for plant distribution and growth (Modified from Kashian et al. (2022)"
+    "section": "Sedimentary rocks",
+    "text": "Sedimentary rocks\n\n\n\nSedimentary rocks are formed from the accumulation and compaction of mineral and organic particles over time.\nThese particles, or sediments, are often transported by water, wind, or ice and deposited in layers.\nSedimentary rocks are also formed due to chemical precipitation of material carried in solution in sea, lake, or river water.\nOver long periods, the layers are compacted and cemented together to form solid rock.\nCommon examples of sedimentary rocks include sandstone, limestone, and shale.\n\n\n\n\n\nMiddle Triassic marginal marine sequence of siltstones (reddish layers at the cliff base) and limestones (brown rocks above), Virgin Formation, southwestern Utah, U.S.\n\n\n\n\n\n\n\n\nSedimentary rocks often contain fossils, which are the preserved remains of ancient organisms. These fossils provide valuable information about the Earth’s history and past environments."
   },
   {
-    "objectID": "lecture-4.html#weather-and-climate",
-    "href": "lecture-4.html#weather-and-climate",
+    "objectID": "lecture-6.html#metamorphic-rocks",
+    "href": "lecture-6.html#metamorphic-rocks",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Weather and climate",
-    "text": "Weather and climate\n\nClimate and weather are related to each other, but they are not the same.\n\n\n\n\n\n\n\n\nWeather\n\n\nWeather is the state of the atmosphere at given time and place. It is the mix of events that happen each day in our atmosphere. Altough, the earth has single atmosphere the weather is not the same at all places on earth.\n\n\n\n\n\n\n\n\n\n\n\nClimate\n\n\nClimate is the average weather over a LONG period of time (for example several decades) in a specific area. Different regions of the world have different climates.\n\n\n\n\n\n\n\n\n\n\nClimate is what you expect, weather is what you get. NOAA"
+    "section": "Metamorphic rocks",
+    "text": "Metamorphic rocks\n\nMetamorphic rocks are formed from existing rocks (igneous, sedimentary, or other metamorphic rocks) that undergo a transformation due to high heat, pressure, or chemically active fluids.\nThis process, called metamorphism, alters the mineral composition and structure of the original rock without melting it.\nMetamorphic rocks can be foliated (having a layered or banded appearance) or non-foliated (lacking distinct layers).\n\n\n\n\n\n\n\nMetamorphic rocks provide insights into the conditions deep within the Earth’s crust and the processes that shape our planet over geological time.\n\n\n\n\n\n\n\n\n\n\nCommon metamorphic rocks\n\n\nSlate, Schist, Marble, Gneiss"
   },
   {
-    "objectID": "lecture-4.html#effect-of-climate-on-forest",
-    "href": "lecture-4.html#effect-of-climate-on-forest",
+    "objectID": "lecture-6.html#rock-cycle",
+    "href": "lecture-6.html#rock-cycle",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Effect of climate on forest",
-    "text": "Effect of climate on forest\n\nClimate affects where the forest occur, and how they develop. The distributions of major types of forests across the world Pan et al. (2013)\nIn the above figure, forests are more widely distributed in the Northern Hemisphere, where larger land masses occur. The length of the growing season decreases from the full year in the wet tropics to only 7 to 10 weeks in the boreal region. Forests with different life forms and growth forms, such as deciduous, evergreen, needle-leaved, and broad-leaved trees, are adapted to the seasonality of temperature and rainfall in their geographic region"
+    "section": "Rock cycle",
+    "text": "Rock cycle\n\n\n\n\n\n\n\n\nThe rock cycle is a continuous process by which rocks are created, transformed, and recycled over geological time. It describes the transitions between the three main types of rocks: igneous, sedimentary, and metamorphic. The cycle outlines how each rock type can be converted into another through various geological processes such as melting, cooling, erosion, sedimentation, and metamorphism.\n\n\n\n\nFormation of Igneous rocks\nWeathering and Erosion\nFormation of Sedimentary rocks\nMetamorphism\nMelting\n\n\n\n\n\nSchematic diagram of Rock cycle source: Wikimedia"
   },
   {
-    "objectID": "lecture-4.html#effect-of-climate-on-forest-npp",
-    "href": "lecture-4.html#effect-of-climate-on-forest-npp",
+    "objectID": "lecture-6.html#regolith-and-soil",
+    "href": "lecture-6.html#regolith-and-soil",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Effect of climate on forest (NPP)",
-    "text": "Effect of climate on forest (NPP)\n\nEstimated Global net primary production (NPP) Pan et al. (2013). Net primary productivity (NPP) is the rate at which energy is stored in plant biomass over a given period, typically a year. Over the whole year, the tropics have the highest biomass accumulation, followed by temperate and then boreal zones, although boreal forests appear to have very high NPP in their short growing seasons"
+    "section": "Regolith and soil",
+    "text": "Regolith and soil\n\n\n\n\n\n\n\nRegolith\n\n\nRegolith is a layer of loose, unconsolidated material that covers solid bedrock. It includes soil, sediment, and weathered rock fragments.\n\n\n\n\n\n\n\n\n\n\n\nSoil\n\n\nSoil: Regolith + organic materials. It is the Medium that supports plant growth. Components of soil are:\n\nMineral particles\nHumus (organic matter in soil that is formed by the decomposition of plant and animal matter)\nWater\nAir"
   },
   {
-    "objectID": "lecture-4.html#taller-and-denser-forests",
-    "href": "lecture-4.html#taller-and-denser-forests",
+    "objectID": "lecture-6.html#soil-formation",
+    "href": "lecture-6.html#soil-formation",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Taller and denser forests",
-    "text": "Taller and denser forests\n\n\n\nTrees tend to be taller for moderate to warm temperatures and high rainfall; tropical regions and in some temperate coastal regions and remote mountain areas.\nThe densest forests occur in the high northern latitudes of Eurasia and North America, the tropical latitudes of the Amazon Basin of South America, the Congo Basin of West Central Africa, and insular Southeast Asia.\n\n\n\n\n\nThe structure of global forests (a) tree canopy cover (b) forest height Pan et al. (2013)."
+    "section": "Soil formation",
+    "text": "Soil formation\n\nSoil formation occurs through weathering, erosion and deposition of rock fragments (parent material) along with the accumulation of organic material over time\nParent material (rock) minerals: Feldspar, Quartz, Mica, Calcite\n\n\n\n\n\n\n\n\n\n\nFeldspar\n\n\n\n\n\n\n\nQuartz\n\n\n\n\n\n\n\nMica\n\n\n\n\n\n\n\nCalcite"
   },
   {
-    "objectID": "lecture-4.html#effect-of-climate-on-forest-1",
-    "href": "lecture-4.html#effect-of-climate-on-forest-1",
+    "objectID": "lecture-6.html#weathering",
+    "href": "lecture-6.html#weathering",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Effect of climate on forest",
-    "text": "Effect of climate on forest\n\n\n\nMost productive forests tend to occur in warmer locations where precipitation is close to (or higher than) the water that could be evaporated by available energy.\nIs it possible to be too warm for high growth rates, even where plenty of water is available? This is not clear from this Figure, but the hottest tropical forests do appear to have lower growth rates than somewhat cooler forests\n\n\n\n\n\nThe positive y axis denotes wetter and negative y axis denotes drier environment Running et al. (2004)"
+    "section": "Weathering",
+    "text": "Weathering\n\n\n\n\n\n\n\ndefinition\n\n\nThe process of wearing or being worn by long exposure to the atmosphere, leading to decomposition and disintegration of rocks.\n\n\n\n\n\nWeathering is the process of breaking down rocks into smaller particles through physical, chemical, and biological processes.\nIt is a key component of the rock cycle and plays a crucial role in shaping the Earth’s surface.\nPhysical (or Mechanical) weathering\nChemical weathering\nBiological weathering"
   },
   {
-    "objectID": "lecture-4.html#diversity-of-trees-in-forests",
-    "href": "lecture-4.html#diversity-of-trees-in-forests",
+    "objectID": "lecture-6.html#mechanism-of-soil-formation-mechanical-weathering",
+    "href": "lecture-6.html#mechanism-of-soil-formation-mechanical-weathering",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Diversity of trees in forests",
-    "text": "Diversity of trees in forests\n\n\n\n\n\n\nNote\n\n\nWarmer forests have more species of trees\n\n\n\n\nTemperature decreases with increase in elevation\nVeintimilla et al. (2019) found that in a tropical forest in Costa Rica, the number of species found in forests decreases with increase in elevations\nWang et al. (2009) found that in the forests of estern China and North America the number of species of trees in the forest increaess with increase in temperature"
+    "section": "Mechanism of soil formation: Mechanical weathering",
+    "text": "Mechanism of soil formation: Mechanical weathering\n\n\n\n\n\n\nIn mechanical weathering rocks are broken down into smaller pieces without changing their chemical composition.\n\n\n\n\nYou can read more about the physical weathering here https://opengeology.org/textbook/5-weathering-erosion-and-sedimentary-rocks/\nYou can read more about the weathering process here https://education.nationalgeographic.org/resource/weathering/"
   },
   {
-    "objectID": "lecture-4.html#effect-of-temperature-on-biological-processes-in-trees",
-    "href": "lecture-4.html#effect-of-temperature-on-biological-processes-in-trees",
+    "objectID": "lecture-6.html#mechanical-weathering-due-to-thermal-stress",
+    "href": "lecture-6.html#mechanical-weathering-due-to-thermal-stress",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Effect of temperature on biological processes in trees",
-    "text": "Effect of temperature on biological processes in trees\n\nExtreme temperatures tend to stop biological processes\nLittle biological activity occurs below the freezing point of water, and at very high temperatures organs fail and organisms die.\nBetween these extremes, most biological processes respond strongly to temperature, often changing by a factor of two or more for a 10 °C change in temperature"
+    "section": "Mechanical weathering due to thermal stress",
+    "text": "Mechanical weathering due to thermal stress\n\nIn natural environment, rocks are often subjected to a prolonged cyclic thermal loading of heating and cooling stages. Such thermal loading results in cyclic mechanical loading due the thermal expansion and contraction of the rock. Due to cyclic mechanical loading the rocks eventually fails into pieces.\n\n\n\n\nRock exposed to sun \\(\\Rightarrow\\) part of rock exposed to sun in the day expands \\(\\Rightarrow\\) same part cools at night \\(\\Rightarrow\\) repeated expansion and contraction \\(\\Rightarrow\\) tension cracks develop \\(\\Rightarrow\\) also called onion weathering (rock weathers like peeling of layers of an onion)\n\n\n\n\n\nThermal stresses in rocks"
   },
   {
-    "objectID": "lecture-4.html#effect-of-temperature-on-biological-processes-in-trees-1",
-    "href": "lecture-4.html#effect-of-temperature-on-biological-processes-in-trees-1",
+    "objectID": "lecture-6.html#meachnical-weathering-due-to-frost-weathering-cryofracturing",
+    "href": "lecture-6.html#meachnical-weathering-due-to-frost-weathering-cryofracturing",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Effect of temperature on biological processes in trees",
-    "text": "Effect of temperature on biological processes in trees\n\nRespiration is the oxidation of carbon compounds to release energy and CO2.\nThe rate of respiration may increase exponentially with temperature.\n\n\n\n\n\n\n\nPlant respiration is an enzyme-mediated process. As temperature increases, the kinetic energy of molecules also increases, enhancing enzyme activity and thus accelerating respiration rates."
+    "section": "Meachnical weathering due to Frost weathering/ cryofracturing",
+    "text": "Meachnical weathering due to Frost weathering/ cryofracturing\n\n\n\nRocks which have cracks and spaces between them allows water to seep into them. During winter the water in the pores may freeze and expand. The volumetric expansion of ice exterts additional pressure on the walls of the rock which in some cases can break the rock into small pieces.\nWater enters small cracks in rock mass \\(\\Rightarrow\\) freezes in cold weather \\(\\Rightarrow\\) density of ice &lt; density of water \\(\\Rightarrow\\) volume of frozen water increases (expansion of approximately 9 %) \\(\\Rightarrow\\) exerts further tensile stress \\(\\Rightarrow\\) extends cracks\n\n\n\nFrost weathering"
   },
   {
-    "objectID": "lecture-4.html#effect-of-temperature-on-photosynthesis",
-    "href": "lecture-4.html#effect-of-temperature-on-photosynthesis",
+    "objectID": "lecture-6.html#mechanical-weathering-due-to-pressure-release-due-to-erosion-of-overlying-layers",
+    "href": "lecture-6.html#mechanical-weathering-due-to-pressure-release-due-to-erosion-of-overlying-layers",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Effect of temperature on photosynthesis",
-    "text": "Effect of temperature on photosynthesis\n\n\n\nPhotosynthesis has long been recognized as one of the most temperature-sensitive processes in plants Slot and Winter (2017)\nPhotosynthesis typically increases with increasing leaf temperature until it reaches an optimum (\\(P_{opt}\\) at \\(T_{opt}\\)), beyond which rates decrease, reaching zero at the high-temperature carboncompensation point\n\n\n\n\n\nPhotosynthesis vs temperature Slot and Winter (2017)"
+    "section": "Mechanical Weathering due to pressure release due to erosion of overlying layers",
+    "text": "Mechanical Weathering due to pressure release due to erosion of overlying layers\n\nOccurs inside rock mass \\(\\Rightarrow\\) Erosion of overlying layers \\(\\Rightarrow\\) Reduces overburden pressure \\(\\Rightarrow\\) soil mass decompresses \\(\\Rightarrow\\) can get compressed again with further deposition of soil and decompressed again with erosion \\(\\Rightarrow\\) this cycle can cause internal weathering\n\n\nThe outer layer of this granite is fractured and eroding away, known as exfoliation"
   },
   {
-    "objectID": "lecture-4.html#effect-of-temperature-on-photosynthesis-1",
-    "href": "lecture-4.html#effect-of-temperature-on-photosynthesis-1",
+    "objectID": "lecture-6.html#mechanical-weathering-due-to-salt-crystal-growth",
+    "href": "lecture-6.html#mechanical-weathering-due-to-salt-crystal-growth",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Effect of temperature on photosynthesis",
-    "text": "Effect of temperature on photosynthesis\n\nThe decrease above the optimum temperature (\\(T_{opt}\\)) is caused by three major factors:\n\nstomatal closure in response to increased leaf-to-air vapor pressure deficit (VPD)\nchanges in photosynthetic biochemistry\nincreasing rates of respiration in the light\n\nStomatal conductance generally has a large control over photosynthesis and often declines in response to high vapour pressure deficit (VPD) associated with higher temperatures (Crous, Uddling, and De Kauwe (2022))"
+    "section": "Mechanical weathering due to Salt-crystal growth",
+    "text": "Mechanical weathering due to Salt-crystal growth\nRocks near the sea \\(\\Rightarrow\\) Concentration of salt in cracks on rock surface increases with time \\(\\Rightarrow\\) Crystals of salt form in cracks \\(\\Rightarrow\\) crystals grow with time \\(\\Rightarrow\\) exert tensile force on the rock \\(\\Rightarrow\\) deepens/ widens crack\n\nTafoni: Rounded cavities within rocks that form in various ways, including mineral growth, mainly salt. Tafoni from Salt Point, California."
   },
   {
-    "objectID": "lecture-4.html#effect-of-temperature-on-photosynthesis-2",
-    "href": "lecture-4.html#effect-of-temperature-on-photosynthesis-2",
+    "objectID": "lecture-6.html#summary-of-mechanical-weathering",
+    "href": "lecture-6.html#summary-of-mechanical-weathering",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Effect of temperature on photosynthesis",
-    "text": "Effect of temperature on photosynthesis\n\nIn general, photosynthesis can function without harm between 0 and 30 °C in cold-adapted plants that are active in winter and early spring, or grow at high altitude and latitude (Sage and Kubien (2007))\nIn plants from equitable habitats (e.g. warm season crops), photosynthesis operates safely between 7 and 40 °C,\nIn plants from hot environments, such as tropical species and summer species in the Mojave Desert, photosynthesis operates between 15 and 45 °C with no apparent problem"
+    "section": "Summary of mechanical weathering",
+    "text": "Summary of mechanical weathering\n\nThermal stress: Rock exposed to sun \\(\\rightarrow\\) part of rock exposed to sun in the day expands \\(\\rightarrow\\) same part cools at night \\(\\rightarrow\\) repeated expansion and contraction \\(\\rightarrow\\) tension cracks develop \\(\\rightarrow\\) also called onion weathering (rock weathers like peeling of layers of an onion)\nFrost weathering/ cryofracturing: Water enters small cracks in rock mass \\(\\rightarrow\\) freezes in cold weather \\(\\rightarrow\\) density of ice &lt; density of water \\(\\rightarrow\\) volume of frozen water increases \\(\\rightarrow\\) exerts further tensile stress \\(\\rightarrow\\) extends cracks\nPressure release due to erosion of overlying layers: Occurs inside rock mass \\(\\rightarrow\\) Erosion of overlying layers \\(\\rightarrow\\) Reduces overburden pressure \\(\\rightarrow\\) soil mass decompresses \\(\\rightarrow\\) can get compressed again with further deposition of soil and decompressed again with erosion \\(\\rightarrow\\) this cycle can cause internal weathering\nSalt-crystal growth: Rocks near the sea \\(\\rightarrow\\) Concentration of salt in cracks on rock surface increases with time \\(\\rightarrow\\) Crystals of salt form in cracks \\(\\rightarrow\\) crystals grow with time \\(\\rightarrow\\) exert tensile force on the rock \\(\\rightarrow\\) deepens/ widens crack"
   },
   {
-    "objectID": "lecture-4.html#heat-gain-in-leaves",
-    "href": "lecture-4.html#heat-gain-in-leaves",
+    "objectID": "lecture-6.html#chemical-weathering",
+    "href": "lecture-6.html#chemical-weathering",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Heat gain in leaves",
-    "text": "Heat gain in leaves\n\nHeat transfer in leaves\nWhen solar energy from the sun strikes the leaf, some part of it is absorbed and some part is reflected. This absorbtion of thermal radiation increases the thermal energy of the leaves.\nThe thermal energy of the leaves also increases when the leaves are in contact with hot air.\nDue to the increase in thermal energy, the temperature of the leaves increases"
+    "section": "Chemical weathering",
+    "text": "Chemical weathering\n\nIn chemical weathering, the original rock minerals aare transformed into new minerals through chemical reactions.\nClay minerals are the most common products of chemical weathering.\nChemical weathering is the dominate weathering process in warm, humid environments. It happens when water, oxygen, and other reactants chemically degrade the mineral components of bedrock and turn them into water-soluble ions which can then be transported by water.\nHigher temperatures accelerate chemical weathering rates."
   },
   {
-    "objectID": "lecture-4.html#heat-loss-in-leaves",
-    "href": "lecture-4.html#heat-loss-in-leaves",
+    "objectID": "lecture-6.html#chemical-weathering-due-to-carbonation",
+    "href": "lecture-6.html#chemical-weathering-due-to-carbonation",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Heat loss in leaves",
-    "text": "Heat loss in leaves\nThe leaf can also lose its thermal energy by following mechanisms.\n\nWhen the leaves are exposed to cooler air.\nThe leaf can lose thermal energy by evaporating water (controlled through stomata). This is because evaporation of water is an endothermic process. The leaves use their thermal energy to heat water and convert them liquid into vapour.\nThe leaves can also lose energy by emitting radiant energy."
+    "section": "Chemical weathering due to Carbonation",
+    "text": "Chemical weathering due to Carbonation\n\nRain water is slightly acidic: CO2 + H2O \\(\\rightarrow\\) H2CO3 (Carbonic acid has two ions: H+ and (HCO3)-)\nWeathering of Potassium Feldspars (KAlSi3O8) due to Carbonic acid\n\nH+ replaces the K+ ions in the feldspar mineral and the K+ ions enter into solution and are washed away.\nWater then reacts with the aluminosilicates molecule to create the clay mineral kaolinite (Al2Si2O5[OH]4).\n\nWeathering of limestone due to Carbonic acid\n\nCaCO3 + H2CO3 \\(\\rightarrow\\) Ca(HCO3)2 (dissolves in water)\nCaCO3 (Calcite mineral) present in limestone gets dissolved when carbonic acid falls on rocks leaving sites open for mechanical and biological weathering.\n\nThe quartz mineral is generally resistant to chemical weathering and remains unaltered."
   },
   {
-    "objectID": "lecture-4.html#heat-loss-in-leaves-due-to-cooler-air",
-    "href": "lecture-4.html#heat-loss-in-leaves-due-to-cooler-air",
+    "objectID": "lecture-6.html#chemical-weathering-of-potassium-feldspar",
+    "href": "lecture-6.html#chemical-weathering-of-potassium-feldspar",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Heat loss in leaves due to cooler air",
-    "text": "Heat loss in leaves due to cooler air\n\nWhen cool air pass over the leaves, the thermal energy is transferred to the air trough conduction and convection mechanisms.\nThe rate of energy transfer (by conduction) into the air depends on the gradient of temperature between the leaf and the air.\nThe rate of heat transfer also depends upon the surface area of the leaves which are in contact with the air.\n\n\n\n\n\n\n\n\n\n\nBeech leaf\n\n\n\n\n\n\n\nNorway spruce"
+    "section": "Chemical weathering of Potassium Feldspar",
+    "text": "Chemical weathering of Potassium Feldspar\nWeathering of Potassium Feldspars (KAlSi3O8) due to Carbonic acid to produce Kaolinite clay.\n\nWeathering of Potassium Feldspar"
   },
   {
-    "objectID": "lecture-4.html#heat-loss-in-leaves-due-to-cooler-air-1",
-    "href": "lecture-4.html#heat-loss-in-leaves-due-to-cooler-air-1",
+    "objectID": "lecture-6.html#example-of-chemical-weathering",
+    "href": "lecture-6.html#example-of-chemical-weathering",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Heat loss in leaves due to cooler air",
-    "text": "Heat loss in leaves due to cooler air\n\n\n\nLeuzinger and Körner (2007) showed that forest canopies play a major role in biosphere-atmosphere interactions.\nLarge surfaces, such as beech leaves, have stable layers of air moleculs comprising a thick boundary layer. This thick boundary layer slow down the energy transfer from leaves to air at large.\nSmall surfaces have thinner boundary layers. They allow fater transfer of thermal energy between leaves and air.\nThe thickness of boundary layer decreases with increase in wind speed.\n\n\n\n\n\nLeuzinger and Körner (2007)"
+    "section": "Example of chemical weathering",
+    "text": "Example of chemical weathering\n\nEroded karst topography in Minevre, France. Dissolution is also noteworthy for the special geological features it creates. In places with abundant carbonate bedrock, dissolution weathering can produce a karst topography characterized by sinkholes or caves"
   },
   {
-    "objectID": "lecture-4.html#references",
-    "href": "lecture-4.html#references",
+    "objectID": "lecture-6.html#biological-weathering",
+    "href": "lecture-6.html#biological-weathering",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "References",
-    "text": "References\n\n\n\n\nCrous, Kristine Y., Johan Uddling, and Martin G. De Kauwe. 2022. “Temperature Responses of Photosynthesis and Respiration in Evergreen Trees from Boreal to Tropical Latitudes.” New Phytologist 234 (2): 353–74. https://doi.org/10.1111/nph.17951.\n\n\nKashian, Daniel M., Donald R. Zak, Burton Verne Barnes, and Stephen H. Spurr. 2022. Forest Ecology. Fifth edition. Hoboken, NJ: Wiley.\n\n\nLeuzinger, Sebastian, and Christian Körner. 2007. “Tree Species Diversity Affects Canopy Leaf Temperatures in a Mature Temperate Forest.” Agricultural and Forest Meteorology 146 (1): 29–37. https://doi.org/10.1016/j.agrformet.2007.05.007.\n\n\nPan, Yude, Richard A. Birdsey, Oliver L. Phillips, and Robert B. Jackson. 2013. “The Structure, Distribution, and Biomass of the World’s Forests.” Annual Review of Ecology, Evolution, and Systematics 44 (November): 593–622. https://doi.org/10.1146/annurev-ecolsys-110512-135914.\n\n\nRunning, Steven W., Ramakrishna R. Nemani, Faith Ann Heinsch, Maosheng Zhao, Matt Reeves, and Hirofumi Hashimoto. 2004. “A Continuous Satellite-Derived Measure of Global Terrestrial Primary Production.” BioScience 54 (6): 547–60. https://doi.org/10.1641/0006-3568(2004)054[0547:ACSMOG]2.0.CO;2.\n\n\nSage, Rowan F., and David S. Kubien. 2007. “The Temperature Response of C3 and C4 Photosynthesis.” Plant, Cell & Environment 30 (9): 1086–106. https://doi.org/10.1111/j.1365-3040.2007.01682.x.\n\n\nSlot, Martijn, and Klaus Winter. 2017. “In Situ Temperature Response of Photosynthesis of 42 Tree and Liana Species in the Canopy of Two Panamanian Lowland Tropical Forests with Contrasting Rainfall Regimes.” New Phytologist 214 (3): 1103–17. https://doi.org/10.1111/nph.14469.\n\n\nVeintimilla, Dario, Marie Ange Ngo Bieng, Diego Delgado, Sergio Vilchez-Mendoza, Nelson Zamora, and Bryan Finegan. 2019. “Drivers of Tropical Rainforest Composition and Alpha Diversity Patterns over a 2,520 m Altitudinal Gradient.” Ecology and Evolution 9 (10): 5720–30. https://doi.org/10.1002/ece3.5155.\n\n\nWang, Zhiheng, James H. Brown, Zhiyao Tang, and Jingyun Fang. 2009. “Temperature Dependence, Spatial Scale, and Tree Species Diversity in Eastern Asia and North America.” Proceedings of the National Academy of Sciences 106 (32): 13388–92. https://doi.org/10.1073/pnas.0905030106."
+    "section": "Biological weathering",
+    "text": "Biological weathering\n\nBiological weathering can be a combination of both physical and chemical methods\nPhysical: Plant root enters crack in rock \\(\\rightarrow\\) pushes against rock causing weathering\n\nChemical: Plant root in rock dies \\(\\rightarrow\\) Microorganisms decompose roots \\(\\rightarrow\\) can lead to formation of organic acids \\(\\rightarrow\\) decompose rock\n\n\nBiological weathering due to plant rootsYou can read more about the biological weathering here"
   },
   {
-    "objectID": "lecture-2.html#learning-objectives",
-    "href": "lecture-2.html#learning-objectives",
+    "objectID": "lecture-6.html#summary-of-weathering",
+    "href": "lecture-6.html#summary-of-weathering",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Learning Objectives",
-    "text": "Learning Objectives\n\n\n\nIntroduction to ecosystems\nIntroduction to Forest ecosystems and their components\nIntroduction to Forest ecology\nThe nature of forests\n\n\n\n\n\nvickysharma0812.github.io/SFE"
+    "section": "Summary of weathering",
+    "text": "Summary of weathering\n\nWeathering takes place through a combination of physical, chemical and biological factors\nPhysical and biological factors help increase the exposed surface area of rock, thereby increasing surface area available for more chemical weathering to take place\n\n\nEach of these three groups of cubes has an equal volume. However, their surface areas are vastly different"
   },
   {
-    "objectID": "lecture-2.html#table-of-contents",
-    "href": "lecture-2.html#table-of-contents",
+    "objectID": "lecture-6.html#transportation-of-weathered-products",
+    "href": "lecture-6.html#transportation-of-weathered-products",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Table of contents",
-    "text": "Table of contents\n\nEcosystem\nEcology\nForest Ecosystem\nComponents of Forest Ecosystem\nForest ecology\nNature of forests"
+    "section": "Transportation of weathered products",
+    "text": "Transportation of weathered products\n\nErosion is a mechanical process, usually driven by water, gravity, wind, or ice that removes (or transport) sediment from the place of weathering.\nLiquid water is the main agent of erosion.\n\n\nGrand Canyon, Arizona, USA. The Colorado River has eroded the canyon over millions of years"
   },
   {
-    "objectID": "lecture-2.html#ecosystem",
-    "href": "lecture-2.html#ecosystem",
+    "objectID": "lecture-6.html#transportation-of-weathered-products-1",
+    "href": "lecture-6.html#transportation-of-weathered-products-1",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Ecosystem",
-    "text": "Ecosystem\n\n\n\n\n\n\n\nDefinition\n\n\nAn ecosystem is a community of living organisms (plants, animals, and microorganisms) interacting with their physical environment (soil, water, air) in a specific area.\n\n\n\n\n\n\n\n\n\n\n\nBiotic components\n\n\nThe living organisms in an ecosystem are called biotic components. They can include: Plants, animals, fungi, and microorganisms.\n\n\n\n\n\nLiving organisms interact with each other and their environment in various ways, such as through food chains, symbiotic relationships, and competition for resources.\n\n\n\n\n\n\n\n\nAbiotic components\n\n\nThe non-living elements in an ecosystem are called abiotic components. They include: Soil, water, air, sunlight, and climate. These components provide the necessary conditions for living organisms to thrive and interact with each other."
+    "section": "Transportation of weathered products",
+    "text": "Transportation of weathered products\n\nThe size of clastic sediment (pieces of broken rock and minerals) transported is directly proportional to the velocity of the speed of the transporting agent.\n\n\nSediment transportation processes"
   },
   {
-    "objectID": "lecture-2.html#ecosystem-1",
-    "href": "lecture-2.html#ecosystem-1",
+    "objectID": "lecture-6.html#soil",
+    "href": "lecture-6.html#soil",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Ecosystem",
-    "text": "Ecosystem\n\n\n\n\n\n\nEcosystems can be small (like a pond) or large (like a forest).\n\n\n\n\n\n\n\n\nSmall ecosystem: Pond ecosystem consists of fresh water system, lotus, algae, lilly, birds, frogs, toads, etc.\n\n\n\nA pond ecosystem is a freshwater ecosystem on which different living organisms depend for their survival and nutritional needs. Ponds, due to their light penetration, are capable of supporting a diverse range of water plants.\n\n\n\n\nBig ecosystem: Forest ecosystem"
+    "section": "Soil",
+    "text": "Soil\n\nUncemented aggregates of small grains (product of weathering) are called soils.\nSoil is a combination of air, water, minerals, and organic matter that forms at the transition between biosphere and geosphere.\nSoil is an important reservoir for organic components necessary for plants, animals, and microorganisms to live. The organic component of soil, called humus."
   },
   {
-    "objectID": "lecture-2.html#ecosystem-2",
-    "href": "lecture-2.html#ecosystem-2",
+    "objectID": "lecture-6.html#residual-and-transported-soils",
+    "href": "lecture-6.html#residual-and-transported-soils",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Ecosystem",
-    "text": "Ecosystem\n\n\n\n\n\n\nAn ecosystem can be natural (like a rainforest) or artificial (like a city park).\n\n\n\n\n\n\n\n\nA rainforest is an area of tall trees that receives a high amount of rainfall 1\n\n\n\n\n\n\nCity park ecosystem (source: https://www.archdaily.com/1006353/6-successful-city-park-projects-that-are-hotspots-for-biodiversity)\n\n\n\nhttps://education.nationalgeographic.org/resource/rain-forest/"
+    "section": "Residual and transported soils",
+    "text": "Residual and transported soils\nResidual Soils\n\nThe soil formed by the weathered products at their place of origin are called residual soils.\n\nTransported Soils\n\nThe products of weathering may stay in the same place or may be moved to other places by transport agencies like wind, water, and ice. The soils formed by the transported products are called transported soils."
   },
   {
-    "objectID": "lecture-2.html#ecosystem-3",
-    "href": "lecture-2.html#ecosystem-3",
+    "objectID": "lecture-6.html#transported-soils-1",
+    "href": "lecture-6.html#transported-soils-1",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Ecosystem",
-    "text": "Ecosystem\n\n\n\n\n\n\nEcosystems are dynamic and can change over time due to natural processes, disturbances, or human activities. Ecosystems are interconnected, meaning that changes in one ecosystem can affect other ecosystems.\n\n\n\n\n\n\n\n\nReintroduction of Gray wolves into Yellowstone National Park in 19951\n\n\n\nGray wolves were reintroduced into Yellowstone National Park in 1995, resulting in a trophic cascade through the entire ecosystem. This example offers a well-documented case of how the reintroduction of a single species can trigger a chain reaction of ecological changes, demonstrating the interconnected and dynamic nature of ecosystems.\n\n\n\n\n\nGray wolves2\n\n\n\nhttps://earthjustice.org/feature/infographic-wolves-keep-yellowstone-in-the-balancehttps://www.nationalparks.org/news-and-updates/updates/reintroducing-wolves-to-yellowstone-national-park"
+    "section": "Transported soils",
+    "text": "Transported soils\n\nGlacial soils are formed by transportation and deposition of soil by glaciers.\nAlluvial soils are formed by transportation and deposition of soil by rivers and streams.\nAeolian soils are formed by the deposition of soil by wind.\nLacustrine soils are formed by the deposition of soil in lakes.\nMarine soils are formed by the deposition of soil in oceans and seas."
   },
   {
-    "objectID": "lecture-2.html#ecosystem-4",
-    "href": "lecture-2.html#ecosystem-4",
+    "objectID": "lecture-6.html#soil-particle-size",
+    "href": "lecture-6.html#soil-particle-size",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Ecosystem",
-    "text": "Ecosystem\n\n\n\n\n\n\nNote\n\n\nEcosystems are characterized by their structure (the physical components) and function (the processes that occur within them).\n\n\n\n\n\nStructure\n\nBiotic components:\n\nProducers: Algae, aquatic plants\nConsumers: Insects, fish, frogs\nDecomposers: Bacteria, fungi\n\nAbiotic components:\n\nWater, sunlight, dissolved oxygen, nutrients, temperature\n\n\n\nFunctions\n\nPhotosynthesis by algae and aquatic plants\nNutrient cycling, as decomposers break down dead organisms and release nutrients back into the water\nEnergy flow, from sunlight to producers, and through various levels of consumers (e.g., fish eating insects)\nOxygen production and consumption, through photosynthesis and respiration"
+    "section": "Soil-Particle Size",
+    "text": "Soil-Particle Size\n\n\n\n\n\n\nThe size of the particles is an important factor in determining the engineering properties of the soil.\n\n\n\n\nSoils contains particles of different sizes. Based on the particle size, soils can be classified into gravel, sand, silt, and clay.\n\n\n\n\n\n\n\nSeveral world organisations have developed their own classification systems for soils. The most widely used system is the Unified Soil Classification System (USCS)."
   },
   {
-    "objectID": "lecture-2.html#ecosystem-5",
-    "href": "lecture-2.html#ecosystem-5",
+    "objectID": "lecture-6.html#soil-particle-size-1",
+    "href": "lecture-6.html#soil-particle-size-1",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Ecosystem",
-    "text": "Ecosystem\n\n\n\n\n\n\n\nTansely’s Ecosystem\n\n\nThe British botanist-ecologist Arthur Tansely (1935) introduced the term “ecosystem”. He emphasis on combining both the organism and their environment to describe the complex interactions between living organisms and their physical environment.\n\n\n\n\n\n\n\n\n\nArthur Tansely\n\n\n\n\nTansely’s idea of the ecosystem was centered on the organism, species or community rather than geographic or landscape entities\nIn his approach every organism defines its own ecosystem. In this way, there are nearly infinite numbers of ecosystems. And it is difficult to study such systems.\nOn the other hand, Rowe(1961), Troll (1968), view ecosystem centered on geographic or landscape unit. Organisms are important components oof landscape ecosystem. In this waay, when we study landscape ecosystem, it is implied that organisms, species, and communities are part of such system."
+    "section": "Soil-Particle Size",
+    "text": "Soil-Particle Size\n\n\n\n\n\n\n\n\n\n\nOrganization / Standard\nClay\nSilt\nSand\nGravel\n\n\n\n\nUSDA\n&lt; 0.002 mm\n0.002 – 0.05 mm\n0.05 – 2.0 mm\nNot defined\n\n\nUSCS\n&lt; 0.002 mm\n0.002 – 0.075 mm\n0.075 – 4.75 mm\n4.75 – 76 mm\n\n\nAASHTO\n&lt; 0.002 mm\n0.002 – 0.075 mm\n0.075 – 2.0 mm\n2.0 – 75 mm\n\n\n\n\nUSDA: United States Department of Agriculture\nUSCS: Unified Soil Classification System\nAASHTO: American Association of State Highway and Transportation Officials"
   },
   {
-    "objectID": "lecture-2.html#ecology",
-    "href": "lecture-2.html#ecology",
+    "objectID": "lecture-6.html#usda-soil-classification",
+    "href": "lecture-6.html#usda-soil-classification",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Ecology",
-    "text": "Ecology\n\n\n\n\n\n\n\n\n\nDefinition\n\n\nEcology is the scientific study of “ecosystems” and their interacting biotic and abiotic components, that is, the interactions between living organisms and their environment, including the relationships among organisms and their physical surroundings.\n\n\n\n\n\nIn ecology, the terms organism, species, population, and community represent hierarchical levels of biological organization, each reflecting a different scale of interaction within the natural world.\n\n\n\n\n\nOrganism, species, population, community"
+    "section": "USDA soil classification",
+    "text": "USDA soil classification\n\nUSDA soil classification"
   },
   {
-    "objectID": "lecture-2.html#organism",
-    "href": "lecture-2.html#organism",
+    "objectID": "lecture-6.html#soil-and-soil-profile-soil-texture",
+    "href": "lecture-6.html#soil-and-soil-profile-soil-texture",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Organism",
-    "text": "Organism\n\n\n\n\n\n\n\nDefinition\n\n\nAn organism is an individual living entity that carries out all basic life functions, such as metabolism, reproduction, growth, and response to stimuli.\n\n\n\n\n\n\nCharacteristics:\n\nAll organisms are made up of one (unicellular) or more cells (multicellular).\nThey can carry out chemical reactions to obtain energy and nutrients from their environment.\nThey can grow and develop over time, following specific patterns and stages.\nThey can reproduce to create new individuals, either sexually or asexually.\nThey can respond to changes in their environment, such as light and temperature.\n\nExamples:\n\nA single tree, such as a red maple, is an organism.\nA deer, a bird, or a mushroom is also an organism.\nUnicelluar : A bacterium"
+    "section": "Soil and soil profile: Soil texture",
+    "text": "Soil and soil profile: Soil texture\n\nSoil Texture refers to relative proportion of silt, sand and clay particles in soil.\nInfluences soil porosity, permeability, shrink-swell rate, water retention capacity and susceptibility to erosion.\n\n\nSoil texture triangle"
   },
   {
-    "objectID": "lecture-2.html#species",
-    "href": "lecture-2.html#species",
+    "objectID": "lecture-6.html#learn-how-to-read-soil-texture-triangle",
+    "href": "lecture-6.html#learn-how-to-read-soil-texture-triangle",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Species",
-    "text": "Species\n\n\n\n\n\n\n\nDefinition\n\n\nA species is a group of organisms that are genetically similar and are capable of interbreeding under natural conditions to produce fertile offspring.\n\n\n\n\n\n\nExamples of species include:\n\nRed maple (Acer rubrum): A common tree species found in North America, known for its vibrant red leaves in the fall.\nWhite oak (Quercus alba) 白樫の木 (Shirakashi no ki): A large deciduous tree species native to eastern and central North America, valued for its strong wood and acorns.\nRed oak (Quercus rubra) 赤い樫の木 (Akai kashi no ki or Akagashi): A fast-growing tree species native to North America, known for its distinctive red leaves in the fall and valuable timber.\nThere are more than 500 species of oak trees across the world source.\n\n\n\n\n\nWhite oak tree"
+    "section": "Learn how to read soil texture triangle",
+    "text": "Learn how to read soil texture triangle"
   },
   {
-    "objectID": "lecture-2.html#population",
-    "href": "lecture-2.html#population",
+    "objectID": "lecture-6.html#soil-profile",
+    "href": "lecture-6.html#soil-profile",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Population",
-    "text": "Population\n\n\n\n\n\n\n\nDefinition\n\n\nA population is a group of individuals of the same species that live in a specific area and interact with each other. For example, all the white oak trees in a forest make up a population.\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhite oak tree population\n\n\n\n\n\n\n\nRed oak tree population"
+    "section": "Soil profile",
+    "text": "Soil profile\n\n\n\nO Horizon: The top horizon is a thin layer of predominantly organic material, such as leaves, twigs, and other plant parts that are actively decaying into humus.\nA Horizon: The next layer, called topsoil, consists of humus mixed with mineral sediment. As precipitation soaks down through this layer, it leaches out soluble chemicals. In wet climates with heavy precipitation this leaching out produces a separate layer called horizon E, the leaching or eluviation zone.\n\n\n\n\n\nSoil profile"
   },
   {
-    "objectID": "lecture-2.html#community",
-    "href": "lecture-2.html#community",
+    "objectID": "lecture-6.html#soil-profile-1",
+    "href": "lecture-6.html#soil-profile-1",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Community",
-    "text": "Community\n\n\n\n\n\n\n\nDefinition\n\n\nA community is a group of different populations of organisms that live together in a specific area and interact with each other. For example, a forest community may include red maple trees, oak trees, deer, squirrels, and various fungi and microorganisms."
+    "section": "Soil profile",
+    "text": "Soil profile\n\n\n\nB Horizon: Also called subsoil, this layer consists of sediment mixed with humus removed from the upper layers. The subsoil is where mineral sediment is chemically weathered. The amount of organic material and degree of weathering decrease with depth. The upper subsoil zone, called regolith, is a porous mixture of humus and highly weathered sediment. In the lower zone, saprolite, scant organic material is mixed with largely unaltered parent rock.\nC Horizon: This is substratum and is a zone of mechanical weathering. Here, bedrock fragments are physically broken but not chemically altered. This layer contains no organic material.\nR Horizon: The final layer consists of unweathered, parent bedrock and fragments.\n\n\n\n\n\nSoil profile"
   },
   {
-    "objectID": "lecture-2.html#forest",
-    "href": "lecture-2.html#forest",
+    "objectID": "lecture-6.html#sand-and-silt",
+    "href": "lecture-6.html#sand-and-silt",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Forest",
-    "text": "Forest\n\n\n\n\n\n\n\nDefinition\n\n\nA forest is a three-dimensional ecological system mainly dominated by trees, woody vegetation, and herbaceous plants that exist in dynamic interaction with the air-earth matrix of the landscape. It is a complex ecosystem characterized by a layered structure of functional parts.\n\n\n\n\n\n\n\n\n\n\n\n\n\nForest ecosystem\n\n\n\n\n\n\n\nLayered structure of a forest ecosystem"
+    "section": "Sand and silt",
+    "text": "Sand and silt\n\nSand and silt sized particles are chemically identical to parent material (rock minerals) from which they originate (they are also called primary minerals)\nRound or irregular in shape, composed primarily of quartz (SiO2) or other silicate minerals like orthoclase (KAlSiO3) or plagioclase \\(([Ca,Na][Al,Si]AlSi_{2}O_{8})\\).\nDue to their size and shape, sand has low surface areas (1-2 m2/gm)and large pores.\nGood aeration and permeability characteristics, but poor water holding capacity.\nSilt-sized particles have higher surface areas (45 m2/gm) and can hold relatively larger quantities of water as compared to sand."
   },
   {
-    "objectID": "lecture-2.html#forest-ecosystem",
-    "href": "lecture-2.html#forest-ecosystem",
+    "objectID": "lecture-6.html#clay",
+    "href": "lecture-6.html#clay",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Forest Ecosystem",
-    "text": "Forest Ecosystem\n\n\n\n\n\n\n\nDefinition\n\n\nA forest ecosystem is a complex network of living organisms (plants, animals, fungi, and microorganisms) and their physical environment (soil, water, air) that interact with each other in a specific forested area. Forest ecosystems can vary widely in terms of species composition, structure, and function.\n\n\n\n\n\n\n\n\n\n\n\n\n\nLayered structure of a forest ecosystem\n\n\n\n\n\n\n\nVertical Layers of forest\n\n\n\n\n\n\nOur definition of forest ecosystem emphasis its structurally layered and volumetric nature. According to this definition, we should emphasize the importance of geography and physiography within a regional climatic setting to understand the vegetation type, ecosystem structure and function. The forest ecosystem is spatial in nature and is not just the extension of the biotic community."
+    "section": "Clay",
+    "text": "Clay\n\nClay is comprised of secondary minerals which result from physical and chemical weathering of primary minerals\nMinerals form plate-like structures or micelles.\nVery high surface area (80-800 m2/gm)\nVery high water retention capacity.\n\n\n\n\nBased on crystalline arrangement, they can be divided into three main groups, all containing hydrous aluminosilicates with other metallic ions\n\nKaolinite – (OH)4.Al2Si2O5\nMontmorillonite – (OH)4.Al4SigO20.nH2O\nIllite – (OH)4Ky(Sig-yAly)(Al4.Mg6.Fe4.Fe6) O20\n\nClay minerals have many crystal sheets which have a repeating atomic structure.\n\n\n\n\n\nKaolinite"
   },
   {
-    "objectID": "lecture-2.html#components-of-forest-ecosystem",
-    "href": "lecture-2.html#components-of-forest-ecosystem",
+    "objectID": "lecture-6.html#diffused-double-layer",
+    "href": "lecture-6.html#diffused-double-layer",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Components of Forest-Ecosystem",
-    "text": "Components of Forest-Ecosystem\n\nThe main components of a forest ecosystem include biotic and abiotic components.\n\n\n\n\n\n\n\nBiotic components: living organisms such as trees, shrubs, animals, fungi, and microorganisms.\n\n\n\n\n\n\n\n\n\n\n\n\nTree\n\n\n\n\n\n\n\nShrubs\n\n\n\n\n\n\n\nAnimals\n\n\n\n\n\n\n\nFungi\n\n\n\n\n\n\n\nBacteria"
+    "section": "Diffused double layer",
+    "text": "Diffused double layer\n\n\n\nSurface of clay mineral is negatively charged.\nWater is attracted to clay surface through: Dipole attraction, Hydrogen bond, Cation attraction\nWater forms a layer of strongly adsorbed water on clay mineral surface and an outer layer attracted to a lesser degree that is more mobile.\nAll water attracted to clay particles in these two layers is known as diffuse double layer.\n\n\n\n\n\nIllustration of double diffused layer"
   },
   {
-    "objectID": "lecture-2.html#components-of-forest-ecosystem-1",
-    "href": "lecture-2.html#components-of-forest-ecosystem-1",
+    "objectID": "lecture-6.html#soil-organic-matter",
+    "href": "lecture-6.html#soil-organic-matter",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Components of Forest-Ecosystem",
-    "text": "Components of Forest-Ecosystem\n\nAbiotic components: non-living elements such as soil, water, air, climate, and fire.\n\n\n\n\n\n\n\n\n\n\nSoil\n\n\n\n\n\n\n\nWater\n\n\n\n\n\n\n\nAir (Kaze no mori)\n\n\n\n\n\n\n\nClimate\n\n\n\n\n\n\n\nFire\n\n\n\n\n\n\n\n\n\n\n\nEnergy flow: the transfer of energy through the ecosystem, primarily from the sun to plants (producers) and then to consumers (herbivores and carnivores)."
+    "section": "Soil organic matter",
+    "text": "Soil organic matter\n\nSoil organic matter: undecomposed, partially decomposed or highly decomposed litter (leaves, twigs, dead roots etc.).\nFunctions as cementing agents, binding soil particles together to form aggregates.\nAggregate formation impacts available pore space and can increase the water holding capacity of sandy soils.\nHumus (highly decomposed organic matter) can have a net negative charge on the surface and has a high cation exchange capacity thereby influencing nutrient availability.\nHome of microbial populations in soil."
   },
   {
-    "objectID": "lecture-2.html#emergent-layer",
-    "href": "lecture-2.html#emergent-layer",
+    "objectID": "lecture-6.html#cation-exchange-capacity-cec",
+    "href": "lecture-6.html#cation-exchange-capacity-cec",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Emergent Layer",
-    "text": "Emergent Layer\n\n\n\nEmergent layer: the highest layer, consisting of a few tall trees that rise above the canopy.\nExposed to full sunlight, high winds, and temperature fluctuations.\nTrees have thick trunks, buttressed roots, and small, waxy leaves to reduce water loss.\nThese trees play a role in modulating the forest’s microclimate and act as habitats for species that require direct sunlight or high nesting sites.\n\n\n\n\n\nLayers of a forest ecosystem"
+    "section": "Cation exchange capacity (CEC)",
+    "text": "Cation exchange capacity (CEC)\n\nCEC represents the total amount of cations that can be adsorbed by a kilogram of soil.\nCations in soil solution exist in equilibrium with cations adsorbed at cation exchange sites on clay micelles or sandy soil + organic matter.\nPlants assimilate cations from soil solution \\(\\rightarrow\\) cations adsorbed to clay are released to soil solution.\nAdsorbed cations are a “reservoir” of soil nutrients.\nIn general, cations with a larger positive charge are more strongly held.\nCations in order of decreasing affinity for exchange sites: Al3+ &gt; Ca2+ &gt; Mg2+ &gt; NH+4 &gt; K+ &gt; H+ &gt; Na+\nWeakly held ions like K+ and NH4+ are more available for plant growth.\nCEC General measure of plant nutrient availability."
   },
   {
-    "objectID": "lecture-2.html#canopy-layer",
-    "href": "lecture-2.html#canopy-layer",
+    "objectID": "lecture-6.html#soil-acidity",
+    "href": "lecture-6.html#soil-acidity",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Canopy Layer",
-    "text": "Canopy Layer\n\n\n\nThe uppermost continuous layer formed by the crowns of the majority of mature trees.\nThis is the primary layer of the forest where the majority of photosynthesis occurs.\nIt has dense, interlocking tree crowns.\nRegulates light penetration to lower layers.\nServes as a shield from heavy rainfall and direct sunlight.\n\n\n\n\n\nLayers of a forest ecosystem"
+    "section": "Soil acidity",
+    "text": "Soil acidity\n\nSources of acidity: i.e. H+ ions\n\nRespiration by roots and microorganisms producing CO2, which dissolves in water to form H2CO3.\nDecomposition of organic matter: fluvic acids and humic acids.\nHuman activities: acid rain (HNO3 and H2SO4)\n\nWhen soil becomes acidic \\(\\rightarrow\\)\n\nweathering of soil minerals \\(\\rightarrow\\)\nreleases base cations \\(\\rightarrow\\)\nreplace H\\(^{+}\\) ions at the cation exchange sites (base exchange) \\(\\rightarrow\\)\nH\\(^{+}\\) ions enter soil solution and are easily leached away, reducing acidity."
   },
   {
-    "objectID": "lecture-2.html#understory-layer",
-    "href": "lecture-2.html#understory-layer",
+    "objectID": "lecture-6.html#soil-acidity-1",
+    "href": "lecture-6.html#soil-acidity-1",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Understory Layer",
-    "text": "Understory Layer\n\n\n\nBeneath the canopy and above the forest floor.\nComposed of smaller trees, shrubs, and young saplings.\nPlants here often have large leaves to capture scarce light.\nInsects, snakes, small mammals, amphibians, and shade-tolerant plants.\nServes as a nursery for juvenile trees and provides habitat for a range of fauna adapted to low-light conditions.\n\n\n\n\n\nLayers of a forest ecosystem"
-  },
-  {
-    "objectID": "lecture-2.html#forest-floor-layer",
-    "href": "lecture-2.html#forest-floor-layer",
-    "title": "Sustainable Forest Environment (SFE)",
-    "section": "Forest Floor Layer",
-    "text": "Forest Floor Layer\n\n\n\nLocation: The bottom layer of vegetation, lying directly above the soil.\nDescription: Receives less than 2% of sunlight and is dominated by decaying organic matter.\nCharacteristics:\n\nDark, humid, and nutrient-rich.\nRapid decomposition due to warm and moist conditions.\n\nExamples of Life:\n\nFungi, bacteria, decomposers, insects, and ground-dwelling animals like tapirs or wild boars.\n\nEcological Role: Critical for nutrient cycling, decomposition, and seed germination.\n\n\n\n\n\nLayers of a forest ecosystem"
-  },
-  {
-    "objectID": "lecture-2.html#soil-layer",
-    "href": "lecture-2.html#soil-layer",
-    "title": "Sustainable Forest Environment (SFE)",
-    "section": "Soil Layer",
-    "text": "Soil Layer\n\n\n\nSoil is the foundation of the forest ecosystem, providing nutrients and support for plant growth.\nLocation: Beneath the forest floor.\nDescription: Consists of organic, inorganic materials (minerals), water and air.\nCharacteristics:\n\nContains roots of plants, microorganisms, minerals, and decaying matter.\nInfluences water retention, nutrient availability, and root penetration.\n\nEcological Role: Serves as the foundation of plant life, supporting root systems and microbial ecosystems essential for forest health.\n\n\n\n\n\nLayers of a forest ecosystem"
-  },
-  {
-    "objectID": "lecture-2.html#water-components",
-    "href": "lecture-2.html#water-components",
-    "title": "Sustainable Forest Environment (SFE)",
-    "section": "Water Components",
-    "text": "Water Components\n\nWater is essential for all living organisms including plants, .\nLocation: Water is found in various forms within the forest ecosystem, including rivers, streams, and groundwater\nDescription: May occur at or below the surface depending on topography and hydrology.\nCharacteristics:\n\nSupports aquatic and semi-aquatic species.\nInteracts with soil and vegetation layers through moisture transfer.\n\nEcological Role: Maintains humidity, supports biodiversity, and regulates nutrient transport."
-  },
-  {
-    "objectID": "lecture-2.html#other-components-layers-of-a-forest-ecosystem",
-    "href": "lecture-2.html#other-components-layers-of-a-forest-ecosystem",
-    "title": "Sustainable Forest Environment (SFE)",
-    "section": "Other components (layers) of a forest ecosystem",
-    "text": "Other components (layers) of a forest ecosystem\n\nClimate: the long-term weather patterns in a region, including temperature, precipitation, and humidity. Climate influences the types of plants and animals that can thrive in a forest ecosystem.\nMicroclimates: small-scale variations in climate within the forest, such as shaded areas, moist spots, or sunny clearings. These microclimates can support different plant and animal species.\nBiodiversity: the variety of species present in a forest ecosystem, including plants, animals, fungi, and microorganisms. High biodiversity contributes to ecosystem stability and resilience."
-  },
-  {
-    "objectID": "lecture-2.html#keypoints-about-the-forest-ecosystem",
-    "href": "lecture-2.html#keypoints-about-the-forest-ecosystem",
-    "title": "Sustainable Forest Environment (SFE)",
-    "section": "Keypoints about the forest ecosystem",
-    "text": "Keypoints about the forest ecosystem\n\nOur definition of forest ecosystem emphasizes its structurally layered and volumetric nature.\nAccording to this definition, we should emphasize the importance of geography and physiography within a regional climatic setting to understand the vegetation type, ecosystem structure, and function.\nThe forest ecosystem is spatial in nature; they have both the horizontal and vertical structures.\nThe forests are not just the extension of the biotic community.\n\n\n\n\n\n\n\n\nRowe (1989, p.229)\n\n\nOrganisms do not stand on their own: they evolve and exist in the context of ecological systems that confer those properties called life. The panda is part of the mountain bamboo-forest ecosystem and can only be preserved as such. The polar bear is a vital part of the Artic marine ecosystem and will not survive without it. Ducks are creatures born of marshes. Biology without its ecological context is dead."
-  },
-  {
-    "objectID": "lecture-2.html#major-types-of-forests",
-    "href": "lecture-2.html#major-types-of-forests",
-    "title": "Sustainable Forest Environment (SFE)",
-    "section": "Major types of forests",
-    "text": "Major types of forests\nForests are broadly categorized into different types depending on climatic conditions, latitude, and dominant vegetation. The three primary types are\n\n\n\n\n\n\n\n\n\nTropical forests\n\n\n\n\n\n\n\nTemperate\n\n\n\n\n\n\n\nBoreal forests"
-  },
-  {
-    "objectID": "lecture-2.html#tropical-forests",
-    "href": "lecture-2.html#tropical-forests",
-    "title": "Sustainable Forest Environment (SFE)",
-    "section": "Tropical forests",
-    "text": "Tropical forests\n\nLocation: Near the equator, primarily in regions of Central and South America, Central Africa, Southeast Asia, and Oceania. 10°N to 10°S latitude.\nClimate: Hot and humid throughout the year with high rainfall.\n\n\n\n\n\n\nDistribution of Tropical Rainforests (source: UN FRA2000 report)\n\n\n\n\nThey are a subset of the tropical forest biome that occurs roughly within the 28° latitudes (between the Tropic of Cancer, 23°N, and Tropic of Capricorn, 23°S )\nTropical rainforests ecosystems are distinguished by their consistent, high temperatures, exceeding 18 °C monthly, and substantial annual rainfall.\nVegetation: Dense, multi-layered with broadleaf evergreen trees.\nBiodiversity: Highest species richness of all forest types, including numerous endemic species.\nEcological Importance: Crucial for global carbon sequestration, climate regulation, and genetic resources.\nStructure: Emergent layer, canopy layer, understory layer, and forest floor layer. Soil is nutrient-poor and acidic due to rapid decomposition and leaching."
-  },
-  {
-    "objectID": "lecture-2.html#temperate-forests",
-    "href": "lecture-2.html#temperate-forests",
-    "title": "Sustainable Forest Environment (SFE)",
-    "section": "Temperate forests",
-    "text": "Temperate forests\n\nLocation: Mid-latitudes of North America, Europe, East Asia, and parts of the Southern Hemisphere. These forests cover both hemispheres at latitudes ranging from 25 to 50 degrees. These forests are found between the tropical and boreal regions.\nClimate: The climate of a temperate forest is highly variable depending on the location of the forest. Moderate temperatures with distinct seasons, including cold winters and warm summers. Rainfall is well-distributed.\n\n\n\n\n\n\nDistribution of temperate forests(source: UN FRA2000 report)\n\n\n\n\nVegetation:\n\nDeciduous forests: Trees shed leaves in autumn (e.g., oak, maple).\nEvergreen forests: Include conifers like pine and fir.\n\nBiodiversity: Moderate; includes a mix of herbivores, carnivores, and migratory birds.\nEcological Importance: Support important watersheds and timber production."
-  },
-  {
-    "objectID": "lecture-2.html#deciduous-temperate-forests",
-    "href": "lecture-2.html#deciduous-temperate-forests",
-    "title": "Sustainable Forest Environment (SFE)",
-    "section": "Deciduous temperate forests",
-    "text": "Deciduous temperate forests\n\nDeciduous temperate forests: Trees shed leaves in autumn (e.g., oak, maple).\nThey are found in Europe, East Asia, North America, and in some parts of South America.\nDeciduous forests are composed mainly of broadleaf trees.\n\n\n\n\n\n\nRed oak tree\n\n\n\n\n\n\nRed maple tree"
-  },
-  {
-    "objectID": "lecture-2.html#coniferous-temperate-forests",
-    "href": "lecture-2.html#coniferous-temperate-forests",
-    "title": "Sustainable Forest Environment (SFE)",
-    "section": "Coniferous temperate forests",
-    "text": "Coniferous temperate forests\n\nConiferous forests are composed of needle-leaved evergreen trees, such as pine or fir.\nEvergreen forests are typically found in regions with moderate climates.\nThey often have an advantage over broadleaf trees in harsher environments. Their leaves are typically hardier and longer lived but require more energy to grow.\n\n\n\n\n\n\nWestern Himalayan subalpine conifer forests\n\n\n\n\n\n\nLeaves of coniferous tree"
-  },
-  {
-    "objectID": "lecture-2.html#boreal-forests",
-    "href": "lecture-2.html#boreal-forests",
-    "title": "Sustainable Forest Environment (SFE)",
-    "section": "Boreal forests",
-    "text": "Boreal forests\n\nBoreal forests, also known as taiga, are found in the northern regions (high latitudes) of North America, Europe, and Asia.\nClimate: Long, cold winters and short, mild summers; relatively low precipitation.\nDominated by coniferous trees such as spruce, pine, and fir.\nLower species diversity; adapted to cold environments.\n\n\n\n\n\n\nDistribution of Boreal forests\n\n\n\n\n\n\nWhite spruce taiga in Alaska Range, USA"
+    "section": "Soil acidity",
+    "text": "Soil acidity\n\nAfter long periods of time \\(\\rightarrow\\)\n\nsoil can no longer provide base cations \\(\\rightarrow\\)\nH\\(^{+}\\) ions accumulate \\(\\rightarrow\\)\nsoil pH decreases \\(\\rightarrow\\)\nAt pH &lt; 4, Al3+ + H2O ⇌ AlOH2- + H+ \\(\\rightarrow\\)\nMore H+ ions are produced, making soil more acidic \\(\\rightarrow\\) adsorbed Al enters soil solution.\n\nHigh Al\\(^{3+}\\) concentrations can kill roots, reduce root growth and interfere in the functioning of cell membrane of plants.\nPercent base saturation: Proportion of cation exchange sites occupied by Ca\\(^{2+}\\), Mg\\(^{2+}\\), K\\(^{+}\\) and Na\\(^{+}\\) ions."
   },
   {
     "objectID": "lecture-3.html#learning-objectives",
@@ -1134,326 +1113,396 @@
     "text": "Next lecture: Mechanisms of Root-Mycorrhizae symbiosis\n\nMcMurtrie and Näsholm (2018)\n\n\n\n\n\nAdair, E. Carol, and Dan Binkley. 2002. “Co-Limitation of First Year Fremont Cottonwood Seedlings by Nitrogen and Water.” Wetlands 22 (2): 425–29. https://doi.org/10.1672/0277-5212(2002)022[0425:CLOFYF]2.0.CO;2.\n\n\nBonfante, Paola, and Andrea Genre. 2010. “Mechanisms Underlying Beneficial Plant–Fungus Interactions in Mycorrhizal Symbiosis.” Nature Communications 1 (1): 48. https://doi.org/10.1038/ncomms1046.\n\n\nCavaleri, Molly A., Steven F. Oberbauer, David B. Clark, Deborah A. Clark, and Michael G. Ryan. 2010. “Height Is More Important Than Light in Determining Leaf Morphology in a Tropical Forest.” Ecology 91 (6): 1730–39. https://doi.org/10.1890/09-1326.1.\n\n\nChristina, M., J.-P. Laclau, J. L. M. Gonçalves, C. Jourdan, Y. Nouvellon, and J.-P. Bouillet. 2011. “Almost Symmetrical Vertical Growth Rates Above and Below Ground in One of the World’s Most Productive Forests.” Ecosphere 2 (3): art27. https://doi.org/10.1890/ES10-00158.1.\n\n\nCoble, Adam P., Alisha Autio, Molly Cavaleri, Dan Binkley, and Michael G. Ryan. 2014. “Converging Patterns of Vertical Variability in Leaf Morphology and Nitrogen Across Seven Eucalyptus Plantations in Brazil and Hawaii, USA.” Trees - Structure and Function 28 (1): 1–15. https://doi.org/10.1007/s00468-013-0925-6.\n\n\nGenre, Andrea, Luisa Lanfranco, Silvia Perotto, and Paola Bonfante. 2020. “Unique and Common Traits in Mycorrhizal Symbioses.” Nature Reviews Microbiology 18 (11): 649–60. https://doi.org/10.1038/s41579-020-0402-3.\n\n\nHartmann, Henrik, and Susan Trumbore. 2016. “Understanding the Roles of Nonstructural Carbohydrates in Forest Trees – from What We Can Measure to What We Want to Know.” New Phytologist 211 (2): 386–403. https://doi.org/10.1111/nph.13955.\n\n\nKirschner, Gwendolyn K., Ting Ting Xiao, and Ikram Blilou. 2021. “Rooting in the Desert: A Developmental Overview on Desert Plants.” Genes 12 (5, 5): 709. https://doi.org/10.3390/genes12050709.\n\n\nKoch, George W., Stephen C. Sillett, Gregory M. Jennings, and Stephen D. Davis. 2004. “The Limits to Tree Height.” Nature 428 (6985): 851–54. https://doi.org/10.1038/nature02417.\n\n\nKucbel, Stanislav, Peter Jaloviar, and Jozef Špišák. 2011. “Quantity, Vertical Distribution and Morphology of Fine Roots in Norway Spruce Stands with Different Stem Density.” Plant Root 5: 46–55. https://doi.org/10.3117/plantroot.5.46.\n\n\nMcMurtrie, Ross E., and Torgny Näsholm. 2018. “Quantifying the Contribution of Mass Flow to Nitrogen Acquisition by an Individual Plant Root.” New Phytologist 218 (1): 119–30. https://doi.org/10.1111/nph.14927.\n\n\nMolina, Juan Ramón, Cristina Prades, Ángel Lora, and Francisco Rodríguez y Silva. 2018. “Quercus Suber Cork as a Keystone Trait for Fire Response: A Flammability Analysis Using Bench and Field Scales.” Forest Ecology and Management 429 (December): 384–93. https://doi.org/10.1016/j.foreco.2018.07.041.\n\n\nRäim, O., E. Kaurilind, L. Hallik, and E. Merilo. 2012. “Why Does Needle Photosynthesis Decline with Tree Height in Norway Spruce?” Plant Biology 14 (2): 306–14. https://doi.org/10.1111/j.1438-8677.2011.00503.x."
   },
   {
-    "objectID": "lecture-6.html#learning-objectives",
-    "href": "lecture-6.html#learning-objectives",
+    "objectID": "lecture-2.html#learning-objectives",
+    "href": "lecture-2.html#learning-objectives",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\n\n\n\nIntroduction to ecosystems\nIntroduction to Forest ecosystems and their components\nIntroduction to Forest ecology\nThe nature of forests\n\n\n\n\n\nvickysharma0812.github.io/SFE"
+  },
+  {
+    "objectID": "lecture-2.html#table-of-contents",
+    "href": "lecture-2.html#table-of-contents",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Table of contents",
+    "text": "Table of contents\n\nEcosystem\nEcology\nForest Ecosystem\nComponents of Forest Ecosystem\nForest ecology\nNature of forests"
+  },
+  {
+    "objectID": "lecture-2.html#ecosystem",
+    "href": "lecture-2.html#ecosystem",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Ecosystem",
+    "text": "Ecosystem\n\n\n\n\n\n\n\nDefinition\n\n\nAn ecosystem is a community of living organisms (plants, animals, and microorganisms) interacting with their physical environment (soil, water, air) in a specific area.\n\n\n\n\n\n\n\n\n\n\n\nBiotic components\n\n\nThe living organisms in an ecosystem are called biotic components. They can include: Plants, animals, fungi, and microorganisms.\n\n\n\n\n\nLiving organisms interact with each other and their environment in various ways, such as through food chains, symbiotic relationships, and competition for resources.\n\n\n\n\n\n\n\n\nAbiotic components\n\n\nThe non-living elements in an ecosystem are called abiotic components. They include: Soil, water, air, sunlight, and climate. These components provide the necessary conditions for living organisms to thrive and interact with each other."
+  },
+  {
+    "objectID": "lecture-2.html#ecosystem-1",
+    "href": "lecture-2.html#ecosystem-1",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Ecosystem",
+    "text": "Ecosystem\n\n\n\n\n\n\nEcosystems can be small (like a pond) or large (like a forest).\n\n\n\n\n\n\n\n\nSmall ecosystem: Pond ecosystem consists of fresh water system, lotus, algae, lilly, birds, frogs, toads, etc.\n\n\n\nA pond ecosystem is a freshwater ecosystem on which different living organisms depend for their survival and nutritional needs. Ponds, due to their light penetration, are capable of supporting a diverse range of water plants.\n\n\n\n\nBig ecosystem: Forest ecosystem"
+  },
+  {
+    "objectID": "lecture-2.html#ecosystem-2",
+    "href": "lecture-2.html#ecosystem-2",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Ecosystem",
+    "text": "Ecosystem\n\n\n\n\n\n\nAn ecosystem can be natural (like a rainforest) or artificial (like a city park).\n\n\n\n\n\n\n\n\nA rainforest is an area of tall trees that receives a high amount of rainfall 1\n\n\n\n\n\n\nCity park ecosystem (source: https://www.archdaily.com/1006353/6-successful-city-park-projects-that-are-hotspots-for-biodiversity)\n\n\n\nhttps://education.nationalgeographic.org/resource/rain-forest/"
+  },
+  {
+    "objectID": "lecture-2.html#ecosystem-3",
+    "href": "lecture-2.html#ecosystem-3",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Ecosystem",
+    "text": "Ecosystem\n\n\n\n\n\n\nEcosystems are dynamic and can change over time due to natural processes, disturbances, or human activities. Ecosystems are interconnected, meaning that changes in one ecosystem can affect other ecosystems.\n\n\n\n\n\n\n\n\nReintroduction of Gray wolves into Yellowstone National Park in 19951\n\n\n\nGray wolves were reintroduced into Yellowstone National Park in 1995, resulting in a trophic cascade through the entire ecosystem. This example offers a well-documented case of how the reintroduction of a single species can trigger a chain reaction of ecological changes, demonstrating the interconnected and dynamic nature of ecosystems.\n\n\n\n\n\nGray wolves2\n\n\n\nhttps://earthjustice.org/feature/infographic-wolves-keep-yellowstone-in-the-balancehttps://www.nationalparks.org/news-and-updates/updates/reintroducing-wolves-to-yellowstone-national-park"
+  },
+  {
+    "objectID": "lecture-2.html#ecosystem-4",
+    "href": "lecture-2.html#ecosystem-4",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Ecosystem",
+    "text": "Ecosystem\n\n\n\n\n\n\nNote\n\n\nEcosystems are characterized by their structure (the physical components) and function (the processes that occur within them).\n\n\n\n\n\nStructure\n\nBiotic components:\n\nProducers: Algae, aquatic plants\nConsumers: Insects, fish, frogs\nDecomposers: Bacteria, fungi\n\nAbiotic components:\n\nWater, sunlight, dissolved oxygen, nutrients, temperature\n\n\n\nFunctions\n\nPhotosynthesis by algae and aquatic plants\nNutrient cycling, as decomposers break down dead organisms and release nutrients back into the water\nEnergy flow, from sunlight to producers, and through various levels of consumers (e.g., fish eating insects)\nOxygen production and consumption, through photosynthesis and respiration"
+  },
+  {
+    "objectID": "lecture-2.html#ecosystem-5",
+    "href": "lecture-2.html#ecosystem-5",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Ecosystem",
+    "text": "Ecosystem\n\n\n\n\n\n\n\nTansely’s Ecosystem\n\n\nThe British botanist-ecologist Arthur Tansely (1935) introduced the term “ecosystem”. He emphasis on combining both the organism and their environment to describe the complex interactions between living organisms and their physical environment.\n\n\n\n\n\n\n\n\n\nArthur Tansely\n\n\n\n\nTansely’s idea of the ecosystem was centered on the organism, species or community rather than geographic or landscape entities\nIn his approach every organism defines its own ecosystem. In this way, there are nearly infinite numbers of ecosystems. And it is difficult to study such systems.\nOn the other hand, Rowe(1961), Troll (1968), view ecosystem centered on geographic or landscape unit. Organisms are important components oof landscape ecosystem. In this waay, when we study landscape ecosystem, it is implied that organisms, species, and communities are part of such system."
+  },
+  {
+    "objectID": "lecture-2.html#ecology",
+    "href": "lecture-2.html#ecology",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Ecology",
+    "text": "Ecology\n\n\n\n\n\n\n\n\n\nDefinition\n\n\nEcology is the scientific study of “ecosystems” and their interacting biotic and abiotic components, that is, the interactions between living organisms and their environment, including the relationships among organisms and their physical surroundings.\n\n\n\n\n\nIn ecology, the terms organism, species, population, and community represent hierarchical levels of biological organization, each reflecting a different scale of interaction within the natural world.\n\n\n\n\n\nOrganism, species, population, community"
+  },
+  {
+    "objectID": "lecture-2.html#organism",
+    "href": "lecture-2.html#organism",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Organism",
+    "text": "Organism\n\n\n\n\n\n\n\nDefinition\n\n\nAn organism is an individual living entity that carries out all basic life functions, such as metabolism, reproduction, growth, and response to stimuli.\n\n\n\n\n\n\nCharacteristics:\n\nAll organisms are made up of one (unicellular) or more cells (multicellular).\nThey can carry out chemical reactions to obtain energy and nutrients from their environment.\nThey can grow and develop over time, following specific patterns and stages.\nThey can reproduce to create new individuals, either sexually or asexually.\nThey can respond to changes in their environment, such as light and temperature.\n\nExamples:\n\nA single tree, such as a red maple, is an organism.\nA deer, a bird, or a mushroom is also an organism.\nUnicelluar : A bacterium"
+  },
+  {
+    "objectID": "lecture-2.html#species",
+    "href": "lecture-2.html#species",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Species",
+    "text": "Species\n\n\n\n\n\n\n\nDefinition\n\n\nA species is a group of organisms that are genetically similar and are capable of interbreeding under natural conditions to produce fertile offspring.\n\n\n\n\n\n\nExamples of species include:\n\nRed maple (Acer rubrum): A common tree species found in North America, known for its vibrant red leaves in the fall.\nWhite oak (Quercus alba) 白樫の木 (Shirakashi no ki): A large deciduous tree species native to eastern and central North America, valued for its strong wood and acorns.\nRed oak (Quercus rubra) 赤い樫の木 (Akai kashi no ki or Akagashi): A fast-growing tree species native to North America, known for its distinctive red leaves in the fall and valuable timber.\nThere are more than 500 species of oak trees across the world source.\n\n\n\n\n\nWhite oak tree"
+  },
+  {
+    "objectID": "lecture-2.html#population",
+    "href": "lecture-2.html#population",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Population",
+    "text": "Population\n\n\n\n\n\n\n\nDefinition\n\n\nA population is a group of individuals of the same species that live in a specific area and interact with each other. For example, all the white oak trees in a forest make up a population.\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhite oak tree population\n\n\n\n\n\n\n\nRed oak tree population"
+  },
+  {
+    "objectID": "lecture-2.html#community",
+    "href": "lecture-2.html#community",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Community",
+    "text": "Community\n\n\n\n\n\n\n\nDefinition\n\n\nA community is a group of different populations of organisms that live together in a specific area and interact with each other. For example, a forest community may include red maple trees, oak trees, deer, squirrels, and various fungi and microorganisms."
+  },
+  {
+    "objectID": "lecture-2.html#forest",
+    "href": "lecture-2.html#forest",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Forest",
+    "text": "Forest\n\n\n\n\n\n\n\nDefinition\n\n\nA forest is a three-dimensional ecological system mainly dominated by trees, woody vegetation, and herbaceous plants that exist in dynamic interaction with the air-earth matrix of the landscape. It is a complex ecosystem characterized by a layered structure of functional parts.\n\n\n\n\n\n\n\n\n\n\n\n\n\nForest ecosystem\n\n\n\n\n\n\n\nLayered structure of a forest ecosystem"
+  },
+  {
+    "objectID": "lecture-2.html#forest-ecosystem",
+    "href": "lecture-2.html#forest-ecosystem",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Forest Ecosystem",
+    "text": "Forest Ecosystem\n\n\n\n\n\n\n\nDefinition\n\n\nA forest ecosystem is a complex network of living organisms (plants, animals, fungi, and microorganisms) and their physical environment (soil, water, air) that interact with each other in a specific forested area. Forest ecosystems can vary widely in terms of species composition, structure, and function.\n\n\n\n\n\n\n\n\n\n\n\n\n\nLayered structure of a forest ecosystem\n\n\n\n\n\n\n\nVertical Layers of forest\n\n\n\n\n\n\nOur definition of forest ecosystem emphasis its structurally layered and volumetric nature. According to this definition, we should emphasize the importance of geography and physiography within a regional climatic setting to understand the vegetation type, ecosystem structure and function. The forest ecosystem is spatial in nature and is not just the extension of the biotic community."
+  },
+  {
+    "objectID": "lecture-2.html#components-of-forest-ecosystem",
+    "href": "lecture-2.html#components-of-forest-ecosystem",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Components of Forest-Ecosystem",
+    "text": "Components of Forest-Ecosystem\n\nThe main components of a forest ecosystem include biotic and abiotic components.\n\n\n\n\n\n\n\nBiotic components: living organisms such as trees, shrubs, animals, fungi, and microorganisms.\n\n\n\n\n\n\n\n\n\n\n\n\nTree\n\n\n\n\n\n\n\nShrubs\n\n\n\n\n\n\n\nAnimals\n\n\n\n\n\n\n\nFungi\n\n\n\n\n\n\n\nBacteria"
+  },
+  {
+    "objectID": "lecture-2.html#components-of-forest-ecosystem-1",
+    "href": "lecture-2.html#components-of-forest-ecosystem-1",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Components of Forest-Ecosystem",
+    "text": "Components of Forest-Ecosystem\n\nAbiotic components: non-living elements such as soil, water, air, climate, and fire.\n\n\n\n\n\n\n\n\n\n\nSoil\n\n\n\n\n\n\n\nWater\n\n\n\n\n\n\n\nAir (Kaze no mori)\n\n\n\n\n\n\n\nClimate\n\n\n\n\n\n\n\nFire\n\n\n\n\n\n\n\n\n\n\n\nEnergy flow: the transfer of energy through the ecosystem, primarily from the sun to plants (producers) and then to consumers (herbivores and carnivores)."
+  },
+  {
+    "objectID": "lecture-2.html#emergent-layer",
+    "href": "lecture-2.html#emergent-layer",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Emergent Layer",
+    "text": "Emergent Layer\n\n\n\nEmergent layer: the highest layer, consisting of a few tall trees that rise above the canopy.\nExposed to full sunlight, high winds, and temperature fluctuations.\nTrees have thick trunks, buttressed roots, and small, waxy leaves to reduce water loss.\nThese trees play a role in modulating the forest’s microclimate and act as habitats for species that require direct sunlight or high nesting sites.\n\n\n\n\n\nLayers of a forest ecosystem"
+  },
+  {
+    "objectID": "lecture-2.html#canopy-layer",
+    "href": "lecture-2.html#canopy-layer",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Canopy Layer",
+    "text": "Canopy Layer\n\n\n\nThe uppermost continuous layer formed by the crowns of the majority of mature trees.\nThis is the primary layer of the forest where the majority of photosynthesis occurs.\nIt has dense, interlocking tree crowns.\nRegulates light penetration to lower layers.\nServes as a shield from heavy rainfall and direct sunlight.\n\n\n\n\n\nLayers of a forest ecosystem"
+  },
+  {
+    "objectID": "lecture-2.html#understory-layer",
+    "href": "lecture-2.html#understory-layer",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Understory Layer",
+    "text": "Understory Layer\n\n\n\nBeneath the canopy and above the forest floor.\nComposed of smaller trees, shrubs, and young saplings.\nPlants here often have large leaves to capture scarce light.\nInsects, snakes, small mammals, amphibians, and shade-tolerant plants.\nServes as a nursery for juvenile trees and provides habitat for a range of fauna adapted to low-light conditions.\n\n\n\n\n\nLayers of a forest ecosystem"
+  },
+  {
+    "objectID": "lecture-2.html#forest-floor-layer",
+    "href": "lecture-2.html#forest-floor-layer",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Forest Floor Layer",
+    "text": "Forest Floor Layer\n\n\n\nLocation: The bottom layer of vegetation, lying directly above the soil.\nDescription: Receives less than 2% of sunlight and is dominated by decaying organic matter.\nCharacteristics:\n\nDark, humid, and nutrient-rich.\nRapid decomposition due to warm and moist conditions.\n\nExamples of Life:\n\nFungi, bacteria, decomposers, insects, and ground-dwelling animals like tapirs or wild boars.\n\nEcological Role: Critical for nutrient cycling, decomposition, and seed germination.\n\n\n\n\n\nLayers of a forest ecosystem"
+  },
+  {
+    "objectID": "lecture-2.html#soil-layer",
+    "href": "lecture-2.html#soil-layer",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Soil Layer",
+    "text": "Soil Layer\n\n\n\nSoil is the foundation of the forest ecosystem, providing nutrients and support for plant growth.\nLocation: Beneath the forest floor.\nDescription: Consists of organic, inorganic materials (minerals), water and air.\nCharacteristics:\n\nContains roots of plants, microorganisms, minerals, and decaying matter.\nInfluences water retention, nutrient availability, and root penetration.\n\nEcological Role: Serves as the foundation of plant life, supporting root systems and microbial ecosystems essential for forest health.\n\n\n\n\n\nLayers of a forest ecosystem"
+  },
+  {
+    "objectID": "lecture-2.html#water-components",
+    "href": "lecture-2.html#water-components",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Water Components",
+    "text": "Water Components\n\nWater is essential for all living organisms including plants, .\nLocation: Water is found in various forms within the forest ecosystem, including rivers, streams, and groundwater\nDescription: May occur at or below the surface depending on topography and hydrology.\nCharacteristics:\n\nSupports aquatic and semi-aquatic species.\nInteracts with soil and vegetation layers through moisture transfer.\n\nEcological Role: Maintains humidity, supports biodiversity, and regulates nutrient transport."
+  },
+  {
+    "objectID": "lecture-2.html#other-components-layers-of-a-forest-ecosystem",
+    "href": "lecture-2.html#other-components-layers-of-a-forest-ecosystem",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Other components (layers) of a forest ecosystem",
+    "text": "Other components (layers) of a forest ecosystem\n\nClimate: the long-term weather patterns in a region, including temperature, precipitation, and humidity. Climate influences the types of plants and animals that can thrive in a forest ecosystem.\nMicroclimates: small-scale variations in climate within the forest, such as shaded areas, moist spots, or sunny clearings. These microclimates can support different plant and animal species.\nBiodiversity: the variety of species present in a forest ecosystem, including plants, animals, fungi, and microorganisms. High biodiversity contributes to ecosystem stability and resilience."
+  },
+  {
+    "objectID": "lecture-2.html#keypoints-about-the-forest-ecosystem",
+    "href": "lecture-2.html#keypoints-about-the-forest-ecosystem",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Keypoints about the forest ecosystem",
+    "text": "Keypoints about the forest ecosystem\n\nOur definition of forest ecosystem emphasizes its structurally layered and volumetric nature.\nAccording to this definition, we should emphasize the importance of geography and physiography within a regional climatic setting to understand the vegetation type, ecosystem structure, and function.\nThe forest ecosystem is spatial in nature; they have both the horizontal and vertical structures.\nThe forests are not just the extension of the biotic community.\n\n\n\n\n\n\n\n\nRowe (1989, p.229)\n\n\nOrganisms do not stand on their own: they evolve and exist in the context of ecological systems that confer those properties called life. The panda is part of the mountain bamboo-forest ecosystem and can only be preserved as such. The polar bear is a vital part of the Artic marine ecosystem and will not survive without it. Ducks are creatures born of marshes. Biology without its ecological context is dead."
+  },
+  {
+    "objectID": "lecture-2.html#major-types-of-forests",
+    "href": "lecture-2.html#major-types-of-forests",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Major types of forests",
+    "text": "Major types of forests\nForests are broadly categorized into different types depending on climatic conditions, latitude, and dominant vegetation. The three primary types are\n\n\n\n\n\n\n\n\n\nTropical forests\n\n\n\n\n\n\n\nTemperate\n\n\n\n\n\n\n\nBoreal forests"
+  },
+  {
+    "objectID": "lecture-2.html#tropical-forests",
+    "href": "lecture-2.html#tropical-forests",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Tropical forests",
+    "text": "Tropical forests\n\nLocation: Near the equator, primarily in regions of Central and South America, Central Africa, Southeast Asia, and Oceania. 10°N to 10°S latitude.\nClimate: Hot and humid throughout the year with high rainfall.\n\n\n\n\n\n\nDistribution of Tropical Rainforests (source: UN FRA2000 report)\n\n\n\n\nThey are a subset of the tropical forest biome that occurs roughly within the 28° latitudes (between the Tropic of Cancer, 23°N, and Tropic of Capricorn, 23°S )\nTropical rainforests ecosystems are distinguished by their consistent, high temperatures, exceeding 18 °C monthly, and substantial annual rainfall.\nVegetation: Dense, multi-layered with broadleaf evergreen trees.\nBiodiversity: Highest species richness of all forest types, including numerous endemic species.\nEcological Importance: Crucial for global carbon sequestration, climate regulation, and genetic resources.\nStructure: Emergent layer, canopy layer, understory layer, and forest floor layer. Soil is nutrient-poor and acidic due to rapid decomposition and leaching."
+  },
+  {
+    "objectID": "lecture-2.html#temperate-forests",
+    "href": "lecture-2.html#temperate-forests",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Temperate forests",
+    "text": "Temperate forests\n\nLocation: Mid-latitudes of North America, Europe, East Asia, and parts of the Southern Hemisphere. These forests cover both hemispheres at latitudes ranging from 25 to 50 degrees. These forests are found between the tropical and boreal regions.\nClimate: The climate of a temperate forest is highly variable depending on the location of the forest. Moderate temperatures with distinct seasons, including cold winters and warm summers. Rainfall is well-distributed.\n\n\n\n\n\n\nDistribution of temperate forests(source: UN FRA2000 report)\n\n\n\n\nVegetation:\n\nDeciduous forests: Trees shed leaves in autumn (e.g., oak, maple).\nEvergreen forests: Include conifers like pine and fir.\n\nBiodiversity: Moderate; includes a mix of herbivores, carnivores, and migratory birds.\nEcological Importance: Support important watersheds and timber production."
+  },
+  {
+    "objectID": "lecture-2.html#deciduous-temperate-forests",
+    "href": "lecture-2.html#deciduous-temperate-forests",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Deciduous temperate forests",
+    "text": "Deciduous temperate forests\n\nDeciduous temperate forests: Trees shed leaves in autumn (e.g., oak, maple).\nThey are found in Europe, East Asia, North America, and in some parts of South America.\nDeciduous forests are composed mainly of broadleaf trees.\n\n\n\n\n\n\nRed oak tree\n\n\n\n\n\n\nRed maple tree"
+  },
+  {
+    "objectID": "lecture-2.html#coniferous-temperate-forests",
+    "href": "lecture-2.html#coniferous-temperate-forests",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Coniferous temperate forests",
+    "text": "Coniferous temperate forests\n\nConiferous forests are composed of needle-leaved evergreen trees, such as pine or fir.\nEvergreen forests are typically found in regions with moderate climates.\nThey often have an advantage over broadleaf trees in harsher environments. Their leaves are typically hardier and longer lived but require more energy to grow.\n\n\n\n\n\n\nWestern Himalayan subalpine conifer forests\n\n\n\n\n\n\nLeaves of coniferous tree"
+  },
+  {
+    "objectID": "lecture-2.html#boreal-forests",
+    "href": "lecture-2.html#boreal-forests",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Boreal forests",
+    "text": "Boreal forests\n\nBoreal forests, also known as taiga, are found in the northern regions (high latitudes) of North America, Europe, and Asia.\nClimate: Long, cold winters and short, mild summers; relatively low precipitation.\nDominated by coniferous trees such as spruce, pine, and fir.\nLower species diversity; adapted to cold environments.\n\n\n\n\n\n\nDistribution of Boreal forests\n\n\n\n\n\n\nWhite spruce taiga in Alaska Range, USA"
+  },
+  {
+    "objectID": "lecture-4.html#learning-objectives",
+    "href": "lecture-4.html#learning-objectives",
     "title": "Sustainable Forest Environment (SFE)",
     "section": "Learning objectives",
-    "text": "Learning objectives\n\nSoil of forest ecosystems"
+    "text": "Learning objectives\n\nEffect of physical environment on the forest development\nTemperature, water regime, and solar radiation"
   },
   {
-    "objectID": "lecture-6.html#rocks",
-    "href": "lecture-6.html#rocks",
+    "objectID": "lecture-4.html#forest-environment",
+    "href": "lecture-4.html#forest-environment",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Rocks",
-    "text": "Rocks\n\n\n\n\n\n\nA rock is a naturally occurring solid aggregate of one or more minerals.\n\n\n\nRocks are categorized by their mineral composition and the way in which they are formed. The three main types of rocks are igneous, sedimentary, and metamorphic.\n\n\n\n\n\n\n\nIgneous rocks\n\n\nThese rocks are formed from the cooling and solidification of magma or lava.\n\n\n\n\n\n\n\n\n\n\n\nSedimentary rocks\n\n\nThese rocks are formed from the accumulation of sediment, which can be composed of minerals, organic matter, or other materials.\n\n\n\n\n\n\n\n\n\n\n\nMetamorphic rocks\n\n\nThese rocks are formed from the transformation of existing rocks due to heat, pressure, or chemically active fluids."
+    "section": "Forest environment",
+    "text": "Forest environment\n\n\n\n\n\n\n\nWhat we know about forest so far?\n\n\n\nForest site is a place where plants live and grow.\nForest site is defined by its physical environment such as\n\nspecfic geographic location\nphysigraphy\nhydrology\nglobal and micro climate\n\nTo greater or lesser extent, these abiotic factors are affected by the plants and animals that live there."
   },
   {
-    "objectID": "lecture-6.html#igneous-rocks",
-    "href": "lecture-6.html#igneous-rocks",
+    "objectID": "lecture-4.html#physical-processes-in-forests",
+    "href": "lecture-4.html#physical-processes-in-forests",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Igneous rocks",
-    "text": "Igneous rocks\n\n\n\nIgneous rocks are formed through the cooling and solidification of magma or lava (molten rocks). There are two categories of igneous rocks.\n\n\n\n\n\n\n\n\nMagma and Lava\n\n\n\nMagma is molten rocks which is one of the important liquid material on earth. Magma forms deep inside the earth. It reaches the surface of earth while passing through a vent or crack.\n\nThe magma flowing over the surface of the Earth is called lava, and the vent through which it emerges is called a volcano.\n\n\n\n\n\n\n\n\n\nVolcanic eruptions of lava are major sources of igneous rocks. (Mayon volcano in the Philippines, erupting in 2009)"
+    "section": "Physical processes in forests",
+    "text": "Physical processes in forests\n\nAll the chemical and biological processes within a forest are driven by physical processes: environmental temperatures, water regimes, and solar radiation.\nTrees grows with its crown in the atmosphere and roots in the soil."
   },
   {
-    "objectID": "lecture-6.html#igneous-rocks-1",
-    "href": "lecture-6.html#igneous-rocks-1",
+    "objectID": "lecture-4.html#physical-processes-in-forests-1",
+    "href": "lecture-4.html#physical-processes-in-forests-1",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Igneous rocks",
-    "text": "Igneous rocks\n\n\n\nIntrusive type: These igneous rocks are formed beneath the Earth’s surface\nExtrusive type: These rocks are formed at the surface of the Earth\n\n\n\n\n\n\n\n\nGranite is an intrusive rock\nBasalt is an extrusive rock\n\n\n\n\n\n\n\n\nIntrusive and Extrusive rocks (formation of Igneous rocks)"
+    "section": "Physical processes in forests",
+    "text": "Physical processes in forests\n\nThe crown of tree intercepts the sunlight for the photosynthesis.\nThe solar energy also causes evoparation of water in the leaves which in turn cools the leaves.\nThe evoparation of water from leaves increases the humidity of surrounding air\nEvaporation of water from leaves also becomes “a driving force” to lift the water and nutrients from the root zone to canopy."
   },
   {
-    "objectID": "lecture-6.html#sedimentary-rocks",
-    "href": "lecture-6.html#sedimentary-rocks",
+    "objectID": "lecture-4.html#the-big-picture-of-forest-environment",
+    "href": "lecture-4.html#the-big-picture-of-forest-environment",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Sedimentary rocks",
-    "text": "Sedimentary rocks\n\n\n\nSedimentary rocks are formed from the accumulation and compaction of mineral and organic particles over time.\nThese particles, or sediments, are often transported by water, wind, or ice and deposited in layers.\nSedimentary rocks are also formed due to chemical precipitation of material carried in solution in sea, lake, or river water.\nOver long periods, the layers are compacted and cemented together to form solid rock.\nCommon examples of sedimentary rocks include sandstone, limestone, and shale.\n\n\n\n\n\nMiddle Triassic marginal marine sequence of siltstones (reddish layers at the cliff base) and limestones (brown rocks above), Virgin Formation, southwestern Utah, U.S.\n\n\n\n\n\n\n\n\nSedimentary rocks often contain fossils, which are the preserved remains of ancient organisms. These fossils provide valuable information about the Earth’s history and past environments."
+    "section": "The big picture of forest environment",
+    "text": "The big picture of forest environment\n\nRelationship between site factors directly and indirectly responsible for plant distribution and growth (Modified from Kashian et al. (2022)"
   },
   {
-    "objectID": "lecture-6.html#metamorphic-rocks",
-    "href": "lecture-6.html#metamorphic-rocks",
+    "objectID": "lecture-4.html#weather-and-climate",
+    "href": "lecture-4.html#weather-and-climate",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Metamorphic rocks",
-    "text": "Metamorphic rocks\n\nMetamorphic rocks are formed from existing rocks (igneous, sedimentary, or other metamorphic rocks) that undergo a transformation due to high heat, pressure, or chemically active fluids.\nThis process, called metamorphism, alters the mineral composition and structure of the original rock without melting it.\nMetamorphic rocks can be foliated (having a layered or banded appearance) or non-foliated (lacking distinct layers).\n\n\n\n\n\n\n\nMetamorphic rocks provide insights into the conditions deep within the Earth’s crust and the processes that shape our planet over geological time.\n\n\n\n\n\n\n\n\n\n\nCommon metamorphic rocks\n\n\nSlate, Schist, Marble, Gneiss"
+    "section": "Weather and climate",
+    "text": "Weather and climate\n\nClimate and weather are related to each other, but they are not the same.\n\n\n\n\n\n\n\n\nWeather\n\n\nWeather is the state of the atmosphere at given time and place. It is the mix of events that happen each day in our atmosphere. Altough, the earth has single atmosphere the weather is not the same at all places on earth.\n\n\n\n\n\n\n\n\n\n\n\nClimate\n\n\nClimate is the average weather over a LONG period of time (for example several decades) in a specific area. Different regions of the world have different climates.\n\n\n\n\n\n\n\n\n\n\nClimate is what you expect, weather is what you get. NOAA"
   },
   {
-    "objectID": "lecture-6.html#rock-cycle",
-    "href": "lecture-6.html#rock-cycle",
+    "objectID": "lecture-4.html#effect-of-climate-on-forest",
+    "href": "lecture-4.html#effect-of-climate-on-forest",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Rock cycle",
-    "text": "Rock cycle\n\n\n\n\n\n\n\n\nThe rock cycle is a continuous process by which rocks are created, transformed, and recycled over geological time. It describes the transitions between the three main types of rocks: igneous, sedimentary, and metamorphic. The cycle outlines how each rock type can be converted into another through various geological processes such as melting, cooling, erosion, sedimentation, and metamorphism.\n\n\n\n\nFormation of Igneous rocks\nWeathering and Erosion\nFormation of Sedimentary rocks\nMetamorphism\nMelting\n\n\n\n\n\nSchematic diagram of Rock cycle source: Wikimedia"
+    "section": "Effect of climate on forest",
+    "text": "Effect of climate on forest\n\nClimate affects where the forest occur, and how they develop. The distributions of major types of forests across the world Pan et al. (2013)\nIn the above figure, forests are more widely distributed in the Northern Hemisphere, where larger land masses occur. The length of the growing season decreases from the full year in the wet tropics to only 7 to 10 weeks in the boreal region. Forests with different life forms and growth forms, such as deciduous, evergreen, needle-leaved, and broad-leaved trees, are adapted to the seasonality of temperature and rainfall in their geographic region"
   },
   {
-    "objectID": "lecture-6.html#regolith-and-soil",
-    "href": "lecture-6.html#regolith-and-soil",
+    "objectID": "lecture-4.html#effect-of-climate-on-forest-npp",
+    "href": "lecture-4.html#effect-of-climate-on-forest-npp",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Regolith and soil",
-    "text": "Regolith and soil\n\n\n\n\n\n\n\nRegolith\n\n\nRegolith is a layer of loose, unconsolidated material that covers solid bedrock. It includes soil, sediment, and weathered rock fragments.\n\n\n\n\n\n\n\n\n\n\n\nSoil\n\n\nSoil: Regolith + organic materials. It is the Medium that supports plant growth. Components of soil are:\n\nMineral particles\nHumus (organic matter in soil that is formed by the decomposition of plant and animal matter)\nWater\nAir"
+    "section": "Effect of climate on forest (NPP)",
+    "text": "Effect of climate on forest (NPP)\n\nEstimated Global net primary production (NPP) Pan et al. (2013). Net primary productivity (NPP) is the rate at which energy is stored in plant biomass over a given period, typically a year. Over the whole year, the tropics have the highest biomass accumulation, followed by temperate and then boreal zones, although boreal forests appear to have very high NPP in their short growing seasons"
   },
   {
-    "objectID": "lecture-6.html#soil-formation",
-    "href": "lecture-6.html#soil-formation",
+    "objectID": "lecture-4.html#taller-and-denser-forests",
+    "href": "lecture-4.html#taller-and-denser-forests",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Soil formation",
-    "text": "Soil formation\n\nSoil formation occurs through weathering, erosion and deposition of rock fragments (parent material) along with the accumulation of organic material over time\nParent material (rock) minerals: Feldspar, Quartz, Mica, Calcite\n\n\n\n\n\n\n\n\n\n\nFeldspar\n\n\n\n\n\n\n\nQuartz\n\n\n\n\n\n\n\nMica\n\n\n\n\n\n\n\nCalcite"
+    "section": "Taller and denser forests",
+    "text": "Taller and denser forests\n\n\n\nTrees tend to be taller for moderate to warm temperatures and high rainfall; tropical regions and in some temperate coastal regions and remote mountain areas.\nThe densest forests occur in the high northern latitudes of Eurasia and North America, the tropical latitudes of the Amazon Basin of South America, the Congo Basin of West Central Africa, and insular Southeast Asia.\n\n\n\n\n\nThe structure of global forests (a) tree canopy cover (b) forest height Pan et al. (2013)."
   },
   {
-    "objectID": "lecture-6.html#weathering",
-    "href": "lecture-6.html#weathering",
+    "objectID": "lecture-4.html#effect-of-climate-on-forest-1",
+    "href": "lecture-4.html#effect-of-climate-on-forest-1",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Weathering",
-    "text": "Weathering\n\n\n\n\n\n\n\ndefinition\n\n\nThe process of wearing or being worn by long exposure to the atmosphere, leading to decomposition and disintegration of rocks.\n\n\n\n\n\nWeathering is the process of breaking down rocks into smaller particles through physical, chemical, and biological processes.\nIt is a key component of the rock cycle and plays a crucial role in shaping the Earth’s surface.\nPhysical (or Mechanical) weathering\nChemical weathering\nBiological weathering"
+    "section": "Effect of climate on forest",
+    "text": "Effect of climate on forest\n\n\n\nMost productive forests tend to occur in warmer locations where precipitation is close to (or higher than) the water that could be evaporated by available energy.\nIs it possible to be too warm for high growth rates, even where plenty of water is available? This is not clear from this Figure, but the hottest tropical forests do appear to have lower growth rates than somewhat cooler forests\n\n\n\n\n\nThe positive y axis denotes wetter and negative y axis denotes drier environment Running et al. (2004)"
   },
   {
-    "objectID": "lecture-6.html#mechanism-of-soil-formation-mechanical-weathering",
-    "href": "lecture-6.html#mechanism-of-soil-formation-mechanical-weathering",
+    "objectID": "lecture-4.html#diversity-of-trees-in-forests",
+    "href": "lecture-4.html#diversity-of-trees-in-forests",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Mechanism of soil formation: Mechanical weathering",
-    "text": "Mechanism of soil formation: Mechanical weathering\n\n\n\n\n\n\nIn mechanical weathering rocks are broken down into smaller pieces without changing their chemical composition.\n\n\n\n\nYou can read more about the physical weathering here https://opengeology.org/textbook/5-weathering-erosion-and-sedimentary-rocks/\nYou can read more about the weathering process here https://education.nationalgeographic.org/resource/weathering/"
+    "section": "Diversity of trees in forests",
+    "text": "Diversity of trees in forests\n\n\n\n\n\n\nNote\n\n\nWarmer forests have more species of trees\n\n\n\n\nTemperature decreases with increase in elevation\nVeintimilla et al. (2019) found that in a tropical forest in Costa Rica, the number of species found in forests decreases with increase in elevations\nWang et al. (2009) found that in the forests of estern China and North America the number of species of trees in the forest increaess with increase in temperature"
   },
   {
-    "objectID": "lecture-6.html#mechanical-weathering-due-to-thermal-stress",
-    "href": "lecture-6.html#mechanical-weathering-due-to-thermal-stress",
+    "objectID": "lecture-4.html#effect-of-temperature-on-biological-processes-in-trees",
+    "href": "lecture-4.html#effect-of-temperature-on-biological-processes-in-trees",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Mechanical weathering due to thermal stress",
-    "text": "Mechanical weathering due to thermal stress\n\nIn natural environment, rocks are often subjected to a prolonged cyclic thermal loading of heating and cooling stages. Such thermal loading results in cyclic mechanical loading due the thermal expansion and contraction of the rock. Due to cyclic mechanical loading the rocks eventually fails into pieces.\n\n\n\n\nRock exposed to sun \\(\\Rightarrow\\) part of rock exposed to sun in the day expands \\(\\Rightarrow\\) same part cools at night \\(\\Rightarrow\\) repeated expansion and contraction \\(\\Rightarrow\\) tension cracks develop \\(\\Rightarrow\\) also called onion weathering (rock weathers like peeling of layers of an onion)\n\n\n\n\n\nThermal stresses in rocks"
+    "section": "Effect of temperature on biological processes in trees",
+    "text": "Effect of temperature on biological processes in trees\n\nExtreme temperatures tend to stop biological processes\nLittle biological activity occurs below the freezing point of water, and at very high temperatures organs fail and organisms die.\nBetween these extremes, most biological processes respond strongly to temperature, often changing by a factor of two or more for a 10 °C change in temperature"
   },
   {
-    "objectID": "lecture-6.html#meachnical-weathering-due-to-frost-weathering-cryofracturing",
-    "href": "lecture-6.html#meachnical-weathering-due-to-frost-weathering-cryofracturing",
+    "objectID": "lecture-4.html#effect-of-temperature-on-biological-processes-in-trees-1",
+    "href": "lecture-4.html#effect-of-temperature-on-biological-processes-in-trees-1",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Meachnical weathering due to Frost weathering/ cryofracturing",
-    "text": "Meachnical weathering due to Frost weathering/ cryofracturing\n\n\n\nRocks which have cracks and spaces between them allows water to seep into them. During winter the water in the pores may freeze and expand. The volumetric expansion of ice exterts additional pressure on the walls of the rock which in some cases can break the rock into small pieces.\nWater enters small cracks in rock mass \\(\\Rightarrow\\) freezes in cold weather \\(\\Rightarrow\\) density of ice &lt; density of water \\(\\Rightarrow\\) volume of frozen water increases (expansion of approximately 9 %) \\(\\Rightarrow\\) exerts further tensile stress \\(\\Rightarrow\\) extends cracks\n\n\n\nFrost weathering"
+    "section": "Effect of temperature on biological processes in trees",
+    "text": "Effect of temperature on biological processes in trees\n\nRespiration is the oxidation of carbon compounds to release energy and CO2.\nThe rate of respiration may increase exponentially with temperature.\n\n\n\n\n\n\n\nPlant respiration is an enzyme-mediated process. As temperature increases, the kinetic energy of molecules also increases, enhancing enzyme activity and thus accelerating respiration rates."
   },
   {
-    "objectID": "lecture-6.html#mechanical-weathering-due-to-pressure-release-due-to-erosion-of-overlying-layers",
-    "href": "lecture-6.html#mechanical-weathering-due-to-pressure-release-due-to-erosion-of-overlying-layers",
+    "objectID": "lecture-4.html#effect-of-temperature-on-photosynthesis",
+    "href": "lecture-4.html#effect-of-temperature-on-photosynthesis",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Mechanical Weathering due to pressure release due to erosion of overlying layers",
-    "text": "Mechanical Weathering due to pressure release due to erosion of overlying layers\n\nOccurs inside rock mass \\(\\Rightarrow\\) Erosion of overlying layers \\(\\Rightarrow\\) Reduces overburden pressure \\(\\Rightarrow\\) soil mass decompresses \\(\\Rightarrow\\) can get compressed again with further deposition of soil and decompressed again with erosion \\(\\Rightarrow\\) this cycle can cause internal weathering\n\n\nThe outer layer of this granite is fractured and eroding away, known as exfoliation"
+    "section": "Effect of temperature on photosynthesis",
+    "text": "Effect of temperature on photosynthesis\n\n\n\nPhotosynthesis has long been recognized as one of the most temperature-sensitive processes in plants Slot and Winter (2017)\nPhotosynthesis typically increases with increasing leaf temperature until it reaches an optimum (\\(P_{opt}\\) at \\(T_{opt}\\)), beyond which rates decrease, reaching zero at the high-temperature carboncompensation point\n\n\n\n\n\nPhotosynthesis vs temperature Slot and Winter (2017)"
   },
   {
-    "objectID": "lecture-6.html#mechanical-weathering-due-to-salt-crystal-growth",
-    "href": "lecture-6.html#mechanical-weathering-due-to-salt-crystal-growth",
+    "objectID": "lecture-4.html#effect-of-temperature-on-photosynthesis-1",
+    "href": "lecture-4.html#effect-of-temperature-on-photosynthesis-1",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Mechanical weathering due to Salt-crystal growth",
-    "text": "Mechanical weathering due to Salt-crystal growth\nRocks near the sea \\(\\Rightarrow\\) Concentration of salt in cracks on rock surface increases with time \\(\\Rightarrow\\) Crystals of salt form in cracks \\(\\Rightarrow\\) crystals grow with time \\(\\Rightarrow\\) exert tensile force on the rock \\(\\Rightarrow\\) deepens/ widens crack\n\nTafoni: Rounded cavities within rocks that form in various ways, including mineral growth, mainly salt. Tafoni from Salt Point, California."
+    "section": "Effect of temperature on photosynthesis",
+    "text": "Effect of temperature on photosynthesis\n\nThe decrease above the optimum temperature (\\(T_{opt}\\)) is caused by three major factors:\n\nstomatal closure in response to increased leaf-to-air vapor pressure deficit (VPD)\nchanges in photosynthetic biochemistry\nincreasing rates of respiration in the light\n\nStomatal conductance generally has a large control over photosynthesis and often declines in response to high vapour pressure deficit (VPD) associated with higher temperatures (Crous, Uddling, and De Kauwe (2022))"
   },
   {
-    "objectID": "lecture-6.html#summary-of-mechanical-weathering",
-    "href": "lecture-6.html#summary-of-mechanical-weathering",
+    "objectID": "lecture-4.html#effect-of-temperature-on-photosynthesis-2",
+    "href": "lecture-4.html#effect-of-temperature-on-photosynthesis-2",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Summary of mechanical weathering",
-    "text": "Summary of mechanical weathering\n\nThermal stress: Rock exposed to sun \\(\\rightarrow\\) part of rock exposed to sun in the day expands \\(\\rightarrow\\) same part cools at night \\(\\rightarrow\\) repeated expansion and contraction \\(\\rightarrow\\) tension cracks develop \\(\\rightarrow\\) also called onion weathering (rock weathers like peeling of layers of an onion)\nFrost weathering/ cryofracturing: Water enters small cracks in rock mass \\(\\rightarrow\\) freezes in cold weather \\(\\rightarrow\\) density of ice &lt; density of water \\(\\rightarrow\\) volume of frozen water increases \\(\\rightarrow\\) exerts further tensile stress \\(\\rightarrow\\) extends cracks\nPressure release due to erosion of overlying layers: Occurs inside rock mass \\(\\rightarrow\\) Erosion of overlying layers \\(\\rightarrow\\) Reduces overburden pressure \\(\\rightarrow\\) soil mass decompresses \\(\\rightarrow\\) can get compressed again with further deposition of soil and decompressed again with erosion \\(\\rightarrow\\) this cycle can cause internal weathering\nSalt-crystal growth: Rocks near the sea \\(\\rightarrow\\) Concentration of salt in cracks on rock surface increases with time \\(\\rightarrow\\) Crystals of salt form in cracks \\(\\rightarrow\\) crystals grow with time \\(\\rightarrow\\) exert tensile force on the rock \\(\\rightarrow\\) deepens/ widens crack"
+    "section": "Effect of temperature on photosynthesis",
+    "text": "Effect of temperature on photosynthesis\n\nIn general, photosynthesis can function without harm between 0 and 30 °C in cold-adapted plants that are active in winter and early spring, or grow at high altitude and latitude (Sage and Kubien (2007))\nIn plants from equitable habitats (e.g. warm season crops), photosynthesis operates safely between 7 and 40 °C,\nIn plants from hot environments, such as tropical species and summer species in the Mojave Desert, photosynthesis operates between 15 and 45 °C with no apparent problem"
   },
   {
-    "objectID": "lecture-6.html#chemical-weathering",
-    "href": "lecture-6.html#chemical-weathering",
+    "objectID": "lecture-4.html#heat-gain-in-leaves",
+    "href": "lecture-4.html#heat-gain-in-leaves",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Chemical weathering",
-    "text": "Chemical weathering\n\nIn chemical weathering, the original rock minerals aare transformed into new minerals through chemical reactions.\nClay minerals are the most common products of chemical weathering.\nChemical weathering is the dominate weathering process in warm, humid environments. It happens when water, oxygen, and other reactants chemically degrade the mineral components of bedrock and turn them into water-soluble ions which can then be transported by water.\nHigher temperatures accelerate chemical weathering rates."
+    "section": "Heat gain in leaves",
+    "text": "Heat gain in leaves\n\nHeat transfer in leaves\nWhen solar energy from the sun strikes the leaf, some part of it is absorbed and some part is reflected. This absorbtion of thermal radiation increases the thermal energy of the leaves.\nThe thermal energy of the leaves also increases when the leaves are in contact with hot air.\nDue to the increase in thermal energy, the temperature of the leaves increases"
   },
   {
-    "objectID": "lecture-6.html#chemical-weathering-due-to-carbonation",
-    "href": "lecture-6.html#chemical-weathering-due-to-carbonation",
+    "objectID": "lecture-4.html#heat-loss-in-leaves",
+    "href": "lecture-4.html#heat-loss-in-leaves",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Chemical weathering due to Carbonation",
-    "text": "Chemical weathering due to Carbonation\n\nRain water is slightly acidic: CO2 + H2O \\(\\rightarrow\\) H2CO3 (Carbonic acid has two ions: H+ and (HCO3)-)\nWeathering of Potassium Feldspars (KAlSi3O8) due to Carbonic acid\n\nH+ replaces the K+ ions in the feldspar mineral and the K+ ions enter into solution and are washed away.\nWater then reacts with the aluminosilicates molecule to create the clay mineral kaolinite (Al2Si2O5[OH]4).\n\nWeathering of limestone due to Carbonic acid\n\nCaCO3 + H2CO3 \\(\\rightarrow\\) Ca(HCO3)2 (dissolves in water)\nCaCO3 (Calcite mineral) present in limestone gets dissolved when carbonic acid falls on rocks leaving sites open for mechanical and biological weathering.\n\nThe quartz mineral is generally resistant to chemical weathering and remains unaltered."
+    "section": "Heat loss in leaves",
+    "text": "Heat loss in leaves\nThe leaf can also lose its thermal energy by following mechanisms.\n\nWhen the leaves are exposed to cooler air.\nThe leaf can lose thermal energy by evaporating water (controlled through stomata). This is because evaporation of water is an endothermic process. The leaves use their thermal energy to heat water and convert them liquid into vapour.\nThe leaves can also lose energy by emitting radiant energy."
   },
   {
-    "objectID": "lecture-6.html#chemical-weathering-of-potassium-feldspar",
-    "href": "lecture-6.html#chemical-weathering-of-potassium-feldspar",
+    "objectID": "lecture-4.html#heat-loss-in-leaves-due-to-cooler-air",
+    "href": "lecture-4.html#heat-loss-in-leaves-due-to-cooler-air",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Chemical weathering of Potassium Feldspar",
-    "text": "Chemical weathering of Potassium Feldspar\nWeathering of Potassium Feldspars (KAlSi3O8) due to Carbonic acid to produce Kaolinite clay.\n\nWeathering of Potassium Feldspar"
+    "section": "Heat loss in leaves due to cooler air",
+    "text": "Heat loss in leaves due to cooler air\n\nWhen cool air pass over the leaves, the thermal energy is transferred to the air trough conduction and convection mechanisms.\nThe rate of energy transfer (by conduction) into the air depends on the gradient of temperature between the leaf and the air.\nThe rate of heat transfer also depends upon the surface area of the leaves which are in contact with the air.\n\n\n\n\n\n\n\n\n\n\nBeech leaf\n\n\n\n\n\n\n\nNorway spruce"
   },
   {
-    "objectID": "lecture-6.html#example-of-chemical-weathering",
-    "href": "lecture-6.html#example-of-chemical-weathering",
+    "objectID": "lecture-4.html#heat-loss-in-leaves-due-to-cooler-air-1",
+    "href": "lecture-4.html#heat-loss-in-leaves-due-to-cooler-air-1",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Example of chemical weathering",
-    "text": "Example of chemical weathering\n\nEroded karst topography in Minevre, France. Dissolution is also noteworthy for the special geological features it creates. In places with abundant carbonate bedrock, dissolution weathering can produce a karst topography characterized by sinkholes or caves"
+    "section": "Heat loss in leaves due to cooler air",
+    "text": "Heat loss in leaves due to cooler air\n\n\n\nLeuzinger and Körner (2007) showed that forest canopies play a major role in biosphere-atmosphere interactions.\nLarge surfaces, such as beech leaves, have stable layers of air moleculs comprising a thick boundary layer. This thick boundary layer slow down the energy transfer from leaves to air at large.\nSmall surfaces have thinner boundary layers. They allow fater transfer of thermal energy between leaves and air.\nThe thickness of boundary layer decreases with increase in wind speed.\n\n\n\n\n\nLeuzinger and Körner (2007)"
   },
   {
-    "objectID": "lecture-6.html#biological-weathering",
-    "href": "lecture-6.html#biological-weathering",
+    "objectID": "lecture-4.html#references",
+    "href": "lecture-4.html#references",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Biological weathering",
-    "text": "Biological weathering\n\nBiological weathering can be a combination of both physical and chemical methods\nPhysical: Plant root enters crack in rock \\(\\rightarrow\\) pushes against rock causing weathering\n\nChemical: Plant root in rock dies \\(\\rightarrow\\) Microorganisms decompose roots \\(\\rightarrow\\) can lead to formation of organic acids \\(\\rightarrow\\) decompose rock\n\n\nBiological weathering due to plant rootsYou can read more about the biological weathering here"
+    "section": "References",
+    "text": "References\n\n\n\n\nCrous, Kristine Y., Johan Uddling, and Martin G. De Kauwe. 2022. “Temperature Responses of Photosynthesis and Respiration in Evergreen Trees from Boreal to Tropical Latitudes.” New Phytologist 234 (2): 353–74. https://doi.org/10.1111/nph.17951.\n\n\nKashian, Daniel M., Donald R. Zak, Burton Verne Barnes, and Stephen H. Spurr. 2022. Forest Ecology. Fifth edition. Hoboken, NJ: Wiley.\n\n\nLeuzinger, Sebastian, and Christian Körner. 2007. “Tree Species Diversity Affects Canopy Leaf Temperatures in a Mature Temperate Forest.” Agricultural and Forest Meteorology 146 (1): 29–37. https://doi.org/10.1016/j.agrformet.2007.05.007.\n\n\nPan, Yude, Richard A. Birdsey, Oliver L. Phillips, and Robert B. Jackson. 2013. “The Structure, Distribution, and Biomass of the World’s Forests.” Annual Review of Ecology, Evolution, and Systematics 44 (November): 593–622. https://doi.org/10.1146/annurev-ecolsys-110512-135914.\n\n\nRunning, Steven W., Ramakrishna R. Nemani, Faith Ann Heinsch, Maosheng Zhao, Matt Reeves, and Hirofumi Hashimoto. 2004. “A Continuous Satellite-Derived Measure of Global Terrestrial Primary Production.” BioScience 54 (6): 547–60. https://doi.org/10.1641/0006-3568(2004)054[0547:ACSMOG]2.0.CO;2.\n\n\nSage, Rowan F., and David S. Kubien. 2007. “The Temperature Response of C3 and C4 Photosynthesis.” Plant, Cell & Environment 30 (9): 1086–106. https://doi.org/10.1111/j.1365-3040.2007.01682.x.\n\n\nSlot, Martijn, and Klaus Winter. 2017. “In Situ Temperature Response of Photosynthesis of 42 Tree and Liana Species in the Canopy of Two Panamanian Lowland Tropical Forests with Contrasting Rainfall Regimes.” New Phytologist 214 (3): 1103–17. https://doi.org/10.1111/nph.14469.\n\n\nVeintimilla, Dario, Marie Ange Ngo Bieng, Diego Delgado, Sergio Vilchez-Mendoza, Nelson Zamora, and Bryan Finegan. 2019. “Drivers of Tropical Rainforest Composition and Alpha Diversity Patterns over a 2,520 m Altitudinal Gradient.” Ecology and Evolution 9 (10): 5720–30. https://doi.org/10.1002/ece3.5155.\n\n\nWang, Zhiheng, James H. Brown, Zhiyao Tang, and Jingyun Fang. 2009. “Temperature Dependence, Spatial Scale, and Tree Species Diversity in Eastern Asia and North America.” Proceedings of the National Academy of Sciences 106 (32): 13388–92. https://doi.org/10.1073/pnas.0905030106."
   },
   {
-    "objectID": "lecture-6.html#summary-of-weathering",
-    "href": "lecture-6.html#summary-of-weathering",
-    "title": "Sustainable Forest Environment (SFE)",
-    "section": "Summary of weathering",
-    "text": "Summary of weathering\n\nWeathering takes place through a combination of physical, chemical and biological factors\nPhysical and biological factors help increase the exposed surface area of rock, thereby increasing surface area available for more chemical weathering to take place\n\n\nEach of these three groups of cubes has an equal volume. However, their surface areas are vastly different"
-  },
-  {
-    "objectID": "lecture-6.html#transportation-of-weathered-products",
-    "href": "lecture-6.html#transportation-of-weathered-products",
-    "title": "Sustainable Forest Environment (SFE)",
-    "section": "Transportation of weathered products",
-    "text": "Transportation of weathered products\n\nErosion is a mechanical process, usually driven by water, gravity, wind, or ice that removes (or transport) sediment from the place of weathering.\nLiquid water is the main agent of erosion.\n\n\nGrand Canyon, Arizona, USA. The Colorado River has eroded the canyon over millions of years"
-  },
-  {
-    "objectID": "lecture-6.html#transportation-of-weathered-products-1",
-    "href": "lecture-6.html#transportation-of-weathered-products-1",
-    "title": "Sustainable Forest Environment (SFE)",
-    "section": "Transportation of weathered products",
-    "text": "Transportation of weathered products\n\nThe size of clastic sediment (pieces of broken rock and minerals) transported is directly proportional to the velocity of the speed of the transporting agent.\n\n\nSediment transportation processes"
-  },
-  {
-    "objectID": "lecture-6.html#soil",
-    "href": "lecture-6.html#soil",
-    "title": "Sustainable Forest Environment (SFE)",
-    "section": "Soil",
-    "text": "Soil\n\nUncemented aggregates of small grains (product of weathering) are called soils.\nSoil is a combination of air, water, minerals, and organic matter that forms at the transition between biosphere and geosphere.\nSoil is an important reservoir for organic components necessary for plants, animals, and microorganisms to live. The organic component of soil, called humus."
-  },
-  {
-    "objectID": "lecture-6.html#residual-and-transported-soils",
-    "href": "lecture-6.html#residual-and-transported-soils",
-    "title": "Sustainable Forest Environment (SFE)",
-    "section": "Residual and transported soils",
-    "text": "Residual and transported soils\nResidual Soils\n\nThe soil formed by the weathered products at their place of origin are called residual soils.\n\nTransported Soils\n\nThe products of weathering may stay in the same place or may be moved to other places by transport agencies like wind, water, and ice. The soils formed by the transported products are called transported soils."
-  },
-  {
-    "objectID": "lecture-6.html#transported-soils-1",
-    "href": "lecture-6.html#transported-soils-1",
-    "title": "Sustainable Forest Environment (SFE)",
-    "section": "Transported soils",
-    "text": "Transported soils\n\nGlacial soils are formed by transportation and deposition of soil by glaciers.\nAlluvial soils are formed by transportation and deposition of soil by rivers and streams.\nAeolian soils are formed by the deposition of soil by wind.\nLacustrine soils are formed by the deposition of soil in lakes.\nMarine soils are formed by the deposition of soil in oceans and seas."
-  },
-  {
-    "objectID": "lecture-6.html#soil-particle-size",
-    "href": "lecture-6.html#soil-particle-size",
-    "title": "Sustainable Forest Environment (SFE)",
-    "section": "Soil-Particle Size",
-    "text": "Soil-Particle Size\n\n\n\n\n\n\nThe size of the particles is an important factor in determining the engineering properties of the soil.\n\n\n\n\nSoils contains particles of different sizes. Based on the particle size, soils can be classified into gravel, sand, silt, and clay.\n\n\n\n\n\n\n\nSeveral world organisations have developed their own classification systems for soils. The most widely used system is the Unified Soil Classification System (USCS)."
-  },
-  {
-    "objectID": "lecture-6.html#soil-particle-size-1",
-    "href": "lecture-6.html#soil-particle-size-1",
-    "title": "Sustainable Forest Environment (SFE)",
-    "section": "Soil-Particle Size",
-    "text": "Soil-Particle Size\n\n\n\n\n\n\n\n\n\n\nOrganization / Standard\nClay\nSilt\nSand\nGravel\n\n\n\n\nUSDA\n&lt; 0.002 mm\n0.002 – 0.05 mm\n0.05 – 2.0 mm\nNot defined\n\n\nUSCS\n&lt; 0.002 mm\n0.002 – 0.075 mm\n0.075 – 4.75 mm\n4.75 – 76 mm\n\n\nAASHTO\n&lt; 0.002 mm\n0.002 – 0.075 mm\n0.075 – 2.0 mm\n2.0 – 75 mm\n\n\n\n\nUSDA: United States Department of Agriculture\nUSCS: Unified Soil Classification System\nAASHTO: American Association of State Highway and Transportation Officials"
-  },
-  {
-    "objectID": "lecture-6.html#usda-soil-classification",
-    "href": "lecture-6.html#usda-soil-classification",
-    "title": "Sustainable Forest Environment (SFE)",
-    "section": "USDA soil classification",
-    "text": "USDA soil classification\n\nUSDA soil classification"
-  },
-  {
-    "objectID": "lecture-6.html#soil-and-soil-profile-soil-texture",
-    "href": "lecture-6.html#soil-and-soil-profile-soil-texture",
-    "title": "Sustainable Forest Environment (SFE)",
-    "section": "Soil and soil profile: Soil texture",
-    "text": "Soil and soil profile: Soil texture\n\nSoil Texture refers to relative proportion of silt, sand and clay particles in soil.\nInfluences soil porosity, permeability, shrink-swell rate, water retention capacity and susceptibility to erosion.\n\n\nSoil texture triangle"
-  },
-  {
-    "objectID": "lecture-6.html#learn-how-to-read-soil-texture-triangle",
-    "href": "lecture-6.html#learn-how-to-read-soil-texture-triangle",
-    "title": "Sustainable Forest Environment (SFE)",
-    "section": "Learn how to read soil texture triangle",
-    "text": "Learn how to read soil texture triangle"
-  },
-  {
-    "objectID": "lecture-6.html#soil-profile",
-    "href": "lecture-6.html#soil-profile",
-    "title": "Sustainable Forest Environment (SFE)",
-    "section": "Soil profile",
-    "text": "Soil profile\n\n\n\nO Horizon: The top horizon is a thin layer of predominantly organic material, such as leaves, twigs, and other plant parts that are actively decaying into humus.\nA Horizon: The next layer, called topsoil, consists of humus mixed with mineral sediment. As precipitation soaks down through this layer, it leaches out soluble chemicals. In wet climates with heavy precipitation this leaching out produces a separate layer called horizon E, the leaching or eluviation zone.\n\n\n\n\n\nSoil profile"
-  },
-  {
-    "objectID": "lecture-6.html#soil-profile-1",
-    "href": "lecture-6.html#soil-profile-1",
-    "title": "Sustainable Forest Environment (SFE)",
-    "section": "Soil profile",
-    "text": "Soil profile\n\n\n\nB Horizon: Also called subsoil, this layer consists of sediment mixed with humus removed from the upper layers. The subsoil is where mineral sediment is chemically weathered. The amount of organic material and degree of weathering decrease with depth. The upper subsoil zone, called regolith, is a porous mixture of humus and highly weathered sediment. In the lower zone, saprolite, scant organic material is mixed with largely unaltered parent rock.\nC Horizon: This is substratum and is a zone of mechanical weathering. Here, bedrock fragments are physically broken but not chemically altered. This layer contains no organic material.\nR Horizon: The final layer consists of unweathered, parent bedrock and fragments.\n\n\n\n\n\nSoil profile"
-  },
-  {
-    "objectID": "lecture-6.html#sand-and-silt",
-    "href": "lecture-6.html#sand-and-silt",
-    "title": "Sustainable Forest Environment (SFE)",
-    "section": "Sand and silt",
-    "text": "Sand and silt\n\nSand and silt sized particles are chemically identical to parent material (rock minerals) from which they originate (they are also called primary minerals)\nRound or irregular in shape, composed primarily of quartz (SiO2) or other silicate minerals like orthoclase (KAlSiO3) or plagioclase \\(([Ca,Na][Al,Si]AlSi_{2}O_{8})\\).\nDue to their size and shape, sand has low surface areas (1-2 m2/gm)and large pores.\nGood aeration and permeability characteristics, but poor water holding capacity.\nSilt-sized particles have higher surface areas (45 m2/gm) and can hold relatively larger quantities of water as compared to sand."
-  },
-  {
-    "objectID": "lecture-6.html#clay",
-    "href": "lecture-6.html#clay",
-    "title": "Sustainable Forest Environment (SFE)",
-    "section": "Clay",
-    "text": "Clay\n\nClay is comprised of secondary minerals which result from physical and chemical weathering of primary minerals\nMinerals form plate-like structures or micelles.\nVery high surface area (80-800 m2/gm)\nVery high water retention capacity.\n\n\n\n\nBased on crystalline arrangement, they can be divided into three main groups, all containing hydrous aluminosilicates with other metallic ions\n\nKaolinite – (OH)4.Al2Si2O5\nMontmorillonite – (OH)4.Al4SigO20.nH2O\nIllite – (OH)4Ky(Sig-yAly)(Al4.Mg6.Fe4.Fe6) O20\n\nClay minerals have many crystal sheets which have a repeating atomic structure.\n\n\n\n\n\nKaolinite"
-  },
-  {
-    "objectID": "lecture-6.html#diffused-double-layer",
-    "href": "lecture-6.html#diffused-double-layer",
-    "title": "Sustainable Forest Environment (SFE)",
-    "section": "Diffused double layer",
-    "text": "Diffused double layer\n\n\n\nSurface of clay mineral is negatively charged.\nWater is attracted to clay surface through: Dipole attraction, Hydrogen bond, Cation attraction\nWater forms a layer of strongly adsorbed water on clay mineral surface and an outer layer attracted to a lesser degree that is more mobile.\nAll water attracted to clay particles in these two layers is known as diffuse double layer.\n\n\n\n\n\nIllustration of double diffused layer"
-  },
-  {
-    "objectID": "lecture-6.html#soil-organic-matter",
-    "href": "lecture-6.html#soil-organic-matter",
-    "title": "Sustainable Forest Environment (SFE)",
-    "section": "Soil organic matter",
-    "text": "Soil organic matter\n\nSoil organic matter: undecomposed, partially decomposed or highly decomposed litter (leaves, twigs, dead roots etc.).\nFunctions as cementing agents, binding soil particles together to form aggregates.\nAggregate formation impacts available pore space and can increase the water holding capacity of sandy soils.\nHumus (highly decomposed organic matter) can have a net negative charge on the surface and has a high cation exchange capacity thereby influencing nutrient availability.\nHome of microbial populations in soil."
-  },
-  {
-    "objectID": "lecture-6.html#cation-exchange-capacity-cec",
-    "href": "lecture-6.html#cation-exchange-capacity-cec",
-    "title": "Sustainable Forest Environment (SFE)",
-    "section": "Cation exchange capacity (CEC)",
-    "text": "Cation exchange capacity (CEC)\n\nCEC represents the total amount of cations that can be adsorbed by a kilogram of soil.\nCations in soil solution exist in equilibrium with cations adsorbed at cation exchange sites on clay micelles or sandy soil + organic matter.\nPlants assimilate cations from soil solution \\(\\rightarrow\\) cations adsorbed to clay are released to soil solution.\nAdsorbed cations are a “reservoir” of soil nutrients.\nIn general, cations with a larger positive charge are more strongly held.\nCations in order of decreasing affinity for exchange sites: Al3+ &gt; Ca2+ &gt; Mg2+ &gt; NH+4 &gt; K+ &gt; H+ &gt; Na+\nWeakly held ions like K+ and NH4+ are more available for plant growth.\nCEC General measure of plant nutrient availability."
-  },
-  {
-    "objectID": "lecture-6.html#soil-acidity",
-    "href": "lecture-6.html#soil-acidity",
-    "title": "Sustainable Forest Environment (SFE)",
-    "section": "Soil acidity",
-    "text": "Soil acidity\n\nSources of acidity: i.e. H+ ions\n\nRespiration by roots and microorganisms producing CO2, which dissolves in water to form H2CO3.\nDecomposition of organic matter: fluvic acids and humic acids.\nHuman activities: acid rain (HNO3 and H2SO4)\n\nWhen soil becomes acidic \\(\\rightarrow\\)\n\nweathering of soil minerals \\(\\rightarrow\\)\nreleases base cations \\(\\rightarrow\\)\nreplace H\\(^{+}\\) ions at the cation exchange sites (base exchange) \\(\\rightarrow\\)\nH\\(^{+}\\) ions enter soil solution and are easily leached away, reducing acidity."
-  },
-  {
-    "objectID": "lecture-6.html#soil-acidity-1",
-    "href": "lecture-6.html#soil-acidity-1",
-    "title": "Sustainable Forest Environment (SFE)",
-    "section": "Soil acidity",
-    "text": "Soil acidity\n\nAfter long periods of time \\(\\rightarrow\\)\n\nsoil can no longer provide base cations \\(\\rightarrow\\)\nH\\(^{+}\\) ions accumulate \\(\\rightarrow\\)\nsoil pH decreases \\(\\rightarrow\\)\nAt pH &lt; 4, Al3+ + H2O ⇌ AlOH2- + H+ \\(\\rightarrow\\)\nMore H+ ions are produced, making soil more acidic \\(\\rightarrow\\) adsorbed Al enters soil solution.\n\nHigh Al\\(^{3+}\\) concentrations can kill roots, reduce root growth and interfere in the functioning of cell membrane of plants.\nPercent base saturation: Proportion of cation exchange sites occupied by Ca\\(^{2+}\\), Mg\\(^{2+}\\), K\\(^{+}\\) and Na\\(^{+}\\) ions."
-  },
-  {
-    "objectID": "lecture-2-faq.html",
-    "href": "lecture-2-faq.html",
-    "title": "Questions asked in Lecture 2",
+    "objectID": "lecture-3-faq.html",
+    "href": "lecture-3-faq.html",
+    "title": "Questions asked in Lecture 3",
     "section": "",
-    "text": "The following points were discussed in the lecture.\n\nAn ecosystem is a community of living organisms (plants, animals, and microorganisms) interacting with their physical environment (soil, water, and air).\nForest is a type of landscape ecosystem.\n\n\n\n\n\n\n\nWhat do we have two terms landscape-ecosystem and ecosystem?\n\n\n\nIn my opinion, both ecosystem and landscape ecosystem are essentially the same. The term ecosystem is very general. However, from landscape ecosystem we want to emphasis that we are interested in studying the ecosystem which have finite volume such as forest. So such ecosystem are located on the specific parts of the earth. They have their own environment, and in this environment their can be so population of many types of species.\n\n\n\nI think to study the forest ecosystem, the first question that we should ask is where is that forest located on the earth?\nIs it is a tropical forest, or temperate forest, or boreal forest?\nThen we decide our are of interest by fixing the spatial scale of the forest ecosystem. This will fix the volume of the forest in the horizontal direction. Imagine a box which contains a part of very large forest.\nAfter fixing the volume of the forest, we see what types of living organisms are present in that volume.\nThen we see what is the geography in that volume, For example, what is the soil type, what is the water type, what is the air type, what is the temperature, what is the humidity, what is the light intensity, etc. We also check the topography.\nIn summary, in landscape ecosystem, and forest ecosystem, the landscape comes first, and then we study the components of that landscape. Whereas in general, many people are interested in studying an organism or species, or population. But if use such approach for a forest we have so many species and their ecosystem. Finding how these ecosystem (infinitely many) interacts with each other will be a challenging task if not impossible task.\n\n\n\n\nTo understand the different layers of a forest ecosystem, we need to follow the following steps.\n\nThe forest ecosystem occupy a finite volume (small or larger) on the earth’s surface.\nThe conditions, such as temperature, humidity, light, soil type, nutrients, rainfall (amount and frequency) will change across the earth surface. In this way, different types of plants (species) will grow at different location on the earth. Even if we focus on same species, their growth will be different at different location. This is because the conditions are different at different locations. This gives a horizontal structure to forest. All it means that the growth, species of plants and trees changes as the location changes.\nNow let us focus on the vertical structure of a forest. The vertical structure of the forest is divided in the terms of layers. For example, our body has differnt layers:\n\nLeg area: This is the area below the hip\nHip area: This is the area around the hip\nStomach area: This is the area around the stomach\nHead area: This is the area around the head\n\n\nSimilarly, in the forest at given location on the earth, we have different layers in the vertical direction. Now why in the vertical direction? Because at given location the trees are growing in the vertical direction (both up and down (roots)).\nNow, Let us focus on a SINGLE tree at a given location. What type of layers do we observe? 1. Root area (this is like leg area) below the ground 2. Trunk area (this is like hip and stomach area) above the ground 3. Crown area: Branch area (this is like head area) above the ground. 4. Canopy area: This is the area above the crown area. This is the area where the leaves are present.\nNow let us combine many trees at a given location. Let say we planted them together. Over the time they will grow at the different rate. Some trees will be taller and thicker. Some trees will be shorter. This the first generation of tree. They have same age, but their characteristics are different. After some years lets plant another generation of trees. Now in the forest we will have younger and older trees. Every individual tree has vertical structure.\nThe combination of these trees is what make the forest. So the forest also have several vertical layers. These layers were discussed in the lecture.\n\n\n\nOne student found it difficult to understand the tropical ecosystem.\n\nThe tropical ecosystem is a type of forest ecosystem.\nIt is a forest ecosystem that is located in the tropics.\nThe tropics are the regions of the earth that are located between the Tropic of Cancer (23 degree North) and the Tropic of Capricorn (23 degree South).\nThese regions are characterized by warm temperatures and high levels of rainfall. In general, as the latitude increases, the temperature decreases. Arctic and Antartica both have largest latitude in North and Sourth, respectively. They are also the cold region of the earth.\nFind the latitude of you location. For example, Kyoto’s latitude is 35.0116° N. So it is not in the tropics. The latitude of Mumbai, India is 19.0760° N. So it is in the tropics.\nYou can learn about the latitude of earth from this YouTube Video\nThe tropical ecosystem is home to a wide variety of plant and animal species, many of which are not found in other types of ecosystems.\nThe tropical ecosystem is also characterized by its high levels of biodiversity, which means that it has a large number of different species living in it.\nI also recommend students to see this YouTube Video to understand the tropical ecosystem.\n\n\n\n\n\nThe population is a group of individuals of the same species that live in the same area at the same time.\nA population is defined as a group of individuals of the same species living and interbreeding within a given area.\nMembers of a population often rely on the same resources, are subject to similar environmental constraints, and depend on the availability of other members to persist over time.\nWe study a population by examining how individuals in that population interact with each other and how the population as a whole interacts with its environment.\nAs a tool for objectively studying populations, population ecologists rely on a series of statistical measures, known as demographic parameters, to describe that population.\nThe field of science interested in collecting and analyzing these numbers is termed population demographics, also known as demography.\n\nI strongly recommend students to watch the following YouTube Video to understand the concept of population.\n\nPopulation dynamics is an very intriguing subject. I can recommend the following article to understand the concept of population in an ecosystem.\n\nhttps://www.nature.com/scitable/knowledge/library/introduction-to-population-demographics-83032908/"
+    "text": "Consider the following chemical reaction:\n\\[\nA + B \\rightarrow C + D\n\\]\nwhere \\(A\\) and \\(B\\) are reactants, and \\(C\\) and \\(D\\) are products.\n\n\n\nExothermic reaction: A chemical reaction that releases energy, usually in the form of heat. The products have lower energy than the reactants.\nEndothermic reaction: A chemical reaction that absorbs energy from its surroundings. The products have higher energy than the reactants.\n\nWhy energy is released or absorbed in a chemical reaction?\nIn any chemical reaction, some bonds are broken and new bonds are formed. Energy is required to break the bonds which we will call as bond dissociation energy. Also, energy is released when new bonds are formed, which will be referred to as the bond formation energy.\n\nA reaction is exotermic if the bond formation energy is greater than the bond dissociation energy.\nA reaction is endothermic if the bond dissociation energy is greater than the bond formation energy.\n\n\n\n\nIn a chemical reaction the electrons cannot be created or destroyed, but they can be transferred from one atom to another. So the flow of electrons can only occur from a source connected to a sink. So what it means is that if in a chemical reaction electrons are flowing then someone should provide the electrons and someone should accept the electrons.\nA redox reaction can be defined as a chemical reaction in which electrons are transferred between two reactants participating in it.\nI have updated the lecture notes to improve the description of redox reactions in the context of forest ecology. Please refer to the updated notes for a more detailed explanation.\n\n\n\n\n\nPhotons are discrete packets of light energy. Visible light, X-rays, ultraviolet, infrared, microwaves, and radio waves all consist of photons differing in energy (frequency).\nA photon’s energy is proportional to the frequency of the electromagnetic wave:\n\n\\[\nE = h \\nu\n\\]\nwhere \\(E\\) is the energy of the photon, \\(h\\) is Planck’s constant (\\(6.626 \\times 10^{-34} \\text{J s}\\)), and \\(\\nu\\) is the frequency of the electromagnetic wave.\n\n\n\n\n\n\nwave-particle duality\n\n\n\nDuring the 19th and early 20th centuries, light was found to behave as a wave then later was discovered to have a particle-like behavior, whereas electrons behaved like particles in early experiments then were later discovered to have wave-like behavior. The concept of duality arose to name these seeming contradictions.\n\n\nPlease see the following video to understand the concept of wave-particle duality:\n\nAfter watching the above video, please watch the following video.\n\n\n\n\n\n\n\n\n\n\nColor perception\n\n\n\nLight is a form of electromagnetic wave. It contains several frequencies (or wavelengths). We often call it spectrum. The visible spectrum contains wavelength from 380 to 780 nano meters. The red color has the biggest wavelength in the visible spectrum.\n\n\nEvery object smaller or bigger absorbs and reflects light. What it means is that the object absorbs certain wavelengths and reflects certain wavelength. The wavelength that object absorbs never reaches to our eyes, but the reflected wave lengths are received by our eyes. Therefore, we see the color corresponding to the wavelengths that have been reflected from the object."
   },
   {
-    "objectID": "lecture-2-faq.html#landscape-ecosystem",
-    "href": "lecture-2-faq.html#landscape-ecosystem",
-    "title": "Questions asked in Lecture 2",
+    "objectID": "lecture-3-faq.html#chemical-reactions-redox-exothermic-and-endothermic-reactions",
+    "href": "lecture-3-faq.html#chemical-reactions-redox-exothermic-and-endothermic-reactions",
+    "title": "Questions asked in Lecture 3",
     "section": "",
-    "text": "The following points were discussed in the lecture.\n\nAn ecosystem is a community of living organisms (plants, animals, and microorganisms) interacting with their physical environment (soil, water, and air).\nForest is a type of landscape ecosystem.\n\n\n\n\n\n\n\nWhat do we have two terms landscape-ecosystem and ecosystem?\n\n\n\nIn my opinion, both ecosystem and landscape ecosystem are essentially the same. The term ecosystem is very general. However, from landscape ecosystem we want to emphasis that we are interested in studying the ecosystem which have finite volume such as forest. So such ecosystem are located on the specific parts of the earth. They have their own environment, and in this environment their can be so population of many types of species.\n\n\n\nI think to study the forest ecosystem, the first question that we should ask is where is that forest located on the earth?\nIs it is a tropical forest, or temperate forest, or boreal forest?\nThen we decide our are of interest by fixing the spatial scale of the forest ecosystem. This will fix the volume of the forest in the horizontal direction. Imagine a box which contains a part of very large forest.\nAfter fixing the volume of the forest, we see what types of living organisms are present in that volume.\nThen we see what is the geography in that volume, For example, what is the soil type, what is the water type, what is the air type, what is the temperature, what is the humidity, what is the light intensity, etc. We also check the topography.\nIn summary, in landscape ecosystem, and forest ecosystem, the landscape comes first, and then we study the components of that landscape. Whereas in general, many people are interested in studying an organism or species, or population. But if use such approach for a forest we have so many species and their ecosystem. Finding how these ecosystem (infinitely many) interacts with each other will be a challenging task if not impossible task."
+    "text": "Consider the following chemical reaction:\n\\[\nA + B \\rightarrow C + D\n\\]\nwhere \\(A\\) and \\(B\\) are reactants, and \\(C\\) and \\(D\\) are products.\n\n\n\nExothermic reaction: A chemical reaction that releases energy, usually in the form of heat. The products have lower energy than the reactants.\nEndothermic reaction: A chemical reaction that absorbs energy from its surroundings. The products have higher energy than the reactants.\n\nWhy energy is released or absorbed in a chemical reaction?\nIn any chemical reaction, some bonds are broken and new bonds are formed. Energy is required to break the bonds which we will call as bond dissociation energy. Also, energy is released when new bonds are formed, which will be referred to as the bond formation energy.\n\nA reaction is exotermic if the bond formation energy is greater than the bond dissociation energy.\nA reaction is endothermic if the bond dissociation energy is greater than the bond formation energy.\n\n\n\n\nIn a chemical reaction the electrons cannot be created or destroyed, but they can be transferred from one atom to another. So the flow of electrons can only occur from a source connected to a sink. So what it means is that if in a chemical reaction electrons are flowing then someone should provide the electrons and someone should accept the electrons.\nA redox reaction can be defined as a chemical reaction in which electrons are transferred between two reactants participating in it.\nI have updated the lecture notes to improve the description of redox reactions in the context of forest ecology. Please refer to the updated notes for a more detailed explanation."
   },
   {
-    "objectID": "lecture-2-faq.html#different-layers-of-a-forest-ecosystem",
-    "href": "lecture-2-faq.html#different-layers-of-a-forest-ecosystem",
-    "title": "Questions asked in Lecture 2",
+    "objectID": "lecture-3-faq.html#photon-energy-ehnu",
+    "href": "lecture-3-faq.html#photon-energy-ehnu",
+    "title": "Questions asked in Lecture 3",
     "section": "",
-    "text": "To understand the different layers of a forest ecosystem, we need to follow the following steps.\n\nThe forest ecosystem occupy a finite volume (small or larger) on the earth’s surface.\nThe conditions, such as temperature, humidity, light, soil type, nutrients, rainfall (amount and frequency) will change across the earth surface. In this way, different types of plants (species) will grow at different location on the earth. Even if we focus on same species, their growth will be different at different location. This is because the conditions are different at different locations. This gives a horizontal structure to forest. All it means that the growth, species of plants and trees changes as the location changes.\nNow let us focus on the vertical structure of a forest. The vertical structure of the forest is divided in the terms of layers. For example, our body has differnt layers:\n\nLeg area: This is the area below the hip\nHip area: This is the area around the hip\nStomach area: This is the area around the stomach\nHead area: This is the area around the head\n\n\nSimilarly, in the forest at given location on the earth, we have different layers in the vertical direction. Now why in the vertical direction? Because at given location the trees are growing in the vertical direction (both up and down (roots)).\nNow, Let us focus on a SINGLE tree at a given location. What type of layers do we observe? 1. Root area (this is like leg area) below the ground 2. Trunk area (this is like hip and stomach area) above the ground 3. Crown area: Branch area (this is like head area) above the ground. 4. Canopy area: This is the area above the crown area. This is the area where the leaves are present.\nNow let us combine many trees at a given location. Let say we planted them together. Over the time they will grow at the different rate. Some trees will be taller and thicker. Some trees will be shorter. This the first generation of tree. They have same age, but their characteristics are different. After some years lets plant another generation of trees. Now in the forest we will have younger and older trees. Every individual tree has vertical structure.\nThe combination of these trees is what make the forest. So the forest also have several vertical layers. These layers were discussed in the lecture."
+    "text": "Photons are discrete packets of light energy. Visible light, X-rays, ultraviolet, infrared, microwaves, and radio waves all consist of photons differing in energy (frequency).\nA photon’s energy is proportional to the frequency of the electromagnetic wave:\n\n\\[\nE = h \\nu\n\\]\nwhere \\(E\\) is the energy of the photon, \\(h\\) is Planck’s constant (\\(6.626 \\times 10^{-34} \\text{J s}\\)), and \\(\\nu\\) is the frequency of the electromagnetic wave.\n\n\n\n\n\n\nwave-particle duality\n\n\n\nDuring the 19th and early 20th centuries, light was found to behave as a wave then later was discovered to have a particle-like behavior, whereas electrons behaved like particles in early experiments then were later discovered to have wave-like behavior. The concept of duality arose to name these seeming contradictions.\n\n\nPlease see the following video to understand the concept of wave-particle duality:\n\nAfter watching the above video, please watch the following video."
   },
   {
-    "objectID": "lecture-2-faq.html#tropical-ecosystem",
-    "href": "lecture-2-faq.html#tropical-ecosystem",
-    "title": "Questions asked in Lecture 2",
+    "objectID": "lecture-3-faq.html#why-do-we-see-colors",
+    "href": "lecture-3-faq.html#why-do-we-see-colors",
+    "title": "Questions asked in Lecture 3",
     "section": "",
-    "text": "One student found it difficult to understand the tropical ecosystem.\n\nThe tropical ecosystem is a type of forest ecosystem.\nIt is a forest ecosystem that is located in the tropics.\nThe tropics are the regions of the earth that are located between the Tropic of Cancer (23 degree North) and the Tropic of Capricorn (23 degree South).\nThese regions are characterized by warm temperatures and high levels of rainfall. In general, as the latitude increases, the temperature decreases. Arctic and Antartica both have largest latitude in North and Sourth, respectively. They are also the cold region of the earth.\nFind the latitude of you location. For example, Kyoto’s latitude is 35.0116° N. So it is not in the tropics. The latitude of Mumbai, India is 19.0760° N. So it is in the tropics.\nYou can learn about the latitude of earth from this YouTube Video\nThe tropical ecosystem is home to a wide variety of plant and animal species, many of which are not found in other types of ecosystems.\nThe tropical ecosystem is also characterized by its high levels of biodiversity, which means that it has a large number of different species living in it.\nI also recommend students to see this YouTube Video to understand the tropical ecosystem."
-  },
-  {
-    "objectID": "lecture-2-faq.html#population",
-    "href": "lecture-2-faq.html#population",
-    "title": "Questions asked in Lecture 2",
-    "section": "",
-    "text": "The population is a group of individuals of the same species that live in the same area at the same time.\nA population is defined as a group of individuals of the same species living and interbreeding within a given area.\nMembers of a population often rely on the same resources, are subject to similar environmental constraints, and depend on the availability of other members to persist over time.\nWe study a population by examining how individuals in that population interact with each other and how the population as a whole interacts with its environment.\nAs a tool for objectively studying populations, population ecologists rely on a series of statistical measures, known as demographic parameters, to describe that population.\nThe field of science interested in collecting and analyzing these numbers is termed population demographics, also known as demography.\n\nI strongly recommend students to watch the following YouTube Video to understand the concept of population.\n\nPopulation dynamics is an very intriguing subject. I can recommend the following article to understand the concept of population in an ecosystem.\n\nhttps://www.nature.com/scitable/knowledge/library/introduction-to-population-demographics-83032908/"
+    "text": "Color perception\n\n\n\nLight is a form of electromagnetic wave. It contains several frequencies (or wavelengths). We often call it spectrum. The visible spectrum contains wavelength from 380 to 780 nano meters. The red color has the biggest wavelength in the visible spectrum.\n\n\nEvery object smaller or bigger absorbs and reflects light. What it means is that the object absorbs certain wavelengths and reflects certain wavelength. The wavelength that object absorbs never reaches to our eyes, but the reflected wave lengths are received by our eyes. Therefore, we see the color corresponding to the wavelengths that have been reflected from the object."
   },
   {
     "objectID": "lecture-4-faq.html",

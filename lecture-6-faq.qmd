@@ -1,0 +1,60 @@
+# Questions asked in Lecture 6
+
+## Rock cycle
+
+There are three types of rocks: igneous, sedimentary, and metamorphic. The rock cycle describes how these rocks can change from one type to another over time.
+
+- [You can find more information about the rock cycle here](https://opentextbc.ca/geology/chapter/3-1-the-rock-cycle/)
+- [I have also made a document on the rock cycle, which you can find here](https://vickysharma0812.github.io/SWSE/index-5https://vickysharma0812.github.io/SWSE/index-5)
+
+## Double diffusion layer
+
+The double diffuse layer (DDL) is a two-layer structure that forms at the interface between a clay particle and the surrounding solution, primarily due to the clay's negative charge. This layer plays a crucial role in understanding clay's behavior in various soil and water systems.
+
+- The clay particle are very small (less than 2 micrometers) and have a large surface area.
+- The behavior of a single clay particle or assembly of several clay particles is many governed by the electrostatic forces between the clay particles and the surrounding solution.
+- The negative charge of the clay particle attracts hydrogen ions (H+) and cations (positively charged ions) from the surrounding solution, forming a double diffuse layer.
+- The first layer, known as the Stern layer, is tightly bound to the clay particle and consists of cations and water molecules.
+- The second layer, known as the diffuse layer, is more loosely bound and contains a mix of cations and anions (negatively charged ions).
+
+## Chemical weathering
+
+Even though rocks look hard and solid, some of them can react to acid. That is why we often perform acid tests on rocks to identify them. Pleas see the following video which explains the procedure of acid test on rocks.
+
+{{< video https://youtu.be/woKXYlqngCQ?si=afe4NyBf_vQnOmno >}}
+
+- In nature, the rocks can come into contact with the acid in several ways. For example, the rain water contains CO2 dissolved in water which makes it slightly acidic. This is called carbonic acid. Some organic acids are also produced by the decomposition of organic matter. These acids can react with the minerals in the rocks, leading to chemical weathering.
+- Usually the product of acid reaction dissolved in water at one place, and they get transported to another place with water. There, these products can precipitate out of the solution and form new minerals. This process is called precipitation. For example, when calcium carbonate (CaCO3) dissolves in water, it can form calcium ions (Ca2+) and bicarbonate ions (HCO3-). When the concentration of these ions becomes high enough, they can precipitate out of the solution and form new minerals, such as calcite or aragonite.
+
+I find the following video very useful to understand the chemical weathering process and formation of Karst caves.
+
+{{< video https://youtu.be/EX0q5I3-HZI?si=M9nRl04UPVR6Tm6B >}}
+
+## Biological weathering
+
+Biological weathering is the process by which living organisms, such as plants, animals, and microorganisms, break down rocks and minerals. 
+This process can occur through physical or chemical means and is an essential part of the rock cycle.
+
+## Why biological weathering entails chemical weathering?
+
+Biological weathering leads to chemical weathering because biological processes, like those of plants and microorganisms, can produce acidic substances and chelating agents that chemically alter rock minerals.
+
+## Big particles and small particles
+
+Consider you have a cube of size 10 cm. The volume of the cube denotes how big the particle of cube is. In this case it will be 1000 cm^3. A cube contains 6 faces, front, back, top, bottom, left, and right. Each face has an area of 10 cm x 10 cm = 100 cm^2. The total surface area of the cube is 6 x 100 cm^2 = 600 cm^2.
+
+Now let us divide this cube into two smaller parts. Then each  piece will have 6 faces. So there are 12 faces in total. This will have more surface area than the original cube. This is because by cuttting the cude we have generated another face which was not there before (It was inside the cube and not exposed to the outside). This experiment tells us that as we cut the cube into smaller pieces, the mass of the cubes  (collection of new smaller cubes) remain the same but the surface area increases. Therefore if we take one kg of sand (big particle) and grind it into smaller pieces (small particles), the mass will remain the same but the surface area will increase. We can use this concept to explain that one kg of clay will have more surface area than the one kg of sand. This is one of the reason why clay are more reactive than sand.
+
+Class question:
+
+Let us say that the size of the original cube is a, and the size of the smaller cube is b.
+
+- Big cude calculation
+  - Volume = $a^3$
+  - Surface area = $6a^2$
+- Small cube calculation
+  - Volume = $b^3$
+  - Surface area = $6b^2$
+  - There are 8 cubes of size b, therefore total surface area is $6b^2 x 8 = 48b^2$
+- Relation between a and b is found by knowing that the volume of the big cube is equal to the volume of the small cubes. Therefore, $a^3 = 8b^3$ or $a = 2b$.
+- Ration of surface area of smaller cubes to the surface area of the big cube is $48b^2 / 6a^2 = 48b^2 / 6(2b)^2 = 48b^2 / 24b^2 = 2$.
