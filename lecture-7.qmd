@@ -1,0 +1,52 @@
+---
+title: "Sustainable Forest Environment (SFE)"
+subtitle: "Lecture 7: Hydrological and Nutrient Cycles(Last update: 16 May 2025)"
+bibliography: references.bib
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    chalkboard:
+      buttons: true
+    preview-links: auto
+    logo: figures/cover.svg
+    footer: 'Kyoto University | Sustainable Forest Environment (SFE)'
+    css: styles.css
+    smaller: true
+    scrollable: false
+    # self-contained: true
+    #width: 960       # default is 960
+    #height: 700       # default is 700
+    #margin: 0.1       # optional, controls slide margins (default: 0.1)
+    #minScale: 0.2     # minimum zoom scale
+    #maxScale: 2.0     # maximum zoom scale
+---
+
+## Learning Objectives
+
+- Hydrological cycle (water cycle)
+- Carbon cycle
+- Nitrogen cycle
+
+## Water/Hydrological Cycle
+
+
+![Water cycle](https://www.alevelgeography.com/wp-content/uploads/2016/01/drainage-basin-system.jpg)
+
+
+## Transpiration
+
+- Transpiration: Process of water movement through a plant out into the atmosphere from aerial parts, such as leaves, stems and flowers.
+- As water loss happens even in the absence of rainfall, transpiration is also called dry leaf evaporation.
+- Controlled by opening and closing of stomata in response to wet or drought like conditions.
+- Conifers are very good at closing their stomata and thus are very efficient in conserving water.
+
+## Evaporation
+
+- Evaporation refers to the loss of water intercepted on the leaf surface to vapour stat. Hence, it is also called wet leaf evaporation.
+- Water may be intercepted from rainfall or fog.
+- Forests and grasslands have similar transpiration rates, but evaporation loss is much more in forests.
+- Evaporation loss depend upon several factors including canopy structure and climatic conditions of the forest site.
+
+## Effect of Canopy structure on Evaporation
+
