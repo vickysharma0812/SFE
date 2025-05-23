@@ -13,7 +13,7 @@ format:
     footer: 'Kyoto University | Sustainable Forest Environment (SFE)'
     css: styles.css
     smaller: true
-    scrollable: false
+    scrollable: true
     # self-contained: true
     #width: 960       # default is 960
     #height: 700       # default is 700
@@ -225,5 +225,80 @@ Transpiration is essential in connecting soil water content to atmospheric moisu
 
 - Further reading: The role of trees in urban stormwater management: https://www.sciencedirect.com/science/article/abs/pii/S0169204617300464
 - Towards optimized runoff reduction by urban tree cover: A review of key physical tree traits, site conditions, and management strategies https://www.sciencedirect.com/science/article/pii/S0169204623001688
+
+# Nutrient Cycles
+
+## Biogeochemistry
+
+- Geochemistry is the study of the distribution and cycling of chemical elements in Earth's crust and Interior
+  - Investigates the compositions and behavior of elements/ compounds in rocks, minerals, soil, water, and the atmosphere.
+- Biogeochemistry adds on a biological components to this.
+
+:::{.callout-note}
+Biogeochemistry is the study of interactions between the 
+  - Biosphere (life)
+  - Atmosphere (air), 
+  - Hydrosphere (water)
+  - Geosphere (rocks and soils)
+:::
+
+## Biogeochemical cycle
+
+Biogeochemical cycles transfer essential elements between Earth's
+
+1. Biosphere
+2. Atmosphere
+3. Hydrosphere
+4. Geosphere
+5. Cryosphere
+
+Biogeochemical cycles maintain global nutrient balance and sustain life on Earth.
+
+## CHNOPS
+
+- **C**arbon
+- **H**ydrogen
+- **N**itrogen
+- **O**xygen
+- **P**hosphorus
+- **S**ulfur
+
+
+::: {.callout-note}
+CHNOPS, six elements are the most abundant elements in living organisms. They are essential elements for life on Earth.
+:::
+
+::: {.callout-note}
+There are other elements which are also needed to sustain life on the Earth, but these elements are not needed in GREAT quantities. Examples include Fe, Mn, and trace metals.
+:::
+
+## Carbon Cycle
+
+Driving factors of [carbon cycle](https://earthobservatory.nasa.gov/features/CarbonCycle):
+
+- Photosynthesis: Conversion of CO2 and water into glucose and oxygen using sunlight (Storage of C in plants).
+- Respiration: Conversion of glucose and oxygen into CO2 and water, releasing energy (Release of C from plants).
+
+::: {.callout-note}
+When Photosynthesis is GREATER than Respiration: Carbon getes stored in the plant, plant grows and size increases
+:::
+
+::: {.callout-note}
+When Photosynthesis is SMALLER than Respiration: Carbon is removed from plant, plant size decreases
+:::
+
+
+::: {.callout-note title="Gross vs Net Photosynthesis"}
+- **Gross Photosynthesis**: Total amount of C plant assimilates from the atmosphere.
+- **Net Photosynthesis**: Balance between total amount of Carbon fixed during photosynthesis and the Carbon lost during respiration.
+:::
+
+## C storage in soil
+
+- Plnat take up CO2 and convert it to organuc C, making up their biomass.
+- But storage of C in plants is temporary; When plants die, much of their organic C is converted back to CO2.
+- Soil stores the organic C on long term basis.
+- Soil microbes break down dead plant matter into more resistant organic molecules. These more robust organic molecules make up the humus layer (O horizon) of the soil.
+
 
 
