@@ -1,0 +1,54 @@
+# Questions asked in Lecture 7
+
+## What is hydrologic cycle?
+
+It is basically the auditing of water in the forest ecosystem. In this auditing we are concern with the sources by which water enters the forest ecosystem. We are also concerned with the processes by which water leaves the forest ecosystem.
+
+## Effect of canopy on interception
+
+Interception is the amount of water that is stopped by the canopy of the trees and does not reach the ground. Canopy acts like a roof and stops the rain water from reaching the ground. With time this water evaporates back into the atmosphere. The effect of canopy on interception is discussed in the lecture notes. But let me summarize it here.
+
+- If the canopy is dense, it will have less holes and more water will be intercepted.
+- If number of layers of leaves in canopy is more, then also more water will be intercepted.
+- IF the leaves of the canopy are broader and flatter, then also more water will be intercepted.
+
+In addition, the region of high rainfall will have more interception than the region of low rainfall. This is because in high rainfall region, the canopy will be wet for longer time and therefore more water will evaporate back into the atmosphere.
+
+## Infiltration
+
+When water reaches the ground, a part of it is absorbed by the soil particles (this is called bounded water). The rest of the water flows over the other region of the ground.
+The total amount of water that enters the soil (absorbed water + moving water in soil) is called infiltration.
+
+## Why different soils have different holding capacity?
+
+- First let us recall that the soil is made up of different mineral particles. 
+- In addition, different soils have different size of particles.
+- Smaller particles have more surface area
+- Clay minerals have very small particles, high surface area, and high negative charge on their surface. These particles have high water holding capacity due to the presence of clay minerals such as montmorillonite, illite, and kaolinite.
+
+Now let us try to understand why different soils have different holding capacity. This is because they have different amount of clay and organic matter. Even though clay have high water holding capacity. Different clay minerals have different water holding capacity. For example, montormillonite has higher water holding capacity than kaolinite.
+
+## Role of Organic matter in water cycle
+
+The O horizon is the top layer of soil that contains organic matter. The water holding capacity of the organic matter is very high.
+
+Soil organic matter (SOM) has a high water retention capacity primarily due to its **unique physical and chemical properties**. It acts like a **sponge**, improving soil structure and directly holding onto water molecules. Soil organic matter enhances water retention through several interconnected mechanisms:
+
+### Physical Properties
+
+* **Porous Structure and Increased Pore Space:** Organic matter, especially well-decomposed humus, has a highly porous structure. This significantly increases the total pore space in the soil. These pores, particularly the smaller micropores, are crucial for holding water against the force of gravity, making it available for plant uptake.
+* **Improved Soil Aggregation:** SOM acts as a binding agent, helping soil mineral particles (sand, silt, and clay) clump together to form stable aggregates. This improved soil structure creates a wider range of pore sizes:
+    * **Macropores** (larger pores between aggregates) facilitate water infiltration and drainage.
+    * **Micropores** (smaller pores within aggregates) are primarily responsible for storing water that plants can use.
+* **Increased Surface Area:** Organic matter particles, particularly humus, have a vast surface area relative to their size. This large surface area provides more sites for water molecules to adhere to.
+* **Reduced Bulk Density:** As organic matter content increases, the soil's bulk density (weight per unit volume) generally decreases. This indicates a lighter, more porous soil with greater capacity to hold water.
+
+### Chemical Properties
+
+* **Adsorption and Absorption:** Organic matter can **adsorb** water molecules onto its surfaces and **absorb** water into its internal structure. Humus, a key component of SOM, can hold up to 90% of its weight in water.
+* **Hydrogen Bonding:** Organic matter contains numerous functional groups (e.g., carboxyl, hydroxyl) that are polar. These groups can form hydrogen bonds with water molecules ($H_2O$). This chemical attraction helps the soil retain water more effectively.
+* **Enhanced Plant Available Water (PAW):** Importantly, much of the water held by organic matter is in a form that is readily available to plants. While clay soils can hold a lot of water, a significant portion is held too tightly for plants to access. Organic matter increases the amount of water held between field capacity (the amount of water soil holds after excess has drained away) and the permanent wilting point (the point at which plants can no longer extract water). This is particularly beneficial in coarse-textured (sandy) soils, which naturally have low water holding capacity.
+
+In essence, adding organic matter to soil improves its physical structure, creating more and better-sized pores, while its chemical nature allows it to attract and hold onto water molecules, ultimately leading to a greater capacity to store water that is accessible to plants.
+
+
