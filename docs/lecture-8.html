@@ -1,0 +1,886 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-html/tabby.min.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/light-border.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.7.31">
+
+  <title>Sustainable Forest Environment (SFE)</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="site_libs/revealjs/dist/reset.css">
+  <link rel="stylesheet" href="site_libs/revealjs/dist/reveal.css">
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+      vertical-align: middle;
+    }
+  </style>
+  <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto-2c1b5f745a11cfad616ebade4a4a7d24.css">
+  <link rel="stylesheet" href="styles.css">
+  <link href="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
+  <link href="site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
+  <link href="site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
+  <link href="site_libs/revealjs/plugin/reveal-chalkboard/font-awesome/css/all.css" rel="stylesheet">
+  <link href="site_libs/revealjs/plugin/reveal-chalkboard/style.css" rel="stylesheet">
+  <link href="site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
+  <style type="text/css">
+    .reveal div.sourceCode {
+      margin: 0;
+      overflow: auto;
+    }
+    .reveal div.hanging-indent {
+      margin-left: 1em;
+      text-indent: -1em;
+    }
+    .reveal .slide:not(.center) {
+      height: 100%;
+      overflow-y: auto;
+    }
+    .reveal .slide.scrollable {
+      overflow-y: auto;
+    }
+    .reveal .footnotes {
+      height: 100%;
+      overflow-y: auto;
+    }
+    .reveal .slide .absolute {
+      position: absolute;
+      display: block;
+    }
+    .reveal .footnotes ol {
+      counter-reset: ol;
+      list-style-type: none; 
+      margin-left: 0;
+    }
+    .reveal .footnotes ol li:before {
+      counter-increment: ol;
+      content: counter(ol) ". "; 
+    }
+    .reveal .footnotes ol li > p:first-child {
+      display: inline-block;
+    }
+    .reveal .slide ul,
+    .reveal .slide ol {
+      margin-bottom: 0.5em;
+    }
+    .reveal .slide ul li,
+    .reveal .slide ol li {
+      margin-top: 0.4em;
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide ul[role="tablist"] li {
+      margin-bottom: 0;
+    }
+    .reveal .slide ul li > *:first-child,
+    .reveal .slide ol li > *:first-child {
+      margin-block-start: 0;
+    }
+    .reveal .slide ul li > *:last-child,
+    .reveal .slide ol li > *:last-child {
+      margin-block-end: 0;
+    }
+    .reveal .slide .columns:nth-child(3) {
+      margin-block-start: 0.8em;
+    }
+    .reveal blockquote {
+      box-shadow: none;
+    }
+    .reveal .tippy-content>* {
+      margin-top: 0.2em;
+      margin-bottom: 0.7em;
+    }
+    .reveal .tippy-content>*:last-child {
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide > img.stretch.quarto-figure-center,
+    .reveal .slide > img.r-stretch.quarto-figure-center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-left,
+    .reveal .slide > img.r-stretch.quarto-figure-left  {
+      display: block;
+      margin-left: 0;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-right,
+    .reveal .slide > img.r-stretch.quarto-figure-right  {
+      display: block;
+      margin-left: auto;
+      margin-right: 0; 
+    }
+  </style>
+</head>
+<body class="quarto-light">
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide" class="quarto-title-block center">
+  <h1 class="title">Sustainable Forest Environment (SFE)</h1>
+  <p class="subtitle">Lecture 8: Nutrient Cycles(Last update: 29 May 2025)</p>
+
+<div class="quarto-title-authors">
+</div>
+
+</section>
+<section id="learning-objectives" class="slide level2">
+<h2>Learning Objectives</h2>
+<ul>
+<li>Carbon cycle</li>
+<li>Nitrogen cycle</li>
+</ul>
+</section>
+<section id="biogeochemistry" class="slide level2">
+<h2>Biogeochemistry</h2>
+<ul>
+<li>Geochemistry is the study of the distribution and cycling of chemical elements in Earth’s crust and Interior
+<ul>
+<li>Investigates the compositions and behavior of elements/ compounds in rocks, minerals, soil, water, and the atmosphere.</li>
+</ul></li>
+<li>Biogeochemistry adds on a biological components to this.</li>
+</ul>
+<div class="callout callout-note callout-titled callout-style-default">
+<div class="callout-body">
+<div class="callout-title">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<p><strong>Note</strong></p>
+</div>
+<div class="callout-content">
+<p>Biogeochemistry is the study of interactions between the</p>
+<ul>
+<li>Biosphere (life)</li>
+<li>Atmosphere (air),</li>
+<li>Hydrosphere (water)</li>
+<li>Geosphere (rocks and soils)</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section id="biogeochemical-cycle" class="slide level2 scrollable">
+<h2>Biogeochemical cycle</h2>
+<div title="Biogeochemical cycle">
+<div class="callout callout-note callout-titled callout-style-default">
+<div class="callout-body">
+<div class="callout-title">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<p><strong>Biogeochemical cycle</strong></p>
+</div>
+<div class="callout-content">
+<p>Biogeochemical cycle <span class="math inline">\(\rightarrow\)</span> A pathway by which a chemical substance moves through biotic (biosphere or living organisms) and abiotic (lithosphere, atmosphere and hydrosphere) compartments of earth.</p>
+</div>
+</div>
+</div>
+</div>
+<p>Biogeochemical cycles transfer essential elements between Earth’s</p>
+<ol type="1">
+<li>Biosphere</li>
+<li>Atmosphere</li>
+<li>Hydrosphere</li>
+<li>Geosphere</li>
+<li>Cryosphere</li>
+</ol>
+<div title="Nutrient">
+<div class="callout callout-note callout-titled callout-style-default">
+<div class="callout-body">
+<div class="callout-title">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<p><strong>Nutrient</strong></p>
+</div>
+<div class="callout-content">
+<p>A substance used by a plant to survive, grow and reproduce.</p>
+</div>
+</div>
+</div>
+</div>
+<p>Biogeochemical cycles maintain global nutrient balance and sustain life on Earth.</p>
+</section>
+<section id="chnops" class="slide level2">
+<h2>CHNOPS</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li>Nitrogen: constituent of proteins, nucleic acids, vitamins etc</li>
+<li>Phosphorus: constituent of nucleic acids, ATP, cell membrane and certain proteins</li>
+<li>Potassium: cation-anion balance needed for maintaining cell turgidity, opening and closing of stomata etc.</li>
+<li><em>Cell turgidity refers to the state of a plant cell when it is swollen and firm due to the uptake of water. It is primarily a result of water entering the cell by osmosis</em></li>
+</ul>
+</div><div class="column" style="width:50%;">
+<ul>
+<li><strong>C</strong>arbon</li>
+<li><strong>H</strong>ydrogen</li>
+<li><strong>N</strong>itrogen</li>
+<li><strong>O</strong>xygen</li>
+<li><strong>P</strong>hosphorus</li>
+<li><strong>S</strong>ulfur</li>
+</ul>
+</div></div>
+</section>
+<section id="chnops-1" class="slide level2">
+<h2>CHNOPS</h2>
+<div class="callout callout-note callout-titled callout-style-default">
+<div class="callout-body">
+<div class="callout-title">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<p><strong>Note</strong></p>
+</div>
+<div class="callout-content">
+<p>CHNOPS, six elements are the most abundant elements in living organisms. They are essential elements for life on Earth.</p>
+</div>
+</div>
+</div>
+<div class="callout callout-note callout-titled callout-style-default">
+<div class="callout-body">
+<div class="callout-title">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<p><strong>Note</strong></p>
+</div>
+<div class="callout-content">
+<p>There are other elements which are also needed to sustain life on the Earth, but these elements are not needed in GREAT quantities. Examples include Fe, Mn, and trace metals.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="generalized-nutrient-cycle" class="slide level2">
+<h2>Generalized Nutrient Cycle</h2>
+
+<img data-src="./figures/michael-lect-4-slide-25.png" class="r-stretch"></section>
+<section id="nutrient-transport" class="slide level2">
+<h2>Nutrient transport</h2>
+<ul>
+<li>Movement of nutrients towards root surfaces in soil solution. It occurs due to two processes: mass flow and diffusion.</li>
+<li>Mass flow: process in which ions move with the flow of water.</li>
+<li>Diffusion: ions move from region of high concentration to low concentration e.g.&nbsp;soil solution to root surface.</li>
+</ul>
+</section>
+<section id="nutrient-uptake" class="slide level2">
+<h2>Nutrient uptake</h2>
+<ul>
+<li>Process by which nutrients in soil solution are actively transported across cell membranes of roots.</li>
+<li>Uptake is controlled by enzymes on the membranes of roots.</li>
+<li>Activity of enzymes increases with increasing nutrient concentration in soil solution until enzyme system is saturated.</li>
+<li>Enzymes are also sensitive to temperatures</li>
+<li>Rapidly growing species like balsam poplar and trembling aspen in warm soils have high uptake capacities of NH4+,NO3- and PO43- as compared to slower-growing paper birch and green alder.</li>
+</ul>
+<h4 id="nutrient-assimilation">Nutrient assimilation</h4>
+<ul>
+<li>Biochemical incorporation of inorganic nutrients, transported into plant cells, into organic compounds such as amino acids, nucleic acids, lipids or other biologically active compounds.</li>
+</ul>
+</section>
+<section id="jack-pine" class="slide level2">
+<h2>Jack pine</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li>Has low physiological capacity to uptake NO3- in soil, even when concentrations of NO3- ions is very high.</li>
+<li>Jack pine shows a preference to uptake and assimilate NH4+ ions as compared to NO3- ions from soil solution to meet its Nitrogen demands.</li>
+<li>One reason for this could be that plants must reduce NO3- to NH4+ before it can be assimilated into biologically active compounds.</li>
+<li>This process requires large amounts of energy.</li>
+<li>What is the consequence of planting jack pine in NO<sub>3</sub><sup>-</sup> rich soils?</li>
+</ul>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Pinus_banksiana.jpg" style="width:40.0%"></p>
+<figcaption>Jack pine Source: Wikipedia</figcaption>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="different-forms-of-nitrogen" class="slide level2">
+<h2>Different forms of Nitrogen</h2>
+<ul>
+<li>Nitrogen exists in several chemical forms in the environment, particularly within the nitrogen cycle</li>
+<li>These forms can be broadly categorized into inorganic and organic forms, each with distinct roles in soil fertility, plant nutrition, and ecosystem functioning.</li>
+</ul>
+<h4 id="inorganic-nitrogen">Inorganic Nitrogen</h4>
+<ul>
+<li>Dinitrogen Gas (N₂):</li>
+<li>Ammonium (NH₄⁺):</li>
+<li>Nitrite (NO₂⁻): Rapidly converted to nitrate in aerobic soils.</li>
+<li>Nitrate (NO₃⁻): Highly mobile and a major nitrogen source for plants.</li>
+<li>Nitrous Oxide (N₂O) and Nitric Oxide (NO): Gaseous oxides of nitrogen, By-products of denitrification and nitrification.</li>
+</ul>
+</section>
+<section id="different-forms-of-nitrogen-1" class="slide level2">
+<h2>Different forms of Nitrogen</h2>
+<h4 id="organic-nitrogen">Organic Nitrogen</h4>
+<ul>
+<li>Amino Acids and Proteins: building blocks of living cells. Present in plant residues, microbial biomass, and animal waste.</li>
+<li>Nucleic Acids: DNA and RNA, essential for genetic information transfer.</li>
+<li>Urea: A nitrogenous compound excreted by animals, can be hydrolyzed to release ammonium.
+<ul>
+<li>Synthetic and naturally occurring organic compound.</li>
+<li>Common nitrogen fertilizer.</li>
+<li>Rapidly converted to NH₄⁺ and CO₂ in soil by urease enzymes.</li>
+</ul></li>
+</ul>
+</section>
+<section id="nitrogen-cycle" class="slide level2">
+<h2>Nitrogen Cycle</h2>
+
+<img data-src="./figures/michael-lect-4-slide-29.png" class="r-stretch"></section>
+<section id="nitrogen-cycle-1" class="slide level2">
+<h2>Nitrogen Cycle</h2>
+<ul>
+<li>Nitrogen gas <span class="math inline">\(N_{2}\)</span> makes up about 80% of the atmosphere, but it is not directly usable by plants or animals.</li>
+<li>Nitrogen fixing bacteria convert <span class="math inline">\(N_{2}\)</span> into ammonia <span class="math inline">\(\text{NH}_{3}\)</span> or ammonium <span class="math inline">\(\text{NH}_{4}^{+}\)</span>, which can be used by plants and other microbes.</li>
+<li>In this way, nitrogen is the only nutrient which is biologically fixed for plant use</li>
+<li><strong>Nitrogen fixation</strong> is the process of converting atmospheric nitrogen (<span class="math inline">\(N_{2}\)</span>) into ammonia (<span class="math inline">\(NH_{3}\)</span>) or ammonium (<span class="math inline">\(NH_{4}^{+}\)</span>)</li>
+<li><strong>Nitrifying bacteria</strong> convert ammonia into nitrite <span class="math inline">\(\text{NO}_{2}^{-}\)</span> and then into nitrate <span class="math inline">\(\text{NO}_{3}^{-}\)</span>, which is also usable by plants.</li>
+<li><strong>Denitrifying bacteria</strong> convert nitrate back into nitrogen gas, completing the cycle.</li>
+</ul>
+</section>
+<section id="nitrogen-cycle-2" class="slide level2">
+<h2>Nitrogen Cycle</h2>
+
+<img data-src="./figures/nitrogen-cycle.png" class="r-stretch quarto-figure-center"><p class="caption">Nitrogen cycle</p></section>
+<section id="nitrogen-cycle-3" class="slide level2">
+<h2>Nitrogen Cycle</h2>
+
+<img data-src="./figures/michael-lect-4-slide-30.png" class="r-stretch"></section>
+<section id="free-living-nitrogen-fixing-organisms" class="slide level2">
+<h2>Free living nitrogen-fixing organisms</h2>
+<ul>
+<li>In general, fixation by free living bacteria is relatively small (1 to 5 Kg N/ha/yr).</li>
+<li>Fixation requires large amount of energy and only limited amount of energy is available for free living bacteria in organic soils.</li>
+<li>Examples:
+<ul>
+<li>Azotobacter: aerobic, free-living bacteria that depends on other sources of organic carbon for nutrition.</li>
+<li>Cyanobacteria (blue-green algae): Photosynthetic microorganisms. Their activity is limited in forests due to high light requirement.</li>
+</ul></li>
+</ul>
+</section>
+<section id="symbiotic-nitrogen-fixing-organisms" class="slide level2">
+<h2>Symbiotic nitrogen-fixing organisms</h2>
+<ul>
+<li>In general, fixation by symbiotic organisms is much higher relative to free living organisms (30 to 85 Kg N/ha/yr).</li>
+<li>Symbiotic organisms generally inhabit the roots of plants. Plants supply carbohydrates to meet the large energy requirements of nitrogen fixation by the symbiotic organism and in return NH4+ is provided to the plant.</li>
+<li>Examples:
+<ul>
+<li>Actinomycetes: Anaerobic bacteria that infect root hairs and induce the formation of root nodules (sites for N2 fixation).</li>
+<li>Rhizobium: Bacteria that exclusively infect roots of legumes (beans, soybean, peanuts etc.) to form nodules.</li>
+</ul></li>
+<li>Addition of N2-fixing plants/trees to N-poor soils can help increase rates of biomass accumulation and nutrient cycling during ecosystem development.</li>
+</ul>
+</section>
+<section id="root-nodules" class="slide level2">
+<h2>Root nodules</h2>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Glycine_max_root_nodules.jpg"></p>
+<figcaption>Root nodules Soybeans</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Tuinboon_stikstofknolletjes.jpg"></p>
+<figcaption>Root nodules</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="mineralization-and-immobilization" class="slide level2">
+<h2>Mineralization and immobilization</h2>
+<ul>
+<li>Mineralization is the decomposition (i.e., oxidation) of the chemical compounds in organic matter, by which the nutrients in those compounds are released in soluble inorganic forms that may be available to plants.</li>
+<li>Soil microbes break down complex polymer organic molecules to simpler monomers.</li>
+<li>Microbial decomposers assimilate the monomers.</li>
+<li>Microbes either <strong>mineralize</strong> them into inorganic form <span class="math inline">\(\text{NH}_{4}^{+}\)</span> or use the monomers for their own biosynthetic needs.</li>
+</ul>
+</section>
+<section id="mineralization-and-immobilization-1" class="slide level2">
+<h2>Mineralization and immobilization</h2>
+<ul>
+<li>When organic matter has low C:N ratio (less than 25:1), biosynthesis needs of microbes is met by N in organic matter itself and excess N is released (<strong>mineralized</strong>) as <span class="math inline">\(\text{NH}_{4}^{+}\)</span> into the environment. When organic matter has high C:N ratio (greater than 30:1), N in organic matter isn’t sufficient for biosynthesis. Then decomposing microbes <strong>immobilize</strong> <span class="math inline">\(\text{NH}_{4}^{+}\)</span> from the environment making less <span class="math inline">\(\text{NH}_{4}^{+}\)</span> available for plant use. As decomposition continues, C in organic matter is consumed more rapidly than N and the C:N ratio reduces and once again mineralization starts releasing <span class="math inline">\(\text{NH}_{4}^{+}\)</span> into the environment for plant use.</li>
+</ul>
+</section>
+<section id="litter-decomposition" class="slide level2">
+<h2>Litter decomposition</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li>Microbial decomposers release exoenzymes (1), which depolymerize plant biopolymers to soluble monomers (2)</li>
+<li>Microbial decomposers assimilate the monomers (3) and either use the contained organic matter for growth or to obtain energy through mineralization (4)</li>
+<li>Microbial growth leads to an accumulation of microbial biomass within litter. N mineralization leads to a loss of ammonium to the environment (5), but this process is only active if amino acid–N supply (due to protein depolymerization) exceeds microbial N demand.</li>
+<li>Ammonium from the environment can addi- tionally serve to fulfill microbial N demand (6).</li>
+</ul>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="./figures/reuter_et_al.png"></p>
+<figcaption>A conceptual view of carbon (C) cycling and nitrogen (N) cycling during litter decomposition, Source: https://bg.copernicus.org/articles/17/499/2020/bg-17-499-2020.pdf</figcaption>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="biogeochemical-efficiency-of-forests" class="slide level2">
+<h2>Biogeochemical efficiency of forests</h2>
+
+<img data-src="./figures/biogeochemical-efficiency-1.png" class="r-stretch"></section>
+<section id="biogeochemical-efficiency-of-forests-1" class="slide level2">
+<h2>Biogeochemical efficiency of forests</h2>
+
+<img data-src="./figures/biogeochemical-efficiency-2.png" class="r-stretch"></section>
+<section id="carbon-cycle" class="slide level2">
+<h2>Carbon Cycle</h2>
+<p>Driving factors of <a href="https://earthobservatory.nasa.gov/features/CarbonCycle">carbon cycle</a>:</p>
+<ul>
+<li><strong>Photosynthesis</strong>: Conversion of CO2 and water into glucose and oxygen using sunlight (Storage of C in plants).</li>
+<li><strong>Respiration</strong>: Conversion of glucose and oxygen into CO2 and water, releasing energy (Release of C from plants).</li>
+</ul>
+<h4 id="when-photosynthesis-is-greater-than-respiration-carbon-getes-stored-in-the-plant-plant-grows-and-size-increases">When Photosynthesis is GREATER than Respiration: Carbon getes stored in the plant, plant grows and size increases</h4>
+<h4 id="when-photosynthesis-is-smaller-than-respiration-carbon-is-removed-from-plant-plant-size-decreases">When Photosynthesis is SMALLER than Respiration: Carbon is removed from plant, plant size decreases</h4>
+</section>
+<section id="carbon-cycle-1" class="slide level2">
+<h2>Carbon Cycle</h2>
+<div title="Gross vs Net Photosynthesis">
+<div class="callout callout-note callout-titled callout-style-default">
+<div class="callout-body">
+<div class="callout-title">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<p><strong>Gross vs Net Photosynthesis</strong></p>
+</div>
+<div class="callout-content">
+<ul>
+<li><strong>Gross Photosynthesis</strong>: Total amount of C plant assimilates from the atmosphere.</li>
+<li><strong>Net Photosynthesis</strong>: Balance between total amount of Carbon fixed during photosynthesis and the Carbon lost during respiration.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<h4 id="in-simpler-terms-gross-photosynthesis-is-the-total-carbon-intake-while-net-photosynthesis-is-the-carbon-intake-minus-the-carbon-lost-through-respiration">In simpler terms, gross photosynthesis is the total carbon intake, while net photosynthesis is the carbon intake minus the carbon lost through respiration</h4>
+</section>
+<section id="c-storage-in-soil" class="slide level2">
+<h2>C storage in soil</h2>
+<ul>
+<li>Plant take up CO2 and convert it to organic C, making up their biomass.</li>
+<li>But storage of C in plants is temporary; When plants die, much of their organic C is converted back to CO2.</li>
+<li>Soil stores the organic C on long term basis.</li>
+<li>Soil microbes break down dead plant matter into more resistant organic molecules. These more robust organic molecules make up the humus layer (O horizon) of the soil.</li>
+</ul>
+
+
+</section>
+    </div>
+  <div class="quarto-auto-generated-content" style="display: none;">
+<p><img src="figures/cover.svg" class="slide-logo"></p>
+<div class="footer footer-default">
+<p>Kyoto University | Sustainable Forest Environment (SFE)</p>
+</div>
+</div></div>
+
+  <script>window.backupDefine = window.define; window.define = undefined;</script>
+  <script src="site_libs/revealjs/dist/reveal.js"></script>
+  <!-- reveal.js plugins -->
+  <script src="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
+  <script src="site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
+  <script src="site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
+  <script src="site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
+  <script src="site_libs/revealjs/plugin/reveal-chalkboard/plugin.js"></script>
+  <script src="site_libs/revealjs/plugin/quarto-support/support.js"></script>
+  
+
+  <script src="site_libs/revealjs/plugin/notes/notes.js"></script>
+  <script src="site_libs/revealjs/plugin/search/search.js"></script>
+  <script src="site_libs/revealjs/plugin/zoom/zoom.js"></script>
+  <script src="site_libs/revealjs/plugin/math/math.js"></script>
+  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+'controlsAuto': true,
+'previewLinksAuto': true,
+'pdfSeparateFragments': false,
+'autoAnimateEasing': "ease",
+'autoAnimateDuration': 1,
+'autoAnimateUnmatched': true,
+'jumpToSlide': true,
+'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleScrollView(event)\"><kbd>r</kbd> Scroll View Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleChalkboard(event)\"><kbd>b</kbd> Toggle Chalkboard</a></li>\n<li class=\"slide-tool-item\" data-item=\"6\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleNotesCanvas(event)\"><kbd>c</kbd> Toggle Notes Canvas</a></li>\n<li class=\"slide-tool-item\" data-item=\"7\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.downloadDrawings(event)\"><kbd>d</kbd> Download Drawings</a></li>\n<li class=\"slide-tool-item\" data-item=\"8\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
+'chalkboard': {"buttons":true},
+'smaller': true,
+ 
+        // Display controls in the bottom right corner
+        controls: false,
+
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: false,
+
+        // Determines where controls appear, "edges" or "bottom-right"
+        controlsLayout: 'edges',
+
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: 'faded',
+
+        // Display a presentation progress bar
+        progress: true,
+
+        // Display the page number of the current slide
+        slideNumber: 'c/t',
+
+        // 'all', 'print', or 'speaker'
+        showSlideNumber: 'all',
+
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: true,
+
+        // Start with 1 for the hash rather than 0
+        hashOneBasedIndex: false,
+
+        // Flags if we should monitor the hash and change slides accordingly
+        respondToHashChanges: true,
+
+        // Push each slide change to the browser history
+        history: true,
+
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+
+        // Enable the slide overview mode
+        overview: true,
+
+        // Disables the default reveal.js slide layout (scaling and centering)
+        // so that you can use custom CSS layout
+        disableLayout: false,
+
+        // Vertical centering of slides
+        center: false,
+
+        // Enables touch navigation on devices with touch input
+        touch: true,
+
+        // Loop the presentation
+        loop: false,
+
+        // Change the presentation direction to be RTL
+        rtl: false,
+
+        // see https://revealjs.com/vertical-slides/#navigation-mode
+        navigationMode: 'linear',
+
+        // Randomizes the order of slides each time the presentation loads
+        shuffle: false,
+
+        // Turns fragments on and off globally
+        fragments: true,
+
+        // Flags whether to include the current fragment in the URL,
+        // so that reloading brings you to the same fragment position
+        fragmentInURL: false,
+
+        // Flags if the presentation is running in an embedded mode,
+        // i.e. contained within a limited portion of the screen
+        embedded: false,
+
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
+
+        // Flags if it should be possible to pause the presentation (blackout)
+        pause: true,
+
+        // Flags if speaker notes should be visible to all viewers
+        showNotes: false,
+
+        // Global override for autoplaying embedded media (null/true/false)
+        autoPlayMedia: null,
+
+        // Global override for preloading lazy-loaded iframes (null/true/false)
+        preloadIframes: null,
+
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+
+        // Use this method for navigation when auto-sliding
+        autoSlideMethod: null,
+
+        // Specify the average time in seconds that you think you will spend
+        // presenting each slide. This is used to show a pacing timer in the
+        // speaker view
+        defaultTiming: null,
+
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+
+        // The display mode that will be used to show slides
+        display: 'block',
+
+        // Hide cursor if inactive
+        hideInactiveCursor: true,
+
+        // Time before the cursor is hidden (in ms)
+        hideCursorTime: 5000,
+
+        // Opens links in an iframe preview overlay
+        previewLinks: false,
+
+        // Transition style (none/fade/slide/convex/concave/zoom)
+        transition: 'none',
+
+        // Transition speed (default/fast/slow)
+        transitionSpeed: 'default',
+
+        // Transition style for full page slide backgrounds
+        // (none/fade/slide/convex/concave/zoom)
+        backgroundTransition: 'none',
+
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        // Number of slides away from the current that are visible on mobile
+        // devices. It is advisable to set this to a lower number than
+        // viewDistance in order to save resources.
+        mobileViewDistance: 2,
+
+        // The "normal" size of the presentation, aspect ratio will be preserved
+        // when the presentation is scaled to fit different resolutions. Can be
+        // specified using percentage units.
+        width: 1050,
+
+        height: 700,
+
+        // Factor of the display size that should remain empty around the content
+        margin: 0.1,
+
+        math: {
+          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js',
+          config: 'TeX-AMS_HTML-full',
+          tex2jax: {
+            inlineMath: [['\\(','\\)']],
+            displayMath: [['\\[','\\]']],
+            balanceBraces: true,
+            processEscapes: false,
+            processRefs: true,
+            processEnvironments: true,
+            preview: 'TeX',
+            skipTags: ['script','noscript','style','textarea','pre','code'],
+            ignoreClass: 'tex2jax_ignore',
+            processClass: 'tex2jax_process'
+          },
+        },
+
+        // reveal.js plugins
+        plugins: [QuartoLineHighlight, PdfExport, RevealMenu, RevealChalkboard, QuartoSupport,
+
+          RevealMath,
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    <script id="quarto-html-after-body" type="application/javascript">
+      window.document.addEventListener("DOMContentLoaded", function (event) {
+        const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
+        tabsets.forEach(function(tabset) {
+          const tabby = new Tabby('#' + tabset.id);
+        });
+        const isCodeAnnotation = (el) => {
+          for (const clz of el.classList) {
+            if (clz.startsWith('code-annotation-')) {                     
+              return true;
+            }
+          }
+          return false;
+        }
+        const onCopySuccess = function(e) {
+          // button target
+          const button = e.trigger;
+          // don't keep focus
+          button.blur();
+          // flash "checked"
+          button.classList.add('code-copy-button-checked');
+          var currentTitle = button.getAttribute("title");
+          button.setAttribute("title", "Copied!");
+          let tooltip;
+          if (window.bootstrap) {
+            button.setAttribute("data-bs-toggle", "tooltip");
+            button.setAttribute("data-bs-placement", "left");
+            button.setAttribute("data-bs-title", "Copied!");
+            tooltip = new bootstrap.Tooltip(button, 
+              { trigger: "manual", 
+                customClass: "code-copy-button-tooltip",
+                offset: [0, -8]});
+            tooltip.show();    
+          }
+          setTimeout(function() {
+            if (tooltip) {
+              tooltip.hide();
+              button.removeAttribute("data-bs-title");
+              button.removeAttribute("data-bs-toggle");
+              button.removeAttribute("data-bs-placement");
+            }
+            button.setAttribute("title", currentTitle);
+            button.classList.remove('code-copy-button-checked');
+          }, 1000);
+          // clear code selection
+          e.clearSelection();
+        }
+        const getTextToCopy = function(trigger) {
+            const codeEl = trigger.previousElementSibling.cloneNode(true);
+            for (const childEl of codeEl.children) {
+              if (isCodeAnnotation(childEl)) {
+                childEl.remove();
+              }
+            }
+            return codeEl.innerText;
+        }
+        const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+          text: getTextToCopy
+        });
+        clipboard.on('success', onCopySuccess);
+        if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+          const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+            text: getTextToCopy,
+            container: window.document.getElementById('quarto-embedded-source-code-modal')
+          });
+          clipboardModal.on('success', onCopySuccess);
+        }
+          var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+          var mailtoRegex = new RegExp(/^mailto:/);
+            var filterRegex = new RegExp('/' + window.location.host + '/');
+          var isInternal = (href) => {
+              return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+          }
+          // Inspect non-navigation links and adorn them if external
+         var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+          for (var i=0; i<links.length; i++) {
+            const link = links[i];
+            if (!isInternal(link.href)) {
+              // undo the damage that might have been done by quarto-nav.js in the case of
+              // links that we want to consider external
+              if (link.dataset.originalHref !== undefined) {
+                link.href = link.dataset.originalHref;
+              }
+            }
+          }
+        function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+          const config = {
+            allowHTML: true,
+            maxWidth: 500,
+            delay: 100,
+            arrow: false,
+            appendTo: function(el) {
+                return el.closest('section.slide') || el.parentElement;
+            },
+            interactive: true,
+            interactiveBorder: 10,
+            theme: 'light-border',
+            placement: 'bottom-start',
+          };
+          if (contentFn) {
+            config.content = contentFn;
+          }
+          if (onTriggerFn) {
+            config.onTrigger = onTriggerFn;
+          }
+          if (onUntriggerFn) {
+            config.onUntrigger = onUntriggerFn;
+          }
+            config['offset'] = [0,0];
+            config['maxWidth'] = 700;
+          window.tippy(el, config); 
+        }
+        const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+        for (var i=0; i<noterefs.length; i++) {
+          const ref = noterefs[i];
+          tippyHover(ref, function() {
+            // use id or data attribute instead here
+            let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+            try { href = new URL(href).hash; } catch {}
+            const id = href.replace(/^#\/?/, "");
+            const note = window.document.getElementById(id);
+            if (note) {
+              return note.innerHTML;
+            } else {
+              return "";
+            }
+          });
+        }
+        const findCites = (el) => {
+          const parentEl = el.parentElement;
+          if (parentEl) {
+            const cites = parentEl.dataset.cites;
+            if (cites) {
+              return {
+                el,
+                cites: cites.split(' ')
+              };
+            } else {
+              return findCites(el.parentElement)
+            }
+          } else {
+            return undefined;
+          }
+        };
+        var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+        for (var i=0; i<bibliorefs.length; i++) {
+          const ref = bibliorefs[i];
+          const citeInfo = findCites(ref);
+          if (citeInfo) {
+            tippyHover(citeInfo.el, function() {
+              var popup = window.document.createElement('div');
+              citeInfo.cites.forEach(function(cite) {
+                var citeDiv = window.document.createElement('div');
+                citeDiv.classList.add('hanging-indent');
+                citeDiv.classList.add('csl-entry');
+                var biblioDiv = window.document.getElementById('ref-' + cite);
+                if (biblioDiv) {
+                  citeDiv.innerHTML = biblioDiv.innerHTML;
+                }
+                popup.appendChild(citeDiv);
+              });
+              return popup.innerHTML;
+            });
+          }
+        }
+      });
+      </script>
+    
+
+</body></html>
