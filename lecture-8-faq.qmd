@@ -1,0 +1,99 @@
+# Questions asked in Lecture 8
+
+## What is special about Jack Pine in Using N?
+
+We have discussed the following points about Jack Pine in the class.
+
+1. It has low physiological capacity to uptake nitrate in soil, even when concentrations of nitrate ions is very high.
+2. Jack pine shows a preference to uptake and assimilate amonium ions as compared to nitrate ions from soil solution to meet its Nitrogen demands.
+
+Due to point 1, Jack pine is typically adapted to nutrient-poor, well-drained soils, such as dry sandy plains and rocky uplands. By well-drained soils, we mean that the soils have low water holding capacity and water can easily move through the soil profile. In addition such soils have poor nutrient holding capacity.
+
+When Jack Pine is grown in nitrate rich soils, there can be imbalance of nitrogent to other nutrient ration (such as phosphorus, potassium). This can lead to poor growth and development of Jack Pine as discussed in this [paper](https://www.mdpi.com/1999-4907/9/9/549).
+
+The excessive nitrate (or N) in the soil will initially promote the growth but in the long term it will accelerate nutrient imbalance and reduce tree health. It may lead to the acidity of the soil ([Du et al 2025](https://doi.org/10.1016/j.foreco.2025.122523)). This will affect not only the tree health, such as nutrient status, primary production, growth, vitality and mortality, but also affecting plant diversity, microbial activity and nutrient availability as well as gaseous and leaching losses.
+
+Jack pine’s nutrient uptake systems are adapted to low-nutrient environments, and excessive nitrogen can disrupt stoichiometric balances, particularly the nitrogen-to-phosphorus (N:P) and nitrogen-to-magnesium ratios.
+
+Greater availability of nitrogen may lead to allocation of resources to aboveground parts, possibly at the expense of root development. This could make trees more vulnerable to drought stress or windthrow, particularly in less sandy soils.
+
+ Jack pine plantations may not utilize all available nitrogen efficiently. This can lead to nitrate leaching into groundwater or eutrophication of nearby aquatic systems.
+
+Please read the following paper for more information [Zhou et al 2020](https://doi.org/10.1111/nph.17110).
+
+
+## Nitrogen cycle
+
+### Overview of the Nitrogen Cycle
+
+Nitrogen is an essential nutrient for all living organisms, integral to the formation of proteins, nucleic acids, and chlorophyll. Despite its abundance in the atmosphere as dinitrogen gas (N₂), most organisms cannot utilize it in this inert form. The nitrogen cycle encompasses a series of microbial-mediated processes that convert nitrogen into various chemical forms, facilitating its assimilation by living organisms. ￼ ￼
+
+### Key Processes in the Nitrogen Cycle
+
+1. **Nitrogen Fixation**: This process converts atmospheric N₂ into ammonia (NH₃), a form accessible to plants. Biological nitrogen fixation is primarily carried out by specific prokaryotes, including free-living bacteria and symbiotic bacteria associated with plant roots. Abiotic processes, such as lightning and industrial activities, also contribute to nitrogen fixation. ￼
+2. **Nitrification**: Ammonia is oxidized to nitrite (NO₂⁻) and subsequently to nitrate (NO₃⁻) by nitrifying bacteria. These forms are readily absorbed by plants but can also leach into water bodies, leading to environmental concerns. ￼
+3. **Assimilation**: Plants assimilate nitrate and ammonia to synthesize organic nitrogen compounds, which are then transferred through the food web. ￼
+4. **Ammonification**: Decomposition of organic nitrogen from dead organisms and waste products results in the release of ammonia back into the soil, making it available for other processes in the cycle.
+5. **Denitrification**: Under anaerobic conditions, denitrifying bacteria convert nitrate back into gaseous N₂, releasing it into the atmosphere and completing the cycle. ￼
+
+### Human Impact on the Nitrogen Cycle
+
+Since the mid-20th century, human activities have significantly disrupted the natural nitrogen cycle: ￼
+
+- **Agricultural Practices**: The extensive use of synthetic nitrogen fertilizers has increased the amount of bioavailable nitrogen in ecosystems, leading to nutrient imbalances and environmental issues such as eutrophication.
+- **Fossil Fuel Combustion**: Burning fossil fuels releases nitrogen oxides into the atmosphere, contributing to air pollution and acid rain.
+- **Industrial Processes**: The Haber-Bosch process has exponentially increased the amount of fixed nitrogen, surpassing natural fixation rates and altering global nitrogen dynamics. ￼
+
+These anthropogenic influences have led to increased primary productivity in some ecosystems but have also caused detrimental effects, including biodiversity loss, water quality degradation, and the formation of hypoxic zones in aquatic environments.
+
+### Conclusion
+
+The nitrogen cycle is a complex interplay of biological and chemical processes essential for sustaining life on Earth. Microorganisms play a pivotal role in facilitating the transformation of nitrogen into forms usable by plants and animals. However, human activities have significantly altered the natural balance of this cycle, leading to environmental challenges that necessitate sustainable management practices to mitigate adverse impacts. ￼
+
+Please read the introduction of the following paper for a good overview of Nitrogen cycle in forest ecosystem.
+
+- [Zhou et al 2020](https://doi.org/10.1111/nph.17110) Introduction section will given you enough information about importance of N in forest ecosystem.
+- [The Nitrogen Cycle: Processes, Players, and Human Impact](https://www.nature.com/scitable/knowledge/library/the-nitrogen-cycle-processes-players-and-human-15644632/) I recomment readng the Introduction section of this paper.
+- 
+
+
+## Effect of devegetation on nutrient in soils
+
+Clear-cutting, a forest disturbance resulting in the removal of all trees, significantly impacts soil nutrients. It can lead to increased soil nutrient losses, particularly nitrogen (N) and phosphorus (P), and changes in soil properties. These effects are due to reduced nutrient uptake by trees, changes in soil temperature and moisture, and alterations in soil structure.
+
+
+- Increased Soil Temperature and Water Percolation: Clear-cutting reduces evapotranspiration, leading to higher soil temperatures and increased water infiltration, which can accelerate nutrient leaching. 
+- Changes in Soil Structure: Clear-cutting can disrupt soil aggregate structure, making soils more prone to erosion and nutrient loss. 
+- Increased Mineralization and Leaching: Following clear-cutting, nitrogen mineralization increases, and the resulting inorganic nitrogen (ammonium and nitrate) can be leached from the soil, potentially reaching groundwater and streams. 
+- Loss of Soil Organic Matter: Clear-cutting can accelerate the loss of soil organic matter (SOM), which is a crucial source of nutrients. 
+
+- [Effects of clearcutting and girdling on soil respiration and fluxes of dissolved organic carbon and nitrogen in a Japanese cedar plantation](https://doi.org/10.1016/j.foreco.2021.119520)
+- [Please read this article on clearing cutting of forest](https://eos.com/blog/clear-cutting/)
+- [Short-term impacts of forest clear-cut on soil structure and consequences for organic matter composition and nutrient speciation: A case study](https://pmc.ncbi.nlm.nih.gov/articles/PMC6675395/)
+- [Effects of whole-tree and stem-only clearcutting on forest floor and soil carbon and nutrients in a balsam fir](https://www-sciencedirect-com.kyoto-u.idm.oclc.org/science/article/pii/S037811272200319X)
+- [Clear-cut forest harvest impacts on soil quality indicators in the mixedwood forest of Saskatchewan, Canada](https://doi.org/10.1016/S0016-7061(96)00075-4)
+
+## Biogeochemical efficiency of forest ecosystems
+
+Forests are highly efficient in biogeochemical cycling, playing a crucial role in regulating the movement of elements like carbon, nitrogen, and phosphorus between living organisms and the environment. This efficiency is due to a combination of factors, including high rates of photosynthesis, nutrient uptake from the soil, and nutrient recycling through processes like litterfall and decomposition.
+
+Forest productivity can be assessed through the annual biomass gain per hectare. In tropical forests, rapid decomposition of organic debris ensures efficient nutrient recycling, preventing organic matter buildup and maintaining a balance between carbon input and output.
+
+In contrast, temperate deciduous forests accumulate organic material, forming nutrient-rich humus, making them more effective at storing carbon and nitrogen compared to tropical forests. Boreal forests also serve as significant carbon and nitrogen sinks, but climate change is diminishing their extent, contributing to increased greenhouse gas emissions due to altered biogeochemical cycles.
+
+Nitrogen enters forest soils through biological fixation—either via symbiotic relationships or atmospheric processes like lightning—and to a lesser extent through precipitation. In Estonia, nitrogen availability in forests is relatively low. Among native species, only alders engage in nitrogen fixation, enhancing soil fertility, though the process is energetically demanding; producing 100 kg of nitrogen can require around 2 tonnes of dry biomass from alder trees.
+
+Please read the introduction and abstract of the following paper for more information on biogeochemical efficiency of forest ecosystems.
+
+- [Forest production efficiency increases with growth temperature](https://www.nature.com/articles/s41467-020-19187-w)
+
+## Mineralization and immobilization of nitrogen
+
+Mineralization and immobilization are key processes in the nitrogen cycle, involving the transformation of nitrogen between organic and inorganic forms. Mineralization converts organic nitrogen to inorganic forms like ammonium, making it available to plants, while immobilization transforms inorganic nitrogen into organic forms within soil microbes, temporarily making it unavailable.
+
+The following article provides a good overview of nitrogen cycle including mineralization and immobilization processes:
+
+- [Pdf of Note on Nitrogen Cycle](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cceonondaga.org/resources/nitrogen-basics-the-nitrogen-cycle&ved=2ahUKEwj1lIm9wNSNAxXCcvUHHQs8DVQQ-NANegQIIxAC&usg=AOvVaw0Ato6pyMqqk8nsTFbTDtCr)
+
+
+
