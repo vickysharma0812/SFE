@@ -1,0 +1,476 @@
+---
+title: "Sustainable Forest Environment (SFE)"
+subtitle: "Lecture 9: Threats to forest ecosystem (Last update: 05 June 2025)"
+bibliography: references.bib
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    chalkboard:
+      buttons: true
+    preview-links: auto
+    logo: figures/cover.svg
+    footer: 'Kyoto University | Sustainable Forest Environment (SFE)'
+    css: styles.css
+    smaller: true
+    scrollable: false
+    # self-contained: true
+    #width: 960       # default is 960
+    #height: 700       # default is 700
+    #margin: 0.1       # optional, controls slide margins (default: 0.1)
+    #minScale: 0.2     # minimum zoom scale
+    #maxScale: 2.0     # maximum zoom scale
+---
+
+## Learning Objectives
+
+- Different types of threats to forest ecosystems
+- Biological threats to forest ecosystems
+- Forest fire and its impact on forest ecosystems
+
+## Kinds fo threats
+
+- Natural threats:
+  - Winds
+  - Insects
+  - Diseases
+  - Forest fire
+  - Extreme weather events due to climate change (e.g. drought, floods, storms)
+- Human induced threats:
+  - Deforestation
+  - Pollution (air, water, soil)
+  - Invasive species
+  - Urbanization and infrastructure development
+
+## Natural threats (Frost damage)
+
+::::{.columns}
+
+::: {.column width=70%}
+
+- In very cold regions (especially at night), water inside the cells or on the surface of leaves starts freezing
+  - Due to freezing water expands and exerts pressure which may cause rupture of leaves
+
+- Water in soil can also freezes
+  - Due to freezing volume of water expands and exerts upward pressure on soil
+  - The ground can heave up causing frost heaving
+  - The upward pressure on roots of plants can uproot plants
+
+:::
+
+::: {.column width=30%}
+
+![Frost heaving phenomenon](./figures/lecture-9-figure-1.png){.lightbox width=70%}
+
+:::
+
+::::
+
+## Natural threats (Wind damage)
+
+- Annual average wind speeds are usually between 15-40 km/h
+- Tree breakage or uprooting typically requires wind speeds exceeding 100 km/h
+  - High intensity winds exerts large pressure on the trees which can uproot or break them
+
+:::{.callout-note title="Benifits of wind in forest"}
+
+Winds affect trees by cooling leaves, thinning the boundary layer or air next to leaf surface, helps in increasing uptake of CO2 and release of water.
+
+:::
+
+- The extent of damage depends on tree species, age, soil factors, and forest structure (e.g., density of forest)
+
+## Natural threats (Wind damage)
+
+![Damage to infrastructure caused by a wind storm (photo: Ken Schulze / shutterstock.com)](./figures/lecture-9-figure-2.png){.lightbox width=60%}
+
+Source: Living with Storm Damage to Forests, Gardiner et al.
+
+## Natural threats (Wind damage)
+
+![Storm damage in Les Landes, France following the storm of January 2009 (photo: ©DRAAF Aquitaine](./figures/lecture-9-figure-3.png){.lightbox width=60%}
+
+Source: Living with Storm Damage to Forests, Gardiner et al.
+
+## Tree stems may break or uproot
+
+![Severe winds break the stems of well‐rooted trees (left, lodgepole pine). The tree on the right (Engelmann spruce) blew down because the root system was too weak to withstand the force of wind. Source: Forest Ecology DAN BINKLEY](./figures/lecture-9-figure-4.png){.lightbox}
+
+## Why do trees break or uproot?
+
+::::{.columns}
+
+::: {.column width=60%}
+
+- The tree depicted in the figure grew in a forest where neighboring trees had mostly perished due to bark beetles.
+  - Previously, the surrounding trees' crowns were protecting it from wind
+  - After the neighboring trees died, the tree became isolated, leading to increased wind pressure on its crown.
+
+- Conversely, the tree shown in the figure collapsed despite being among healthy trees with intact canopies.
+  - This failure occurred because fungi had deteriorated its root system, weakening its ground stability.
+
+:::
+
+::: {.column width=40%}
+
+![Figure 1](./figures/lecture-9-figure-6.png){width=70% .lightbox}
+
+![Figure 2](./figures/lecture-9-figure-5.png){width=70% .lightbox}
+
+:::
+
+::::
+
+## Why do trees break or uproot?
+
+- When wind pushes against tree tops, the tree stays upright because of its strong trunk and roots that hold firmly in the ground. The tree transfers the wind's force down into the soil.
+- Trees sway in the wind, deflecting some of the horizontal force of the wind.
+- Palm trees have a special ability to bend. During strong hurricanes, the top part of the tree can bend almost sideways, and the leaves flatten against each other. This helps reduce the pressure on the tree trunk and prevents it from breaking.
+- [This article explains How do palm trees withstand hurricanes?](https://www.livescience.com/60393-why-palm-trees-are-so-flexible.html)
+
+::: {.callout-note appearance="simple" }
+When trees have deep roots or roots firmly anchored in rocks, strong winds can snap their trunks, leaving a rooted stump in the ground.
+:::
+
+::: {.callout-tip appearance="simple" }
+If a tree's trunk is stronger than its roots' grip in the soil, the entire tree gets pulled up from the ground.
+:::
+
+## Natural threats (Insects)
+
+::::{.columns}
+
+::: {.column width=50%}
+
+- Forests have many more insect species than tree species.
+- Most insects help forests by pollinating flowers and eating various plant parts.
+- Insects often interact with bacteria and fungi in ways that either help or harm each other.
+- Sometimes insect populations grow so large they significantly impact forests - for example, caterpillars might eat most of a tree's leaves, or beetles might drill into trees and bring fungi that kill them.
+
+:::
+
+::: {.column width=50%}
+
+![Insects in forest ecosystem](./figures/lecture-9-figure-7.png){.lightbox}
+
+:::
+
+::::
+
+## Natural threats (Insects)
+
+::::{.columns}
+
+::: {.column width=50%}
+
+- The photo on the left (10 x 10 km) shows a 150‐year‐old forest of lodgepole pine in Colorado in 2002.
+- Five years later (2007), most of the large trees were dead as a result of fungal infections spread by mountain pine beetles.
+- Thirteen years after that (2020), a severe wildfire burned across 70,000 ha, including the area in this image.
+:::
+
+::: {.column width=50%}
+
+![Source: Forest Ecology Dan Binkley](./figures/lecture-9-figure-8.png){.lightbox}
+
+:::
+
+::::
+
+## Videos on Bark Beetle Outbreaks
+
+{{< video "https://youtu.be/y7jDlnfa5Y0?si=hDke3snrK6Emiohn" width="100%" height="80%" >}}
+
+## This Tiny Beetle Is Devastating Forests in the Worst Outbreak Ever
+
+{{< video "https://youtu.be/vR30qlK0-Cw?si=mn2_d4ykG9EnQMCF" width="90%" height="70%" >}}
+
+## Bark Beetle
+
+Some informative videos on Bark Beetle outbreaks:
+
+- [Video 1: Bark Beetles Part 1 Intro](https://youtu.be/HQUO4RAKULw?si=IKthk5YRtEvmx8e10)
+- [Video 2: Bark Beetles Part 2 Bark Beetles in Pine](https://youtu.be/xSmi9gm0CKo?si=jR3YrXabaI5MqjeL)
+- [Video 3: Bark Beetles Part 3 Bark beetles in Douglas-fir and true firs](https://youtu.be/sLG7O499UGo?si=uk5fSQgt0cCOqw3X)
+
+{{< video "https://youtu.be/iSIEzq0fofk?si=EZBCwf2eavOSJS4l" width="60%" height="40%" >}}
+
+## How do bark beetles kill trees?
+
+- Mountain pine beetles dig into tree bark, and trees respond by producing resin to push the beetles out.
+  - Trees that make less resin may fail to repel beetles, allowing them to successfully invade.
+  - Two important factors in this relationship are the tree's resin production capacity and the number of beetles attacking at once.
+- Trees under stress from drought or heat typically produce less resin.
+- Invading beetles release chemicals that attract more beetles, helping them overwhelm the tree's defenses.
+
+## How do bark beetles kill trees?
+
+- While trees can increase resin production to replace what's lost fighting beetles, the beetles have a counter-strategy:
+  - The beetles carry fungal spores in special pouches on their legs.
+  - These fungi grow fibers that damage the tree's water transport system, affecting the crown.
+- Beetle populations are usually low in forests, with occasional outbreaks killing susceptible trees in patches.
+  - Sometimes beetle numbers grow so large that even healthy trees can't defend themselves, and the beetle population only decreases after most available trees have been affected.
+
+## Forest fires (Natural causes)
+
+::::{.columns}
+
+::: {.column width=50%}
+
+- Forest fires are a natural part of many forest ecosystems, playing a crucial role in maintaining ecological balance.
+- Natural causes of forest fires include
+  - Lightning strikes
+  - Volcanic eruptions
+  - Spontaneous combustion of dry vegetation
+
+:::
+
+::: {.column width=50%}
+
+![Forest fire](./figures/lecture-9-figure-9.png){.lightbox}
+
+(Source: Sequoia photos by Ellis Margolis, USGS, Source: Forest Ecology, DAN BINKLEY)
+
+:::
+
+::::
+
+## Forest fires (antropogenic causes)
+
+Following are some of the anthropogenic causes of forest fires:
+
+- To prevent large forest fires by removing excess fuel (like shrubs and dead plant matter) from the forest floor
+- Shifting cultivation
+  - Burning of forest area for agriculture
+  - trees burnt to ash so that nutrients present in trees return to the ground
+  - fertile soil rich in nutrients
+- Encroachment: People trying to burn the forests to grab land from forests
+- To conceal illicit felling:
+  - Sometimes done by forest officials themselves to conceal illicit felling that may have happened under their watch.
+- To divert forest officials attention for hunting etc.
+
+## Kinds of forest fires
+
+- **Ground fire** passes through the soil (beneath the ground surface) and burns the organic matter in the soil.
+  - Ground fires are difficult to detect and control.
+- **Surface fire**: are fed by organic matter on the forest floor, such as fallen leaves, twigs, and small plants.
+  - These fires burn along the ground and can spread quickly.
+- **Crown fire or canopy fire**: consumes material at the canopy level.
+  - These fires can be very intense and spread rapidly through the treetops.
+  - Such fires are difficult to put out as the height of the canopy might be too high.
+
+## Understanding forest fires
+
+- Carbon dioxide is the most energy-poor state of carbon atom (that is, thermodynamically stable). The carbon atom in CO2 is in highly stable form. It has oxidation state of +4.
+- During photosynthesis, plants boosts those C atoms up to a very high energy state as organic molecules in plant material.
+- Forest stores great amount of this energy: 
+  - One kilogram of biomass has about 20 MJ of energy.
+  - This energy will be released during a forest fire.
+- It is fortunate that biomass can be relatively stable for a long time while living in oxygen-rich atmosphere.
+
+## Understanding forest fires
+
+- A fire needs an ignition source to get started, but once it starts, it can burn for a long time.
+- This is because the initial burning of biomass requires an "energy of activation" to break the large modlecules.
+- The term pyrolysis is used to describe this initial ignition step.
+- The smaller molecules then burn and release even more energy to keep the fire going.
+
+> For a fire to start, it needs enough energy from an ignition source. How well this works depends on how wet the plant material is. Water needs a lot of heat to evaporate, so it prevents the temperature from rising until all the moisture is gone.
+
+## Thick bark protects trees from fire
+
+Forest fires that burn along the ground can kill trees when too much heat reaches the cambium - the living layer of cells under the bark that helps trees grow. These cells die at around 60°C. Trees are more likely to die when:
+
+1. Fires are very hot
+2. Fires burn for a long time
+3. Trees have thin bark
+
+Trees with thicker bark have better protection against heat, which is why bark thickness is one of the best ways to predict which trees will survive a fire.
+
+## Fire resistance in some tree species
+
+::::{.columns}
+
+::: {.column width=70%}
+
+- Different tree species have evolved varying levels of fire resistance. 
+- Cork oak from southern Europe is an excellent example of a fire-adapted species (see Figure). 
+- Its cork bark effectively protects the inner living tissue (cambium) from fire heat. 
+- The bark regrows quickly after damage or harvesting. 
+- Cork bark grows outward by about 1-3 mm each year for over a century. 
+- Most cork oaks survive wildfires, with over 80% survival rate when the cork layer is at least 2 cm thick (Moreira et al. 2007). 
+
+:::
+
+::: {.column width=30%}
+
+![Cork oak ub Portugal is a prime example of a fire-adapted tree with thick bark. Source: Forest Ecology, DAN BINKLEY](./figures/lecture-9-figure-10.png){.lightbox}
+
+:::
+
+::::
+ 
+## Role of fire in forest ecosystems
+
+### Nutrition
+
+- Small fires reduce the organic matter on the forest floor to basic inorganic components which are soluble in water and are more readily available for plant uptake.
+- This is especially important in conditions where decomposition is unfavorable
+  - Cold and damp conditions in countries like Norway, Sweden and Finland retard organic matter decomposition.
+  - Controlled burning has helped accelerate release of nutrients to the forest floor and also helps increase the temperature to increase the activity of decomposing microorganisms.
+
+## Role of fire in forest ecosystems
+
+#### Promotion of seedling establishment
+
+- Grasses and shrubs limit the amount of sunlight available to seeds and retard the establishment of seedlings of new trees.
+- Surface fires help to burn these shrubs and grasses, thus promote the growth of the seedlings
+- Forest fires can clear the forest floor of shrubs and grasses allowing for establishment of new trees.
+- Availibility of seeds is important: seed banks in soil, seed bank in the canopies of trees, and transport of seeds into the burned area.
+
+![A forest of lodgepole pine on a glacial moraine in Colorado, USA burned with an intense crown fire. Seeds released from serotinous cones (upper row, two months after fire) reforested the site. A decade after the fire (left photos), some portions of the burned area had pines with understories of grasses and forbs, and other areas had N‐fixing snowbrush shrubs that germinated after lying dormant in the soil for almost a century. Twenty‐five years after the fire, the trees have begun to redevelop a seed bank in serotinous cones (right photos), and snowbrush had replenished its soil seed bank. The forest burned a year after the latest photos, and it will be interesting to follow the fate of the next generation of shrubs and trees that arise from the seedbanks.](./figures/lecture-9-figure-13.png){.lightbox}
+
+
+## Role of fire in forest ecosystems
+
+Forest fires can trigger ecological succession.
+
+- Trees are resistant to fires to a certain extent i.e. if fires are small/ mild and are frequency of fires is low.
+- However, if the fire frequency or intensity increases, tree species are likely to be replaced by more fire resistant species.
+- In the Rocky Mountains in the USA the following succession has been observed when frequency or intensity of forest fires increase
+  - Engelmann spruce $\rightarrow$ Douglas fir $\rightarrow$ Ponderosa pine $\rightarrow$ Grasses
+- If the frequency or intensity of forest fire decreases
+  - Grasses $\rightarrow$ Ponderosa pine $\rightarrow$ Douglas fir $\rightarrow$ Engelmann spruce
+
+##
+
+![Ecological succession in the Rocky Mountains](https://upload.wikimedia.org/wikipedia/commons/7/78/Prescribed_Fire_Transition_Panoramic_%285018062644%29.jpg){.lightbox}
+
+Source: <https://en.wikipedia.org/wiki/Fire_ecology>
+
+## Role of fire in forest ecosystems
+
+- Some fire‐adapted species have epicormic buds that sprout after fire, rebuilding new crowns
+- Only a few conifers can resprout from either epicormic buds or surviving roots
+- But this resprouting is very common in many broadleaf trees and understory plants.
+- Grasses in particular thrive even when grass shoots are eaten or burned.
+
+:::{layout-ncol=2}
+
+![Some tree sprout new branches and leaves from buds in the epicormic sprouting. A) Karri (a eucalyptus species) after a fire in western Australia, (B) an English oak in southern Portugal 1.5 years after fire (C) Canary pine (D) Close up of epicormic sprouting 3 months after fire.](./figures/lecture-9-figure-11.png){.lightbox}
+
+![Many species resprout from surviving root systems or base of stems. (A) Aspen sprouts (B) Redwood trees can sprout from the base after fire](./figures/lecture-9-figure-12.png){.lightbox}
+
+:::
+
+## Negative impacts of forest fire
+
+#### Changes in soil properties
+
+- The organic matter on the O horizon of the soil is combusted by forest fires.
+- Some of the organic matter in the mineral soil (A horizon) is also combusted.
+- The organic N contained in organic matter is also burned (oxidized) to various gaseous forms that are lost to the atmosphere.
+- The burning of OM releases a large amount of heat that can pentrate in the soil and change the soil properties.
+
+## Negative impacts of forest fire
+
+::::{.columns}
+
+::: {.column width=50%}
+
+#### Soil erosion
+
+- When rain falls on a forest, trees and the soft forest floor (O horizon) absorb the energy of raindrops. 
+- The unburned forest floor normally works like a sponge, soaking up large amounts of water and slowly releasing it into the soil below. 
+- After a fire burns away these protective layers, raindrops hit the ground with full force, striking ash and soil particles directly. 
+- Without this spongy layer, rainwater can come down faster than the soil can absorb it, causing water to flow across the surface and wash away soil.
+
+:::
+
+::: {.column width=50%}
+
+![](./figures/lecture-9-figure-15.png){.lightbox}
+
+![](./figures/lecture-9-figure-16.png){.lightbox}
+
+:::
+
+::::
+
+
+## Negative impacts of forest fire
+
+::::{.columns}
+
+::: {.column width=70%}
+
+- Another problem after fires is water repellency (hydrophobicity). 
+- This happens when fire causes small organic substances to evaporate, move into the soil, and form a layer that repels water. 
+- Fortunately, this water-repellent condition usually occurs locally, so water that can't soak into one area might be absorbed by nearby areas instead of flowing all the way down a slope.
+- Large forest fires can also burn the trees and the roots completely, reducing the strength with which the soil grains are bound to each other. This can lead to erosion on steep slopes.
+
+:::
+
+::: {.column width=30%}
+
+![Soil can have patches that repel water](./figures/lecture-9-figure-14.png){.lightbox}
+
+:::
+
+::::
+
+
+## Negative impacts of forest fire
+
+#### Leaching of minerals in ash
+
+- In sandy and loamy soils (low clay content), organic matter acts as a binding agent that helps form aggregates that reduce the permeability or potential of water to flow through soils.
+- Although forest fires return nutrients to the forest floor in the form of ash, the fires also burn all organic matter in such soils, reducing their water retention capacity.
+- Nutrients in ash dissolve in water from subsequent rains after the forest fire and leach to greater depths thereby removing the nutrients for plant growth.
+
+## Negative impacts of forest fire
+
+#### Alteration of climatic conditions of forest floor
+
+- In boreal forests, in winter the forest canopy intercepts snow keeping the forest floor warm and in summer the organic matter on the forest floor keeps it cool.
+- Burning of forests results in increased snow cover in winter and
+- Increased heat flow to greater depths in summer resulting in melting of permafrost below the surface thereby changing the surface hydrology and vegetation composition.
+
+
+## Forest fire management strategies (Prevention)
+
+- Construction of forest fire-lines or firebreaks:
+  - These are strips of land cleared of vegetation to stop the spread of fire.
+  - They can be natural features like rivers
+
+:::{layout-ncol=2}
+
+![A firebreak on the Setúbal Peninsula in Portugal](https://upload.wikimedia.org/wikipedia/commons/b/b6/Firebreak.JPG){.lightbox}
+
+![By comparing the burnt (right) and unburnt (left) sides of a dirt road in South Africa after a major veldfire (grassland fire) the effectiveness of the road in acting as a firebreak can be seen.](https://upload.wikimedia.org/wikipedia/commons/3/3d/Contrasts_-_fire.jpg){.lightbox}
+
+:::
+
+## Forest fire management strategies (Prevention)
+
+::::{.columns}
+
+::: {.column width=50%}
+
+#### Controlled burn to reduce fuel load
+
+- Small fires intentionally set in a forest under controlled conditions
+  - These fires are set between firebreaks or
+  - Manually put out before the fires become too large
+- Reduces fuel load on forest floor (shrubs, organic matter).
+- Usually done in conditions of less wind and cooler temperatures
+
+:::
+
+::: {.column width=50%}
+
+![Controlled burn in ponderosa pine forest](https://upload.wikimedia.org/wikipedia/commons/c/cc/USFWS_Resilient_Landscapes_%2817223539378%29.jpg){.lightbox}
+
+:::
+
+::::
+

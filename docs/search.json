@@ -42,88 +42,270 @@
     "text": "The O horizon is the top layer of soil that contains organic matter. The water holding capacity of the organic matter is very high.\nSoil organic matter (SOM) has a high water retention capacity primarily due to its unique physical and chemical properties. It acts like a sponge, improving soil structure and directly holding onto water molecules. Soil organic matter enhances water retention through several interconnected mechanisms:\n\n\n\nPorous Structure and Increased Pore Space: Organic matter, especially well-decomposed humus, has a highly porous structure. This significantly increases the total pore space in the soil. These pores, particularly the smaller micropores, are crucial for holding water against the force of gravity, making it available for plant uptake.\nImproved Soil Aggregation: SOM acts as a binding agent, helping soil mineral particles (sand, silt, and clay) clump together to form stable aggregates. This improved soil structure creates a wider range of pore sizes:\n\nMacropores (larger pores between aggregates) facilitate water infiltration and drainage.\nMicropores (smaller pores within aggregates) are primarily responsible for storing water that plants can use.\n\nIncreased Surface Area: Organic matter particles, particularly humus, have a vast surface area relative to their size. This large surface area provides more sites for water molecules to adhere to.\nReduced Bulk Density: As organic matter content increases, the soil’s bulk density (weight per unit volume) generally decreases. This indicates a lighter, more porous soil with greater capacity to hold water.\n\n\n\n\n\nAdsorption and Absorption: Organic matter can adsorb water molecules onto its surfaces and absorb water into its internal structure. Humus, a key component of SOM, can hold up to 90% of its weight in water.\nHydrogen Bonding: Organic matter contains numerous functional groups (e.g., carboxyl, hydroxyl) that are polar. These groups can form hydrogen bonds with water molecules (\\(H_2O\\)). This chemical attraction helps the soil retain water more effectively.\nEnhanced Plant Available Water (PAW): Importantly, much of the water held by organic matter is in a form that is readily available to plants. While clay soils can hold a lot of water, a significant portion is held too tightly for plants to access. Organic matter increases the amount of water held between field capacity (the amount of water soil holds after excess has drained away) and the permanent wilting point (the point at which plants can no longer extract water). This is particularly beneficial in coarse-textured (sandy) soils, which naturally have low water holding capacity.\n\nIn essence, adding organic matter to soil improves its physical structure, creating more and better-sized pores, while its chemical nature allows it to attract and hold onto water molecules, ultimately leading to a greater capacity to store water that is accessible to plants."
   },
   {
-    "objectID": "lecture-3-faq.html",
-    "href": "lecture-3-faq.html",
-    "title": "Questions asked in Lecture 3",
-    "section": "",
-    "text": "Consider the following chemical reaction:\n\\[\nA + B \\rightarrow C + D\n\\]\nwhere \\(A\\) and \\(B\\) are reactants, and \\(C\\) and \\(D\\) are products.\n\n\n\nExothermic reaction: A chemical reaction that releases energy, usually in the form of heat. The products have lower energy than the reactants.\nEndothermic reaction: A chemical reaction that absorbs energy from its surroundings. The products have higher energy than the reactants.\n\nWhy energy is released or absorbed in a chemical reaction?\nIn any chemical reaction, some bonds are broken and new bonds are formed. Energy is required to break the bonds which we will call as bond dissociation energy. Also, energy is released when new bonds are formed, which will be referred to as the bond formation energy.\n\nA reaction is exotermic if the bond formation energy is greater than the bond dissociation energy.\nA reaction is endothermic if the bond dissociation energy is greater than the bond formation energy.\n\n\n\n\nIn a chemical reaction the electrons cannot be created or destroyed, but they can be transferred from one atom to another. So the flow of electrons can only occur from a source connected to a sink. So what it means is that if in a chemical reaction electrons are flowing then someone should provide the electrons and someone should accept the electrons.\nA redox reaction can be defined as a chemical reaction in which electrons are transferred between two reactants participating in it.\nI have updated the lecture notes to improve the description of redox reactions in the context of forest ecology. Please refer to the updated notes for a more detailed explanation.\n\n\n\n\n\nPhotons are discrete packets of light energy. Visible light, X-rays, ultraviolet, infrared, microwaves, and radio waves all consist of photons differing in energy (frequency).\nA photon’s energy is proportional to the frequency of the electromagnetic wave:\n\n\\[\nE = h \\nu\n\\]\nwhere \\(E\\) is the energy of the photon, \\(h\\) is Planck’s constant (\\(6.626 \\times 10^{-34} \\text{J s}\\)), and \\(\\nu\\) is the frequency of the electromagnetic wave.\n\n\n\n\n\n\nwave-particle duality\n\n\n\nDuring the 19th and early 20th centuries, light was found to behave as a wave then later was discovered to have a particle-like behavior, whereas electrons behaved like particles in early experiments then were later discovered to have wave-like behavior. The concept of duality arose to name these seeming contradictions.\n\n\nPlease see the following video to understand the concept of wave-particle duality:\n\nAfter watching the above video, please watch the following video.\n\n\n\n\n\n\n\n\n\n\nColor perception\n\n\n\nLight is a form of electromagnetic wave. It contains several frequencies (or wavelengths). We often call it spectrum. The visible spectrum contains wavelength from 380 to 780 nano meters. The red color has the biggest wavelength in the visible spectrum.\n\n\nEvery object smaller or bigger absorbs and reflects light. What it means is that the object absorbs certain wavelengths and reflects certain wavelength. The wavelength that object absorbs never reaches to our eyes, but the reflected wave lengths are received by our eyes. Therefore, we see the color corresponding to the wavelengths that have been reflected from the object."
+    "objectID": "lecture-8.html#learning-objectives",
+    "href": "lecture-8.html#learning-objectives",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\n\nCarbon cycle\nNitrogen cycle"
   },
   {
-    "objectID": "lecture-3-faq.html#chemical-reactions-redox-exothermic-and-endothermic-reactions",
-    "href": "lecture-3-faq.html#chemical-reactions-redox-exothermic-and-endothermic-reactions",
-    "title": "Questions asked in Lecture 3",
-    "section": "",
-    "text": "Consider the following chemical reaction:\n\\[\nA + B \\rightarrow C + D\n\\]\nwhere \\(A\\) and \\(B\\) are reactants, and \\(C\\) and \\(D\\) are products.\n\n\n\nExothermic reaction: A chemical reaction that releases energy, usually in the form of heat. The products have lower energy than the reactants.\nEndothermic reaction: A chemical reaction that absorbs energy from its surroundings. The products have higher energy than the reactants.\n\nWhy energy is released or absorbed in a chemical reaction?\nIn any chemical reaction, some bonds are broken and new bonds are formed. Energy is required to break the bonds which we will call as bond dissociation energy. Also, energy is released when new bonds are formed, which will be referred to as the bond formation energy.\n\nA reaction is exotermic if the bond formation energy is greater than the bond dissociation energy.\nA reaction is endothermic if the bond dissociation energy is greater than the bond formation energy.\n\n\n\n\nIn a chemical reaction the electrons cannot be created or destroyed, but they can be transferred from one atom to another. So the flow of electrons can only occur from a source connected to a sink. So what it means is that if in a chemical reaction electrons are flowing then someone should provide the electrons and someone should accept the electrons.\nA redox reaction can be defined as a chemical reaction in which electrons are transferred between two reactants participating in it.\nI have updated the lecture notes to improve the description of redox reactions in the context of forest ecology. Please refer to the updated notes for a more detailed explanation."
+    "objectID": "lecture-8.html#biogeochemistry",
+    "href": "lecture-8.html#biogeochemistry",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Biogeochemistry",
+    "text": "Biogeochemistry\n\nGeochemistry is the study of the distribution and cycling of chemical elements in Earth’s crust and Interior\n\nInvestigates the compositions and behavior of elements/ compounds in rocks, minerals, soil, water, and the atmosphere.\n\nBiogeochemistry adds on a biological components to this.\n\n\n\n\n\n\n\nNote\n\n\nBiogeochemistry is the study of interactions between the\n\nBiosphere (life)\nAtmosphere (air),\nHydrosphere (water)\nGeosphere (rocks and soils)"
   },
   {
-    "objectID": "lecture-3-faq.html#photon-energy-ehnu",
-    "href": "lecture-3-faq.html#photon-energy-ehnu",
-    "title": "Questions asked in Lecture 3",
-    "section": "",
-    "text": "Photons are discrete packets of light energy. Visible light, X-rays, ultraviolet, infrared, microwaves, and radio waves all consist of photons differing in energy (frequency).\nA photon’s energy is proportional to the frequency of the electromagnetic wave:\n\n\\[\nE = h \\nu\n\\]\nwhere \\(E\\) is the energy of the photon, \\(h\\) is Planck’s constant (\\(6.626 \\times 10^{-34} \\text{J s}\\)), and \\(\\nu\\) is the frequency of the electromagnetic wave.\n\n\n\n\n\n\nwave-particle duality\n\n\n\nDuring the 19th and early 20th centuries, light was found to behave as a wave then later was discovered to have a particle-like behavior, whereas electrons behaved like particles in early experiments then were later discovered to have wave-like behavior. The concept of duality arose to name these seeming contradictions.\n\n\nPlease see the following video to understand the concept of wave-particle duality:\n\nAfter watching the above video, please watch the following video."
+    "objectID": "lecture-8.html#biogeochemical-cycle",
+    "href": "lecture-8.html#biogeochemical-cycle",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Biogeochemical cycle",
+    "text": "Biogeochemical cycle\n\n\n\n\n\n\n\nBiogeochemical cycle\n\n\nBiogeochemical cycle \\(\\rightarrow\\) A pathway by which a chemical substance moves through biotic (biosphere or living organisms) and abiotic (lithosphere, atmosphere and hydrosphere) compartments of earth.\n\n\n\n\nBiogeochemical cycles transfer essential elements between Earth’s\n\nBiosphere\nAtmosphere\nHydrosphere\nGeosphere\nCryosphere\n\n\n\n\n\n\n\n\nNutrient\n\n\nA substance used by a plant to survive, grow and reproduce.\n\n\n\n\nBiogeochemical cycles maintain global nutrient balance and sustain life on Earth."
   },
   {
-    "objectID": "lecture-3-faq.html#why-do-we-see-colors",
-    "href": "lecture-3-faq.html#why-do-we-see-colors",
-    "title": "Questions asked in Lecture 3",
-    "section": "",
-    "text": "Color perception\n\n\n\nLight is a form of electromagnetic wave. It contains several frequencies (or wavelengths). We often call it spectrum. The visible spectrum contains wavelength from 380 to 780 nano meters. The red color has the biggest wavelength in the visible spectrum.\n\n\nEvery object smaller or bigger absorbs and reflects light. What it means is that the object absorbs certain wavelengths and reflects certain wavelength. The wavelength that object absorbs never reaches to our eyes, but the reflected wave lengths are received by our eyes. Therefore, we see the color corresponding to the wavelengths that have been reflected from the object."
+    "objectID": "lecture-8.html#chnops",
+    "href": "lecture-8.html#chnops",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "CHNOPS",
+    "text": "CHNOPS\n\n\n\nNitrogen: constituent of proteins, nucleic acids, vitamins etc\nPhosphorus: constituent of nucleic acids, ATP, cell membrane and certain proteins\nPotassium: cation-anion balance needed for maintaining cell turgidity, opening and closing of stomata etc.\nCell turgidity refers to the state of a plant cell when it is swollen and firm due to the uptake of water. It is primarily a result of water entering the cell by osmosis\n\n\n\nCarbon\nHydrogen\nNitrogen\nOxygen\nPhosphorus\nSulfur"
   },
   {
-    "objectID": "lecture-5-faq.html",
-    "href": "lecture-5-faq.html",
-    "title": "Questions asked in Lecture 5",
-    "section": "",
-    "text": "In general the term Spectra or Spectrum means the range of some values (for example, wavelength, frequency, energy).\n\n\n\n\n\n\nNote\n\n\n\nSpectra aren’t just for light. Any kind of wave or energy — like sound, heat, or even chemicals — can have a spectrum.\n\nSound spectrum: low to high pitches.\nLight spectrum: red to violet colors, or even invisible light like infrared and ultraviolet.\nChemical spectra: patterns that help scientists identify what an object is made of, like a fingerprint for materials.\n\n\n\nFor example, you must have seen rainbow (see figure below). What you see is a range of colors from red to violet. The question is how do we define the rainbow. Well to tackle this question we use the term spectrum. So a rainbow is a collection (or spectra) of different colors. But what is a color? I mean is color a material property? How to I measure the value of color? Because, their can be several shades of red or blue. How do we associated a unique to each color?\nTo tackle the above issue we can use the concept of wave. Each wave have its wavelength, frequency, and speed (we will not go into the detail of each terms, lets focus only on the wavelength). So each color has a unique value of wavelength which is measured in meters. Now we can say that “a rainbow is a collection of different wavelength).\n\n\n\nRainbow\n\n\nNow lets expand the concept of spectrum to visible light. The visible light is a spectrum of electromagnetic waves of wavelengths ranging from 400 to 700 nm. What it means is that the visible light contains wavelengths from 400 nm to 700 nm.\n\n\n\nVisible light spectrum\n\n\nBut please note that we have not mentioned anything about the how much percentage of each wavelength is contain in the spectrum of visible light. However, this information is important as it characterizes the visible light. Because, if we have two sources of visible light; White LED and tungsten lamp. Then both of these source will emit visible light. But the percentage of each wavelength in the spectrum of these two sources will be different. We say that these two light sources have different VISIBLE spectrum.\n\n\n\nVisible spectrum of various light source\n\n\nNow let us focus on the spectrum of sunlight. It contains Visible light. But sunlight also contains other wavelengths such as ultraviolet(UV) and infrared (IR). The UV light has wavelength less than 400 nm and IR light has wavelength greater than 700 nm. The UV and Visible light are called shortwave radiation. The IR light is called longwave radiation. The IR light can be sensed as heat. We also have infrared cameras or night vision cameras which can detect the IR light.\nThe solar spectrum is given below.\n\n\n\nSpectrum of electromagnetic radiation, UV: 10 nm to 400 nm; Visible: 380 nm to 780 nm; Infrared: 780 nm to 1 mm\n\n\n\n\n\nIn the above section we have discussed the concept of spectrum. We saw that the sunlight contains a range of wavelengths including UV, visible light and IR. Humans, animals, plants, and building also emit IR radiation, which is why we can see them in the dark using infrared cameras.\nThe question is why every object emits these radiations? This phenomenon is called the thermal radiation or black body radiation. According to this theory, every object which has a non-zero temperature (on absolute scale) emits radiation. In other words, thermal radiation is represented by the spectrum of electromagnetic waves of different wavelengths.\nHotter objects like sun emits shorwave radiation. Cooler objects like humans, animals, and plants emit longwave radiation. The amount of radiation emitted by an object is a function of its temperature. The higher the temperature, the more radiation is emitted.\n\n\n\n\n\n\nSimple definition of black body\n\n\n\nA black body is something that’s really good at absorbing and giving off heat — it’s like the perfect heater. It absorbs all light (or energy) that hits it — it doesn’t reflect or transmit any. It also gives off heat (in the form of light) more efficiently than anything else.\n\n\nA black body is a perfect absorber and emitter.\n\nPerfect Absorber: A black body absorbs all incoming electromagnetic radiation, regardless of frequency or angle of incidence.\nPerfect Emitter: It emits radiation at all wavelengths, with an intensity distribution that depends solely on its temperature.\n\n\n\n\nSpectra of black body radiation\n\n\n\n\n\n\n\n\nKey features of black body radiation\n\n\n\n\nTemperature Dependence: As the temperature of a black body increases, the peak of its emission curve shifts to shorter wavelengths (higher frequencies). This is described by Wien’s Displacement Law.\nIntensity Increase: The total emitted radiation increases rapidly with temperature, following the Stefan–Boltzmann Law, which states that the total energy emitted per unit surface area is proportional to the fourth power of the black body’s absolute temperature.\nContinuous Spectrum: Unlike discrete spectral lines emitted by gases, a black body emits a continuous spectrum of radiation.\n\n\n\nBlack body simulator\n\n\n\nBlack body radiation can occur in the absence of any medium. Due to thermal energy the electrons or atoms emits electromagnetic radiation. This is the source of black body radiation.\nBlack bodies are ideal emitters of radiation. They absorb all incident radiation and emit radiation at all wavelengths. The amount of radiation emitted by a black body is given by Planck’s law.\n\n\n\nA grey body is like a black body, but not perfect — it only emits a portion of the thermal radiation it could. In fact, most everyday objects are grey bodies. A grey body absorbs and emits less radiation than a black body at the same temperature.\nImagine two stoves that are equally hot. One is brand new and super efficient (the black body), and the other is older and less efficient (the grey body). The old one gives off less heat — even though it’s at the same temperature. The black body gives off 100% of what’s possible. The grey body gives off less than 100% — maybe 70%, 50%, or 90%, depending on the material.\nThe amount of radiation a grey body gives off is described by something called emissivity (\\(\\varepsilon\\)) — a number between 0 and 1. A perfect black body has an emissivity of 1, while a perfect reflector has an emissivity of 0. Most materials fall somewhere in between. Human skin has an emissivity of about 0.98 (almost a black body). Aluminum foil has a low emissivity (~0.05), which is why it’s used to reflect heat.\n\n\n\nNorth-facing slopes in the Northern Hemisphere receive less sunlight than south-facing slopes primarily due to the angle of the Sun’s path in the sky, which is a consequence of the Earth’s axial tilt.\n\n\n\n\n\n\nTilt of the earth\n\n\n\nThe Earth is tilted at an angle of approximately 23.5° relative to its orbital plane around the Sun. As a result:\n\nIn the Northern Hemisphere, the Sun is always positioned to the south of the zenith (the point directly overhead) for most of the year.\nThis means sunlight approaches the Earth’s surface from a southerly direction.\n\n\n\n\n\n\n\n\n\nNote\n\n\n\n\nA south-facing slope in the Northern Hemisphere is oriented toward the Sun, thereby receiving more direct solar radiation.\nA north-facing slope, in contrast, faces away from the Sun and thus receives less direct sunlight, especially during the cooler half of the year.\n\n\n\nI think the following video is very helpful in understanding the concept of north and south facing slopes.\n\n\n\n\n\n\nOne liter of water weighs 1 kg.\nOne liter of water evaporated requires \\(2,260 kJ\\) of energy.\nLet us say \\(20 M/m^{2}\\) of energy is available for evaporation. Note that, this is not the total energy available for evaporation. This is the energy available for evaporation per square meter of surface.\nLet us consider the area of \\(1 m^{2}\\). So this area will receive \\(20 MJ\\) of energy.\n\\(20 MJ\\) of energy will evaporate about 8.85 kg of water, which is about 8.85 liters.\n1 liter is equal to \\(0.001 m^3\\), therefore, 8.85 liters is equal to \\(0.00885 m^3\\).\nVolume (V) of a cube is area (A) * height (H).\n\n\\[\nV = A * H\n\\]\nTherefore, the height of a cube with \\(1 m^2\\) area and \\(0.00885 m^3\\) volume is equal to \\(0.00885 m\\). This is equal to \\(8.85 cm\\).\n\nTherefore \\(20 MJ\\) of energy can evaporate \\(8.85 cm\\) of water from a \\(1 m^2\\) area.\n\n\n\n\n\nTrees receives shortwave radiation from the sunlight. Trees are not perfect black bodies so they will reflect some part of short radiation.\nTrees also have non-zero temperature. Therefore, they will emit thermal radiation. The question is what type of thermal radiation they emit? The temperature of tree is not so high. Therefore, like humans and animals, tree will emit longwave radiation.\n\nThe source of longwave radiation is the thermal energy of tree. The source of shortwave radiation from trees is the reflection of sunlight."
+    "objectID": "lecture-8.html#chnops-1",
+    "href": "lecture-8.html#chnops-1",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "CHNOPS",
+    "text": "CHNOPS\n\n\n\n\n\n\nNote\n\n\nCHNOPS, six elements are the most abundant elements in living organisms. They are essential elements for life on Earth.\n\n\n\n\n\n\n\n\n\nNote\n\n\nThere are other elements which are also needed to sustain life on the Earth, but these elements are not needed in GREAT quantities. Examples include Fe, Mn, and trace metals."
   },
   {
-    "objectID": "lecture-5-faq.html#spectra",
-    "href": "lecture-5-faq.html#spectra",
-    "title": "Questions asked in Lecture 5",
-    "section": "",
-    "text": "In general the term Spectra or Spectrum means the range of some values (for example, wavelength, frequency, energy).\n\n\n\n\n\n\nNote\n\n\n\nSpectra aren’t just for light. Any kind of wave or energy — like sound, heat, or even chemicals — can have a spectrum.\n\nSound spectrum: low to high pitches.\nLight spectrum: red to violet colors, or even invisible light like infrared and ultraviolet.\nChemical spectra: patterns that help scientists identify what an object is made of, like a fingerprint for materials.\n\n\n\nFor example, you must have seen rainbow (see figure below). What you see is a range of colors from red to violet. The question is how do we define the rainbow. Well to tackle this question we use the term spectrum. So a rainbow is a collection (or spectra) of different colors. But what is a color? I mean is color a material property? How to I measure the value of color? Because, their can be several shades of red or blue. How do we associated a unique to each color?\nTo tackle the above issue we can use the concept of wave. Each wave have its wavelength, frequency, and speed (we will not go into the detail of each terms, lets focus only on the wavelength). So each color has a unique value of wavelength which is measured in meters. Now we can say that “a rainbow is a collection of different wavelength).\n\n\n\nRainbow\n\n\nNow lets expand the concept of spectrum to visible light. The visible light is a spectrum of electromagnetic waves of wavelengths ranging from 400 to 700 nm. What it means is that the visible light contains wavelengths from 400 nm to 700 nm.\n\n\n\nVisible light spectrum\n\n\nBut please note that we have not mentioned anything about the how much percentage of each wavelength is contain in the spectrum of visible light. However, this information is important as it characterizes the visible light. Because, if we have two sources of visible light; White LED and tungsten lamp. Then both of these source will emit visible light. But the percentage of each wavelength in the spectrum of these two sources will be different. We say that these two light sources have different VISIBLE spectrum.\n\n\n\nVisible spectrum of various light source\n\n\nNow let us focus on the spectrum of sunlight. It contains Visible light. But sunlight also contains other wavelengths such as ultraviolet(UV) and infrared (IR). The UV light has wavelength less than 400 nm and IR light has wavelength greater than 700 nm. The UV and Visible light are called shortwave radiation. The IR light is called longwave radiation. The IR light can be sensed as heat. We also have infrared cameras or night vision cameras which can detect the IR light.\nThe solar spectrum is given below.\n\n\n\nSpectrum of electromagnetic radiation, UV: 10 nm to 400 nm; Visible: 380 nm to 780 nm; Infrared: 780 nm to 1 mm"
+    "objectID": "lecture-8.html#generalized-nutrient-cycle",
+    "href": "lecture-8.html#generalized-nutrient-cycle",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Generalized Nutrient Cycle",
+    "text": "Generalized Nutrient Cycle"
   },
   {
-    "objectID": "lecture-5-faq.html#black-body-radiation",
-    "href": "lecture-5-faq.html#black-body-radiation",
-    "title": "Questions asked in Lecture 5",
-    "section": "",
-    "text": "In the above section we have discussed the concept of spectrum. We saw that the sunlight contains a range of wavelengths including UV, visible light and IR. Humans, animals, plants, and building also emit IR radiation, which is why we can see them in the dark using infrared cameras.\nThe question is why every object emits these radiations? This phenomenon is called the thermal radiation or black body radiation. According to this theory, every object which has a non-zero temperature (on absolute scale) emits radiation. In other words, thermal radiation is represented by the spectrum of electromagnetic waves of different wavelengths.\nHotter objects like sun emits shorwave radiation. Cooler objects like humans, animals, and plants emit longwave radiation. The amount of radiation emitted by an object is a function of its temperature. The higher the temperature, the more radiation is emitted.\n\n\n\n\n\n\nSimple definition of black body\n\n\n\nA black body is something that’s really good at absorbing and giving off heat — it’s like the perfect heater. It absorbs all light (or energy) that hits it — it doesn’t reflect or transmit any. It also gives off heat (in the form of light) more efficiently than anything else.\n\n\nA black body is a perfect absorber and emitter.\n\nPerfect Absorber: A black body absorbs all incoming electromagnetic radiation, regardless of frequency or angle of incidence.\nPerfect Emitter: It emits radiation at all wavelengths, with an intensity distribution that depends solely on its temperature.\n\n\n\n\nSpectra of black body radiation\n\n\n\n\n\n\n\n\nKey features of black body radiation\n\n\n\n\nTemperature Dependence: As the temperature of a black body increases, the peak of its emission curve shifts to shorter wavelengths (higher frequencies). This is described by Wien’s Displacement Law.\nIntensity Increase: The total emitted radiation increases rapidly with temperature, following the Stefan–Boltzmann Law, which states that the total energy emitted per unit surface area is proportional to the fourth power of the black body’s absolute temperature.\nContinuous Spectrum: Unlike discrete spectral lines emitted by gases, a black body emits a continuous spectrum of radiation.\n\n\n\nBlack body simulator"
+    "objectID": "lecture-8.html#nutrient-transport",
+    "href": "lecture-8.html#nutrient-transport",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Nutrient transport",
+    "text": "Nutrient transport\n\nMovement of nutrients towards root surfaces in soil solution. It occurs due to two processes: mass flow and diffusion.\nMass flow: process in which ions move with the flow of water.\nDiffusion: ions move from region of high concentration to low concentration e.g. soil solution to root surface."
   },
   {
-    "objectID": "lecture-5-faq.html#how-black-body-emit-radiation",
-    "href": "lecture-5-faq.html#how-black-body-emit-radiation",
-    "title": "Questions asked in Lecture 5",
-    "section": "",
-    "text": "Black body radiation can occur in the absence of any medium. Due to thermal energy the electrons or atoms emits electromagnetic radiation. This is the source of black body radiation.\nBlack bodies are ideal emitters of radiation. They absorb all incident radiation and emit radiation at all wavelengths. The amount of radiation emitted by a black body is given by Planck’s law."
+    "objectID": "lecture-8.html#nutrient-uptake",
+    "href": "lecture-8.html#nutrient-uptake",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Nutrient uptake",
+    "text": "Nutrient uptake\n\nProcess by which nutrients in soil solution are actively transported across cell membranes of roots.\nUptake is controlled by enzymes on the membranes of roots.\nActivity of enzymes increases with increasing nutrient concentration in soil solution until enzyme system is saturated.\nEnzymes are also sensitive to temperatures\nRapidly growing species like balsam poplar and trembling aspen in warm soils have high uptake capacities of NH4+,NO3- and PO43- as compared to slower-growing paper birch and green alder.\n\nNutrient assimilation\n\nBiochemical incorporation of inorganic nutrients, transported into plant cells, into organic compounds such as amino acids, nucleic acids, lipids or other biologically active compounds."
   },
   {
-    "objectID": "lecture-5-faq.html#grey-body-radiation",
-    "href": "lecture-5-faq.html#grey-body-radiation",
-    "title": "Questions asked in Lecture 5",
-    "section": "",
-    "text": "A grey body is like a black body, but not perfect — it only emits a portion of the thermal radiation it could. In fact, most everyday objects are grey bodies. A grey body absorbs and emits less radiation than a black body at the same temperature.\nImagine two stoves that are equally hot. One is brand new and super efficient (the black body), and the other is older and less efficient (the grey body). The old one gives off less heat — even though it’s at the same temperature. The black body gives off 100% of what’s possible. The grey body gives off less than 100% — maybe 70%, 50%, or 90%, depending on the material.\nThe amount of radiation a grey body gives off is described by something called emissivity (\\(\\varepsilon\\)) — a number between 0 and 1. A perfect black body has an emissivity of 1, while a perfect reflector has an emissivity of 0. Most materials fall somewhere in between. Human skin has an emissivity of about 0.98 (almost a black body). Aluminum foil has a low emissivity (~0.05), which is why it’s used to reflect heat."
+    "objectID": "lecture-8.html#jack-pine",
+    "href": "lecture-8.html#jack-pine",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Jack pine",
+    "text": "Jack pine\n\n\n\nHas low physiological capacity to uptake NO3- in soil, even when concentrations of NO3- ions is very high.\nJack pine shows a preference to uptake and assimilate NH4+ ions as compared to NO3- ions from soil solution to meet its Nitrogen demands.\nOne reason for this could be that plants must reduce NO3- to NH4+ before it can be assimilated into biologically active compounds.\nThis process requires large amounts of energy.\nWhat is the consequence of planting jack pine in NO3- rich soils?\n\n\n\n\n\nJack pine Source: Wikipedia"
   },
   {
-    "objectID": "lecture-5-faq.html#north-and-south-facing-slopes",
-    "href": "lecture-5-faq.html#north-and-south-facing-slopes",
-    "title": "Questions asked in Lecture 5",
-    "section": "",
-    "text": "North-facing slopes in the Northern Hemisphere receive less sunlight than south-facing slopes primarily due to the angle of the Sun’s path in the sky, which is a consequence of the Earth’s axial tilt.\n\n\n\n\n\n\nTilt of the earth\n\n\n\nThe Earth is tilted at an angle of approximately 23.5° relative to its orbital plane around the Sun. As a result:\n\nIn the Northern Hemisphere, the Sun is always positioned to the south of the zenith (the point directly overhead) for most of the year.\nThis means sunlight approaches the Earth’s surface from a southerly direction.\n\n\n\n\n\n\n\n\n\nNote\n\n\n\n\nA south-facing slope in the Northern Hemisphere is oriented toward the Sun, thereby receiving more direct solar radiation.\nA north-facing slope, in contrast, faces away from the Sun and thus receives less direct sunlight, especially during the cooler half of the year.\n\n\n\nI think the following video is very helpful in understanding the concept of north and south facing slopes."
+    "objectID": "lecture-8.html#different-forms-of-nitrogen",
+    "href": "lecture-8.html#different-forms-of-nitrogen",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Different forms of Nitrogen",
+    "text": "Different forms of Nitrogen\n\nNitrogen exists in several chemical forms in the environment, particularly within the nitrogen cycle\nThese forms can be broadly categorized into inorganic and organic forms, each with distinct roles in soil fertility, plant nutrition, and ecosystem functioning.\n\nInorganic Nitrogen\n\nDinitrogen Gas (N₂):\nAmmonium (NH₄⁺):\nNitrite (NO₂⁻): Rapidly converted to nitrate in aerobic soils.\nNitrate (NO₃⁻): Highly mobile and a major nitrogen source for plants.\nNitrous Oxide (N₂O) and Nitric Oxide (NO): Gaseous oxides of nitrogen, By-products of denitrification and nitrification."
   },
   {
-    "objectID": "lecture-5-faq.html#how-much-water-can-be-evaporated",
-    "href": "lecture-5-faq.html#how-much-water-can-be-evaporated",
-    "title": "Questions asked in Lecture 5",
-    "section": "",
-    "text": "One liter of water weighs 1 kg.\nOne liter of water evaporated requires \\(2,260 kJ\\) of energy.\nLet us say \\(20 M/m^{2}\\) of energy is available for evaporation. Note that, this is not the total energy available for evaporation. This is the energy available for evaporation per square meter of surface.\nLet us consider the area of \\(1 m^{2}\\). So this area will receive \\(20 MJ\\) of energy.\n\\(20 MJ\\) of energy will evaporate about 8.85 kg of water, which is about 8.85 liters.\n1 liter is equal to \\(0.001 m^3\\), therefore, 8.85 liters is equal to \\(0.00885 m^3\\).\nVolume (V) of a cube is area (A) * height (H).\n\n\\[\nV = A * H\n\\]\nTherefore, the height of a cube with \\(1 m^2\\) area and \\(0.00885 m^3\\) volume is equal to \\(0.00885 m\\). This is equal to \\(8.85 cm\\).\n\nTherefore \\(20 MJ\\) of energy can evaporate \\(8.85 cm\\) of water from a \\(1 m^2\\) area."
+    "objectID": "lecture-8.html#different-forms-of-nitrogen-1",
+    "href": "lecture-8.html#different-forms-of-nitrogen-1",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Different forms of Nitrogen",
+    "text": "Different forms of Nitrogen\nOrganic Nitrogen\n\nAmino Acids and Proteins: building blocks of living cells. Present in plant residues, microbial biomass, and animal waste.\nNucleic Acids: DNA and RNA, essential for genetic information transfer.\nUrea: A nitrogenous compound excreted by animals, can be hydrolyzed to release ammonium.\n\nSynthetic and naturally occurring organic compound.\nCommon nitrogen fertilizer.\nRapidly converted to NH₄⁺ and CO₂ in soil by urease enzymes."
   },
   {
-    "objectID": "lecture-5-faq.html#shortwave-and-longwave-radiation-from-trees",
-    "href": "lecture-5-faq.html#shortwave-and-longwave-radiation-from-trees",
-    "title": "Questions asked in Lecture 5",
+    "objectID": "lecture-8.html#nitrogen-cycle",
+    "href": "lecture-8.html#nitrogen-cycle",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Nitrogen Cycle",
+    "text": "Nitrogen Cycle"
+  },
+  {
+    "objectID": "lecture-8.html#nitrogen-cycle-1",
+    "href": "lecture-8.html#nitrogen-cycle-1",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Nitrogen Cycle",
+    "text": "Nitrogen Cycle\n\nNitrogen gas \\(N_{2}\\) makes up about 80% of the atmosphere, but it is not directly usable by plants or animals.\nNitrogen fixing bacteria convert \\(N_{2}\\) into ammonia \\(\\text{NH}_{3}\\) or ammonium \\(\\text{NH}_{4}^{+}\\), which can be used by plants and other microbes.\nIn this way, nitrogen is the only nutrient which is biologically fixed for plant use\nNitrogen fixation is the process of converting atmospheric nitrogen (\\(N_{2}\\)) into ammonia (\\(NH_{3}\\)) or ammonium (\\(NH_{4}^{+}\\))\nNitrifying bacteria convert ammonia into nitrite \\(\\text{NO}_{2}^{-}\\) and then into nitrate \\(\\text{NO}_{3}^{-}\\), which is also usable by plants.\nDenitrifying bacteria convert nitrate back into nitrogen gas, completing the cycle."
+  },
+  {
+    "objectID": "lecture-8.html#nitrogen-cycle-2",
+    "href": "lecture-8.html#nitrogen-cycle-2",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Nitrogen Cycle",
+    "text": "Nitrogen Cycle\n\nNitrogen cycle"
+  },
+  {
+    "objectID": "lecture-8.html#nitrogen-cycle-3",
+    "href": "lecture-8.html#nitrogen-cycle-3",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Nitrogen Cycle",
+    "text": "Nitrogen Cycle"
+  },
+  {
+    "objectID": "lecture-8.html#free-living-nitrogen-fixing-organisms",
+    "href": "lecture-8.html#free-living-nitrogen-fixing-organisms",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Free living nitrogen-fixing organisms",
+    "text": "Free living nitrogen-fixing organisms\n\nIn general, fixation by free living bacteria is relatively small (1 to 5 Kg N/ha/yr).\nFixation requires large amount of energy and only limited amount of energy is available for free living bacteria in organic soils.\nExamples:\n\nAzotobacter: aerobic, free-living bacteria that depends on other sources of organic carbon for nutrition.\nCyanobacteria (blue-green algae): Photosynthetic microorganisms. Their activity is limited in forests due to high light requirement."
+  },
+  {
+    "objectID": "lecture-8.html#symbiotic-nitrogen-fixing-organisms",
+    "href": "lecture-8.html#symbiotic-nitrogen-fixing-organisms",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Symbiotic nitrogen-fixing organisms",
+    "text": "Symbiotic nitrogen-fixing organisms\n\nIn general, fixation by symbiotic organisms is much higher relative to free living organisms (30 to 85 Kg N/ha/yr).\nSymbiotic organisms generally inhabit the roots of plants. Plants supply carbohydrates to meet the large energy requirements of nitrogen fixation by the symbiotic organism and in return NH4+ is provided to the plant.\nExamples:\n\nActinomycetes: Anaerobic bacteria that infect root hairs and induce the formation of root nodules (sites for N2 fixation).\nRhizobium: Bacteria that exclusively infect roots of legumes (beans, soybean, peanuts etc.) to form nodules.\n\nAddition of N2-fixing plants/trees to N-poor soils can help increase rates of biomass accumulation and nutrient cycling during ecosystem development."
+  },
+  {
+    "objectID": "lecture-8.html#root-nodules",
+    "href": "lecture-8.html#root-nodules",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Root nodules",
+    "text": "Root nodules\n\n\n\n\n\n\nRoot nodules Soybeans\n\n\n\n\n\n\n\nRoot nodules"
+  },
+  {
+    "objectID": "lecture-8.html#mineralization-and-immobilization",
+    "href": "lecture-8.html#mineralization-and-immobilization",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Mineralization and immobilization",
+    "text": "Mineralization and immobilization\n\nMineralization is the decomposition (i.e., oxidation) of the chemical compounds in organic matter, by which the nutrients in those compounds are released in soluble inorganic forms that may be available to plants.\nSoil microbes break down complex polymer organic molecules to simpler monomers.\nMicrobial decomposers assimilate the monomers.\nMicrobes either mineralize them into inorganic form \\(\\text{NH}_{4}^{+}\\) or use the monomers for their own biosynthetic needs."
+  },
+  {
+    "objectID": "lecture-8.html#mineralization-and-immobilization-1",
+    "href": "lecture-8.html#mineralization-and-immobilization-1",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Mineralization and immobilization",
+    "text": "Mineralization and immobilization\n\nWhen organic matter has low C:N ratio (less than 25:1), biosynthesis needs of microbes is met by N in organic matter itself and excess N is released (mineralized) as \\(\\text{NH}_{4}^{+}\\) into the environment. When organic matter has high C:N ratio (greater than 30:1), N in organic matter isn’t sufficient for biosynthesis. Then decomposing microbes immobilize \\(\\text{NH}_{4}^{+}\\) from the environment making less \\(\\text{NH}_{4}^{+}\\) available for plant use. As decomposition continues, C in organic matter is consumed more rapidly than N and the C:N ratio reduces and once again mineralization starts releasing \\(\\text{NH}_{4}^{+}\\) into the environment for plant use."
+  },
+  {
+    "objectID": "lecture-8.html#litter-decomposition",
+    "href": "lecture-8.html#litter-decomposition",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Litter decomposition",
+    "text": "Litter decomposition\n\n\n\nMicrobial decomposers release exoenzymes (1), which depolymerize plant biopolymers to soluble monomers (2)\nMicrobial decomposers assimilate the monomers (3) and either use the contained organic matter for growth or to obtain energy through mineralization (4)\nMicrobial growth leads to an accumulation of microbial biomass within litter. N mineralization leads to a loss of ammonium to the environment (5), but this process is only active if amino acid–N supply (due to protein depolymerization) exceeds microbial N demand.\nAmmonium from the environment can addi- tionally serve to fulfill microbial N demand (6).\n\n\n\n\n\nA conceptual view of carbon (C) cycling and nitrogen (N) cycling during litter decomposition, Source: https://bg.copernicus.org/articles/17/499/2020/bg-17-499-2020.pdf"
+  },
+  {
+    "objectID": "lecture-8.html#biogeochemical-efficiency-of-forests",
+    "href": "lecture-8.html#biogeochemical-efficiency-of-forests",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Biogeochemical efficiency of forests",
+    "text": "Biogeochemical efficiency of forests"
+  },
+  {
+    "objectID": "lecture-8.html#biogeochemical-efficiency-of-forests-1",
+    "href": "lecture-8.html#biogeochemical-efficiency-of-forests-1",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Biogeochemical efficiency of forests",
+    "text": "Biogeochemical efficiency of forests"
+  },
+  {
+    "objectID": "lecture-8.html#carbon-cycle",
+    "href": "lecture-8.html#carbon-cycle",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Carbon Cycle",
+    "text": "Carbon Cycle\nDriving factors of carbon cycle:\n\nPhotosynthesis: Conversion of CO2 and water into glucose and oxygen using sunlight (Storage of C in plants).\nRespiration: Conversion of glucose and oxygen into CO2 and water, releasing energy (Release of C from plants).\n\nWhen Photosynthesis is GREATER than Respiration: Carbon getes stored in the plant, plant grows and size increases\nWhen Photosynthesis is SMALLER than Respiration: Carbon is removed from plant, plant size decreases"
+  },
+  {
+    "objectID": "lecture-8.html#carbon-cycle-1",
+    "href": "lecture-8.html#carbon-cycle-1",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Carbon Cycle",
+    "text": "Carbon Cycle\n\n\n\n\n\n\n\nGross vs Net Photosynthesis\n\n\n\nGross Photosynthesis: Total amount of C plant assimilates from the atmosphere.\nNet Photosynthesis: Balance between total amount of Carbon fixed during photosynthesis and the Carbon lost during respiration.\n\n\n\n\n\nIn simpler terms, gross photosynthesis is the total carbon intake, while net photosynthesis is the carbon intake minus the carbon lost through respiration"
+  },
+  {
+    "objectID": "lecture-8.html#c-storage-in-soil",
+    "href": "lecture-8.html#c-storage-in-soil",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "C storage in soil",
+    "text": "C storage in soil\n\nPlant take up CO2 and convert it to organic C, making up their biomass.\nBut storage of C in plants is temporary; When plants die, much of their organic C is converted back to CO2.\nSoil stores the organic C on long term basis.\nSoil microbes break down dead plant matter into more resistant organic molecules. These more robust organic molecules make up the humus layer (O horizon) of the soil."
+  },
+  {
+    "objectID": "lecture-6-faq.html",
+    "href": "lecture-6-faq.html",
+    "title": "Questions asked in Lecture 6",
     "section": "",
-    "text": "Trees receives shortwave radiation from the sunlight. Trees are not perfect black bodies so they will reflect some part of short radiation.\nTrees also have non-zero temperature. Therefore, they will emit thermal radiation. The question is what type of thermal radiation they emit? The temperature of tree is not so high. Therefore, like humans and animals, tree will emit longwave radiation.\n\nThe source of longwave radiation is the thermal energy of tree. The source of shortwave radiation from trees is the reflection of sunlight."
+    "text": "There are three types of rocks: igneous, sedimentary, and metamorphic. The rock cycle describes how these rocks can change from one type to another over time.\n\nYou can find more information about the rock cycle here\nI have also made a document on the rock cycle, which you can find here\n\n\n\n\nThe double diffuse layer (DDL) is a two-layer structure that forms at the interface between a clay particle and the surrounding solution, primarily due to the clay’s negative charge. This layer plays a crucial role in understanding clay’s behavior in various soil and water systems.\n\nThe clay particle are very small (less than 2 micrometers) and have a large surface area.\nThe behavior of a single clay particle or assembly of several clay particles is many governed by the electrostatic forces between the clay particles and the surrounding solution.\nThe negative charge of the clay particle attracts hydrogen ions (H+) and cations (positively charged ions) from the surrounding solution, forming a double diffuse layer.\nThe first layer, known as the Stern layer, is tightly bound to the clay particle and consists of cations and water molecules.\nThe second layer, known as the diffuse layer, is more loosely bound and contains a mix of cations and anions (negatively charged ions).\n\n\n\n\nEven though rocks look hard and solid, some of them can react to acid. That is why we often perform acid tests on rocks to identify them. Pleas see the following video which explains the procedure of acid test on rocks.\n\n\nIn nature, the rocks can come into contact with the acid in several ways. For example, the rain water contains CO2 dissolved in water which makes it slightly acidic. This is called carbonic acid. Some organic acids are also produced by the decomposition of organic matter. These acids can react with the minerals in the rocks, leading to chemical weathering.\nUsually the product of acid reaction dissolved in water at one place, and they get transported to another place with water. There, these products can precipitate out of the solution and form new minerals. This process is called precipitation. For example, when calcium carbonate (CaCO3) dissolves in water, it can form calcium ions (Ca2+) and bicarbonate ions (HCO3-). When the concentration of these ions becomes high enough, they can precipitate out of the solution and form new minerals, such as calcite or aragonite.\n\nI find the following video very useful to understand the chemical weathering process and formation of Karst caves.\n\n\n\n\nBiological weathering is the process by which living organisms, such as plants, animals, and microorganisms, break down rocks and minerals. This process can occur through physical or chemical means and is an essential part of the rock cycle.\n\n\n\nBiological weathering leads to chemical weathering because biological processes, like those of plants and microorganisms, can produce acidic substances and chelating agents that chemically alter rock minerals.\n\n\n\nConsider you have a cube of size 10 cm. The volume of the cube denotes how big the particle of cube is. In this case it will be 1000 cm^3. A cube contains 6 faces, front, back, top, bottom, left, and right. Each face has an area of 10 cm x 10 cm = 100 cm^2. The total surface area of the cube is 6 x 100 cm^2 = 600 cm^2.\nNow let us divide this cube into two smaller parts. Then each piece will have 6 faces. So there are 12 faces in total. This will have more surface area than the original cube. This is because by cuttting the cude we have generated another face which was not there before (It was inside the cube and not exposed to the outside). This experiment tells us that as we cut the cube into smaller pieces, the mass of the cubes (collection of new smaller cubes) remain the same but the surface area increases. Therefore if we take one kg of sand (big particle) and grind it into smaller pieces (small particles), the mass will remain the same but the surface area will increase. We can use this concept to explain that one kg of clay will have more surface area than the one kg of sand. This is one of the reason why clay are more reactive than sand.\nClass question:\nLet us say that the size of the original cube is a, and the size of the smaller cube is b.\n\nBig cude calculation\n\nVolume = \\(a^3\\)\nSurface area = \\(6a^2\\)\n\nSmall cube calculation\n\nVolume = \\(b^3\\)\nSurface area = \\(6b^2\\)\nThere are 8 cubes of size b, therefore total surface area is \\(6b^2 x 8 = 48b^2\\)\n\nRelation between a and b is found by knowing that the volume of the big cube is equal to the volume of the small cubes. Therefore, \\(a^3 = 8b^3\\) or \\(a = 2b\\).\nRation of surface area of smaller cubes to the surface area of the big cube is \\(48b^2 / 6a^2 = 48b^2 / 6(2b)^2 = 48b^2 / 24b^2 = 2\\)."
+  },
+  {
+    "objectID": "lecture-6-faq.html#rock-cycle",
+    "href": "lecture-6-faq.html#rock-cycle",
+    "title": "Questions asked in Lecture 6",
+    "section": "",
+    "text": "There are three types of rocks: igneous, sedimentary, and metamorphic. The rock cycle describes how these rocks can change from one type to another over time.\n\nYou can find more information about the rock cycle here\nI have also made a document on the rock cycle, which you can find here"
+  },
+  {
+    "objectID": "lecture-6-faq.html#double-diffusion-layer",
+    "href": "lecture-6-faq.html#double-diffusion-layer",
+    "title": "Questions asked in Lecture 6",
+    "section": "",
+    "text": "The double diffuse layer (DDL) is a two-layer structure that forms at the interface between a clay particle and the surrounding solution, primarily due to the clay’s negative charge. This layer plays a crucial role in understanding clay’s behavior in various soil and water systems.\n\nThe clay particle are very small (less than 2 micrometers) and have a large surface area.\nThe behavior of a single clay particle or assembly of several clay particles is many governed by the electrostatic forces between the clay particles and the surrounding solution.\nThe negative charge of the clay particle attracts hydrogen ions (H+) and cations (positively charged ions) from the surrounding solution, forming a double diffuse layer.\nThe first layer, known as the Stern layer, is tightly bound to the clay particle and consists of cations and water molecules.\nThe second layer, known as the diffuse layer, is more loosely bound and contains a mix of cations and anions (negatively charged ions)."
+  },
+  {
+    "objectID": "lecture-6-faq.html#chemical-weathering",
+    "href": "lecture-6-faq.html#chemical-weathering",
+    "title": "Questions asked in Lecture 6",
+    "section": "",
+    "text": "Even though rocks look hard and solid, some of them can react to acid. That is why we often perform acid tests on rocks to identify them. Pleas see the following video which explains the procedure of acid test on rocks.\n\n\nIn nature, the rocks can come into contact with the acid in several ways. For example, the rain water contains CO2 dissolved in water which makes it slightly acidic. This is called carbonic acid. Some organic acids are also produced by the decomposition of organic matter. These acids can react with the minerals in the rocks, leading to chemical weathering.\nUsually the product of acid reaction dissolved in water at one place, and they get transported to another place with water. There, these products can precipitate out of the solution and form new minerals. This process is called precipitation. For example, when calcium carbonate (CaCO3) dissolves in water, it can form calcium ions (Ca2+) and bicarbonate ions (HCO3-). When the concentration of these ions becomes high enough, they can precipitate out of the solution and form new minerals, such as calcite or aragonite.\n\nI find the following video very useful to understand the chemical weathering process and formation of Karst caves."
+  },
+  {
+    "objectID": "lecture-6-faq.html#biological-weathering",
+    "href": "lecture-6-faq.html#biological-weathering",
+    "title": "Questions asked in Lecture 6",
+    "section": "",
+    "text": "Biological weathering is the process by which living organisms, such as plants, animals, and microorganisms, break down rocks and minerals. This process can occur through physical or chemical means and is an essential part of the rock cycle."
+  },
+  {
+    "objectID": "lecture-6-faq.html#why-biological-weathering-entails-chemical-weathering",
+    "href": "lecture-6-faq.html#why-biological-weathering-entails-chemical-weathering",
+    "title": "Questions asked in Lecture 6",
+    "section": "",
+    "text": "Biological weathering leads to chemical weathering because biological processes, like those of plants and microorganisms, can produce acidic substances and chelating agents that chemically alter rock minerals."
+  },
+  {
+    "objectID": "lecture-6-faq.html#big-particles-and-small-particles",
+    "href": "lecture-6-faq.html#big-particles-and-small-particles",
+    "title": "Questions asked in Lecture 6",
+    "section": "",
+    "text": "Consider you have a cube of size 10 cm. The volume of the cube denotes how big the particle of cube is. In this case it will be 1000 cm^3. A cube contains 6 faces, front, back, top, bottom, left, and right. Each face has an area of 10 cm x 10 cm = 100 cm^2. The total surface area of the cube is 6 x 100 cm^2 = 600 cm^2.\nNow let us divide this cube into two smaller parts. Then each piece will have 6 faces. So there are 12 faces in total. This will have more surface area than the original cube. This is because by cuttting the cude we have generated another face which was not there before (It was inside the cube and not exposed to the outside). This experiment tells us that as we cut the cube into smaller pieces, the mass of the cubes (collection of new smaller cubes) remain the same but the surface area increases. Therefore if we take one kg of sand (big particle) and grind it into smaller pieces (small particles), the mass will remain the same but the surface area will increase. We can use this concept to explain that one kg of clay will have more surface area than the one kg of sand. This is one of the reason why clay are more reactive than sand.\nClass question:\nLet us say that the size of the original cube is a, and the size of the smaller cube is b.\n\nBig cude calculation\n\nVolume = \\(a^3\\)\nSurface area = \\(6a^2\\)\n\nSmall cube calculation\n\nVolume = \\(b^3\\)\nSurface area = \\(6b^2\\)\nThere are 8 cubes of size b, therefore total surface area is \\(6b^2 x 8 = 48b^2\\)\n\nRelation between a and b is found by knowing that the volume of the big cube is equal to the volume of the small cubes. Therefore, \\(a^3 = 8b^3\\) or \\(a = 2b\\).\nRation of surface area of smaller cubes to the surface area of the big cube is \\(48b^2 / 6a^2 = 48b^2 / 6(2b)^2 = 48b^2 / 24b^2 = 2\\)."
+  },
+  {
+    "objectID": "lecture-9-faq.html",
+    "href": "lecture-9-faq.html",
+    "title": "Questions asked in Lecture 9",
+    "section": "",
+    "text": "The ignition temperature of forest fuels refers to the minimum temperature at which biomass (such as leaves, grasses, shrubs, and trees) ignites and sustains combustion without an external flame.\nIn forests, this ignition point varies widely depending on:\n\nFuel type (e.g., grasses, pine needles, woody material)\nMoisture content\nDensity and composition (volatile compounds, resins, etc.)\nAmbient environmental conditions (heat source characteristics)\n\n\n\n\nIgnitability is also quantified by the time to ignition after exposure to a heat source or amount of heat required for ignition.\nIgnitability is important for predicting if a forest is likely to burn and how easily the fire will spread.\nTherefore, at any specific source intensity, the most ignitible fuel is the one that ignites in the shortest exposure time.\n\nWildfires can start from firebrands, lightning strikes or an established fire front. Each of these ignition sources are likely to have a different heat output and therefore a different ignition potential.\n\n\n\n\nWhen forest fuels burn in wildland fires, they first go through a phase called preignition, which requires energy (endothermic).\n\nDuring this phase, as the fuel heats up, it loses water (dehydration) and releases gases from organic materials (volatilization).\n\nVolatile compounds such as terpenoid hydrocarbons volatilize at low temperatures\nAt higher temperatures begins the process of pyrolysis of the forest fuels.\n\nPyrolysis breaks down the substance molecules into low molecular mass gases (volatiles), tars, carbonaceous char and mineral ash.\n\nCellulose is the main component of forest fuels.\n\nThe thermal degradation of cellulose begins at around 280-400 °C\nThis thermal degradation follows two competing pathways.\n\nOne is the dehydration, which leads to char, and gases (mainly CO, CO2, H2O)\nOther is the depolymerisation, which leads to tar and volatiles through the formation of levoglucosan producing flammable gases and char.\n\nHigh temperature and high heating rate favour the formation of volatiles (the second pathway)\nLow temperature and low heating rate favour the formation of char (the first pathway)\n\n\n\n\n\nThe second phase of burning process is exothermic and it is known as combustion.\n\nCombustion may be with or without flame.\nCombustion with the flame is a gas oxidation reaction, which is accompanied by the emission of flames.\n\nIt takes place when the temperature of the volatiles, emerging through the surface of the forest fuels reaches 450-500 °C.\n\nThe combustion without flame is called smoldering combustion.\n\nIt is associated with the oxidation of the char\nIt provides the heat necessary for the pyrolysis of the forest fuels\nIt is an important part of forest fires because it is relaated to ground fires in the organic soil horizon which could last for months and even years.\n\n\n\n\n\n\nIgnition is the transition between the preignition aand combustion phase.\nIt is the temperature at which a pilot source of heat is no longer required.\nOnce ignited the heat generated by the combusion brings other fuel to ignition temperature thus spreading the fire.\n\n\n\n\n\nKanuary has found that the minimum surface temperature (critical surface temperature) of wood under radiative heating mode for spontaneous ignition is 600 °C and for piloted ignition 300–410 °C. With convective heating the spontaneous ignition, occurred at 490 °C and with piloted ignition 450 °C 1.\nIn addition, 2.5 g m−2 s−1 is reported as the minimum supply of fuel vapors (pyrolysis rate) for ignition.\nFrom the literature is shown that both the minimum pyrolysis rate and the minimum surface temperature can be used as criteria for ignition.\n\n\n\n\n\nIgnition characteristics of forest species in relation to thermal analysis data\nPredicting ignitability from firebrands in mature wet eucalypt forests\nEffect of Leaf Thickness on Ignitibility\nFlammability of Australian forests\nForest fuel ignitibility\n\n\n\n\n\nThe following reports discuss the damage caused by storms in forests in Europe and the implications for forest management and policy. Please read first two chapters from this report in your own time.\n\n\nGardiner, B., Schuck, A., Schelhaas, M. J., Orazio, C., Blennow, K., & Nicoll, B. (Eds.) (2013). Living with storm damage to forests. (What science can tell us; No. 3). European Forest Institute. http://www.efi.int/files/attachments/publications/efi_wsctu_3_final_net.pdf\nWindstorms are a major disturbance factor for European forests. In the past six decades wind storms have damaged standing forest volume, which on a yearly average equals about the size of Poland’s annual fellings. The evedence also indicates that the actual severity of storms in the wake of climatic changes may increase during next decades.Windstorms damages have many environmental, economic and social implications.\n\n\n\n\nBark beetles have a strong association with specific types of fungi, often in a symbiotic relationship where both benefit. These fungi, particularly ophiostomatoid fungi, can help bark beetles colonize trees, weaken their defenses, and are sometimes also a source of nutrients. The fungi can also be a food source for the beetles.\nThe following article talks about hte relationship between bark beetles and fungi:\nConvergent evolution of semiochemicals across Kingdoms: bark beetles and their fungal symbionts"
+  },
+  {
+    "objectID": "lecture-9-faq.html#ignition-temperature-in-forest",
+    "href": "lecture-9-faq.html#ignition-temperature-in-forest",
+    "title": "Questions asked in Lecture 9",
+    "section": "",
+    "text": "The ignition temperature of forest fuels refers to the minimum temperature at which biomass (such as leaves, grasses, shrubs, and trees) ignites and sustains combustion without an external flame.\nIn forests, this ignition point varies widely depending on:\n\nFuel type (e.g., grasses, pine needles, woody material)\nMoisture content\nDensity and composition (volatile compounds, resins, etc.)\nAmbient environmental conditions (heat source characteristics)\n\n\n\n\nIgnitability is also quantified by the time to ignition after exposure to a heat source or amount of heat required for ignition.\nIgnitability is important for predicting if a forest is likely to burn and how easily the fire will spread.\nTherefore, at any specific source intensity, the most ignitible fuel is the one that ignites in the shortest exposure time.\n\nWildfires can start from firebrands, lightning strikes or an established fire front. Each of these ignition sources are likely to have a different heat output and therefore a different ignition potential.\n\n\n\n\nWhen forest fuels burn in wildland fires, they first go through a phase called preignition, which requires energy (endothermic).\n\nDuring this phase, as the fuel heats up, it loses water (dehydration) and releases gases from organic materials (volatilization).\n\nVolatile compounds such as terpenoid hydrocarbons volatilize at low temperatures\nAt higher temperatures begins the process of pyrolysis of the forest fuels.\n\nPyrolysis breaks down the substance molecules into low molecular mass gases (volatiles), tars, carbonaceous char and mineral ash.\n\nCellulose is the main component of forest fuels.\n\nThe thermal degradation of cellulose begins at around 280-400 °C\nThis thermal degradation follows two competing pathways.\n\nOne is the dehydration, which leads to char, and gases (mainly CO, CO2, H2O)\nOther is the depolymerisation, which leads to tar and volatiles through the formation of levoglucosan producing flammable gases and char.\n\nHigh temperature and high heating rate favour the formation of volatiles (the second pathway)\nLow temperature and low heating rate favour the formation of char (the first pathway)\n\n\n\n\n\nThe second phase of burning process is exothermic and it is known as combustion.\n\nCombustion may be with or without flame.\nCombustion with the flame is a gas oxidation reaction, which is accompanied by the emission of flames.\n\nIt takes place when the temperature of the volatiles, emerging through the surface of the forest fuels reaches 450-500 °C.\n\nThe combustion without flame is called smoldering combustion.\n\nIt is associated with the oxidation of the char\nIt provides the heat necessary for the pyrolysis of the forest fuels\nIt is an important part of forest fires because it is relaated to ground fires in the organic soil horizon which could last for months and even years.\n\n\n\n\n\n\nIgnition is the transition between the preignition aand combustion phase.\nIt is the temperature at which a pilot source of heat is no longer required.\nOnce ignited the heat generated by the combusion brings other fuel to ignition temperature thus spreading the fire.\n\n\n\n\n\nKanuary has found that the minimum surface temperature (critical surface temperature) of wood under radiative heating mode for spontaneous ignition is 600 °C and for piloted ignition 300–410 °C. With convective heating the spontaneous ignition, occurred at 490 °C and with piloted ignition 450 °C 1.\nIn addition, 2.5 g m−2 s−1 is reported as the minimum supply of fuel vapors (pyrolysis rate) for ignition.\nFrom the literature is shown that both the minimum pyrolysis rate and the minimum surface temperature can be used as criteria for ignition.\n\n\n\n\n\nIgnition characteristics of forest species in relation to thermal analysis data\nPredicting ignitability from firebrands in mature wet eucalypt forests\nEffect of Leaf Thickness on Ignitibility\nFlammability of Australian forests\nForest fuel ignitibility"
+  },
+  {
+    "objectID": "lecture-9-faq.html#reading-materials-on-damage-due-to-storms-in-forests",
+    "href": "lecture-9-faq.html#reading-materials-on-damage-due-to-storms-in-forests",
+    "title": "Questions asked in Lecture 9",
+    "section": "",
+    "text": "The following reports discuss the damage caused by storms in forests in Europe and the implications for forest management and policy. Please read first two chapters from this report in your own time.\n\n\nGardiner, B., Schuck, A., Schelhaas, M. J., Orazio, C., Blennow, K., & Nicoll, B. (Eds.) (2013). Living with storm damage to forests. (What science can tell us; No. 3). European Forest Institute. http://www.efi.int/files/attachments/publications/efi_wsctu_3_final_net.pdf\nWindstorms are a major disturbance factor for European forests. In the past six decades wind storms have damaged standing forest volume, which on a yearly average equals about the size of Poland’s annual fellings. The evedence also indicates that the actual severity of storms in the wake of climatic changes may increase during next decades.Windstorms damages have many environmental, economic and social implications."
+  },
+  {
+    "objectID": "lecture-9-faq.html#bark-beetles-instect-attacks-in-forests",
+    "href": "lecture-9-faq.html#bark-beetles-instect-attacks-in-forests",
+    "title": "Questions asked in Lecture 9",
+    "section": "",
+    "text": "Bark beetles have a strong association with specific types of fungi, often in a symbiotic relationship where both benefit. These fungi, particularly ophiostomatoid fungi, can help bark beetles colonize trees, weaken their defenses, and are sometimes also a source of nutrients. The fungi can also be a food source for the beetles.\nThe following article talks about hte relationship between bark beetles and fungi:\nConvergent evolution of semiochemicals across Kingdoms: bark beetles and their fungal symbionts"
+  },
+  {
+    "objectID": "lecture-9-faq.html#footnotes",
+    "href": "lecture-9-faq.html#footnotes",
+    "title": "Questions asked in Lecture 9",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nH.G. Wiedemann, I. Lamprecht, in: P. Gallager (Ed.), Handbook of Thermal Analysis and Calorimetry, Vol. 4, Elsevier, Amsterdam, 1999, p. 756.↩︎"
   },
   {
     "objectID": "lecture-8-faq.html",
@@ -1757,234 +1939,332 @@
     "text": "The population is a group of individuals of the same species that live in the same area at the same time.\nA population is defined as a group of individuals of the same species living and interbreeding within a given area.\nMembers of a population often rely on the same resources, are subject to similar environmental constraints, and depend on the availability of other members to persist over time.\nWe study a population by examining how individuals in that population interact with each other and how the population as a whole interacts with its environment.\nAs a tool for objectively studying populations, population ecologists rely on a series of statistical measures, known as demographic parameters, to describe that population.\nThe field of science interested in collecting and analyzing these numbers is termed population demographics, also known as demography.\n\nI strongly recommend students to watch the following YouTube Video to understand the concept of population.\n\nPopulation dynamics is an very intriguing subject. I can recommend the following article to understand the concept of population in an ecosystem.\n\nhttps://www.nature.com/scitable/knowledge/library/introduction-to-population-demographics-83032908/"
   },
   {
-    "objectID": "lecture-6-faq.html",
-    "href": "lecture-6-faq.html",
-    "title": "Questions asked in Lecture 6",
+    "objectID": "lecture-5-faq.html",
+    "href": "lecture-5-faq.html",
+    "title": "Questions asked in Lecture 5",
     "section": "",
-    "text": "There are three types of rocks: igneous, sedimentary, and metamorphic. The rock cycle describes how these rocks can change from one type to another over time.\n\nYou can find more information about the rock cycle here\nI have also made a document on the rock cycle, which you can find here\n\n\n\n\nThe double diffuse layer (DDL) is a two-layer structure that forms at the interface between a clay particle and the surrounding solution, primarily due to the clay’s negative charge. This layer plays a crucial role in understanding clay’s behavior in various soil and water systems.\n\nThe clay particle are very small (less than 2 micrometers) and have a large surface area.\nThe behavior of a single clay particle or assembly of several clay particles is many governed by the electrostatic forces between the clay particles and the surrounding solution.\nThe negative charge of the clay particle attracts hydrogen ions (H+) and cations (positively charged ions) from the surrounding solution, forming a double diffuse layer.\nThe first layer, known as the Stern layer, is tightly bound to the clay particle and consists of cations and water molecules.\nThe second layer, known as the diffuse layer, is more loosely bound and contains a mix of cations and anions (negatively charged ions).\n\n\n\n\nEven though rocks look hard and solid, some of them can react to acid. That is why we often perform acid tests on rocks to identify them. Pleas see the following video which explains the procedure of acid test on rocks.\n\n\nIn nature, the rocks can come into contact with the acid in several ways. For example, the rain water contains CO2 dissolved in water which makes it slightly acidic. This is called carbonic acid. Some organic acids are also produced by the decomposition of organic matter. These acids can react with the minerals in the rocks, leading to chemical weathering.\nUsually the product of acid reaction dissolved in water at one place, and they get transported to another place with water. There, these products can precipitate out of the solution and form new minerals. This process is called precipitation. For example, when calcium carbonate (CaCO3) dissolves in water, it can form calcium ions (Ca2+) and bicarbonate ions (HCO3-). When the concentration of these ions becomes high enough, they can precipitate out of the solution and form new minerals, such as calcite or aragonite.\n\nI find the following video very useful to understand the chemical weathering process and formation of Karst caves.\n\n\n\n\nBiological weathering is the process by which living organisms, such as plants, animals, and microorganisms, break down rocks and minerals. This process can occur through physical or chemical means and is an essential part of the rock cycle.\n\n\n\nBiological weathering leads to chemical weathering because biological processes, like those of plants and microorganisms, can produce acidic substances and chelating agents that chemically alter rock minerals.\n\n\n\nConsider you have a cube of size 10 cm. The volume of the cube denotes how big the particle of cube is. In this case it will be 1000 cm^3. A cube contains 6 faces, front, back, top, bottom, left, and right. Each face has an area of 10 cm x 10 cm = 100 cm^2. The total surface area of the cube is 6 x 100 cm^2 = 600 cm^2.\nNow let us divide this cube into two smaller parts. Then each piece will have 6 faces. So there are 12 faces in total. This will have more surface area than the original cube. This is because by cuttting the cude we have generated another face which was not there before (It was inside the cube and not exposed to the outside). This experiment tells us that as we cut the cube into smaller pieces, the mass of the cubes (collection of new smaller cubes) remain the same but the surface area increases. Therefore if we take one kg of sand (big particle) and grind it into smaller pieces (small particles), the mass will remain the same but the surface area will increase. We can use this concept to explain that one kg of clay will have more surface area than the one kg of sand. This is one of the reason why clay are more reactive than sand.\nClass question:\nLet us say that the size of the original cube is a, and the size of the smaller cube is b.\n\nBig cude calculation\n\nVolume = \\(a^3\\)\nSurface area = \\(6a^2\\)\n\nSmall cube calculation\n\nVolume = \\(b^3\\)\nSurface area = \\(6b^2\\)\nThere are 8 cubes of size b, therefore total surface area is \\(6b^2 x 8 = 48b^2\\)\n\nRelation between a and b is found by knowing that the volume of the big cube is equal to the volume of the small cubes. Therefore, \\(a^3 = 8b^3\\) or \\(a = 2b\\).\nRation of surface area of smaller cubes to the surface area of the big cube is \\(48b^2 / 6a^2 = 48b^2 / 6(2b)^2 = 48b^2 / 24b^2 = 2\\)."
+    "text": "In general the term Spectra or Spectrum means the range of some values (for example, wavelength, frequency, energy).\n\n\n\n\n\n\nNote\n\n\n\nSpectra aren’t just for light. Any kind of wave or energy — like sound, heat, or even chemicals — can have a spectrum.\n\nSound spectrum: low to high pitches.\nLight spectrum: red to violet colors, or even invisible light like infrared and ultraviolet.\nChemical spectra: patterns that help scientists identify what an object is made of, like a fingerprint for materials.\n\n\n\nFor example, you must have seen rainbow (see figure below). What you see is a range of colors from red to violet. The question is how do we define the rainbow. Well to tackle this question we use the term spectrum. So a rainbow is a collection (or spectra) of different colors. But what is a color? I mean is color a material property? How to I measure the value of color? Because, their can be several shades of red or blue. How do we associated a unique to each color?\nTo tackle the above issue we can use the concept of wave. Each wave have its wavelength, frequency, and speed (we will not go into the detail of each terms, lets focus only on the wavelength). So each color has a unique value of wavelength which is measured in meters. Now we can say that “a rainbow is a collection of different wavelength).\n\n\n\nRainbow\n\n\nNow lets expand the concept of spectrum to visible light. The visible light is a spectrum of electromagnetic waves of wavelengths ranging from 400 to 700 nm. What it means is that the visible light contains wavelengths from 400 nm to 700 nm.\n\n\n\nVisible light spectrum\n\n\nBut please note that we have not mentioned anything about the how much percentage of each wavelength is contain in the spectrum of visible light. However, this information is important as it characterizes the visible light. Because, if we have two sources of visible light; White LED and tungsten lamp. Then both of these source will emit visible light. But the percentage of each wavelength in the spectrum of these two sources will be different. We say that these two light sources have different VISIBLE spectrum.\n\n\n\nVisible spectrum of various light source\n\n\nNow let us focus on the spectrum of sunlight. It contains Visible light. But sunlight also contains other wavelengths such as ultraviolet(UV) and infrared (IR). The UV light has wavelength less than 400 nm and IR light has wavelength greater than 700 nm. The UV and Visible light are called shortwave radiation. The IR light is called longwave radiation. The IR light can be sensed as heat. We also have infrared cameras or night vision cameras which can detect the IR light.\nThe solar spectrum is given below.\n\n\n\nSpectrum of electromagnetic radiation, UV: 10 nm to 400 nm; Visible: 380 nm to 780 nm; Infrared: 780 nm to 1 mm\n\n\n\n\n\nIn the above section we have discussed the concept of spectrum. We saw that the sunlight contains a range of wavelengths including UV, visible light and IR. Humans, animals, plants, and building also emit IR radiation, which is why we can see them in the dark using infrared cameras.\nThe question is why every object emits these radiations? This phenomenon is called the thermal radiation or black body radiation. According to this theory, every object which has a non-zero temperature (on absolute scale) emits radiation. In other words, thermal radiation is represented by the spectrum of electromagnetic waves of different wavelengths.\nHotter objects like sun emits shorwave radiation. Cooler objects like humans, animals, and plants emit longwave radiation. The amount of radiation emitted by an object is a function of its temperature. The higher the temperature, the more radiation is emitted.\n\n\n\n\n\n\nSimple definition of black body\n\n\n\nA black body is something that’s really good at absorbing and giving off heat — it’s like the perfect heater. It absorbs all light (or energy) that hits it — it doesn’t reflect or transmit any. It also gives off heat (in the form of light) more efficiently than anything else.\n\n\nA black body is a perfect absorber and emitter.\n\nPerfect Absorber: A black body absorbs all incoming electromagnetic radiation, regardless of frequency or angle of incidence.\nPerfect Emitter: It emits radiation at all wavelengths, with an intensity distribution that depends solely on its temperature.\n\n\n\n\nSpectra of black body radiation\n\n\n\n\n\n\n\n\nKey features of black body radiation\n\n\n\n\nTemperature Dependence: As the temperature of a black body increases, the peak of its emission curve shifts to shorter wavelengths (higher frequencies). This is described by Wien’s Displacement Law.\nIntensity Increase: The total emitted radiation increases rapidly with temperature, following the Stefan–Boltzmann Law, which states that the total energy emitted per unit surface area is proportional to the fourth power of the black body’s absolute temperature.\nContinuous Spectrum: Unlike discrete spectral lines emitted by gases, a black body emits a continuous spectrum of radiation.\n\n\n\nBlack body simulator\n\n\n\nBlack body radiation can occur in the absence of any medium. Due to thermal energy the electrons or atoms emits electromagnetic radiation. This is the source of black body radiation.\nBlack bodies are ideal emitters of radiation. They absorb all incident radiation and emit radiation at all wavelengths. The amount of radiation emitted by a black body is given by Planck’s law.\n\n\n\nA grey body is like a black body, but not perfect — it only emits a portion of the thermal radiation it could. In fact, most everyday objects are grey bodies. A grey body absorbs and emits less radiation than a black body at the same temperature.\nImagine two stoves that are equally hot. One is brand new and super efficient (the black body), and the other is older and less efficient (the grey body). The old one gives off less heat — even though it’s at the same temperature. The black body gives off 100% of what’s possible. The grey body gives off less than 100% — maybe 70%, 50%, or 90%, depending on the material.\nThe amount of radiation a grey body gives off is described by something called emissivity (\\(\\varepsilon\\)) — a number between 0 and 1. A perfect black body has an emissivity of 1, while a perfect reflector has an emissivity of 0. Most materials fall somewhere in between. Human skin has an emissivity of about 0.98 (almost a black body). Aluminum foil has a low emissivity (~0.05), which is why it’s used to reflect heat.\n\n\n\nNorth-facing slopes in the Northern Hemisphere receive less sunlight than south-facing slopes primarily due to the angle of the Sun’s path in the sky, which is a consequence of the Earth’s axial tilt.\n\n\n\n\n\n\nTilt of the earth\n\n\n\nThe Earth is tilted at an angle of approximately 23.5° relative to its orbital plane around the Sun. As a result:\n\nIn the Northern Hemisphere, the Sun is always positioned to the south of the zenith (the point directly overhead) for most of the year.\nThis means sunlight approaches the Earth’s surface from a southerly direction.\n\n\n\n\n\n\n\n\n\nNote\n\n\n\n\nA south-facing slope in the Northern Hemisphere is oriented toward the Sun, thereby receiving more direct solar radiation.\nA north-facing slope, in contrast, faces away from the Sun and thus receives less direct sunlight, especially during the cooler half of the year.\n\n\n\nI think the following video is very helpful in understanding the concept of north and south facing slopes.\n\n\n\n\n\n\nOne liter of water weighs 1 kg.\nOne liter of water evaporated requires \\(2,260 kJ\\) of energy.\nLet us say \\(20 M/m^{2}\\) of energy is available for evaporation. Note that, this is not the total energy available for evaporation. This is the energy available for evaporation per square meter of surface.\nLet us consider the area of \\(1 m^{2}\\). So this area will receive \\(20 MJ\\) of energy.\n\\(20 MJ\\) of energy will evaporate about 8.85 kg of water, which is about 8.85 liters.\n1 liter is equal to \\(0.001 m^3\\), therefore, 8.85 liters is equal to \\(0.00885 m^3\\).\nVolume (V) of a cube is area (A) * height (H).\n\n\\[\nV = A * H\n\\]\nTherefore, the height of a cube with \\(1 m^2\\) area and \\(0.00885 m^3\\) volume is equal to \\(0.00885 m\\). This is equal to \\(8.85 cm\\).\n\nTherefore \\(20 MJ\\) of energy can evaporate \\(8.85 cm\\) of water from a \\(1 m^2\\) area.\n\n\n\n\n\nTrees receives shortwave radiation from the sunlight. Trees are not perfect black bodies so they will reflect some part of short radiation.\nTrees also have non-zero temperature. Therefore, they will emit thermal radiation. The question is what type of thermal radiation they emit? The temperature of tree is not so high. Therefore, like humans and animals, tree will emit longwave radiation.\n\nThe source of longwave radiation is the thermal energy of tree. The source of shortwave radiation from trees is the reflection of sunlight."
   },
   {
-    "objectID": "lecture-6-faq.html#rock-cycle",
-    "href": "lecture-6-faq.html#rock-cycle",
-    "title": "Questions asked in Lecture 6",
+    "objectID": "lecture-5-faq.html#spectra",
+    "href": "lecture-5-faq.html#spectra",
+    "title": "Questions asked in Lecture 5",
     "section": "",
-    "text": "There are three types of rocks: igneous, sedimentary, and metamorphic. The rock cycle describes how these rocks can change from one type to another over time.\n\nYou can find more information about the rock cycle here\nI have also made a document on the rock cycle, which you can find here"
+    "text": "In general the term Spectra or Spectrum means the range of some values (for example, wavelength, frequency, energy).\n\n\n\n\n\n\nNote\n\n\n\nSpectra aren’t just for light. Any kind of wave or energy — like sound, heat, or even chemicals — can have a spectrum.\n\nSound spectrum: low to high pitches.\nLight spectrum: red to violet colors, or even invisible light like infrared and ultraviolet.\nChemical spectra: patterns that help scientists identify what an object is made of, like a fingerprint for materials.\n\n\n\nFor example, you must have seen rainbow (see figure below). What you see is a range of colors from red to violet. The question is how do we define the rainbow. Well to tackle this question we use the term spectrum. So a rainbow is a collection (or spectra) of different colors. But what is a color? I mean is color a material property? How to I measure the value of color? Because, their can be several shades of red or blue. How do we associated a unique to each color?\nTo tackle the above issue we can use the concept of wave. Each wave have its wavelength, frequency, and speed (we will not go into the detail of each terms, lets focus only on the wavelength). So each color has a unique value of wavelength which is measured in meters. Now we can say that “a rainbow is a collection of different wavelength).\n\n\n\nRainbow\n\n\nNow lets expand the concept of spectrum to visible light. The visible light is a spectrum of electromagnetic waves of wavelengths ranging from 400 to 700 nm. What it means is that the visible light contains wavelengths from 400 nm to 700 nm.\n\n\n\nVisible light spectrum\n\n\nBut please note that we have not mentioned anything about the how much percentage of each wavelength is contain in the spectrum of visible light. However, this information is important as it characterizes the visible light. Because, if we have two sources of visible light; White LED and tungsten lamp. Then both of these source will emit visible light. But the percentage of each wavelength in the spectrum of these two sources will be different. We say that these two light sources have different VISIBLE spectrum.\n\n\n\nVisible spectrum of various light source\n\n\nNow let us focus on the spectrum of sunlight. It contains Visible light. But sunlight also contains other wavelengths such as ultraviolet(UV) and infrared (IR). The UV light has wavelength less than 400 nm and IR light has wavelength greater than 700 nm. The UV and Visible light are called shortwave radiation. The IR light is called longwave radiation. The IR light can be sensed as heat. We also have infrared cameras or night vision cameras which can detect the IR light.\nThe solar spectrum is given below.\n\n\n\nSpectrum of electromagnetic radiation, UV: 10 nm to 400 nm; Visible: 380 nm to 780 nm; Infrared: 780 nm to 1 mm"
   },
   {
-    "objectID": "lecture-6-faq.html#double-diffusion-layer",
-    "href": "lecture-6-faq.html#double-diffusion-layer",
-    "title": "Questions asked in Lecture 6",
+    "objectID": "lecture-5-faq.html#black-body-radiation",
+    "href": "lecture-5-faq.html#black-body-radiation",
+    "title": "Questions asked in Lecture 5",
     "section": "",
-    "text": "The double diffuse layer (DDL) is a two-layer structure that forms at the interface between a clay particle and the surrounding solution, primarily due to the clay’s negative charge. This layer plays a crucial role in understanding clay’s behavior in various soil and water systems.\n\nThe clay particle are very small (less than 2 micrometers) and have a large surface area.\nThe behavior of a single clay particle or assembly of several clay particles is many governed by the electrostatic forces between the clay particles and the surrounding solution.\nThe negative charge of the clay particle attracts hydrogen ions (H+) and cations (positively charged ions) from the surrounding solution, forming a double diffuse layer.\nThe first layer, known as the Stern layer, is tightly bound to the clay particle and consists of cations and water molecules.\nThe second layer, known as the diffuse layer, is more loosely bound and contains a mix of cations and anions (negatively charged ions)."
+    "text": "In the above section we have discussed the concept of spectrum. We saw that the sunlight contains a range of wavelengths including UV, visible light and IR. Humans, animals, plants, and building also emit IR radiation, which is why we can see them in the dark using infrared cameras.\nThe question is why every object emits these radiations? This phenomenon is called the thermal radiation or black body radiation. According to this theory, every object which has a non-zero temperature (on absolute scale) emits radiation. In other words, thermal radiation is represented by the spectrum of electromagnetic waves of different wavelengths.\nHotter objects like sun emits shorwave radiation. Cooler objects like humans, animals, and plants emit longwave radiation. The amount of radiation emitted by an object is a function of its temperature. The higher the temperature, the more radiation is emitted.\n\n\n\n\n\n\nSimple definition of black body\n\n\n\nA black body is something that’s really good at absorbing and giving off heat — it’s like the perfect heater. It absorbs all light (or energy) that hits it — it doesn’t reflect or transmit any. It also gives off heat (in the form of light) more efficiently than anything else.\n\n\nA black body is a perfect absorber and emitter.\n\nPerfect Absorber: A black body absorbs all incoming electromagnetic radiation, regardless of frequency or angle of incidence.\nPerfect Emitter: It emits radiation at all wavelengths, with an intensity distribution that depends solely on its temperature.\n\n\n\n\nSpectra of black body radiation\n\n\n\n\n\n\n\n\nKey features of black body radiation\n\n\n\n\nTemperature Dependence: As the temperature of a black body increases, the peak of its emission curve shifts to shorter wavelengths (higher frequencies). This is described by Wien’s Displacement Law.\nIntensity Increase: The total emitted radiation increases rapidly with temperature, following the Stefan–Boltzmann Law, which states that the total energy emitted per unit surface area is proportional to the fourth power of the black body’s absolute temperature.\nContinuous Spectrum: Unlike discrete spectral lines emitted by gases, a black body emits a continuous spectrum of radiation.\n\n\n\nBlack body simulator"
   },
   {
-    "objectID": "lecture-6-faq.html#chemical-weathering",
-    "href": "lecture-6-faq.html#chemical-weathering",
-    "title": "Questions asked in Lecture 6",
+    "objectID": "lecture-5-faq.html#how-black-body-emit-radiation",
+    "href": "lecture-5-faq.html#how-black-body-emit-radiation",
+    "title": "Questions asked in Lecture 5",
     "section": "",
-    "text": "Even though rocks look hard and solid, some of them can react to acid. That is why we often perform acid tests on rocks to identify them. Pleas see the following video which explains the procedure of acid test on rocks.\n\n\nIn nature, the rocks can come into contact with the acid in several ways. For example, the rain water contains CO2 dissolved in water which makes it slightly acidic. This is called carbonic acid. Some organic acids are also produced by the decomposition of organic matter. These acids can react with the minerals in the rocks, leading to chemical weathering.\nUsually the product of acid reaction dissolved in water at one place, and they get transported to another place with water. There, these products can precipitate out of the solution and form new minerals. This process is called precipitation. For example, when calcium carbonate (CaCO3) dissolves in water, it can form calcium ions (Ca2+) and bicarbonate ions (HCO3-). When the concentration of these ions becomes high enough, they can precipitate out of the solution and form new minerals, such as calcite or aragonite.\n\nI find the following video very useful to understand the chemical weathering process and formation of Karst caves."
+    "text": "Black body radiation can occur in the absence of any medium. Due to thermal energy the electrons or atoms emits electromagnetic radiation. This is the source of black body radiation.\nBlack bodies are ideal emitters of radiation. They absorb all incident radiation and emit radiation at all wavelengths. The amount of radiation emitted by a black body is given by Planck’s law."
   },
   {
-    "objectID": "lecture-6-faq.html#biological-weathering",
-    "href": "lecture-6-faq.html#biological-weathering",
-    "title": "Questions asked in Lecture 6",
+    "objectID": "lecture-5-faq.html#grey-body-radiation",
+    "href": "lecture-5-faq.html#grey-body-radiation",
+    "title": "Questions asked in Lecture 5",
     "section": "",
-    "text": "Biological weathering is the process by which living organisms, such as plants, animals, and microorganisms, break down rocks and minerals. This process can occur through physical or chemical means and is an essential part of the rock cycle."
+    "text": "A grey body is like a black body, but not perfect — it only emits a portion of the thermal radiation it could. In fact, most everyday objects are grey bodies. A grey body absorbs and emits less radiation than a black body at the same temperature.\nImagine two stoves that are equally hot. One is brand new and super efficient (the black body), and the other is older and less efficient (the grey body). The old one gives off less heat — even though it’s at the same temperature. The black body gives off 100% of what’s possible. The grey body gives off less than 100% — maybe 70%, 50%, or 90%, depending on the material.\nThe amount of radiation a grey body gives off is described by something called emissivity (\\(\\varepsilon\\)) — a number between 0 and 1. A perfect black body has an emissivity of 1, while a perfect reflector has an emissivity of 0. Most materials fall somewhere in between. Human skin has an emissivity of about 0.98 (almost a black body). Aluminum foil has a low emissivity (~0.05), which is why it’s used to reflect heat."
   },
   {
-    "objectID": "lecture-6-faq.html#why-biological-weathering-entails-chemical-weathering",
-    "href": "lecture-6-faq.html#why-biological-weathering-entails-chemical-weathering",
-    "title": "Questions asked in Lecture 6",
+    "objectID": "lecture-5-faq.html#north-and-south-facing-slopes",
+    "href": "lecture-5-faq.html#north-and-south-facing-slopes",
+    "title": "Questions asked in Lecture 5",
     "section": "",
-    "text": "Biological weathering leads to chemical weathering because biological processes, like those of plants and microorganisms, can produce acidic substances and chelating agents that chemically alter rock minerals."
+    "text": "North-facing slopes in the Northern Hemisphere receive less sunlight than south-facing slopes primarily due to the angle of the Sun’s path in the sky, which is a consequence of the Earth’s axial tilt.\n\n\n\n\n\n\nTilt of the earth\n\n\n\nThe Earth is tilted at an angle of approximately 23.5° relative to its orbital plane around the Sun. As a result:\n\nIn the Northern Hemisphere, the Sun is always positioned to the south of the zenith (the point directly overhead) for most of the year.\nThis means sunlight approaches the Earth’s surface from a southerly direction.\n\n\n\n\n\n\n\n\n\nNote\n\n\n\n\nA south-facing slope in the Northern Hemisphere is oriented toward the Sun, thereby receiving more direct solar radiation.\nA north-facing slope, in contrast, faces away from the Sun and thus receives less direct sunlight, especially during the cooler half of the year.\n\n\n\nI think the following video is very helpful in understanding the concept of north and south facing slopes."
   },
   {
-    "objectID": "lecture-6-faq.html#big-particles-and-small-particles",
-    "href": "lecture-6-faq.html#big-particles-and-small-particles",
-    "title": "Questions asked in Lecture 6",
+    "objectID": "lecture-5-faq.html#how-much-water-can-be-evaporated",
+    "href": "lecture-5-faq.html#how-much-water-can-be-evaporated",
+    "title": "Questions asked in Lecture 5",
     "section": "",
-    "text": "Consider you have a cube of size 10 cm. The volume of the cube denotes how big the particle of cube is. In this case it will be 1000 cm^3. A cube contains 6 faces, front, back, top, bottom, left, and right. Each face has an area of 10 cm x 10 cm = 100 cm^2. The total surface area of the cube is 6 x 100 cm^2 = 600 cm^2.\nNow let us divide this cube into two smaller parts. Then each piece will have 6 faces. So there are 12 faces in total. This will have more surface area than the original cube. This is because by cuttting the cude we have generated another face which was not there before (It was inside the cube and not exposed to the outside). This experiment tells us that as we cut the cube into smaller pieces, the mass of the cubes (collection of new smaller cubes) remain the same but the surface area increases. Therefore if we take one kg of sand (big particle) and grind it into smaller pieces (small particles), the mass will remain the same but the surface area will increase. We can use this concept to explain that one kg of clay will have more surface area than the one kg of sand. This is one of the reason why clay are more reactive than sand.\nClass question:\nLet us say that the size of the original cube is a, and the size of the smaller cube is b.\n\nBig cude calculation\n\nVolume = \\(a^3\\)\nSurface area = \\(6a^2\\)\n\nSmall cube calculation\n\nVolume = \\(b^3\\)\nSurface area = \\(6b^2\\)\nThere are 8 cubes of size b, therefore total surface area is \\(6b^2 x 8 = 48b^2\\)\n\nRelation between a and b is found by knowing that the volume of the big cube is equal to the volume of the small cubes. Therefore, \\(a^3 = 8b^3\\) or \\(a = 2b\\).\nRation of surface area of smaller cubes to the surface area of the big cube is \\(48b^2 / 6a^2 = 48b^2 / 6(2b)^2 = 48b^2 / 24b^2 = 2\\)."
+    "text": "One liter of water weighs 1 kg.\nOne liter of water evaporated requires \\(2,260 kJ\\) of energy.\nLet us say \\(20 M/m^{2}\\) of energy is available for evaporation. Note that, this is not the total energy available for evaporation. This is the energy available for evaporation per square meter of surface.\nLet us consider the area of \\(1 m^{2}\\). So this area will receive \\(20 MJ\\) of energy.\n\\(20 MJ\\) of energy will evaporate about 8.85 kg of water, which is about 8.85 liters.\n1 liter is equal to \\(0.001 m^3\\), therefore, 8.85 liters is equal to \\(0.00885 m^3\\).\nVolume (V) of a cube is area (A) * height (H).\n\n\\[\nV = A * H\n\\]\nTherefore, the height of a cube with \\(1 m^2\\) area and \\(0.00885 m^3\\) volume is equal to \\(0.00885 m\\). This is equal to \\(8.85 cm\\).\n\nTherefore \\(20 MJ\\) of energy can evaporate \\(8.85 cm\\) of water from a \\(1 m^2\\) area."
   },
   {
-    "objectID": "lecture-8.html#learning-objectives",
-    "href": "lecture-8.html#learning-objectives",
+    "objectID": "lecture-5-faq.html#shortwave-and-longwave-radiation-from-trees",
+    "href": "lecture-5-faq.html#shortwave-and-longwave-radiation-from-trees",
+    "title": "Questions asked in Lecture 5",
+    "section": "",
+    "text": "Trees receives shortwave radiation from the sunlight. Trees are not perfect black bodies so they will reflect some part of short radiation.\nTrees also have non-zero temperature. Therefore, they will emit thermal radiation. The question is what type of thermal radiation they emit? The temperature of tree is not so high. Therefore, like humans and animals, tree will emit longwave radiation.\n\nThe source of longwave radiation is the thermal energy of tree. The source of shortwave radiation from trees is the reflection of sunlight."
+  },
+  {
+    "objectID": "lecture-3-faq.html",
+    "href": "lecture-3-faq.html",
+    "title": "Questions asked in Lecture 3",
+    "section": "",
+    "text": "Consider the following chemical reaction:\n\\[\nA + B \\rightarrow C + D\n\\]\nwhere \\(A\\) and \\(B\\) are reactants, and \\(C\\) and \\(D\\) are products.\n\n\n\nExothermic reaction: A chemical reaction that releases energy, usually in the form of heat. The products have lower energy than the reactants.\nEndothermic reaction: A chemical reaction that absorbs energy from its surroundings. The products have higher energy than the reactants.\n\nWhy energy is released or absorbed in a chemical reaction?\nIn any chemical reaction, some bonds are broken and new bonds are formed. Energy is required to break the bonds which we will call as bond dissociation energy. Also, energy is released when new bonds are formed, which will be referred to as the bond formation energy.\n\nA reaction is exotermic if the bond formation energy is greater than the bond dissociation energy.\nA reaction is endothermic if the bond dissociation energy is greater than the bond formation energy.\n\n\n\n\nIn a chemical reaction the electrons cannot be created or destroyed, but they can be transferred from one atom to another. So the flow of electrons can only occur from a source connected to a sink. So what it means is that if in a chemical reaction electrons are flowing then someone should provide the electrons and someone should accept the electrons.\nA redox reaction can be defined as a chemical reaction in which electrons are transferred between two reactants participating in it.\nI have updated the lecture notes to improve the description of redox reactions in the context of forest ecology. Please refer to the updated notes for a more detailed explanation.\n\n\n\n\n\nPhotons are discrete packets of light energy. Visible light, X-rays, ultraviolet, infrared, microwaves, and radio waves all consist of photons differing in energy (frequency).\nA photon’s energy is proportional to the frequency of the electromagnetic wave:\n\n\\[\nE = h \\nu\n\\]\nwhere \\(E\\) is the energy of the photon, \\(h\\) is Planck’s constant (\\(6.626 \\times 10^{-34} \\text{J s}\\)), and \\(\\nu\\) is the frequency of the electromagnetic wave.\n\n\n\n\n\n\nwave-particle duality\n\n\n\nDuring the 19th and early 20th centuries, light was found to behave as a wave then later was discovered to have a particle-like behavior, whereas electrons behaved like particles in early experiments then were later discovered to have wave-like behavior. The concept of duality arose to name these seeming contradictions.\n\n\nPlease see the following video to understand the concept of wave-particle duality:\n\nAfter watching the above video, please watch the following video.\n\n\n\n\n\n\n\n\n\n\nColor perception\n\n\n\nLight is a form of electromagnetic wave. It contains several frequencies (or wavelengths). We often call it spectrum. The visible spectrum contains wavelength from 380 to 780 nano meters. The red color has the biggest wavelength in the visible spectrum.\n\n\nEvery object smaller or bigger absorbs and reflects light. What it means is that the object absorbs certain wavelengths and reflects certain wavelength. The wavelength that object absorbs never reaches to our eyes, but the reflected wave lengths are received by our eyes. Therefore, we see the color corresponding to the wavelengths that have been reflected from the object."
+  },
+  {
+    "objectID": "lecture-3-faq.html#chemical-reactions-redox-exothermic-and-endothermic-reactions",
+    "href": "lecture-3-faq.html#chemical-reactions-redox-exothermic-and-endothermic-reactions",
+    "title": "Questions asked in Lecture 3",
+    "section": "",
+    "text": "Consider the following chemical reaction:\n\\[\nA + B \\rightarrow C + D\n\\]\nwhere \\(A\\) and \\(B\\) are reactants, and \\(C\\) and \\(D\\) are products.\n\n\n\nExothermic reaction: A chemical reaction that releases energy, usually in the form of heat. The products have lower energy than the reactants.\nEndothermic reaction: A chemical reaction that absorbs energy from its surroundings. The products have higher energy than the reactants.\n\nWhy energy is released or absorbed in a chemical reaction?\nIn any chemical reaction, some bonds are broken and new bonds are formed. Energy is required to break the bonds which we will call as bond dissociation energy. Also, energy is released when new bonds are formed, which will be referred to as the bond formation energy.\n\nA reaction is exotermic if the bond formation energy is greater than the bond dissociation energy.\nA reaction is endothermic if the bond dissociation energy is greater than the bond formation energy.\n\n\n\n\nIn a chemical reaction the electrons cannot be created or destroyed, but they can be transferred from one atom to another. So the flow of electrons can only occur from a source connected to a sink. So what it means is that if in a chemical reaction electrons are flowing then someone should provide the electrons and someone should accept the electrons.\nA redox reaction can be defined as a chemical reaction in which electrons are transferred between two reactants participating in it.\nI have updated the lecture notes to improve the description of redox reactions in the context of forest ecology. Please refer to the updated notes for a more detailed explanation."
+  },
+  {
+    "objectID": "lecture-3-faq.html#photon-energy-ehnu",
+    "href": "lecture-3-faq.html#photon-energy-ehnu",
+    "title": "Questions asked in Lecture 3",
+    "section": "",
+    "text": "Photons are discrete packets of light energy. Visible light, X-rays, ultraviolet, infrared, microwaves, and radio waves all consist of photons differing in energy (frequency).\nA photon’s energy is proportional to the frequency of the electromagnetic wave:\n\n\\[\nE = h \\nu\n\\]\nwhere \\(E\\) is the energy of the photon, \\(h\\) is Planck’s constant (\\(6.626 \\times 10^{-34} \\text{J s}\\)), and \\(\\nu\\) is the frequency of the electromagnetic wave.\n\n\n\n\n\n\nwave-particle duality\n\n\n\nDuring the 19th and early 20th centuries, light was found to behave as a wave then later was discovered to have a particle-like behavior, whereas electrons behaved like particles in early experiments then were later discovered to have wave-like behavior. The concept of duality arose to name these seeming contradictions.\n\n\nPlease see the following video to understand the concept of wave-particle duality:\n\nAfter watching the above video, please watch the following video."
+  },
+  {
+    "objectID": "lecture-3-faq.html#why-do-we-see-colors",
+    "href": "lecture-3-faq.html#why-do-we-see-colors",
+    "title": "Questions asked in Lecture 3",
+    "section": "",
+    "text": "Color perception\n\n\n\nLight is a form of electromagnetic wave. It contains several frequencies (or wavelengths). We often call it spectrum. The visible spectrum contains wavelength from 380 to 780 nano meters. The red color has the biggest wavelength in the visible spectrum.\n\n\nEvery object smaller or bigger absorbs and reflects light. What it means is that the object absorbs certain wavelengths and reflects certain wavelength. The wavelength that object absorbs never reaches to our eyes, but the reflected wave lengths are received by our eyes. Therefore, we see the color corresponding to the wavelengths that have been reflected from the object."
+  },
+  {
+    "objectID": "lecture-9.html#learning-objectives",
+    "href": "lecture-9.html#learning-objectives",
     "title": "Sustainable Forest Environment (SFE)",
     "section": "Learning Objectives",
-    "text": "Learning Objectives\n\nCarbon cycle\nNitrogen cycle"
+    "text": "Learning Objectives\n\nDifferent types of threats to forest ecosystems\nBiological threats to forest ecosystems\nForest fire and its impact on forest ecosystems"
   },
   {
-    "objectID": "lecture-8.html#biogeochemistry",
-    "href": "lecture-8.html#biogeochemistry",
+    "objectID": "lecture-9.html#kinds-fo-threats",
+    "href": "lecture-9.html#kinds-fo-threats",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Biogeochemistry",
-    "text": "Biogeochemistry\n\nGeochemistry is the study of the distribution and cycling of chemical elements in Earth’s crust and Interior\n\nInvestigates the compositions and behavior of elements/ compounds in rocks, minerals, soil, water, and the atmosphere.\n\nBiogeochemistry adds on a biological components to this.\n\n\n\n\n\n\n\nNote\n\n\nBiogeochemistry is the study of interactions between the\n\nBiosphere (life)\nAtmosphere (air),\nHydrosphere (water)\nGeosphere (rocks and soils)"
+    "section": "Kinds fo threats",
+    "text": "Kinds fo threats\n\nNatural threats:\n\nWinds\nInsects\nDiseases\nForest fire\nExtreme weather events due to climate change (e.g. drought, floods, storms)\n\nHuman induced threats:\n\nDeforestation\nPollution (air, water, soil)\nInvasive species\nUrbanization and infrastructure development"
   },
   {
-    "objectID": "lecture-8.html#biogeochemical-cycle",
-    "href": "lecture-8.html#biogeochemical-cycle",
+    "objectID": "lecture-9.html#natural-threats-frost-damage",
+    "href": "lecture-9.html#natural-threats-frost-damage",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Biogeochemical cycle",
-    "text": "Biogeochemical cycle\n\n\n\n\n\n\n\nBiogeochemical cycle\n\n\nBiogeochemical cycle \\(\\rightarrow\\) A pathway by which a chemical substance moves through biotic (biosphere or living organisms) and abiotic (lithosphere, atmosphere and hydrosphere) compartments of earth.\n\n\n\n\nBiogeochemical cycles transfer essential elements between Earth’s\n\nBiosphere\nAtmosphere\nHydrosphere\nGeosphere\nCryosphere\n\n\n\n\n\n\n\n\nNutrient\n\n\nA substance used by a plant to survive, grow and reproduce.\n\n\n\n\nBiogeochemical cycles maintain global nutrient balance and sustain life on Earth."
+    "section": "Natural threats (Frost damage)",
+    "text": "Natural threats (Frost damage)\n\n\n\nIn very cold regions (especially at night), water inside the cells or on the surface of leaves starts freezing\n\nDue to freezing water expands and exerts pressure which may cause rupture of leaves\n\nWater in soil can also freezes\n\nDue to freezing volume of water expands and exerts upward pressure on soil\nThe ground can heave up causing frost heaving\nThe upward pressure on roots of plants can uproot plants\n\n\n\n\n\n\nFrost heaving phenomenon"
   },
   {
-    "objectID": "lecture-8.html#chnops",
-    "href": "lecture-8.html#chnops",
+    "objectID": "lecture-9.html#natural-threats-wind-damage",
+    "href": "lecture-9.html#natural-threats-wind-damage",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "CHNOPS",
-    "text": "CHNOPS\n\n\n\nNitrogen: constituent of proteins, nucleic acids, vitamins etc\nPhosphorus: constituent of nucleic acids, ATP, cell membrane and certain proteins\nPotassium: cation-anion balance needed for maintaining cell turgidity, opening and closing of stomata etc.\nCell turgidity refers to the state of a plant cell when it is swollen and firm due to the uptake of water. It is primarily a result of water entering the cell by osmosis\n\n\n\nCarbon\nHydrogen\nNitrogen\nOxygen\nPhosphorus\nSulfur"
+    "section": "Natural threats (Wind damage)",
+    "text": "Natural threats (Wind damage)\n\nAnnual average wind speeds are usually between 15-40 km/h\nTree breakage or uprooting typically requires wind speeds exceeding 100 km/h\n\nHigh intensity winds exerts large pressure on the trees which can uproot or break them\n\n\n\n\n\n\n\n\n\nBenifits of wind in forest\n\n\nWinds affect trees by cooling leaves, thinning the boundary layer or air next to leaf surface, helps in increasing uptake of CO2 and release of water.\n\n\n\n\n\nThe extent of damage depends on tree species, age, soil factors, and forest structure (e.g., density of forest)"
   },
   {
-    "objectID": "lecture-8.html#chnops-1",
-    "href": "lecture-8.html#chnops-1",
+    "objectID": "lecture-9.html#natural-threats-wind-damage-1",
+    "href": "lecture-9.html#natural-threats-wind-damage-1",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "CHNOPS",
-    "text": "CHNOPS\n\n\n\n\n\n\nNote\n\n\nCHNOPS, six elements are the most abundant elements in living organisms. They are essential elements for life on Earth.\n\n\n\n\n\n\n\n\n\nNote\n\n\nThere are other elements which are also needed to sustain life on the Earth, but these elements are not needed in GREAT quantities. Examples include Fe, Mn, and trace metals."
+    "section": "Natural threats (Wind damage)",
+    "text": "Natural threats (Wind damage)\n\n\n\nDamage to infrastructure caused by a wind storm (photo: Ken Schulze / shutterstock.com)\n\n\nSource: Living with Storm Damage to Forests, Gardiner et al."
   },
   {
-    "objectID": "lecture-8.html#generalized-nutrient-cycle",
-    "href": "lecture-8.html#generalized-nutrient-cycle",
+    "objectID": "lecture-9.html#natural-threats-wind-damage-2",
+    "href": "lecture-9.html#natural-threats-wind-damage-2",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Generalized Nutrient Cycle",
-    "text": "Generalized Nutrient Cycle"
+    "section": "Natural threats (Wind damage)",
+    "text": "Natural threats (Wind damage)\n\n\n\nStorm damage in Les Landes, France following the storm of January 2009 (photo: ©DRAAF Aquitaine\n\n\nSource: Living with Storm Damage to Forests, Gardiner et al."
   },
   {
-    "objectID": "lecture-8.html#nutrient-transport",
-    "href": "lecture-8.html#nutrient-transport",
+    "objectID": "lecture-9.html#tree-stems-may-break-or-uproot",
+    "href": "lecture-9.html#tree-stems-may-break-or-uproot",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Nutrient transport",
-    "text": "Nutrient transport\n\nMovement of nutrients towards root surfaces in soil solution. It occurs due to two processes: mass flow and diffusion.\nMass flow: process in which ions move with the flow of water.\nDiffusion: ions move from region of high concentration to low concentration e.g. soil solution to root surface."
+    "section": "Tree stems may break or uproot",
+    "text": "Tree stems may break or uproot\n\n\n\nSevere winds break the stems of well‐rooted trees (left, lodgepole pine). The tree on the right (Engelmann spruce) blew down because the root system was too weak to withstand the force of wind. Source: Forest Ecology DAN BINKLEY"
   },
   {
-    "objectID": "lecture-8.html#nutrient-uptake",
-    "href": "lecture-8.html#nutrient-uptake",
+    "objectID": "lecture-9.html#why-do-trees-break-or-uproot",
+    "href": "lecture-9.html#why-do-trees-break-or-uproot",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Nutrient uptake",
-    "text": "Nutrient uptake\n\nProcess by which nutrients in soil solution are actively transported across cell membranes of roots.\nUptake is controlled by enzymes on the membranes of roots.\nActivity of enzymes increases with increasing nutrient concentration in soil solution until enzyme system is saturated.\nEnzymes are also sensitive to temperatures\nRapidly growing species like balsam poplar and trembling aspen in warm soils have high uptake capacities of NH4+,NO3- and PO43- as compared to slower-growing paper birch and green alder.\n\nNutrient assimilation\n\nBiochemical incorporation of inorganic nutrients, transported into plant cells, into organic compounds such as amino acids, nucleic acids, lipids or other biologically active compounds."
+    "section": "Why do trees break or uproot?",
+    "text": "Why do trees break or uproot?\n\n\n\nThe tree depicted in the figure grew in a forest where neighboring trees had mostly perished due to bark beetles.\n\nPreviously, the surrounding trees’ crowns were protecting it from wind\nAfter the neighboring trees died, the tree became isolated, leading to increased wind pressure on its crown.\n\nConversely, the tree shown in the figure collapsed despite being among healthy trees with intact canopies.\n\nThis failure occurred because fungi had deteriorated its root system, weakening its ground stability.\n\n\n\n\n\n\nFigure 1\n\n\n\n\n\nFigure 2"
   },
   {
-    "objectID": "lecture-8.html#jack-pine",
-    "href": "lecture-8.html#jack-pine",
+    "objectID": "lecture-9.html#why-do-trees-break-or-uproot-1",
+    "href": "lecture-9.html#why-do-trees-break-or-uproot-1",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Jack pine",
-    "text": "Jack pine\n\n\n\nHas low physiological capacity to uptake NO3- in soil, even when concentrations of NO3- ions is very high.\nJack pine shows a preference to uptake and assimilate NH4+ ions as compared to NO3- ions from soil solution to meet its Nitrogen demands.\nOne reason for this could be that plants must reduce NO3- to NH4+ before it can be assimilated into biologically active compounds.\nThis process requires large amounts of energy.\nWhat is the consequence of planting jack pine in NO3- rich soils?\n\n\n\n\n\nJack pine Source: Wikipedia"
+    "section": "Why do trees break or uproot?",
+    "text": "Why do trees break or uproot?\n\nWhen wind pushes against tree tops, the tree stays upright because of its strong trunk and roots that hold firmly in the ground. The tree transfers the wind’s force down into the soil.\nTrees sway in the wind, deflecting some of the horizontal force of the wind.\nPalm trees have a special ability to bend. During strong hurricanes, the top part of the tree can bend almost sideways, and the leaves flatten against each other. This helps reduce the pressure on the tree trunk and prevents it from breaking.\nThis article explains How do palm trees withstand hurricanes?\n\n\n\n\n\n\n\nWhen trees have deep roots or roots firmly anchored in rocks, strong winds can snap their trunks, leaving a rooted stump in the ground.\n\n\n\n\n\n\n\n\n\nIf a tree’s trunk is stronger than its roots’ grip in the soil, the entire tree gets pulled up from the ground."
   },
   {
-    "objectID": "lecture-8.html#different-forms-of-nitrogen",
-    "href": "lecture-8.html#different-forms-of-nitrogen",
+    "objectID": "lecture-9.html#natural-threats-insects",
+    "href": "lecture-9.html#natural-threats-insects",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Different forms of Nitrogen",
-    "text": "Different forms of Nitrogen\n\nNitrogen exists in several chemical forms in the environment, particularly within the nitrogen cycle\nThese forms can be broadly categorized into inorganic and organic forms, each with distinct roles in soil fertility, plant nutrition, and ecosystem functioning.\n\nInorganic Nitrogen\n\nDinitrogen Gas (N₂):\nAmmonium (NH₄⁺):\nNitrite (NO₂⁻): Rapidly converted to nitrate in aerobic soils.\nNitrate (NO₃⁻): Highly mobile and a major nitrogen source for plants.\nNitrous Oxide (N₂O) and Nitric Oxide (NO): Gaseous oxides of nitrogen, By-products of denitrification and nitrification."
+    "section": "Natural threats (Insects)",
+    "text": "Natural threats (Insects)\n\n\n\nForests have many more insect species than tree species.\nMost insects help forests by pollinating flowers and eating various plant parts.\nInsects often interact with bacteria and fungi in ways that either help or harm each other.\nSometimes insect populations grow so large they significantly impact forests - for example, caterpillars might eat most of a tree’s leaves, or beetles might drill into trees and bring fungi that kill them.\n\n\n\n\n\nInsects in forest ecosystem"
   },
   {
-    "objectID": "lecture-8.html#different-forms-of-nitrogen-1",
-    "href": "lecture-8.html#different-forms-of-nitrogen-1",
+    "objectID": "lecture-9.html#natural-threats-insects-1",
+    "href": "lecture-9.html#natural-threats-insects-1",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Different forms of Nitrogen",
-    "text": "Different forms of Nitrogen\nOrganic Nitrogen\n\nAmino Acids and Proteins: building blocks of living cells. Present in plant residues, microbial biomass, and animal waste.\nNucleic Acids: DNA and RNA, essential for genetic information transfer.\nUrea: A nitrogenous compound excreted by animals, can be hydrolyzed to release ammonium.\n\nSynthetic and naturally occurring organic compound.\nCommon nitrogen fertilizer.\nRapidly converted to NH₄⁺ and CO₂ in soil by urease enzymes."
+    "section": "Natural threats (Insects)",
+    "text": "Natural threats (Insects)\n\n\n\nThe photo on the left (10 x 10 km) shows a 150‐year‐old forest of lodgepole pine in Colorado in 2002.\nFive years later (2007), most of the large trees were dead as a result of fungal infections spread by mountain pine beetles.\nThirteen years after that (2020), a severe wildfire burned across 70,000 ha, including the area in this image.\n\n\n\n\n\nSource: Forest Ecology Dan Binkley"
   },
   {
-    "objectID": "lecture-8.html#nitrogen-cycle",
-    "href": "lecture-8.html#nitrogen-cycle",
+    "objectID": "lecture-9.html#videos-on-bark-beetle-outbreaks",
+    "href": "lecture-9.html#videos-on-bark-beetle-outbreaks",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Nitrogen Cycle",
-    "text": "Nitrogen Cycle"
+    "section": "Videos on Bark Beetle Outbreaks",
+    "text": "Videos on Bark Beetle Outbreaks"
   },
   {
-    "objectID": "lecture-8.html#nitrogen-cycle-1",
-    "href": "lecture-8.html#nitrogen-cycle-1",
+    "objectID": "lecture-9.html#this-tiny-beetle-is-devastating-forests-in-the-worst-outbreak-ever",
+    "href": "lecture-9.html#this-tiny-beetle-is-devastating-forests-in-the-worst-outbreak-ever",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Nitrogen Cycle",
-    "text": "Nitrogen Cycle\n\nNitrogen gas \\(N_{2}\\) makes up about 80% of the atmosphere, but it is not directly usable by plants or animals.\nNitrogen fixing bacteria convert \\(N_{2}\\) into ammonia \\(\\text{NH}_{3}\\) or ammonium \\(\\text{NH}_{4}^{+}\\), which can be used by plants and other microbes.\nIn this way, nitrogen is the only nutrient which is biologically fixed for plant use\nNitrogen fixation is the process of converting atmospheric nitrogen (\\(N_{2}\\)) into ammonia (\\(NH_{3}\\)) or ammonium (\\(NH_{4}^{+}\\))\nNitrifying bacteria convert ammonia into nitrite \\(\\text{NO}_{2}^{-}\\) and then into nitrate \\(\\text{NO}_{3}^{-}\\), which is also usable by plants.\nDenitrifying bacteria convert nitrate back into nitrogen gas, completing the cycle."
+    "section": "This Tiny Beetle Is Devastating Forests in the Worst Outbreak Ever",
+    "text": "This Tiny Beetle Is Devastating Forests in the Worst Outbreak Ever"
   },
   {
-    "objectID": "lecture-8.html#nitrogen-cycle-2",
-    "href": "lecture-8.html#nitrogen-cycle-2",
+    "objectID": "lecture-9.html#bark-beetle",
+    "href": "lecture-9.html#bark-beetle",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Nitrogen Cycle",
-    "text": "Nitrogen Cycle\n\nNitrogen cycle"
+    "section": "Bark Beetle",
+    "text": "Bark Beetle\nSome informative videos on Bark Beetle outbreaks:\n\nVideo 1: Bark Beetles Part 1 Intro\nVideo 2: Bark Beetles Part 2 Bark Beetles in Pine\nVideo 3: Bark Beetles Part 3 Bark beetles in Douglas-fir and true firs"
   },
   {
-    "objectID": "lecture-8.html#nitrogen-cycle-3",
-    "href": "lecture-8.html#nitrogen-cycle-3",
+    "objectID": "lecture-9.html#how-do-bark-beetles-kill-trees",
+    "href": "lecture-9.html#how-do-bark-beetles-kill-trees",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Nitrogen Cycle",
-    "text": "Nitrogen Cycle"
+    "section": "How do bark beetles kill trees?",
+    "text": "How do bark beetles kill trees?\n\nMountain pine beetles dig into tree bark, and trees respond by producing resin to push the beetles out.\n\nTrees that make less resin may fail to repel beetles, allowing them to successfully invade.\nTwo important factors in this relationship are the tree’s resin production capacity and the number of beetles attacking at once.\n\nTrees under stress from drought or heat typically produce less resin.\nInvading beetles release chemicals that attract more beetles, helping them overwhelm the tree’s defenses."
   },
   {
-    "objectID": "lecture-8.html#free-living-nitrogen-fixing-organisms",
-    "href": "lecture-8.html#free-living-nitrogen-fixing-organisms",
+    "objectID": "lecture-9.html#how-do-bark-beetles-kill-trees-1",
+    "href": "lecture-9.html#how-do-bark-beetles-kill-trees-1",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Free living nitrogen-fixing organisms",
-    "text": "Free living nitrogen-fixing organisms\n\nIn general, fixation by free living bacteria is relatively small (1 to 5 Kg N/ha/yr).\nFixation requires large amount of energy and only limited amount of energy is available for free living bacteria in organic soils.\nExamples:\n\nAzotobacter: aerobic, free-living bacteria that depends on other sources of organic carbon for nutrition.\nCyanobacteria (blue-green algae): Photosynthetic microorganisms. Their activity is limited in forests due to high light requirement."
+    "section": "How do bark beetles kill trees?",
+    "text": "How do bark beetles kill trees?\n\nWhile trees can increase resin production to replace what’s lost fighting beetles, the beetles have a counter-strategy:\n\nThe beetles carry fungal spores in special pouches on their legs.\nThese fungi grow fibers that damage the tree’s water transport system, affecting the crown.\n\nBeetle populations are usually low in forests, with occasional outbreaks killing susceptible trees in patches.\n\nSometimes beetle numbers grow so large that even healthy trees can’t defend themselves, and the beetle population only decreases after most available trees have been affected."
   },
   {
-    "objectID": "lecture-8.html#symbiotic-nitrogen-fixing-organisms",
-    "href": "lecture-8.html#symbiotic-nitrogen-fixing-organisms",
+    "objectID": "lecture-9.html#forest-fires-natural-causes",
+    "href": "lecture-9.html#forest-fires-natural-causes",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Symbiotic nitrogen-fixing organisms",
-    "text": "Symbiotic nitrogen-fixing organisms\n\nIn general, fixation by symbiotic organisms is much higher relative to free living organisms (30 to 85 Kg N/ha/yr).\nSymbiotic organisms generally inhabit the roots of plants. Plants supply carbohydrates to meet the large energy requirements of nitrogen fixation by the symbiotic organism and in return NH4+ is provided to the plant.\nExamples:\n\nActinomycetes: Anaerobic bacteria that infect root hairs and induce the formation of root nodules (sites for N2 fixation).\nRhizobium: Bacteria that exclusively infect roots of legumes (beans, soybean, peanuts etc.) to form nodules.\n\nAddition of N2-fixing plants/trees to N-poor soils can help increase rates of biomass accumulation and nutrient cycling during ecosystem development."
+    "section": "Forest fires (Natural causes)",
+    "text": "Forest fires (Natural causes)\n\n\n\nForest fires are a natural part of many forest ecosystems, playing a crucial role in maintaining ecological balance.\nNatural causes of forest fires include\n\nLightning strikes\nVolcanic eruptions\nSpontaneous combustion of dry vegetation\n\n\n\n\n\n\nForest fire\n\n\n(Source: Sequoia photos by Ellis Margolis, USGS, Source: Forest Ecology, DAN BINKLEY)"
   },
   {
-    "objectID": "lecture-8.html#root-nodules",
-    "href": "lecture-8.html#root-nodules",
+    "objectID": "lecture-9.html#forest-fires-antropogenic-causes",
+    "href": "lecture-9.html#forest-fires-antropogenic-causes",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Root nodules",
-    "text": "Root nodules\n\n\n\n\n\n\nRoot nodules Soybeans\n\n\n\n\n\n\n\nRoot nodules"
+    "section": "Forest fires (antropogenic causes)",
+    "text": "Forest fires (antropogenic causes)\nFollowing are some of the anthropogenic causes of forest fires:\n\nTo prevent large forest fires by removing excess fuel (like shrubs and dead plant matter) from the forest floor\nShifting cultivation\n\nBurning of forest area for agriculture\ntrees burnt to ash so that nutrients present in trees return to the ground\nfertile soil rich in nutrients\n\nEncroachment: People trying to burn the forests to grab land from forests\nTo conceal illicit felling:\n\nSometimes done by forest officials themselves to conceal illicit felling that may have happened under their watch.\n\nTo divert forest officials attention for hunting etc."
   },
   {
-    "objectID": "lecture-8.html#mineralization-and-immobilization",
-    "href": "lecture-8.html#mineralization-and-immobilization",
+    "objectID": "lecture-9.html#kinds-of-forest-fires",
+    "href": "lecture-9.html#kinds-of-forest-fires",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Mineralization and immobilization",
-    "text": "Mineralization and immobilization\n\nMineralization is the decomposition (i.e., oxidation) of the chemical compounds in organic matter, by which the nutrients in those compounds are released in soluble inorganic forms that may be available to plants.\nSoil microbes break down complex polymer organic molecules to simpler monomers.\nMicrobial decomposers assimilate the monomers.\nMicrobes either mineralize them into inorganic form \\(\\text{NH}_{4}^{+}\\) or use the monomers for their own biosynthetic needs."
+    "section": "Kinds of forest fires",
+    "text": "Kinds of forest fires\n\nGround fire passes through the soil (beneath the ground surface) and burns the organic matter in the soil.\n\nGround fires are difficult to detect and control.\n\nSurface fire: are fed by organic matter on the forest floor, such as fallen leaves, twigs, and small plants.\n\nThese fires burn along the ground and can spread quickly.\n\nCrown fire or canopy fire: consumes material at the canopy level.\n\nThese fires can be very intense and spread rapidly through the treetops.\nSuch fires are difficult to put out as the height of the canopy might be too high."
   },
   {
-    "objectID": "lecture-8.html#mineralization-and-immobilization-1",
-    "href": "lecture-8.html#mineralization-and-immobilization-1",
+    "objectID": "lecture-9.html#understanding-forest-fires",
+    "href": "lecture-9.html#understanding-forest-fires",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Mineralization and immobilization",
-    "text": "Mineralization and immobilization\n\nWhen organic matter has low C:N ratio (less than 25:1), biosynthesis needs of microbes is met by N in organic matter itself and excess N is released (mineralized) as \\(\\text{NH}_{4}^{+}\\) into the environment. When organic matter has high C:N ratio (greater than 30:1), N in organic matter isn’t sufficient for biosynthesis. Then decomposing microbes immobilize \\(\\text{NH}_{4}^{+}\\) from the environment making less \\(\\text{NH}_{4}^{+}\\) available for plant use. As decomposition continues, C in organic matter is consumed more rapidly than N and the C:N ratio reduces and once again mineralization starts releasing \\(\\text{NH}_{4}^{+}\\) into the environment for plant use."
+    "section": "Understanding forest fires",
+    "text": "Understanding forest fires\n\nCarbon dioxide is the most energy-poor state of carbon atom (that is, thermodynamically stable). The carbon atom in CO2 is in highly stable form. It has oxidation state of +4.\nDuring photosynthesis, plants boosts those C atoms up to a very high energy state as organic molecules in plant material.\nForest stores great amount of this energy:\n\nOne kilogram of biomass has about 20 MJ of energy.\nThis energy will be released during a forest fire.\n\nIt is fortunate that biomass can be relatively stable for a long time while living in oxygen-rich atmosphere."
   },
   {
-    "objectID": "lecture-8.html#litter-decomposition",
-    "href": "lecture-8.html#litter-decomposition",
+    "objectID": "lecture-9.html#understanding-forest-fires-1",
+    "href": "lecture-9.html#understanding-forest-fires-1",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Litter decomposition",
-    "text": "Litter decomposition\n\n\n\nMicrobial decomposers release exoenzymes (1), which depolymerize plant biopolymers to soluble monomers (2)\nMicrobial decomposers assimilate the monomers (3) and either use the contained organic matter for growth or to obtain energy through mineralization (4)\nMicrobial growth leads to an accumulation of microbial biomass within litter. N mineralization leads to a loss of ammonium to the environment (5), but this process is only active if amino acid–N supply (due to protein depolymerization) exceeds microbial N demand.\nAmmonium from the environment can addi- tionally serve to fulfill microbial N demand (6).\n\n\n\n\n\nA conceptual view of carbon (C) cycling and nitrogen (N) cycling during litter decomposition, Source: https://bg.copernicus.org/articles/17/499/2020/bg-17-499-2020.pdf"
+    "section": "Understanding forest fires",
+    "text": "Understanding forest fires\n\nA fire needs an ignition source to get started, but once it starts, it can burn for a long time.\nThis is because the initial burning of biomass requires an “energy of activation” to break the large modlecules.\nThe term pyrolysis is used to describe this initial ignition step.\nThe smaller molecules then burn and release even more energy to keep the fire going.\n\n\nFor a fire to start, it needs enough energy from an ignition source. How well this works depends on how wet the plant material is. Water needs a lot of heat to evaporate, so it prevents the temperature from rising until all the moisture is gone."
   },
   {
-    "objectID": "lecture-8.html#biogeochemical-efficiency-of-forests",
-    "href": "lecture-8.html#biogeochemical-efficiency-of-forests",
+    "objectID": "lecture-9.html#thick-bark-protects-trees-from-fire",
+    "href": "lecture-9.html#thick-bark-protects-trees-from-fire",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Biogeochemical efficiency of forests",
-    "text": "Biogeochemical efficiency of forests"
+    "section": "Thick bark protects trees from fire",
+    "text": "Thick bark protects trees from fire\nForest fires that burn along the ground can kill trees when too much heat reaches the cambium - the living layer of cells under the bark that helps trees grow. These cells die at around 60°C. Trees are more likely to die when:\n\nFires are very hot\nFires burn for a long time\nTrees have thin bark\n\nTrees with thicker bark have better protection against heat, which is why bark thickness is one of the best ways to predict which trees will survive a fire."
   },
   {
-    "objectID": "lecture-8.html#biogeochemical-efficiency-of-forests-1",
-    "href": "lecture-8.html#biogeochemical-efficiency-of-forests-1",
+    "objectID": "lecture-9.html#fire-resistance-in-some-tree-species",
+    "href": "lecture-9.html#fire-resistance-in-some-tree-species",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Biogeochemical efficiency of forests",
-    "text": "Biogeochemical efficiency of forests"
+    "section": "Fire resistance in some tree species",
+    "text": "Fire resistance in some tree species\n\n\n\nDifferent tree species have evolved varying levels of fire resistance.\nCork oak from southern Europe is an excellent example of a fire-adapted species (see Figure).\nIts cork bark effectively protects the inner living tissue (cambium) from fire heat.\nThe bark regrows quickly after damage or harvesting.\nCork bark grows outward by about 1-3 mm each year for over a century.\nMost cork oaks survive wildfires, with over 80% survival rate when the cork layer is at least 2 cm thick (Moreira et al. 2007).\n\n\n\n\n\nCork oak ub Portugal is a prime example of a fire-adapted tree with thick bark. Source: Forest Ecology, DAN BINKLEY"
   },
   {
-    "objectID": "lecture-8.html#carbon-cycle",
-    "href": "lecture-8.html#carbon-cycle",
+    "objectID": "lecture-9.html#role-of-fire-in-forest-ecosystems",
+    "href": "lecture-9.html#role-of-fire-in-forest-ecosystems",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Carbon Cycle",
-    "text": "Carbon Cycle\nDriving factors of carbon cycle:\n\nPhotosynthesis: Conversion of CO2 and water into glucose and oxygen using sunlight (Storage of C in plants).\nRespiration: Conversion of glucose and oxygen into CO2 and water, releasing energy (Release of C from plants).\n\nWhen Photosynthesis is GREATER than Respiration: Carbon getes stored in the plant, plant grows and size increases\nWhen Photosynthesis is SMALLER than Respiration: Carbon is removed from plant, plant size decreases"
+    "section": "Role of fire in forest ecosystems",
+    "text": "Role of fire in forest ecosystems\nNutrition\n\nSmall fires reduce the organic matter on the forest floor to basic inorganic components which are soluble in water and are more readily available for plant uptake.\nThis is especially important in conditions where decomposition is unfavorable\n\nCold and damp conditions in countries like Norway, Sweden and Finland retard organic matter decomposition.\nControlled burning has helped accelerate release of nutrients to the forest floor and also helps increase the temperature to increase the activity of decomposing microorganisms."
   },
   {
-    "objectID": "lecture-8.html#carbon-cycle-1",
-    "href": "lecture-8.html#carbon-cycle-1",
+    "objectID": "lecture-9.html#role-of-fire-in-forest-ecosystems-1",
+    "href": "lecture-9.html#role-of-fire-in-forest-ecosystems-1",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "Carbon Cycle",
-    "text": "Carbon Cycle\n\n\n\n\n\n\n\nGross vs Net Photosynthesis\n\n\n\nGross Photosynthesis: Total amount of C plant assimilates from the atmosphere.\nNet Photosynthesis: Balance between total amount of Carbon fixed during photosynthesis and the Carbon lost during respiration.\n\n\n\n\n\nIn simpler terms, gross photosynthesis is the total carbon intake, while net photosynthesis is the carbon intake minus the carbon lost through respiration"
+    "section": "Role of fire in forest ecosystems",
+    "text": "Role of fire in forest ecosystems\nPromotion of seedling establishment\n\nGrasses and shrubs limit the amount of sunlight available to seeds and retard the establishment of seedlings of new trees.\nSurface fires help to burn these shrubs and grasses, thus promote the growth of the seedlings\nForest fires can clear the forest floor of shrubs and grasses allowing for establishment of new trees.\nAvailibility of seeds is important: seed banks in soil, seed bank in the canopies of trees, and transport of seeds into the burned area.\n\n\n\n\nA forest of lodgepole pine on a glacial moraine in Colorado, USA burned with an intense crown fire. Seeds released from serotinous cones (upper row, two months after fire) reforested the site. A decade after the fire (left photos), some portions of the burned area had pines with understories of grasses and forbs, and other areas had N‐fixing snowbrush shrubs that germinated after lying dormant in the soil for almost a century. Twenty‐five years after the fire, the trees have begun to redevelop a seed bank in serotinous cones (right photos), and snowbrush had replenished its soil seed bank. The forest burned a year after the latest photos, and it will be interesting to follow the fate of the next generation of shrubs and trees that arise from the seedbanks."
   },
   {
-    "objectID": "lecture-8.html#c-storage-in-soil",
-    "href": "lecture-8.html#c-storage-in-soil",
+    "objectID": "lecture-9.html#role-of-fire-in-forest-ecosystems-2",
+    "href": "lecture-9.html#role-of-fire-in-forest-ecosystems-2",
     "title": "Sustainable Forest Environment (SFE)",
-    "section": "C storage in soil",
-    "text": "C storage in soil\n\nPlant take up CO2 and convert it to organic C, making up their biomass.\nBut storage of C in plants is temporary; When plants die, much of their organic C is converted back to CO2.\nSoil stores the organic C on long term basis.\nSoil microbes break down dead plant matter into more resistant organic molecules. These more robust organic molecules make up the humus layer (O horizon) of the soil."
+    "section": "Role of fire in forest ecosystems",
+    "text": "Role of fire in forest ecosystems\nForest fires can trigger ecological succession.\n\nTrees are resistant to fires to a certain extent i.e. if fires are small/ mild and are frequency of fires is low.\nHowever, if the fire frequency or intensity increases, tree species are likely to be replaced by more fire resistant species.\nIn the Rocky Mountains in the USA the following succession has been observed when frequency or intensity of forest fires increase\n\nEngelmann spruce \\(\\rightarrow\\) Douglas fir \\(\\rightarrow\\) Ponderosa pine \\(\\rightarrow\\) Grasses\n\nIf the frequency or intensity of forest fire decreases\n\nGrasses \\(\\rightarrow\\) Ponderosa pine \\(\\rightarrow\\) Douglas fir \\(\\rightarrow\\) Engelmann spruce"
+  },
+  {
+    "objectID": "lecture-9.html#section",
+    "href": "lecture-9.html#section",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "",
+    "text": "Ecological succession in the Rocky Mountains\n\n\nSource: https://en.wikipedia.org/wiki/Fire_ecology"
+  },
+  {
+    "objectID": "lecture-9.html#role-of-fire-in-forest-ecosystems-3",
+    "href": "lecture-9.html#role-of-fire-in-forest-ecosystems-3",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Role of fire in forest ecosystems",
+    "text": "Role of fire in forest ecosystems\n\nSome fire‐adapted species have epicormic buds that sprout after fire, rebuilding new crowns\nOnly a few conifers can resprout from either epicormic buds or surviving roots\nBut this resprouting is very common in many broadleaf trees and understory plants.\nGrasses in particular thrive even when grass shoots are eaten or burned.\n\n\n\n\n\n\n\nSome tree sprout new branches and leaves from buds in the epicormic sprouting. A) Karri (a eucalyptus species) after a fire in western Australia, (B) an English oak in southern Portugal 1.5 years after fire (C) Canary pine (D) Close up of epicormic sprouting 3 months after fire.\n\n\n\n\n\n\n\nMany species resprout from surviving root systems or base of stems. (A) Aspen sprouts (B) Redwood trees can sprout from the base after fire"
+  },
+  {
+    "objectID": "lecture-9.html#negative-impacts-of-forest-fire",
+    "href": "lecture-9.html#negative-impacts-of-forest-fire",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Negative impacts of forest fire",
+    "text": "Negative impacts of forest fire\nChanges in soil properties\n\nThe organic matter on the O horizon of the soil is combusted by forest fires.\nSome of the organic matter in the mineral soil (A horizon) is also combusted.\nThe organic N contained in organic matter is also burned (oxidized) to various gaseous forms that are lost to the atmosphere.\nThe burning of OM releases a large amount of heat that can pentrate in the soil and change the soil properties."
+  },
+  {
+    "objectID": "lecture-9.html#negative-impacts-of-forest-fire-1",
+    "href": "lecture-9.html#negative-impacts-of-forest-fire-1",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Negative impacts of forest fire",
+    "text": "Negative impacts of forest fire\n\n\nSoil erosion\n\nWhen rain falls on a forest, trees and the soft forest floor (O horizon) absorb the energy of raindrops.\nThe unburned forest floor normally works like a sponge, soaking up large amounts of water and slowly releasing it into the soil below.\nAfter a fire burns away these protective layers, raindrops hit the ground with full force, striking ash and soil particles directly.\nWithout this spongy layer, rainwater can come down faster than the soil can absorb it, causing water to flow across the surface and wash away soil."
+  },
+  {
+    "objectID": "lecture-9.html#negative-impacts-of-forest-fire-2",
+    "href": "lecture-9.html#negative-impacts-of-forest-fire-2",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Negative impacts of forest fire",
+    "text": "Negative impacts of forest fire\n\n\n\nAnother problem after fires is water repellency (hydrophobicity).\nThis happens when fire causes small organic substances to evaporate, move into the soil, and form a layer that repels water.\nFortunately, this water-repellent condition usually occurs locally, so water that can’t soak into one area might be absorbed by nearby areas instead of flowing all the way down a slope.\nLarge forest fires can also burn the trees and the roots completely, reducing the strength with which the soil grains are bound to each other. This can lead to erosion on steep slopes.\n\n\n\n\n\nSoil can have patches that repel water"
+  },
+  {
+    "objectID": "lecture-9.html#negative-impacts-of-forest-fire-3",
+    "href": "lecture-9.html#negative-impacts-of-forest-fire-3",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Negative impacts of forest fire",
+    "text": "Negative impacts of forest fire\nLeaching of minerals in ash\n\nIn sandy and loamy soils (low clay content), organic matter acts as a binding agent that helps form aggregates that reduce the permeability or potential of water to flow through soils.\nAlthough forest fires return nutrients to the forest floor in the form of ash, the fires also burn all organic matter in such soils, reducing their water retention capacity.\nNutrients in ash dissolve in water from subsequent rains after the forest fire and leach to greater depths thereby removing the nutrients for plant growth."
+  },
+  {
+    "objectID": "lecture-9.html#negative-impacts-of-forest-fire-4",
+    "href": "lecture-9.html#negative-impacts-of-forest-fire-4",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Negative impacts of forest fire",
+    "text": "Negative impacts of forest fire\nAlteration of climatic conditions of forest floor\n\nIn boreal forests, in winter the forest canopy intercepts snow keeping the forest floor warm and in summer the organic matter on the forest floor keeps it cool.\nBurning of forests results in increased snow cover in winter and\nIncreased heat flow to greater depths in summer resulting in melting of permafrost below the surface thereby changing the surface hydrology and vegetation composition."
+  },
+  {
+    "objectID": "lecture-9.html#forest-fire-management-strategies-prevention",
+    "href": "lecture-9.html#forest-fire-management-strategies-prevention",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Forest fire management strategies (Prevention)",
+    "text": "Forest fire management strategies (Prevention)\n\nConstruction of forest fire-lines or firebreaks:\n\nThese are strips of land cleared of vegetation to stop the spread of fire.\nThey can be natural features like rivers\n\n\n\n\n\n\n\n\nA firebreak on the Setúbal Peninsula in Portugal\n\n\n\n\n\n\n\nBy comparing the burnt (right) and unburnt (left) sides of a dirt road in South Africa after a major veldfire (grassland fire) the effectiveness of the road in acting as a firebreak can be seen."
+  },
+  {
+    "objectID": "lecture-9.html#forest-fire-management-strategies-prevention-1",
+    "href": "lecture-9.html#forest-fire-management-strategies-prevention-1",
+    "title": "Sustainable Forest Environment (SFE)",
+    "section": "Forest fire management strategies (Prevention)",
+    "text": "Forest fire management strategies (Prevention)\n\n\nControlled burn to reduce fuel load\n\nSmall fires intentionally set in a forest under controlled conditions\n\nThese fires are set between firebreaks or\nManually put out before the fires become too large\n\nReduces fuel load on forest floor (shrubs, organic matter).\nUsually done in conditions of less wind and cooler temperatures\n\n\n\n\n\nControlled burn in ponderosa pine forest"
   }
 ]
