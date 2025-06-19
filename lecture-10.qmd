@@ -1,0 +1,506 @@
+---
+title: "Sustainable Forest Environment (SFE)"
+subtitle: "Lecture 10: Silviculture Practices(Last update: 12 June 2025)"
+bibliography: references.bib
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    chalkboard:
+      buttons: true
+    preview-links: auto
+    logo: figures/cover.svg
+    footer: 'Kyoto University | Sustainable Forest Environment (SFE)'
+    css: styles.css
+    smaller: true
+    scrollable: false
+    # self-contained: true
+    #width: 960       # default is 960
+    #height: 700       # default is 700
+    #margin: 0.1       # optional, controls slide margins (default: 0.1)
+    #minScale: 0.2     # minimum zoom scale
+    #maxScale: 2.0     # maximum zoom scale
+---
+
+## Learning Objectives
+
+- Siviculture basics
+
+## What is silviculture?
+
+:::{.callout-note title="Word root"}
+The word "silviculture" comes from the Latin words "silva" (forest) and "cultura" (cultivation).
+:::
+
+:::{.callout-note title="Definition"}
+Silviculture is the practice of controlling the growth, composition/structure, and quality of forests to meet specific **stand structural objectives**.
+:::
+
+::: {.callout-note title="Definition" }
+Silviculture is the art and science of cultivating forest crops.
+:::
+
+> Silviculture is the oldest application of the science of ecology and is a field that was recognized before the term ecology was coined
+
+## Silviculture as a preindustrial practice
+
+- Silviculture, which involves growing and managing trees in forests, has been practiced for thousands of years before it became a formal science.
+- Swidden agriculture, is the most ancient form of silviculture.
+
+::: {.callout-note title="Swidden agriculture" }
+
+- It is a short-term farming method where people clear a small area of forest, grow food crops intensively, and then abandon the land, allowing the forest to gradually grow back.
+- It is widely practiced in the more remote forest regions of the world and can be a very sustainable form of agri‐silviculture.
+- Such systems have different lengths of successional development before returning back for cultivation.
+- They are largely dependent on the fertility of the soil and the time it takes for soil fertility to recover
+- Many swidden system practices planting trees after cultivation to restore the forest.
+- In the more remote forests of tropical Africa and the Amazon, people still practice the silviculture associated with swidden systems.
+
+:::
+
+## Examples of preindustrial silviculture
+
+- Swidden Cultivation System of the [Yanomami in Brazil](https://survivalinternational.org/tribes/yanomamihttps://survivalinternational.org/tribes/yanomami)
+
+:::{layout-ncol=2}
+
+![Yanos](https://assets.survivalinternational.org/pictures/12049/width1800-d7f05624703b608a1f6f673881de76b5.jpg)
+
+![An aerial view of swidden cultivation in the Amazon comprising a patchwork of current and abandoned fields](./figures/lecture-10-yanomam.png)
+
+:::
+
+:::{.notes}
+
+- The Yanomami Native Americans are one of the largest tribes in Latin America, straddling the borderlands of northern Brazil and southern Venezuela.
+:::
+
+## Examples of preindustrial silviculture
+
+- Cultivation Systems of Native Americans in Eastern North American Oak Forests
+
+![Early agricultural civilizations of the world and their main crops.](./figures/lecture-10-ancient-silviculture.png)
+
+:::{.notes}
+
+- Indigenous peoples of North America strongly influenced the landscape vegetation of the eastern oak forests of the United States.
+- They did this by cultivating crops, managing tree density and species composition
+:::
+
+## Indigenous silvicultural systems of ancient civilizations
+
+- Maya of Yucatan Mexico
+- Sinhala of Northeastern Sri Lanka
+
+![A diagram depicting Maya swidden succession](./figures/lectture-10-maya.png)
+
+:::{.notes}
+Maya succession nomenclature are
+
+- (1) Ka’anal’k’aax: old tropical forest (30 or more years old);
+- (2) Sak’aab (or Sak’ab): second year milpa;
+- (3) Sak’aab‐kool: Recently abandoned milpa; early succession;
+- (4) Kambal‐hubche’: 5–10 years old succession;
+- (5) Kanalhubche’: 10–30 years old succession;
+- (6) Kelenche’: 30–100 years old succession;
+- (3‐6) Hubche’: secondary vegetation.
+Source: Adapted from Gomez‐Pompa, 1987.
+:::
+
+## Silviculture as a Western Construct
+
+- Emerged during the industrial revolution in central Europe when forests were heavily exploited for mining, charcoal production, and urban development
+- In Germany, in 1787, George Ludwig Hartig envisioned the concept of forestry school
+- Heinrich Cotta ("pioneer of forestry") founded a forestry school in 1811 near Dresden, becoming the foundation for modern forestry worldwide
+- Spread to Russia, Austria, Sweden, and France in the late 18th century
+- Spain established its first Forest Engineering School in 1844
+- British government commissioned Sir Dietch Brandis (Cotta's student) to start the Indian Forest Service and School of Forestry at Dehra Dun
+
+## Silviculture as a Western Construct
+
+- North American forestry developed in the late 19th century through European-trained foresters
+- Gifford Pinchot received forestry training in Germany and France before bringing practices to America
+- German foresters Carl Schenck and Bernard Fernow established early American forestry schools in 1898
+- Represents a shift from traditional/indigenous forest management to a systematized, scientific approach focused on timber production
+- Prioritized economic yield and efficiency over traditional ecological knowledge
+- Created a conceptual framework that emphasized forests primarily as economic resources
+
+## Silviculture as a current practice
+
+- Current silviculture is a much more complex and varied practice. Complex regeneration methods are used.
+- Today, silviculture can be practiced where economies have developed to create strong values for both services and products from the forest
+- Much of the developed world now has intensive plantation systems for wood production, and considerable second‐growth forest on more marginal sites that have returned after agricultural abandonment
+
+## Purpose of silviculture today
+
+- Silviculture is designed to create and maintain the kind of forest that will best fulfill the objectives of the owner and the governing society.
+- The production of timber, though a common objective, is neither the only nor necessarily the dominant aim in silviculture.
+- Benefits such as recreation or aesthetics may be more important, and water and wildlife always have to be taken into account.
+- It is through the manipulation of growing space by removing trees that much of the other values such as improving wildlife habitat, creating vistas, or encouraging a vigorous groundstory for surface watershed protection can be achieved.
+
+## Resource Issues Applicable to the Use of Silviculture
+
+- Products:
+  - Biomass, wood for fuel
+  - Fiber (paper, ropes, etc.)
+  - Composit materials (plywood, particle board, more recently wood-plastic composits etc.)
+  - Timber for construction, furniture, and other uses
+  - Fruits and nut
+  - Medicinal plants
+
+## Resource Issues Applicable to the Use of Silviculture
+
+- Services:
+  - Clean water supply
+  - Stormwater management
+  - Carbon sequestration
+  - Open-space recreation
+
+## Guiding principles of silviculture
+
+- Imitating nature through silviculture
+- Conservation of site productivity
+- Control of stand structure and process
+- Control of composition
+- Control of stand density
+- Control of rotational period
+
+## Silviculture systems
+
+:::{.callout-note title="Silviculture system"}
+Silviculture system is a **planned program** of treatments during the **whole life of a forest** designed to achieve specific **stand structural objectives**.
+:::
+
+:::{.notes}
+**Silviculture system** is a comprehensive and planned approach to forest management which covers the entire lifecycle of a forest.
+:::
+
+- The planned program of treatments includes following to achieve a **predictable yield of benefits** from the **stand** over time:
+  - Establishment of the **stand**
+  - Tending of the **stand**
+  - Harvesting of the **stand**
+
+:::{.notes}
+**Tending of the stand** is the management activities performed during the growth phase of a forest stand. It includes thinning, pruning, and other practices to improve the quality and health of the stand.
+:::
+
+## Stand
+
+A **stand** is defined as the smallest unit of forest mapping that can be defined as a spatial area where a group of trees is more or less homogeneous in regard to
+
+- species composition
+- density
+- age-class distribution.
+
+::: {.callout-note appearance="simple" }
+The internal structure of stands contains trees of different species and age
+:::
+
+> From the view point of forest management the term "forest" denotes a collection of stands that are managed together.
+
+> We seek sustained yield of products from the forest, not the stand.
+
+## Species composition in Stand
+
+::::{.columns}
+
+::: {.column width=50%}
+
+- Species composition is another attribute defining stands.
+- Identifying stand boundaries by species composition can be done by characterizing species change in stem density and basal area.
+- In simpler terms, we can tell where one forest stand ends and another begins by counting how many trees of each species are present (stem density) and measuring their trunk sizes (basal area).
+
+:::
+
+::: {.column width=50%}
+
+![Species composition in stand Source: Ashton and Kelty](./figures/lecture-10-forest-stand-1.png){.lightbox}
+
+:::
+
+::::
+
+:::{.notes}
+The figures shows an aerial depiction of the forest canopy and its variations in tree density, species composition, and age class across varying sites. The white lines in the foreground define various stands based on crown density and size, and species composition. Yuganskiy Nature Reserve, Siberian taiga, Russia.
+:::
+
+:::{.notes}
+
+In nature, species compositions change as a reflection of: (1) inherent differences in site quality
+(site class) such as across a gradient of dry, moist, and wet topography; and (2) type of disturbance and the developmental stage of the stand.
+
+:::
+
+## Stand density
+
+::: {#fig-stand-density layout-ncol=2}
+
+![Low density](./figures/lecture-10-density_low.jpg){#fig-stand-low-density}
+
+![High density](./figures/lecture-10-density_high.jpg){#fig-stand-high-density}
+
+:::
+
+:::{.notes}
+In nature, densities are often different in one area as compared to another because of limitations in seed dispersal or because of competing non‐woody vegetation such as ferns and grasses in some areas versus others.
+:::
+
+## Stand development process
+
+The stand develpment process:
+
+- Starts with the birth of the stand
+- Continue with comptetition among trees
+- Ends with the death of old trees and their replacement.
+
+## Rotation period
+
+::::{.columns}
+
+::: {.column width=50%}
+
+The **rotation period** is the time between the establishment of a stand and its final harvest.
+
+- Teak grown for harvesting: from the sowing stage to the point where the rate of growth of the teak trees has slowed down or stopped such that it is considered economically a better option to fell the trees.
+- Rotation period is the Average age at which a tree is considered mature for felling
+
+:::
+
+::: {.column width=50%}
+
+![Concept of rotation period](./figures/lecture-10-rotation-period.svg)
+
+:::
+
+::::
+
+## Diameter at Breast Height (DBH)
+
+Diameter at Breast Height (DBH) is a standard method of measuring the diameter of a tree trunk at 1.3 meters (4.5 feet) above ground level. It is commonly used in forestry to assess tree size and volume.
+
+![DBH measurement](./figures/lecture-10-dbh.png)
+
+## Age-class distribution of stands (Even-age stands)
+
+#### Even-age stands
+
+::::{.columns}
+
+::: {.column width=50%}
+
+- These are the simplest kind of stand development
+- Trees growing within the stand have only small differences in their ages: It means that all trees almost starts together afer the previous stand is removed.
+- These stands generally contains trees of single species.
+- The difference in age is usually less than 20% of the rotation age.
+
+:::
+
+::: {.column width=50%}
+
+![Even-aged stand](./figures/lecture-10-even-aged.png)
+
+:::
+
+::::
+
+:::{.notes}
+
+- For example, if rotation period $R$ is 90 years, then 20% of R is 18 years, so maximum age difference between trees will be 18 years
+:::
+
+## Even-aged stands
+
+![Even-aged stand, Source: The practice of silviculture by Ashton and Kelty](./figures/lecture-10-even-aged-2.png)
+
+- Even-though the age is same, the DBH of the trees can be different (due to site quality and competition)
+- Although it might seem that fat trees are always older than thin ones, diameter is not a very good criterion of age and must be used as such with caution.
+- The diameter growth of trees is much more variable than that in height
+
+## Uneven-aged stands
+
+::::{.columns}
+
+::: {.column width=50%}
+
+- **All-aged stand**: These stands contain trees of different ages, often with a wide range of age classes.
+- Multi-aged stand: **Two-aged** or **three-aged stands** contain trees with two or three distinct age classes.
+:::
+
+::: {.column width=50%}
+
+![Uneven-aged stand](./figures/lecture-10-uneven.png)
+
+:::
+
+::::
+
+- The uneven-aged stands can be balance or unbalanced
+- They can be single-species or multi-species stands.
+
+:::{.notes}
+
+- Two to three age classes are considered as multi-aged stands.
+- More than three age classes are considered as all-aged stands.
+- Mixed stands have more than one tree species and the interaction between them makes their development more complex.
+:::
+
+## Balanced all-aged stand
+
+![Uneven-aged stand, Source: The practice of silviculture by Ashton and Kelty](./figures/lecture-10-uneven-aged-2.png)
+
+- Balanced single-species all aged stand
+- How does such a stand develop naturally?
+
+:::{.notes}
+
+- One species that is more resilient to the forest fire can start to dominate the stand.
+- Another reason: Initially, they are composed of small even‐aged groups of different ages. With time, due to competition reduces the number of trees. This reduction in number is rapid in the beginning and slow down with time.
+:::
+
+## Single species, three-aged stands (unbalanced)
+
+![Multi-aged stand, Source: The practice of silviculture by Ashton and Kelty](./figures/lecture-10-uneven-aged-3.png)
+
+- Uneven‐aged stand, single species, unbalanced: they are revealed as humps on the diameter distribution curve.
+- The diameter distribution of each even‐aged component broadens with age and will also be modified if the age class is composed of different species that grow at varying rates
+
+## Multi-species, all-aged stands
+
+![Multi-aged stand, Source: The practice of silviculture by Ashton and Kelty](./figures/lecture-10-uneven-aged-4.png)
+
+- Age differences are easily seen in forests with only one tree species, or in mixed forests where different species grow at almost the same rate. Due to this trees of the same age form a single layer in the forest canopy.
+- However, even‐aged mixtures of tree species usually segregate into different canopy strata and exist as stratified mixtures in which species of differing ecological status occupy different strata.
+
+## Stand structure quiz
+
+:::{layout-ncol=2}
+
+![Even-aged or uneven-aged?](https://openoregon.pressbooks.pub/app/uploads/sites/9/2016/11/density.jpg)
+
+![Even-aged or uneven-aged?](https://openoregon.pressbooks.pub/app/uploads/sites/9/2016/09/Picture7.png)
+:::
+
+[Source: openoregon.pressbooks.pub](https://openoregon.pressbooks.pub/forestmeasurements/chapter/5-2-stand-structure/)
+
+## Stand structure quiz/answers
+
+:::{layout-ncol=2}
+
+![Two examples of **evenaged forests**: a single layered canopy with few understory trees (left) and a two-aged stand (right).](https://openoregon.pressbooks.pub/app/uploads/sites/9/2016/11/density.jpg)
+
+![Multilayered **uneven-aged** forest with three or more cohort](https://openoregon.pressbooks.pub/app/uploads/sites/9/2016/09/Picture7.png)
+:::
+
+[Source: openoregon.pressbooks.pub](https://openoregon.pressbooks.pub/forestmeasurements/chapter/5-2-stand-structure/)
+
+## Stand structural objectives
+
+- To maintain or create a forest stand of certain age-class structure
+- **Even-aged management** is particularly suitable when Timber production is a primary objective or when operational efficiency is prioritized over structural diversity.
+  - Uniform growth rates make planning and operations more predictable
+  - Standardized silvicultural treatments can be applied across the entire stand
+  - Concentrated harvesting reduces operational costs
+  - Higher volume yield per area during harvest
+  - More consistent wood quality and product dimensions
+  - Creates optimal growing conditions for desired species with similar growth requirements
+
+## Stand structural objectives
+
+**Uneven-aged forest**
+
+- Useful when we are managing forests for the purpose of wildlife or promoting biodiversity.
+- Young saplings provide food for herbivores and old snag trees provide shelter to many birds
+- More robust against pests, diseases, and climate fluctuations
+- Reduced risk of catastrophic disturbances affecting the entire stand
+- Creates a more regular cash flow rather than periodic large payments
+- Continuous forest cover reduces soil erosion
+- Better maintains water quality and regulates water flow
+- Maintains more consistent carbon stocks over time
+
+## Stand dynamics
+
+- A forest stand is dynamic and changes over time.
+- Stand dynamics is the study of changes in forest stand structure over time.
+  - How stand behaves after disturbances
+- It is important to predict what kind of vegetation will follow regenerative disturbances
+- Wha pattern of develpment will occur in the vegetation as the stand grows older.
+
+## Silviculture is understanding disturbances in forest
+
+- All silvicultural procedures are, at least to some degree, simulations of natural processes in which stands
+- start $\rightarrow$ develop $\rightarrow$ replaced (gradually or suddenly).
+
+> Plants can only begin growing or speed up their growth when another organism dies, creating space for them to develop.
+
+> Mature plants often crowd out smaller ones by growing larger, slowing their growth, or eliminating weaker plants.
+
+> Some plants can endure beneath taller neighbors and thus share growing space with them.
+
+## Natural disturbances
+
+- **Fire**:  fire that can be said to *“kill from the bottom up”* because they are more likely to kill small plants than large.
+  - It is leathal to groundstory plants.
+- Wind and insects: windstorms or pests that kill more large trees than small trees,
+  - and thus *“kill from the top down"*.
+  - They have been categorized as "release".
+  - Because these disturbances destroy the upper canopy but allow the release of the understory.
+
+## Stages of stand development
+
+- First stage: Stand initiation
+
+:::{.notes}
+After a disturbance has created vacant growing space, the new trees that have become established in it (or preexisting larger ones that expand into it) do not fully occupy the space. Until they do, there is opportunity for additional plants to fill the empty spaces. Often, the plants that fill the newly vacant spaces are herbaceous annuals or other short‐lived species that may come and go quickly.
+:::
+
+## What informs silviculture?
+
+::: {.callout-note title="Silvics" }
+Silvics is the study of the life history, general features of forest crops with respect to environmental factors. It is the basis of silviculture.
+:::
+
+::: {.callout-note title="Life history" }
+
+- How did a plant come to grow in an area?
+- How long does it take for the plant to get established?
+- What is the life expectancy of the plant?
+
+:::
+
+## What informs silviculture?
+
+::: {.callout-note title="General features" }
+
+- Light demanders:
+  - Species that require full sunlight for growth and development.
+  - Examples: Teak, Pine, Eucalyptus (most conifers and evergreen trees).
+
+- Shade tolerant:
+  - Species that can grow in low light conditions, often found in the understory of forests.
+  - Examples: Sugar maple, American beech, Hemlocks, True firs etc.
+
+:::
+
+## What informs silviculture?
+
+#### Climatic factors
+
+- Rate of photosynthesis is optimum around 25 °C.
+  - The rate of respiration increases with temperature between 0 °C and 40 °C.
+- Rainfall:
+  - Wet climate (>2500 mm annual rainfall): wet evergreen forests
+  - Intermediate wet climate (900-2500 mm annual rainfall): wet semi-evergreen forests, moist deciduous forests
+  - Dry climate (<900 mm annual rainfall): dry deciduous forests, desert scrub forests, thorny forests
+- Wind cccan bend trees. Not ideal for timber production.
+
+## What inform silviculture?
+
+#### Topographic factors
+
+- Altitude
+- Slope: Top soil on hill slopes repeatedly gets washed away by rains. Organic content of these soils is often low.
+
+#### Edaphic factors (physical and chemical properties of soil)
+
+- pH of soil (Teak grows best in pH of 6.5 to 7.6)
+- Depth of water table (optimum is 5 to 10 m beneath surface)
